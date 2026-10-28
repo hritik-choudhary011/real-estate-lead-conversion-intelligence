@@ -1,0 +1,1201 @@
+lead_id,lead_source,campaign_name,city,property_type,preferred_bhk,budget_lakh,website_visits,calls_connected,whatsapp_replies,site_visit_completed,followup_count,response_time_hours,days_since_last_contact,loan_preapproved,discount_interest,lead_status,converted,response_time_imputed,budget_imputed,total_engagement,interactions_total,response_band,followup_intensity,budget_band,readiness_level,R_score,F_score,E_score,RFE_total,rfe_segment,priority_score,priority_band,priority_rank,conversion_probability,probability_decile
+L0001,Website,Web_Organic,Pune,Plot,0,49.6,6,1,5,0,7,4.1,1,0,0,Nurturing,0,0,0,13,13,2-6h,High (6+),<50L,0,5,5,5,15,Hot,54.1,Medium,390,0.4308,4
+L0002,Google Ads,GAds_Search_Generic,Pune,Builder Floor,2,126.9,4,0,1,1,2,2.5,6,0,1,Lost,0,0,0,5,3,2-6h,Low (1-2),100-200L,1,2,1,2,5,Cold,57.0,High,347,0.3833,5
+L0003,Referral,Ref_Broker_Network,Noida,Apartment,3,89.6,7,1,0,1,3,2.7,6,0,0,Lost,0,0,0,9,4,2-6h,Medium (3-5),50-100L,1,2,2,4,8,Cool,63.5,High,249,0.4726,3
+L0004,Website,Web_Brochure_Download,Pune,Villa,3,118.6,4,0,1,1,2,10.3,17,0,1,Lost,0,0,0,5,3,6-24h,Low (1-2),100-200L,1,1,1,2,4,Cold,51.9,Medium,444,0.2742,7
+L0005,Property Portal,Portal_Featured_Project,Pune,Apartment,3,48.4,7,1,3,0,2,3.4,12,1,1,Nurturing,0,0,0,12,6,2-6h,Low (1-2),<50L,1,1,1,5,7,Cool,53.7,Medium,403,0.4857,3
+L0006,Walk-in,Walkin_Site_Hoarding,Pune,Plot,0,73.4,1,3,0,0,3,36.5,3,1,0,Lost,0,0,0,7,6,24h+,Medium (3-5),50-100L,1,3,2,3,8,Cool,41.2,Medium,778,0.5037,3
+L0007,Website,Web_Brochure_Download,Noida,Builder Floor,3,78.6,2,2,2,0,4,7.5,8,1,1,Booked,1,0,0,8,8,6-24h,Medium (3-5),50-100L,1,2,4,3,9,Warm,51.9,Medium,445,0.4752,3
+L0008,Website,Web_Chatbot,Lucknow,Apartment,3,66.7,2,2,2,0,4,2.8,6,0,0,New / Uncontacted,0,0,0,8,8,2-6h,Medium (3-5),50-100L,0,2,4,3,9,Warm,43.9,Medium,689,0.3299,6
+L0009,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,2,83.8,5,0,1,0,3,2.1,7,0,0,Nurturing,0,0,0,6,4,2-6h,Medium (3-5),50-100L,0,2,2,2,6,Cool,39.8,Low,831,0.2722,7
+L0010,Google Ads,GAds_Search_Brand,Noida,Villa,3,126.9,0,0,2,0,5,6.1,2,1,1,Nurturing,0,0,0,2,7,6-24h,Medium (3-5),100-200L,1,4,5,1,10,Warm,48.3,Medium,537,0.3628,5
+L0011,Google Ads,GAds_Search_Generic,Gurugram,Apartment,2,64.1,4,3,1,0,2,3.4,6,0,1,Lost,0,0,0,11,6,2-6h,Low (1-2),50-100L,0,2,1,4,7,Cool,44.0,Medium,681,0.4334,4
+L0012,Walk-in,Walkin_Sales_Office,Lucknow,Plot,0,79.1,2,1,2,0,3,16.5,2,1,0,Lost,0,0,0,6,6,6-24h,Medium (3-5),50-100L,1,4,2,2,8,Cool,46.5,Medium,594,0.4675,3
+L0013,Instagram,IG_Influencer_Tour,Bengaluru,Plot,0,80.9,2,1,4,0,4,6.2,1,1,0,Booked,1,0,0,8,9,6-24h,Medium (3-5),50-100L,1,5,4,3,12,Hot,54.1,Medium,391,0.4225,4
+L0014,Referral,Ref_Broker_Network,Gurugram,Villa,3,217.6,4,3,0,0,4,1.3,3,0,0,Booked,1,0,0,10,7,0-2h,Medium (3-5),200L+,0,3,4,4,11,Warm,47.5,Medium,561,0.4622,3
+L0015,Google Ads,GAds_Search_Generic,Bengaluru,Apartment,3,70.3,1,0,1,0,3,2.7,2,0,1,Lost,0,0,0,2,4,2-6h,Medium (3-5),50-100L,0,4,2,1,7,Cool,36.1,Low,973,0.2057,9
+L0016,Property Portal,Portal_Featured_Project,Jaipur,Villa,3,171.5,4,3,2,1,4,4.1,20,1,0,Booked,1,0,1,12,9,2-6h,Medium (3-5),100-200L,2,1,4,5,10,Warm,74.8,High,79,0.5744,2
+L0017,Instagram,IG_Lead_Form,Bengaluru,Commercial,0,102.8,6,2,1,1,6,6.8,1,0,0,Lost,0,0,0,11,9,6-24h,High (6+),100-200L,1,5,5,4,14,Hot,70.8,High,127,0.5842,2
+L0018,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,2,81.7,5,1,1,0,5,3.1,0,0,1,New / Uncontacted,0,0,0,8,7,2-6h,Medium (3-5),50-100L,0,5,5,3,13,Hot,47.0,Medium,578,0.2959,6
+L0019,Referral,Ref_Existing_Customer,Lucknow,Apartment,2,45.7,10,2,4,0,3,4.7,1,0,1,Nurturing,0,0,0,18,9,2-6h,Medium (3-5),<50L,0,5,2,5,12,Hot,54.9,Medium,382,0.5407,2
+L0020,Instagram,IG_Lead_Form,Pune,Apartment,3,126.5,1,0,0,0,2,2.2,3,0,0,Lost,0,0,0,1,2,2-6h,Low (1-2),100-200L,0,3,1,1,5,Cold,33.1,Low,1073,0.1602,10
+L0021,Website,Web_Organic,Hyderabad,Apartment,2,88.2,4,2,2,0,3,6.0,11,1,1,Nurturing,0,0,1,10,7,2-6h,Medium (3-5),50-100L,1,2,2,4,8,Cool,52.4,Medium,427,0.3491,5
+L0022,Google Ads,GAds_Display_Remarketing,Lucknow,Villa,4,99.9,1,0,0,1,3,6.7,2,1,1,Nurturing,0,0,0,1,3,6-24h,Medium (3-5),50-100L,2,4,2,1,7,Cool,63.6,High,248,0.481,3
+L0023,Walk-in,Walkin_Sales_Office,Jaipur,Builder Floor,2,65.5,1,1,1,0,3,19.2,2,1,0,Nurturing,0,0,0,4,5,6-24h,Medium (3-5),50-100L,1,4,2,1,7,Cool,43.3,Medium,715,0.3473,5
+L0024,Referral,Ref_Broker_Network,Pune,Builder Floor,4,43.6,2,1,1,0,3,7.9,0,0,1,Lost,0,0,0,5,5,6-24h,Medium (3-5),<50L,0,5,2,2,9,Warm,38.5,Low,882,0.2198,8
+L0025,Website,Web_Brochure_Download,Pune,Apartment,3,82.7,3,0,1,0,4,3.1,5,1,0,Lost,0,0,0,4,5,2-6h,Medium (3-5),50-100L,1,3,4,1,8,Cool,49.2,Medium,513,0.3603,5
+L0026,Property Portal,Portal_Featured_Project,Noida,Apartment,2,77.7,5,0,2,1,7,15.8,4,0,0,Lost,0,0,0,7,9,6-24h,High (6+),50-100L,1,3,5,3,11,Warm,62.5,High,261,0.4316,4
+L0027,Google Ads,GAds_Search_Brand,Jaipur,Apartment,1,80.1,3,2,4,0,4,6.1,3,0,0,New / Uncontacted,0,0,0,11,10,6-24h,Medium (3-5),50-100L,0,3,4,4,11,Warm,47.2,Medium,572,0.5056,3
+L0028,Property Portal,Portal_Featured_Project,Lucknow,Plot,0,22.7,3,2,0,0,2,11.5,2,0,1,Lost,0,0,0,7,4,6-24h,Low (1-2),<50L,0,4,1,3,8,Cool,37.6,Low,918,0.2229,8
+L0029,Property Portal,Portal_Basic_Listing,Hyderabad,Builder Floor,3,171.2,0,2,1,0,5,3.7,13,0,1,Nurturing,0,0,0,5,8,2-6h,Medium (3-5),100-200L,0,1,5,2,8,Cool,39.9,Low,825,0.2694,7
+L0030,Website,Web_Organic,Lucknow,Apartment,2,80.0,6,3,3,1,3,5.2,4,0,0,Booked,1,0,0,15,9,2-6h,Medium (3-5),50-100L,1,3,2,5,10,Warm,70.4,High,134,0.6734,1
+L0031,Website,Web_Organic,Lucknow,Plot,0,68.2,3,2,2,0,3,3.2,3,0,0,New / Uncontacted,0,0,0,9,7,2-6h,Medium (3-5),50-100L,0,3,2,4,9,Warm,44.0,Medium,682,0.3239,6
+L0032,Walk-in,Walkin_Site_Hoarding,Hyderabad,Apartment,2,88.4,2,0,3,0,4,4.9,0,1,1,Booked,1,0,0,5,7,2-6h,Medium (3-5),50-100L,1,5,4,2,11,Warm,51.1,Medium,461,0.4918,3
+L0033,Google Ads,GAds_Search_Brand,Lucknow,Apartment,3,85.6,3,0,1,0,5,11.9,1,0,1,Lost,0,0,0,4,6,6-24h,Medium (3-5),50-100L,0,5,5,1,11,Warm,39.2,Low,852,0.158,10
+L0034,Google Ads,GAds_Search_Brand,Gurugram,Apartment,3,62.7,4,2,1,1,4,4.3,11,1,0,Lost,0,0,0,9,7,2-6h,Medium (3-5),50-100L,2,2,4,4,10,Warm,73.4,High,97,0.6248,1
+L0035,Google Ads,GAds_Search_Generic,Gurugram,Commercial,0,191.1,6,2,1,1,1,4.0,6,0,1,Booked,1,0,1,11,4,2-6h,Low (1-2),100-200L,1,2,1,4,7,Cool,62.1,High,264,0.5137,3
+L0036,Property Portal,Portal_Featured_Project,Noida,Villa,3,151.2,2,0,0,0,3,11.1,14,0,0,Lost,0,0,0,2,3,6-24h,Medium (3-5),100-200L,0,1,2,1,4,Cold,30.4,Low,1140,0.0656,10
+L0037,Property Portal,Portal_Featured_Project,Noida,Builder Floor,3,58.6,5,0,2,0,3,4.0,9,0,0,Nurturing,0,0,0,7,5,2-6h,Medium (3-5),50-100L,0,2,2,3,7,Cool,39.9,Low,826,0.2423,8
+L0038,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,2,40.5,2,1,1,0,2,2.0,2,1,1,Nurturing,0,0,0,5,4,0-2h,Low (1-2),<50L,1,4,1,2,7,Cool,48.2,Medium,539,0.4042,4
+L0039,Property Portal,Portal_Basic_Listing,Bengaluru,Apartment,4,97.7,5,2,3,0,1,6.0,27,1,0,Lost,0,0,0,12,6,2-6h,Low (1-2),50-100L,1,1,1,5,7,Cool,47.4,Medium,565,0.4573,3
+L0040,Website,Web_Organic,Pune,Villa,3,155.1,1,0,1,0,1,5.6,2,1,0,Lost,0,0,0,2,2,2-6h,Low (1-2),100-200L,1,4,1,1,6,Cool,41.8,Medium,761,0.2862,7
+L0041,Google Ads,GAds_Search_Generic,Noida,Apartment,3,94.1,4,1,1,0,1,6.1,11,0,0,Nurturing,0,0,0,7,3,6-24h,Low (1-2),50-100L,0,2,1,3,6,Cool,35.4,Low,995,0.1844,9
+L0042,Referral,Ref_Existing_Customer,Jaipur,Commercial,0,51.0,1,2,1,0,1,6.7,2,1,0,Nurturing,0,0,0,6,4,6-24h,Low (1-2),50-100L,1,4,1,2,7,Cool,46.3,Medium,600,0.3288,6
+L0043,Website,Web_Organic,Noida,Plot,0,28.7,6,1,1,0,3,6.9,7,0,1,Lost,0,0,0,9,5,6-24h,Medium (3-5),<50L,0,2,2,4,8,Cool,41.9,Medium,758,0.2565,7
+L0044,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,3,145.5,4,4,4,0,2,3.9,7,0,0,Nurturing,0,0,0,16,10,2-6h,Low (1-2),100-200L,0,2,1,5,8,Cool,49.6,Medium,501,0.4882,3
+L0045,Referral,Ref_Broker_Network,Noida,Villa,3,271.7,4,0,1,0,1,3.0,10,1,1,Lost,0,0,0,5,2,2-6h,Low (1-2),200L+,1,2,1,2,5,Cold,44.2,Medium,670,0.3497,5
+L0046,Referral,Ref_Broker_Network,Pune,Commercial,0,95.6,2,0,0,0,2,4.1,33,0,0,Lost,0,0,0,2,2,2-6h,Low (1-2),50-100L,0,1,1,1,3,Cold,26.2,Low,1186,0.17,10
+L0047,Google Ads,GAds_Display_Remarketing,Unknown,Builder Floor,2,80.7,6,3,1,1,2,6.1,2,1,0,Booked,1,0,0,13,6,6-24h,Low (1-2),50-100L,2,4,1,5,10,Warm,76.5,High,62,0.7568,1
+L0048,Google Ads,GAds_Search_Generic,Pune,Villa,3,295.8,3,1,1,1,3,6.3,0,1,1,Lost,0,0,0,6,5,6-24h,Medium (3-5),200L+,2,5,2,2,9,Warm,70.2,High,137,0.5369,2
+L0049,Website,Web_Chatbot,Lucknow,Commercial,0,111.2,3,1,0,0,3,4.1,3,1,0,Booked,1,0,0,5,4,2-6h,Medium (3-5),100-200L,1,3,3,2,8,Cool,49.0,Medium,515,0.3758,5
+L0050,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,3,102.7,2,1,1,0,7,2.7,3,0,0,Nurturing,0,0,0,5,9,2-6h,High (6+),100-200L,0,3,5,2,10,Warm,44.4,Medium,659,0.3992,4
+L0051,Property Portal,Portal_Basic_Listing,Gurugram,Plot,0,113.0,5,1,3,1,4,7.6,3,0,0,Booked,1,0,0,10,8,6-24h,Medium (3-5),100-200L,1,3,4,4,11,Warm,65.5,High,207,0.3995,4
+L0052,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,3,69.7,5,0,0,0,4,5.7,19,1,0,Nurturing,0,1,0,5,4,2-6h,Medium (3-5),50-100L,1,1,4,2,7,Cool,46.1,Medium,610,0.2349,8
+L0053,Website,Web_Organic,Lucknow,Villa,4,145.6,4,1,2,0,2,10.4,19,1,1,Nurturing,0,0,0,8,5,6-24h,Low (1-2),100-200L,1,1,1,3,5,Cold,44.9,Medium,638,0.2544,7
+L0054,Website,Web_Brochure_Download,Bengaluru,Plot,0,73.2,4,2,2,1,3,9.6,5,1,1,Lost,0,0,1,10,7,6-24h,Medium (3-5),50-100L,2,3,3,4,10,Warm,72.8,High,105,0.6834,1
+L0055,Website,Web_Chatbot,Bengaluru,Builder Floor,3,112.3,3,2,0,0,2,6.2,20,0,1,Lost,0,0,0,7,4,6-24h,Low (1-2),100-200L,0,1,1,3,5,Cold,34.8,Low,1022,0.1905,9
+L0056,Website,Web_Brochure_Download,Hyderabad,Builder Floor,4,99.5,4,1,0,0,3,12.8,6,1,0,Lost,0,0,0,6,4,6-24h,Medium (3-5),50-100L,1,2,3,2,7,Cool,46.7,Medium,587,0.2963,6
+L0057,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,3,136.4,0,1,2,0,3,8.9,16,0,0,Lost,0,0,0,4,6,6-24h,Medium (3-5),100-200L,0,1,3,1,5,Cold,33.0,Low,1079,0.1903,9
+L0058,Instagram,IG_Influencer_Tour,Gurugram,Apartment,3,106.3,1,2,1,0,7,9.5,1,0,0,Nurturing,0,0,0,6,10,6-24h,High (6+),100-200L,0,5,5,2,12,Hot,44.0,Medium,683,0.2042,9
+L0059,Property Portal,Portal_Featured_Project,Gurugram,Apartment,3,72.7,2,0,3,0,1,1.2,15,0,0,Nurturing,0,0,0,5,4,0-2h,Low (1-2),50-100L,0,1,1,2,4,Cold,33.5,Low,1060,0.2599,7
+L0060,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,2,139.0,5,1,1,0,4,2.4,5,0,0,Lost,0,0,0,8,6,2-6h,Medium (3-5),100-200L,0,3,4,3,10,Warm,44.3,Medium,664,0.3819,5
+L0061,Website,Web_Brochure_Download,Jaipur,Builder Floor,4,54.0,2,1,2,0,3,3.1,33,0,1,Lost,0,0,0,6,6,2-6h,Medium (3-5),50-100L,0,1,3,2,6,Cool,33.0,Low,1080,0.2063,9
+L0062,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,1,83.4,4,2,0,0,2,5.5,2,0,1,Lost,0,0,0,8,4,2-6h,Low (1-2),50-100L,0,4,1,3,8,Cool,40.7,Medium,795,0.2277,8
+L0063,Instagram,IG_Lead_Form,Hyderabad,Apartment,2,81.2,3,0,1,0,5,6.5,12,0,0,Nurturing,0,0,0,4,6,6-24h,Medium (3-5),50-100L,0,1,5,1,7,Cool,38.1,Low,901,0.169,10
+L0064,Website,Web_Brochure_Download,Jaipur,Plot,0,49.9,0,0,1,0,2,9.0,11,0,1,Lost,0,0,0,1,3,6-24h,Low (1-2),<50L,0,2,1,1,4,Cold,29.0,Low,1163,0.1612,10
+L0065,Instagram,IG_Lead_Form,Pune,Apartment,3,41.1,3,1,1,0,3,6.8,6,0,0,Nurturing,0,0,0,6,5,6-24h,Medium (3-5),<50L,0,3,3,2,8,Cool,38.6,Low,874,0.1753,10
+L0066,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,2,133.2,1,1,2,0,2,2.6,2,1,1,Lost,0,0,0,5,5,2-6h,Low (1-2),100-200L,1,4,1,2,7,Cool,48.0,Medium,545,0.3443,6
+L0067,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,2,88.2,1,2,3,0,3,6.2,11,0,0,Lost,0,1,1,8,8,6-24h,Medium (3-5),50-100L,0,2,3,3,8,Cool,39.9,Low,827,0.2741,7
+L0068,Google Ads,GAds_Display_Remarketing,Gurugram,Apartment,2,160.9,4,0,1,0,4,26.8,1,1,1,Lost,0,0,0,5,5,24h+,Medium (3-5),100-200L,1,5,4,2,11,Warm,44.0,Medium,684,0.3705,5
+L0069,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,121.8,1,1,2,0,4,4.1,1,1,0,Booked,1,0,0,5,7,2-6h,Medium (3-5),100-200L,1,5,4,2,11,Warm,51.1,Medium,462,0.3256,6
+L0070,Google Ads,GAds_Search_Brand,Bengaluru,Apartment,3,95.8,2,1,2,0,2,5.8,3,0,0,Lost,0,1,0,6,5,2-6h,Low (1-2),50-100L,0,3,1,2,6,Cool,38.0,Low,902,0.2619,7
+L0071,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,1,205.2,2,3,1,1,2,3.0,2,1,1,Negotiation,0,0,0,9,6,2-6h,Low (1-2),200L+,2,4,1,4,9,Warm,72.7,High,107,0.5922,2
+L0072,Google Ads,GAds_Search_Brand,Lucknow,Commercial,0,87.1,9,5,5,1,5,3.0,1,1,1,Booked,1,0,0,24,15,2-6h,Medium (3-5),50-100L,2,5,5,5,15,Hot,95.9,High,1,0.81,1
+L0073,Referral,Ref_Existing_Customer,Hyderabad,Plot,0,101.8,5,0,1,0,3,4.1,10,1,0,Lost,0,0,0,6,4,2-6h,Medium (3-5),100-200L,1,2,3,2,7,Cool,48.4,Medium,534,0.4343,4
+L0074,Property Portal,Portal_Premium_Listing,Hyderabad,Villa,3,219.0,4,0,1,1,1,1.5,2,0,1,Lost,0,0,0,5,2,0-2h,Low (1-2),200L+,1,4,1,2,7,Cool,56.7,High,353,0.4103,4
+L0075,Property Portal,Portal_Premium_Listing,Hyderabad,Plot,0,76.3,3,3,3,0,3,1.6,16,0,1,Lost,0,0,0,12,9,0-2h,Medium (3-5),50-100L,0,1,3,5,9,Warm,44.9,Medium,639,0.3547,5
+L0076,Google Ads,GAds_Search_Generic,Bengaluru,Commercial,0,159.9,8,0,5,1,3,9.0,8,1,0,Booked,1,0,0,13,8,6-24h,Medium (3-5),100-200L,2,2,3,5,10,Warm,75.8,High,68,0.6837,1
+L0077,Google Ads,GAds_Search_Generic,Gurugram,Apartment,2,141.3,4,3,0,0,4,13.1,2,0,1,Lost,0,0,0,10,7,6-24h,Medium (3-5),100-200L,0,4,4,4,12,Hot,44.1,Medium,678,0.3869,5
+L0078,Website,Web_Organic,Ghaziabad,Builder Floor,4,63.5,1,2,1,0,3,36.5,5,0,1,New / Uncontacted,0,0,0,6,6,24h+,Medium (3-5),50-100L,0,3,3,2,8,Cool,29.5,Low,1154,0.2253,8
+L0079,Instagram,IG_Reels_Showcase,Jaipur,Builder Floor,2,53.9,3,3,6,0,4,6.2,7,1,1,New / Uncontacted,0,0,0,15,13,6-24h,Medium (3-5),50-100L,1,2,4,5,11,Warm,61.0,High,276,0.6958,1
+L0080,Website,Web_Organic,Jaipur,Apartment,4,48.0,5,5,1,1,2,1.4,1,1,0,Nurturing,0,0,0,16,8,0-2h,Low (1-2),<50L,2,5,1,5,11,Warm,81.8,High,23,0.7117,1
+L0081,Website,Web_Brochure_Download,Lucknow,Apartment,4,62.1,3,0,2,0,4,5.5,27,1,0,Booked,1,1,0,5,6,2-6h,Medium (3-5),50-100L,1,1,4,2,7,Cool,44.2,Medium,671,0.3149,6
+L0082,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,79.8,2,2,1,0,3,2.4,3,0,1,Lost,0,0,0,7,6,2-6h,Medium (3-5),50-100L,0,3,3,3,9,Warm,41.9,Medium,759,0.3211,6
+L0083,Referral,Ref_Existing_Customer,Ghaziabad,Villa,4,196.2,6,3,2,1,5,1.6,1,0,1,Nurturing,0,0,0,14,10,0-2h,Medium (3-5),100-200L,1,5,5,5,15,Hot,74.4,High,81,0.597,2
+L0084,Property Portal,Portal_Premium_Listing,Bengaluru,Plot,0,112.9,0,0,1,0,1,5.7,33,1,0,Nurturing,0,1,0,1,2,2-6h,Low (1-2),100-200L,1,1,1,1,3,Cold,32.8,Low,1086,0.1988,9
+L0085,Property Portal,Portal_Featured_Project,Ghaziabad,Plot,0,33.2,4,1,0,1,5,6.8,5,1,0,Nurturing,0,0,0,6,6,6-24h,Medium (3-5),<50L,2,3,5,2,10,Warm,72.2,High,111,0.5426,2
+L0086,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,3,49.3,2,2,0,0,1,36.5,0,0,1,Lost,0,0,0,6,3,24h+,Low (1-2),<50L,0,5,1,2,8,Cool,27.5,Low,1178,0.2466,8
+L0087,Website,Web_Organic,Noida,Apartment,3,49.9,4,0,1,0,3,5.5,10,0,0,Lost,0,0,0,5,4,2-6h,Medium (3-5),<50L,0,2,3,2,7,Cool,36.8,Low,948,0.1935,9
+L0088,Google Ads,GAds_Search_Brand,Gurugram,Apartment,2,213.7,1,4,2,1,4,2.5,1,1,0,Lost,0,0,0,11,10,2-6h,Medium (3-5),200L+,2,5,4,4,13,Hot,78.8,High,41,0.6639,1
+L0089,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,4,137.4,0,2,0,0,4,6.2,1,0,1,Lost,0,0,0,4,6,6-24h,Medium (3-5),100-200L,0,5,4,1,10,Warm,39.3,Low,848,0.2302,8
+L0090,Instagram,IG_Lead_Form,Lucknow,Commercial,0,113.6,3,1,3,1,3,3.3,1,1,1,Booked,1,0,0,8,7,2-6h,Medium (3-5),100-200L,2,5,3,3,11,Warm,73.3,High,99,0.5517,2
+L0091,Property Portal,Portal_Featured_Project,Gurugram,Plot,0,48.2,10,1,2,0,1,3.9,4,1,0,Nurturing,0,0,0,14,4,2-6h,Low (1-2),<50L,1,3,1,5,9,Warm,56.2,High,361,0.478,3
+L0092,Website,Web_Organic,Bengaluru,Commercial,0,155.9,6,2,0,0,2,9.1,1,0,1,New / Uncontacted,0,0,0,10,4,6-24h,Low (1-2),100-200L,0,5,1,4,10,Warm,42.2,Medium,751,0.3401,6
+L0093,Google Ads,GAds_Display_Remarketing,Jaipur,Plot,0,52.6,1,0,0,0,4,3.0,6,1,1,Lost,0,0,0,1,4,2-6h,Medium (3-5),50-100L,1,3,4,1,8,Cool,45.4,Medium,624,0.3053,6
+L0094,Google Ads,GAds_Search_Generic,Noida,Commercial,0,120.8,1,1,0,0,2,10.6,11,0,0,Nurturing,0,0,0,3,3,6-24h,Low (1-2),100-200L,0,2,1,1,4,Cold,30.9,Low,1134,0.1045,10
+L0095,Google Ads,GAds_Search_Generic,Ghaziabad,Builder Floor,3,117.7,1,1,2,0,1,13.8,4,0,1,Lost,0,0,0,5,4,6-24h,Low (1-2),100-200L,0,3,1,2,6,Cool,32.4,Low,1096,0.1574,10
+L0096,Instagram,IG_Reels_Showcase,Gurugram,Apartment,3,235.8,4,2,1,0,2,18.2,0,1,1,Booked,1,0,0,9,5,6-24h,Low (1-2),200L+,1,5,1,4,10,Warm,48.4,Medium,535,0.3003,6
+L0097,Google Ads,GAds_Display_Remarketing,Pune,Apartment,4,61.9,10,1,0,1,3,6.0,9,1,1,Lost,0,0,0,12,4,2-6h,Medium (3-5),50-100L,2,2,3,5,10,Warm,75.3,High,73,0.6007,2
+L0098,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,2,73.4,3,1,1,0,1,15.9,4,1,0,Nurturing,0,0,0,6,3,6-24h,Low (1-2),50-100L,1,3,1,2,6,Cool,42.9,Medium,726,0.2441,8
+L0099,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,60.7,5,1,2,1,4,5.7,12,0,0,Lost,0,1,0,9,7,2-6h,Medium (3-5),50-100L,1,1,4,4,9,Warm,62.7,High,256,0.3881,5
+L0100,Walk-in,Walkin_Site_Hoarding,Noida,Apartment,3,144.7,1,0,1,0,2,5.6,4,0,1,New / Uncontacted,0,0,0,2,3,2-6h,Low (1-2),100-200L,0,3,1,1,5,Cold,33.0,Low,1081,0.3057,6
+L0101,Referral,Ref_Broker_Network,Jaipur,Commercial,0,138.3,5,1,1,0,1,18.7,0,1,1,New / Uncontacted,0,0,0,8,3,6-24h,Low (1-2),100-200L,1,5,1,3,9,Warm,45.4,Medium,625,0.3826,5
+L0102,Website,Web_Organic,Noida,Apartment,2,78.7,1,1,0,0,3,2.6,6,1,0,Lost,0,0,0,3,4,2-6h,Medium (3-5),50-100L,1,3,3,1,7,Cool,46.3,Medium,601,0.3917,5
+L0103,Property Portal,Portal_Basic_Listing,Bengaluru,Commercial,0,158.0,3,2,3,0,4,3.4,14,0,0,Lost,0,0,0,10,9,2-6h,Medium (3-5),100-200L,0,1,4,4,9,Warm,44.1,Medium,679,0.2996,6
+L0104,Walk-in,Walkin_Sales_Office,Noida,Plot,0,45.5,2,5,2,1,4,8.8,10,1,0,Booked,1,0,0,14,11,6-24h,Medium (3-5),<50L,2,2,4,5,11,Warm,78.2,High,45,0.7149,1
+L0105,Website,Web_Organic,Pune,Villa,3,282.7,3,1,0,0,3,7.9,17,0,1,Lost,0,0,0,5,4,6-24h,Medium (3-5),200L+,0,1,3,2,6,Cool,34.3,Low,1038,0.1684,10
+L0106,Website,Web_Organic,Lucknow,Villa,4,129.6,7,0,0,0,1,5.2,5,0,1,New / Uncontacted,0,0,1,7,1,2-6h,Low (1-2),100-200L,0,3,1,3,7,Cool,37.2,Low,936,0.207,9
+L0107,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,65.2,7,1,1,1,2,3.5,1,1,1,Booked,1,0,1,10,4,2-6h,Low (1-2),50-100L,2,5,1,4,10,Warm,74.0,High,87,0.5357,2
+L0108,Property Portal,Portal_Featured_Project,Noida,Villa,3,245.0,3,1,1,0,2,9.5,3,0,0,Lost,0,0,0,6,4,6-24h,Low (1-2),200L+,0,3,1,2,6,Cool,36.8,Low,949,0.1779,10
+L0109,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,3,91.3,2,3,2,1,3,12.4,0,1,0,Booked,1,0,0,10,8,6-24h,Medium (3-5),50-100L,2,5,3,4,12,Hot,73.1,High,103,0.7033,1
+L0110,Referral,Ref_Existing_Customer,Hyderabad,Commercial,0,132.6,6,2,2,0,2,9.3,2,0,1,Nurturing,0,0,0,12,6,6-24h,Low (1-2),100-200L,0,4,1,5,10,Warm,44.3,Medium,665,0.3693,5
+L0111,Google Ads,GAds_Search_Brand,Noida,Apartment,1,82.8,0,0,4,0,2,5.9,0,1,0,Lost,0,0,0,4,6,2-6h,Low (1-2),50-100L,1,5,1,1,7,Cool,46.3,Medium,602,0.3413,6
+L0112,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,2,138.7,5,1,1,1,7,12.5,7,1,0,Booked,1,0,0,8,9,6-24h,High (6+),100-200L,2,2,5,3,10,Warm,73.9,High,90,0.5805,2
+L0113,Google Ads,GAds_Display_Remarketing,Hyderabad,Villa,4,384.3,5,3,0,1,3,5.1,4,1,0,Booked,1,0,0,11,6,2-6h,Medium (3-5),200L+,2,3,3,4,10,Warm,75.6,High,69,0.5216,3
+L0114,Instagram,IG_Influencer_Tour,Jaipur,Villa,3,176.7,2,1,2,0,4,7.3,2,0,0,Nurturing,0,0,0,6,7,6-24h,Medium (3-5),100-200L,0,4,4,2,10,Warm,41.1,Medium,781,0.2422,8
+L0115,Property Portal,Portal_Premium_Listing,Noida,Apartment,4,109.3,2,2,1,0,2,2.7,12,0,1,Lost,0,0,0,7,5,2-6h,Low (1-2),100-200L,0,1,1,3,5,Cold,37.9,Low,906,0.2305,8
+L0116,Referral,Ref_Broker_Network,Gurugram,Villa,3,235.0,1,0,2,0,4,27.5,1,1,0,Booked,1,0,0,3,6,24h+,Medium (3-5),200L+,1,5,4,1,10,Warm,41.4,Medium,771,0.3682,5
+L0117,Website,Web_Chatbot,Pune,Apartment,4,67.3,3,1,0,0,6,9.0,11,0,1,Nurturing,0,0,0,5,7,6-24h,High (6+),50-100L,0,2,5,2,9,Warm,40.4,Medium,806,0.2187,8
+L0118,Website,Web_Brochure_Download,Pune,Villa,3,260.2,4,2,3,1,4,0.5,8,1,1,Booked,1,0,0,11,9,0-2h,Medium (3-5),200L+,2,2,4,4,10,Warm,77.7,High,51,0.7419,1
+L0119,Google Ads,GAds_Search_Brand,Jaipur,Apartment,4,63.7,2,1,0,0,3,31.9,5,1,1,Nurturing,0,0,0,4,4,24h+,Medium (3-5),50-100L,1,3,3,1,7,Cool,38.6,Low,875,0.2939,7
+L0120,Instagram,IG_Influencer_Tour,Hyderabad,Apartment,3,54.7,2,3,1,1,4,6.4,17,1,0,Booked,1,0,0,9,8,6-24h,Medium (3-5),50-100L,2,1,4,4,9,Warm,71.2,High,123,0.4985,3
+L0121,Instagram,IG_Lead_Form,Lucknow,Apartment,1,53.5,5,2,6,1,4,4.3,8,0,1,Lost,0,0,0,15,12,2-6h,Medium (3-5),50-100L,1,2,4,5,11,Warm,71.3,High,120,0.5888,2
+L0122,Instagram,IG_Reels_Showcase,Gurugram,Apartment,1,102.0,3,1,0,0,5,4.2,10,1,0,Lost,0,0,0,5,6,2-6h,Medium (3-5),100-200L,1,2,5,2,9,Warm,50.5,Medium,479,0.2806,7
+L0123,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,1,50.2,4,1,3,1,3,8.0,23,1,0,Nurturing,0,0,0,9,7,6-24h,Medium (3-5),50-100L,2,1,3,4,8,Cool,67.6,High,173,0.5833,2
+L0124,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,107.1,10,2,2,1,2,1.6,9,0,0,Booked,1,0,0,16,6,0-2h,Low (1-2),100-200L,1,2,1,5,8,Cool,69.8,High,143,0.5653,2
+L0125,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,3,124.2,3,1,2,0,4,3.9,6,0,0,Booked,1,0,0,7,7,2-6h,Medium (3-5),100-200L,0,3,4,3,10,Warm,42.4,Medium,746,0.2358,8
+L0126,Google Ads,GAds_Search_Brand,Noida,Apartment,2,133.4,2,1,0,0,1,4.3,0,1,0,Nurturing,0,0,0,4,2,2-6h,Low (1-2),100-200L,1,5,1,1,7,Cool,45.1,Medium,632,0.2332,8
+L0127,Google Ads,GAds_Search_Generic,Ghaziabad,Builder Floor,3,88.5,4,0,1,1,6,3.7,0,0,0,Booked,1,0,0,5,7,2-6h,High (6+),50-100L,1,5,5,2,12,Hot,64.8,High,221,0.3414,6
+L0128,Property Portal,Portal_Basic_Listing,Pune,Apartment,3,88.7,7,0,3,0,3,3.7,14,1,0,Booked,1,0,0,10,6,2-6h,Medium (3-5),50-100L,1,1,3,4,8,Cool,52.3,Medium,433,0.3926,4
+L0129,Property Portal,Portal_Premium_Listing,Noida,Villa,4,142.7,4,3,0,0,6,8.3,6,1,0,Booked,1,0,0,10,9,6-24h,High (6+),100-200L,1,3,5,4,12,Hot,57.9,High,335,0.3342,6
+L0130,Instagram,IG_Lead_Form,Lucknow,Commercial,0,96.4,3,1,1,0,3,7.2,24,1,0,Nurturing,0,0,0,6,5,6-24h,Medium (3-5),50-100L,1,1,3,2,6,Cool,44.0,Medium,685,0.2969,6
+L0131,Property Portal,Portal_Basic_Listing,Pune,Apartment,3,86.6,4,0,0,1,4,8.7,7,0,1,Lost,0,0,0,4,4,6-24h,Medium (3-5),50-100L,1,2,4,1,7,Cool,57.0,High,348,0.402,4
+L0132,Walk-in,Walkin_Site_Hoarding,Pune,Commercial,0,85.5,1,1,1,0,1,15.3,14,0,0,New / Uncontacted,0,0,0,4,3,6-24h,Low (1-2),50-100L,0,1,1,1,3,Cold,28.2,Low,1171,0.1316,10
+L0133,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,2,80.7,0,0,0,0,2,8.3,33,0,0,Lost,0,0,0,0,2,6-24h,Low (1-2),50-100L,0,1,1,1,3,Cold,22.5,Low,1197,0.1779,10
+L0134,Google Ads,GAds_Search_Brand,Bengaluru,Apartment,3,87.1,3,2,1,0,1,4.2,13,1,0,New / Uncontacted,0,0,0,8,4,2-6h,Low (1-2),50-100L,1,1,1,3,5,Cold,46.7,Medium,588,0.2935,7
+L0135,Instagram,IG_Influencer_Tour,Pune,Villa,5,239.2,4,2,1,1,2,23.1,5,1,1,Negotiation,0,0,0,9,5,6-24h,Low (1-2),200L+,2,3,1,4,8,Cool,65.7,High,205,0.5432,2
+L0136,Property Portal,Portal_Basic_Listing,Noida,Plot,0,71.1,3,0,4,0,3,17.7,6,0,1,Nurturing,0,0,0,7,7,6-24h,Medium (3-5),50-100L,0,3,3,3,9,Warm,36.4,Low,962,0.2084,9
+L0137,Walk-in,Walkin_Sales_Office,Lucknow,Plot,0,35.9,4,6,1,1,2,15.9,12,0,0,Booked,1,0,0,17,9,6-24h,Low (1-2),<50L,1,1,1,5,7,Cool,65.8,High,201,0.4922,3
+L0138,Google Ads,GAds_Search_Generic,Pune,Apartment,2,101.6,5,1,3,0,1,13.6,3,0,0,New / Uncontacted,0,0,0,10,5,6-24h,Low (1-2),100-200L,0,3,1,4,8,Cool,38.7,Low,873,0.2592,7
+L0139,Website,Web_Brochure_Download,Gurugram,Plot,0,72.2,1,0,1,0,3,4.4,9,0,1,Booked,1,0,0,2,4,2-6h,Medium (3-5),50-100L,0,2,3,1,6,Cool,33.8,Low,1049,0.1351,10
+L0140,Property Portal,Portal_Featured_Project,Noida,Apartment,1,30.2,3,2,2,0,3,1.1,5,0,0,Lost,0,0,0,9,7,0-2h,Medium (3-5),<50L,0,3,3,4,10,Warm,44.2,Medium,672,0.3591,5
+L0141,Google Ads,GAds_Search_Brand,Gurugram,Apartment,2,88.6,5,2,0,1,4,1.9,22,0,0,Nurturing,0,0,0,9,6,0-2h,Medium (3-5),50-100L,1,1,4,4,9,Warm,61.4,High,271,0.4622,3
+L0142,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,3,87.5,3,0,2,0,3,12.2,4,0,1,Lost,0,0,0,5,5,6-24h,Medium (3-5),50-100L,0,3,3,2,8,Cool,36.2,Low,970,0.172,10
+L0143,Walk-in,Walkin_Site_Hoarding,Lucknow,Commercial,0,53.3,0,1,2,0,3,7.1,12,1,0,Booked,1,0,0,4,6,6-24h,Medium (3-5),50-100L,1,1,3,1,5,Cold,44.6,Medium,647,0.2624,7
+L0144,Instagram,IG_Lead_Form,Gurugram,Apartment,2,109.2,6,1,2,0,8,3.2,15,0,1,Lost,0,0,0,10,11,2-6h,High (6+),100-200L,0,1,5,4,10,Warm,47.2,Medium,573,0.3498,5
+L0145,Google Ads,GAds_Display_Remarketing,Bengaluru,Plot,0,124.5,2,2,2,0,3,0.7,8,1,0,Booked,1,0,0,8,7,0-2h,Medium (3-5),100-200L,1,2,3,3,8,Cool,52.4,Medium,428,0.4894,3
+L0146,Property Portal,Portal_Featured_Project,Hyderabad,Villa,5,165.5,4,0,3,0,2,6.3,2,1,1,Nurturing,0,0,0,7,5,6-24h,Low (1-2),100-200L,1,4,1,3,8,Cool,49.3,Medium,510,0.2859,7
+L0147,Google Ads,GAds_Display_Remarketing,Gurugram,Villa,4,252.2,4,1,4,0,2,2.2,2,1,1,New / Uncontacted,0,0,0,10,7,2-6h,Low (1-2),200L+,1,4,1,4,9,Warm,54.1,Medium,392,0.3849,5
+L0148,Instagram,IG_Lead_Form,Hyderabad,Villa,4,136.8,4,2,1,0,2,3.4,1,0,0,New / Uncontacted,0,0,0,9,5,2-6h,Low (1-2),100-200L,0,5,1,4,10,Warm,42.8,Medium,731,0.2631,7
+L0149,Google Ads,GAds_Search_Generic,Noida,Plot,0,106.9,5,2,3,1,5,10.8,7,0,1,Nurturing,0,0,0,12,10,6-24h,Medium (3-5),100-200L,1,2,5,5,12,Hot,67.6,High,174,0.5165,3
+L0150,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,3,87.4,0,0,1,0,3,3.2,7,0,0,New / Uncontacted,0,0,0,1,4,2-6h,Medium (3-5),50-100L,0,2,3,1,6,Cool,33.4,Low,1062,0.1774,10
+L0151,Referral,Ref_Broker_Network,Hyderabad,Apartment,2,91.5,3,3,5,0,3,1.7,4,1,0,Nurturing,0,0,0,14,11,0-2h,Medium (3-5),50-100L,1,3,3,5,11,Warm,60.3,High,286,0.6906,1
+L0152,Referral,Ref_Existing_Customer,Noida,Builder Floor,4,167.9,4,1,0,1,3,8.0,10,0,1,Negotiation,0,0,0,6,4,6-24h,Medium (3-5),100-200L,1,2,3,2,7,Cool,57.2,High,345,0.3714,5
+L0153,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,1,122.9,4,0,3,1,5,8.2,1,0,0,Lost,0,0,0,7,8,6-24h,Medium (3-5),100-200L,1,5,5,3,13,Hot,63.9,High,241,0.3714,5
+L0154,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,3,66.2,7,1,0,0,6,4.6,11,1,1,Nurturing,0,0,0,9,7,2-6h,High (6+),50-100L,1,2,5,4,11,Warm,56.6,High,354,0.387,5
+L0155,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,4,71.8,4,1,3,0,3,15.9,0,1,0,Nurturing,0,0,0,9,7,6-24h,Medium (3-5),50-100L,1,5,3,4,12,Hot,50.8,Medium,466,0.3631,5
+L0156,Website,Web_Organic,Hyderabad,Apartment,3,107.0,5,2,1,0,3,5.5,0,1,0,Nurturing,0,1,0,10,6,2-6h,Medium (3-5),100-200L,1,5,3,4,12,Hot,55.3,High,373,0.4542,3
+L0157,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,3,48.2,3,3,0,1,3,1.4,2,0,0,Booked,1,0,0,9,6,0-2h,Medium (3-5),<50L,1,4,3,4,11,Warm,64.9,High,219,0.537,2
+L0158,Instagram,IG_Influencer_Tour,Noida,Apartment,2,39.3,1,0,1,0,3,2.2,1,1,1,Nurturing,0,0,0,2,4,2-6h,Medium (3-5),<50L,1,5,3,1,9,Warm,46.5,Medium,595,0.3885,5
+L0159,Website,Web_Organic,Bengaluru,Commercial,0,153.1,6,3,2,1,6,1.2,2,0,0,Negotiation,0,0,0,14,11,0-2h,High (6+),100-200L,1,4,5,5,14,Hot,75.9,High,67,0.6785,1
+L0160,Website,Web_Brochure_Download,Pune,Apartment,3,51.4,4,2,2,0,4,5.0,11,1,0,New / Uncontacted,0,0,0,10,8,2-6h,Medium (3-5),50-100L,1,2,4,4,10,Warm,54.4,Medium,386,0.4308,4
+L0161,Property Portal,Portal_Featured_Project,Pune,Commercial,0,243.0,3,0,0,0,3,2.9,26,0,0,Nurturing,0,0,0,3,3,2-6h,Medium (3-5),200L+,0,1,3,1,5,Cold,31.2,Low,1128,0.1352,10
+L0162,Walk-in,Walkin_Sales_Office,Lucknow,Commercial,0,102.1,2,1,4,0,2,1.9,1,1,0,Nurturing,0,0,0,8,7,0-2h,Low (1-2),100-200L,1,5,1,3,9,Warm,52.1,Medium,440,0.5128,3
+L0163,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,3,43.7,5,1,1,0,2,9.3,6,0,1,Nurturing,0,0,0,8,4,6-24h,Low (1-2),<50L,0,3,1,3,7,Cool,38.5,Low,883,0.1858,9
+L0164,Property Portal,Portal_Featured_Project,Noida,Villa,4,155.0,0,2,2,0,5,12.6,11,0,1,Nurturing,0,0,0,6,9,6-24h,Medium (3-5),100-200L,0,2,5,2,9,Warm,38.8,Low,868,0.1671,10
+L0165,Instagram,IG_Lead_Form,Pune,Builder Floor,2,56.4,6,1,3,0,2,9.1,1,1,0,Nurturing,0,0,0,11,6,6-24h,Low (1-2),50-100L,1,5,1,4,10,Warm,53.4,Medium,409,0.5185,3
+L0166,Google Ads,GAds_Search_Generic,Noida,Villa,3,134.8,0,0,1,0,1,15.5,3,0,1,New / Uncontacted,0,0,0,1,2,6-24h,Low (1-2),100-200L,0,3,1,1,5,Cold,27.3,Low,1181,0.2224,8
+L0167,Referral,Ref_Broker_Network,Pune,Apartment,3,123.1,1,1,0,1,1,3.6,7,0,0,Negotiation,0,0,0,3,2,2-6h,Low (1-2),100-200L,1,2,1,1,4,Cold,52.4,Medium,429,0.3811,5
+L0168,Referral,Ref_Broker_Network,Bengaluru,Apartment,1,212.9,7,6,1,1,3,5.0,0,1,1,Booked,1,0,0,20,10,2-6h,Medium (3-5),200L+,2,5,3,5,13,Hot,87.4,High,4,0.788,1
+L0169,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,77.4,3,1,2,0,2,7.6,4,0,1,Nurturing,0,0,0,7,5,6-24h,Low (1-2),50-100L,0,3,1,3,7,Cool,38.3,Low,893,0.2199,8
+L0170,Walk-in,Walkin_Site_Hoarding,Lucknow,Builder Floor,4,73.6,2,5,5,1,4,2.4,1,1,1,Lost,0,0,0,17,14,2-6h,Medium (3-5),50-100L,2,5,4,5,14,Hot,86.1,High,10,0.7406,1
+L0171,Google Ads,GAds_Display_Remarketing,Ghaziabad,Commercial,0,87.7,2,0,1,0,1,7.7,4,0,1,Nurturing,0,0,0,3,2,6-24h,Low (1-2),50-100L,0,3,1,1,5,Cold,31.9,Low,1109,0.1601,10
+L0172,Instagram,IG_Influencer_Tour,Hyderabad,Villa,5,154.5,5,0,1,1,3,2.1,0,0,0,Negotiation,0,0,0,6,4,2-6h,Medium (3-5),100-200L,1,5,3,2,10,Warm,61.5,High,268,0.4041,4
+L0173,Property Portal,Portal_Basic_Listing,Pune,Villa,3,386.1,1,2,3,0,3,4.3,4,1,0,New / Uncontacted,0,0,0,8,8,2-6h,Medium (3-5),200L+,1,3,3,3,9,Warm,52.3,Medium,434,0.4388,4
+L0174,Walk-in,Walkin_Sales_Office,Ghaziabad,Commercial,0,95.5,0,1,4,1,5,7.8,1,1,1,Negotiation,0,0,0,6,10,6-24h,Medium (3-5),50-100L,2,5,5,2,12,Hot,72.8,High,106,0.5825,2
+L0175,Property Portal,Portal_Basic_Listing,Gurugram,Villa,5,386.1,3,1,0,0,3,31.2,14,1,1,Nurturing,0,0,0,5,4,24h+,Medium (3-5),200L+,1,1,3,2,6,Cool,37.8,Low,909,0.237,8
+L0176,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,1,171.0,5,1,1,1,3,12.7,2,0,1,Booked,1,0,0,8,5,6-24h,Medium (3-5),100-200L,1,4,3,3,10,Warm,60.1,High,289,0.4465,4
+L0177,Google Ads,GAds_Search_Brand,Lucknow,Plot,0,23.9,3,0,1,1,5,9.4,1,1,0,Negotiation,0,0,0,4,6,6-24h,Medium (3-5),<50L,2,5,5,1,11,Warm,69.9,High,141,0.5007,3
+L0178,Walk-in,Walkin_Sales_Office,Hyderabad,Apartment,2,71.3,2,0,1,0,3,6.5,5,1,1,Booked,1,0,0,3,4,6-24h,Medium (3-5),50-100L,1,3,3,1,7,Cool,45.3,Medium,626,0.3842,5
+L0179,Referral,Ref_Broker_Network,Pune,Apartment,3,68.2,2,1,2,0,2,6.2,13,0,0,Lost,0,0,0,6,5,6-24h,Low (1-2),50-100L,0,1,1,2,4,Cold,35.3,Low,1002,0.2183,8
+L0180,Website,Web_Brochure_Download,Gurugram,Builder Floor,2,129.3,2,1,0,0,4,2.4,0,1,0,Booked,1,0,0,4,5,2-6h,Medium (3-5),100-200L,1,5,4,1,10,Warm,50.7,Medium,472,0.3749,5
+L0181,Referral,Ref_Existing_Customer,Bengaluru,Commercial,0,152.7,6,5,3,1,3,2.6,3,1,1,Booked,1,0,0,19,11,2-6h,Medium (3-5),100-200L,2,4,3,5,12,Hot,86.2,High,9,0.8349,1
+L0182,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,1,181.9,2,0,1,0,1,4.2,8,0,1,Nurturing,0,0,0,3,2,2-6h,Low (1-2),100-200L,0,2,1,1,4,Cold,32.0,Low,1108,0.2812,7
+L0183,Instagram,IG_Reels_Showcase,Bengaluru,Builder Floor,2,84.7,2,2,4,0,3,8.4,3,1,1,Lost,0,0,0,10,9,6-24h,Medium (3-5),50-100L,1,4,3,4,11,Warm,53.6,Medium,405,0.5787,2
+L0184,Google Ads,GAds_Search_Generic,Gurugram,Apartment,3,113.8,8,0,4,1,5,7.6,10,0,1,Negotiation,0,0,0,12,9,6-24h,Medium (3-5),100-200L,1,2,5,5,12,Hot,67.8,High,169,0.5625,2
+L0185,Website,Web_Brochure_Download,Pune,Apartment,3,107.0,7,3,1,1,2,7.5,6,1,1,Lost,0,0,0,14,6,6-24h,Low (1-2),100-200L,2,3,1,5,9,Warm,76.3,High,65,0.683,1
+L0186,Website,Web_Brochure_Download,Hyderabad,Apartment,2,90.0,3,0,3,0,7,22.5,33,0,0,New / Uncontacted,0,0,0,6,10,6-24h,High (6+),50-100L,0,1,5,2,8,Cool,31.9,Low,1110,0.2339,8
+L0187,Google Ads,GAds_Search_Generic,Gurugram,Villa,3,261.9,6,2,1,0,2,7.3,4,0,1,Nurturing,0,0,0,11,5,6-24h,Low (1-2),200L+,0,3,1,4,8,Cool,43.2,Medium,718,0.3464,5
+L0188,Property Portal,Portal_Premium_Listing,Pune,Plot,0,43.9,4,0,0,1,4,2.5,16,1,1,Lost,0,0,0,4,4,2-6h,Medium (3-5),<50L,2,1,4,1,6,Cool,66.7,High,183,0.47,3
+L0189,Website,Web_Chatbot,Hyderabad,Apartment,3,93.4,1,2,2,0,3,5.9,2,0,0,Nurturing,0,0,0,7,7,2-6h,Medium (3-5),50-100L,0,4,3,3,10,Warm,41.1,Medium,782,0.1926,9
+L0190,Property Portal,Portal_Featured_Project,Noida,Apartment,2,98.7,4,1,0,0,3,4.8,17,0,0,Nurturing,0,0,0,6,4,2-6h,Medium (3-5),50-100L,0,1,3,2,6,Cool,36.4,Low,963,0.1474,10
+L0191,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,92.5,1,1,3,1,3,9.2,2,0,0,Negotiation,0,0,0,6,7,6-24h,Medium (3-5),50-100L,1,4,3,2,9,Warm,58.8,High,318,0.4252,4
+L0192,Property Portal,Portal_Featured_Project,Pune,Apartment,4,105.3,2,1,4,0,2,4.5,16,0,0,Nurturing,0,0,0,8,7,2-6h,Low (1-2),100-200L,0,1,1,3,5,Cold,37.5,Low,924,0.1924,9
+L0193,Property Portal,Portal_Featured_Project,Ghaziabad,Builder Floor,3,132.4,5,2,1,1,2,3.4,3,0,1,Nurturing,0,0,0,10,5,2-6h,Low (1-2),100-200L,1,4,1,4,9,Warm,63.5,High,250,0.5778,2
+L0194,Referral,Ref_Existing_Customer,Noida,Villa,5,274.8,4,1,3,0,3,11.1,4,1,0,Lost,0,0,0,9,7,6-24h,Medium (3-5),200L+,1,3,3,4,10,Warm,51.3,Medium,457,0.3566,5
+L0195,Property Portal,Portal_Premium_Listing,Lucknow,Villa,4,147.6,3,0,2,1,3,2.5,3,0,0,Negotiation,0,0,0,5,5,2-6h,Medium (3-5),100-200L,1,4,3,2,9,Warm,59.5,High,301,0.4136,4
+L0196,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,3,64.7,2,1,1,0,4,17.8,10,1,0,New / Uncontacted,0,0,0,5,6,6-24h,Medium (3-5),50-100L,1,2,4,2,8,Cool,44.6,Medium,648,0.2768,7
+L0197,Instagram,IG_Lead_Form,Gurugram,Builder Floor,2,107.8,2,0,2,0,5,2.6,6,0,1,Nurturing,0,0,0,4,7,2-6h,Medium (3-5),100-200L,0,3,5,1,9,Warm,40.8,Medium,791,0.273,7
+L0198,Referral,Ref_Broker_Network,Ghaziabad,Apartment,1,59.0,3,3,1,0,5,6.4,21,0,1,Booked,1,0,0,10,9,6-24h,Medium (3-5),50-100L,0,1,5,4,10,Warm,43.1,Medium,721,0.281,7
+L0199,Property Portal,Portal_Basic_Listing,Bengaluru,Apartment,3,106.5,10,0,7,0,1,4.3,4,1,0,Booked,1,0,0,17,8,2-6h,Low (1-2),100-200L,1,3,1,5,9,Warm,59.7,High,297,0.522,3
+L0200,Google Ads,GAds_Search_Generic,Jaipur,Commercial,0,81.2,2,1,1,0,3,14.8,33,0,1,Lost,0,0,0,5,5,6-24h,Medium (3-5),50-100L,0,1,3,2,6,Cool,28.1,Low,1173,0.1128,10
+L0201,Website,Web_Chatbot,Bengaluru,Plot,0,51.5,3,3,4,1,3,2.0,4,0,0,Booked,1,0,0,13,10,0-2h,Medium (3-5),50-100L,1,3,3,5,11,Warm,69.0,High,159,0.6196,1
+L0202,Walk-in,Walkin_Sales_Office,Lucknow,Commercial,0,63.3,0,0,1,0,2,2.5,2,0,1,Nurturing,0,0,0,1,3,2-6h,Low (1-2),50-100L,0,4,1,1,6,Cool,33.2,Low,1068,0.2913,7
+L0203,Instagram,IG_Influencer_Tour,Hyderabad,Commercial,0,80.8,3,2,2,0,4,11.4,9,0,0,Lost,0,0,0,9,8,6-24h,Medium (3-5),50-100L,0,2,4,4,10,Warm,41.7,Medium,765,0.2078,9
+L0204,Property Portal,Portal_Featured_Project,Pune,Villa,3,190.7,1,2,3,1,4,3.6,3,1,1,Booked,1,0,0,8,9,2-6h,Medium (3-5),100-200L,2,4,4,3,11,Warm,74.4,High,82,0.6156,1
+L0205,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,78.9,3,2,0,0,1,6.2,6,0,0,New / Uncontacted,0,0,0,7,3,6-24h,Low (1-2),50-100L,0,3,1,3,7,Cool,36.6,Low,954,0.2431,8
+L0206,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,4,63.4,2,2,0,0,2,3.8,5,1,0,Lost,0,0,0,6,4,2-6h,Low (1-2),50-100L,1,3,1,2,6,Cool,48.1,Medium,542,0.3607,5
+L0207,Property Portal,Portal_Featured_Project,Lucknow,Apartment,3,52.3,2,0,1,0,3,16.5,21,0,0,Lost,0,0,0,3,4,6-24h,Medium (3-5),50-100L,0,1,3,1,5,Cold,28.2,Low,1172,0.0992,10
+L0208,Website,Web_Organic,Noida,Apartment,4,51.7,5,3,0,0,1,9.0,7,1,1,Booked,1,0,0,11,4,6-24h,Low (1-2),50-100L,1,2,1,4,7,Cool,50.3,Medium,484,0.3593,5
+L0209,Property Portal,Portal_Featured_Project,Noida,Apartment,2,94.2,2,4,3,1,2,4.7,1,0,0,Booked,1,0,0,13,9,2-6h,Low (1-2),50-100L,1,5,1,5,11,Warm,67.2,High,179,0.607,2
+L0210,Instagram,IG_Influencer_Tour,Pune,Apartment,2,111.8,0,1,1,1,4,2.3,5,0,1,Booked,1,0,0,3,6,2-6h,Medium (3-5),100-200L,1,3,4,1,8,Cool,58.3,High,327,0.4054,4
+L0211,Website,Web_Chatbot,Noida,Apartment,3,68.1,2,0,0,0,1,11.5,8,0,1,Booked,1,0,0,2,1,6-24h,Low (1-2),50-100L,0,2,1,1,4,Cold,28.5,Low,1167,0.1536,10
+L0212,Instagram,IG_Influencer_Tour,Gurugram,Villa,3,216.3,3,1,3,0,4,2.9,6,0,1,Booked,1,0,0,8,8,2-6h,Medium (3-5),200L+,0,3,4,3,10,Warm,43.9,Medium,690,0.3249,6
+L0213,Property Portal,Portal_Premium_Listing,Noida,Plot,0,73.0,3,1,2,0,1,5.3,15,0,1,Lost,0,0,0,7,4,2-6h,Low (1-2),50-100L,0,1,1,3,5,Cold,34.7,Low,1028,0.1196,10
+L0214,Referral,Ref_Broker_Network,Lucknow,Builder Floor,3,59.2,3,1,1,1,3,2.6,0,1,0,Booked,1,0,0,6,5,2-6h,Medium (3-5),50-100L,2,5,3,2,10,Warm,71.4,High,118,0.4885,3
+L0215,Website,Web_Organic,Lucknow,Apartment,3,45.6,3,3,2,0,2,3.8,0,1,1,Nurturing,0,0,0,11,7,2-6h,Low (1-2),<50L,1,5,1,4,10,Warm,55.3,High,374,0.4846,3
+L0216,Website,Web_Chatbot,Jaipur,Villa,5,218.9,4,0,1,1,3,14.6,9,1,0,Nurturing,0,0,0,5,4,6-24h,Medium (3-5),200L+,2,2,3,2,7,Cool,64.2,High,230,0.4042,4
+L0217,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,143.1,6,2,5,1,3,4.5,0,1,0,Booked,1,0,0,15,10,2-6h,Medium (3-5),100-200L,2,5,3,5,13,Hot,81.6,High,25,0.8177,1
+L0218,Property Portal,Portal_Premium_Listing,Noida,Apartment,2,101.8,3,0,0,1,2,4.3,27,0,0,Negotiation,0,0,0,3,2,2-6h,Low (1-2),100-200L,1,1,1,1,3,Cold,48.8,Medium,521,0.2032,9
+L0219,Walk-in,Walkin_Site_Hoarding,Pune,Apartment,2,119.3,0,0,2,0,1,6.6,13,0,1,Lost,0,0,0,2,3,6-24h,Low (1-2),100-200L,0,1,1,1,3,Cold,28.8,Low,1165,0.286,7
+L0220,Google Ads,GAds_Display_Remarketing,Ghaziabad,Apartment,3,31.9,3,2,2,1,3,5.6,12,0,0,Negotiation,0,0,0,9,7,2-6h,Medium (3-5),<50L,1,1,3,4,8,Cool,61.0,High,277,0.474,3
+L0221,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,138.5,0,0,1,0,2,12.3,1,0,0,Lost,0,0,0,1,3,6-24h,Low (1-2),100-200L,0,5,1,1,7,Cool,30.4,Low,1141,0.2128,9
+L0222,Google Ads,GAds_Search_Generic,Unknown,Plot,0,69.4,4,2,1,1,5,6.6,9,0,1,Lost,0,0,0,9,8,6-24h,Medium (3-5),50-100L,1,2,5,4,11,Warm,64.8,High,222,0.4296,4
+L0223,Website,Web_Organic,Noida,Villa,4,282.0,7,1,1,1,4,2.6,4,1,1,Negotiation,0,0,0,10,6,2-6h,Medium (3-5),200L+,2,3,4,4,11,Warm,76.9,High,57,0.5461,2
+L0224,Walk-in,Walkin_Site_Hoarding,Gurugram,Villa,3,288.6,0,4,2,1,6,4.5,4,1,1,Booked,1,0,0,10,12,2-6h,High (6+),200L+,2,3,5,4,12,Hot,79.6,High,31,0.6433,1
+L0225,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,2,61.0,5,3,1,1,5,1.2,11,0,1,Booked,1,0,0,12,9,0-2h,Medium (3-5),50-100L,1,2,5,5,12,Hot,69.6,High,148,0.4944,3
+L0226,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Plot,0,42.5,1,1,0,0,3,12.6,9,0,1,Nurturing,0,0,0,3,4,6-24h,Medium (3-5),<50L,0,2,3,1,6,Cool,32.4,Low,1097,0.2243,8
+L0227,Property Portal,Portal_Basic_Listing,Bengaluru,Villa,4,266.1,9,2,2,1,6,1.8,0,1,1,Nurturing,0,0,0,15,10,0-2h,High (6+),200L+,2,5,5,5,15,Hot,87.4,High,5,0.6737,1
+L0228,Instagram,IG_Reels_Showcase,Ghaziabad,Apartment,2,57.2,2,0,0,0,4,16.4,25,0,0,Lost,0,0,0,2,4,6-24h,Medium (3-5),50-100L,0,1,4,1,6,Cool,27.7,Low,1177,0.1138,10
+L0229,Instagram,IG_Lead_Form,Jaipur,Villa,4,195.1,2,2,1,0,1,1.1,26,0,0,Nurturing,0,0,0,7,4,0-2h,Low (1-2),100-200L,0,1,1,3,5,Cold,33.2,Low,1069,0.2842,7
+L0230,Property Portal,Portal_Premium_Listing,Jaipur,Builder Floor,2,43.6,3,0,3,1,5,21.8,0,0,1,Lost,0,0,0,6,8,6-24h,Medium (3-5),<50L,1,5,5,2,12,Hot,58.7,High,320,0.3704,5
+L0231,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,68.3,2,3,0,1,4,1.7,9,0,0,Nurturing,0,0,0,8,7,0-2h,Medium (3-5),50-100L,1,2,4,3,9,Warm,63.5,High,251,0.543,2
+L0232,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,2,122.7,4,5,1,1,3,1.6,6,1,1,Booked,1,0,0,15,9,0-2h,Medium (3-5),100-200L,2,3,3,5,11,Warm,81.0,High,27,0.684,1
+L0233,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Builder Floor,4,64.9,2,1,3,0,2,7.0,1,0,1,Lost,0,0,0,7,6,6-24h,Low (1-2),50-100L,0,5,1,3,9,Warm,39.3,Low,849,0.2327,8
+L0234,Instagram,IG_Lead_Form,Lucknow,Apartment,1,55.2,5,1,2,0,3,9.3,8,0,1,Nurturing,0,0,0,9,6,6-24h,Medium (3-5),50-100L,0,2,3,4,9,Warm,40.9,Medium,787,0.215,9
+L0235,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,60.6,0,3,0,0,3,3.8,2,1,1,Booked,1,0,0,6,6,2-6h,Medium (3-5),50-100L,1,4,3,2,9,Warm,50.5,Medium,480,0.5601,2
+L0236,Referral,Ref_Existing_Customer,Bengaluru,Apartment,2,109.7,5,1,2,1,8,9.3,4,1,0,Booked,1,0,0,9,11,6-24h,High (6+),100-200L,2,3,5,4,12,Hot,76.9,High,58,0.6911,1
+L0237,Google Ads,GAds_Search_Generic,Hyderabad,Commercial,0,111.3,2,1,3,0,5,2.6,0,1,1,Lost,0,0,0,7,9,2-6h,Medium (3-5),100-200L,1,5,5,3,13,Hot,55.9,High,368,0.4035,4
+L0238,Website,Web_Chatbot,Noida,Apartment,2,77.3,3,2,2,1,5,3.1,6,0,0,Booked,1,0,0,9,9,2-6h,Medium (3-5),50-100L,1,3,5,4,12,Hot,66.7,High,184,0.4208,4
+L0239,Property Portal,Portal_Premium_Listing,Pune,Apartment,2,116.1,6,2,1,1,3,4.0,12,0,0,Lost,0,0,0,11,6,2-6h,Medium (3-5),100-200L,1,1,3,4,8,Cool,64.0,High,234,0.4822,3
+L0240,Property Portal,Portal_Basic_Listing,Bengaluru,Apartment,3,76.3,3,2,0,0,2,3.7,4,0,1,Booked,1,0,0,7,4,2-6h,Low (1-2),50-100L,0,3,1,3,7,Cool,39.6,Low,837,0.1822,9
+L0241,Referral,Ref_Existing_Customer,Gurugram,Plot,0,101.5,6,3,1,1,5,0.9,1,1,0,Booked,1,0,0,13,9,0-2h,Medium (3-5),100-200L,2,5,5,5,15,Hot,83.4,High,20,0.7389,1
+L0242,Website,Web_Brochure_Download,Bengaluru,Builder Floor,4,164.7,2,1,0,0,8,6.0,1,0,0,Lost,0,0,0,4,9,2-6h,High (6+),100-200L,0,5,5,1,11,Warm,42.7,Medium,734,0.31,6
+L0243,Property Portal,Portal_Premium_Listing,Pune,Commercial,0,199.6,3,2,0,0,2,5.4,1,1,0,Nurturing,0,0,0,7,4,2-6h,Low (1-2),100-200L,1,5,1,3,9,Warm,49.8,Medium,492,0.298,6
+L0244,Instagram,IG_Lead_Form,Hyderabad,Apartment,2,94.5,3,3,2,1,3,9.2,4,0,1,Booked,1,0,0,11,8,6-24h,Medium (3-5),50-100L,1,3,3,4,10,Warm,64.3,High,227,0.5509,2
+L0245,Instagram,IG_Lead_Form,Hyderabad,Apartment,2,279.8,5,4,3,1,2,1.4,15,1,0,Lost,0,0,0,16,9,0-2h,Low (1-2),200L+,2,1,1,5,7,Cool,78.3,High,44,0.5412,2
+L0246,Referral,Ref_Existing_Customer,Noida,Builder Floor,3,151.2,3,3,2,0,3,3.6,15,0,1,Nurturing,0,0,0,11,8,2-6h,Medium (3-5),100-200L,0,1,3,4,8,Cool,43.3,Medium,716,0.4179,4
+L0247,Instagram,IG_Lead_Form,Lucknow,Apartment,3,67.2,1,1,3,0,6,17.6,14,1,1,Lost,0,0,0,6,10,6-24h,High (6+),50-100L,1,1,5,2,8,Cool,48.2,Medium,540,0.2774,7
+L0248,Google Ads,GAds_Display_Remarketing,Jaipur,Plot,0,32.4,4,2,2,0,3,5.3,8,1,0,Lost,0,0,0,10,7,2-6h,Medium (3-5),<50L,1,2,3,4,9,Warm,53.3,Medium,412,0.4974,3
+L0249,Google Ads,GAds_Display_Remarketing,Noida,Plot,0,58.5,3,0,0,0,7,7.6,2,1,1,Nurturing,0,0,0,3,7,6-24h,High (6+),50-100L,1,4,5,1,10,Warm,50.7,Medium,473,0.3577,5
+L0250,Google Ads,GAds_Search_Brand,Ghaziabad,Builder Floor,2,133.0,5,2,0,0,1,8.0,1,0,1,Lost,0,0,0,9,3,6-24h,Low (1-2),100-200L,0,5,1,4,10,Warm,39.7,Low,834,0.2398,8
+L0251,Instagram,IG_Influencer_Tour,Hyderabad,Commercial,0,261.9,2,0,2,1,3,9.4,0,1,1,Negotiation,0,0,0,4,5,6-24h,Medium (3-5),200L+,2,5,3,1,9,Warm,66.9,High,181,0.4207,4
+L0252,Referral,Ref_Broker_Network,Noida,Builder Floor,3,175.3,5,3,2,0,2,23.7,8,0,0,Booked,1,0,0,13,7,6-24h,Low (1-2),100-200L,0,2,1,5,8,Cool,39.5,Low,841,0.3725,5
+L0253,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,3,79.0,4,0,2,0,3,6.5,16,1,1,Nurturing,0,0,0,6,5,6-24h,Medium (3-5),50-100L,1,1,3,2,6,Cool,46.2,Medium,607,0.3524,5
+L0254,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,3,79.6,2,0,1,1,1,3.2,22,0,1,Negotiation,0,0,0,3,2,2-6h,Low (1-2),50-100L,1,1,1,1,3,Cold,48.8,Medium,522,0.2937,7
+L0255,Property Portal,Portal_Basic_Listing,Ghaziabad,Apartment,2,75.6,0,1,0,1,4,9.7,18,1,0,Booked,1,0,0,2,5,6-24h,Medium (3-5),50-100L,2,1,4,1,6,Cool,61.5,High,269,0.3852,5
+L0256,Website,Web_Brochure_Download,Lucknow,Plot,0,28.5,3,0,3,1,4,3.6,8,1,1,Booked,1,0,0,6,7,2-6h,Medium (3-5),<50L,2,2,4,2,8,Cool,70.8,High,128,0.5261,2
+L0257,Referral,Ref_Existing_Customer,Hyderabad,Apartment,2,53.5,0,1,7,0,1,6.0,6,0,1,Nurturing,0,0,0,9,9,2-6h,Low (1-2),50-100L,0,3,1,4,8,Cool,39.1,Low,857,0.329,6
+L0258,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,2,65.2,4,1,3,1,5,6.4,1,1,0,Lost,0,0,0,9,9,6-24h,Medium (3-5),50-100L,2,5,5,4,14,Hot,76.9,High,59,0.6373,1
+L0259,Property Portal,Portal_Basic_Listing,Noida,Builder Floor,3,125.5,3,0,1,0,1,2.3,10,1,0,Lost,0,0,0,4,2,2-6h,Low (1-2),100-200L,1,2,1,1,4,Cold,43.2,Medium,719,0.2332,8
+L0260,Instagram,IG_Reels_Showcase,Noida,Apartment,2,113.2,3,0,2,0,1,3.1,10,0,0,Lost,0,0,0,5,3,2-6h,Low (1-2),100-200L,0,2,1,2,5,Cold,34.2,Low,1040,0.1215,10
+L0261,Property Portal,Portal_Featured_Project,Hyderabad,Apartment,3,107.1,0,3,1,0,3,9.4,22,1,1,New / Uncontacted,0,0,0,7,7,6-24h,Medium (3-5),100-200L,1,1,3,3,7,Cool,45.0,Medium,633,0.2868,7
+L0262,Referral,Ref_Broker_Network,Gurugram,Villa,4,303.5,1,3,2,1,1,6.9,12,0,1,Booked,1,1,0,9,6,6-24h,Low (1-2),200L+,1,1,1,4,6,Cool,57.3,High,342,0.4066,4
+L0263,Google Ads,GAds_Search_Brand,Lucknow,Apartment,3,42.5,4,4,1,0,1,12.8,10,0,0,Lost,0,0,0,13,6,6-24h,Low (1-2),<50L,0,2,1,5,8,Cool,40.8,Medium,792,0.3854,5
+L0264,Property Portal,Portal_Featured_Project,Noida,Builder Floor,2,100.7,0,1,1,0,3,3.7,3,1,1,Lost,0,0,0,3,5,2-6h,Medium (3-5),100-200L,1,4,3,1,8,Cool,46.7,Medium,589,0.4015,4
+L0265,Walk-in,Walkin_Sales_Office,Lucknow,Apartment,2,35.4,0,2,3,0,4,2.3,2,1,0,Booked,1,0,0,7,9,2-6h,Medium (3-5),<50L,1,4,4,3,11,Warm,53.8,Medium,400,0.5514,2
+L0266,Property Portal,Portal_Featured_Project,Hyderabad,Apartment,2,44.6,1,1,3,0,4,26.6,5,1,0,Nurturing,0,0,0,6,8,24h+,Medium (3-5),<50L,1,3,4,2,9,Warm,44.3,Medium,666,0.2803,7
+L0267,Google Ads,GAds_Search_Brand,Lucknow,Apartment,3,77.8,8,1,6,0,2,0.9,13,1,0,Nurturing,0,0,0,16,9,0-2h,Low (1-2),50-100L,1,1,1,5,7,Cool,59.0,High,311,0.5976,2
+L0268,Property Portal,Portal_Basic_Listing,Hyderabad,Plot,0,50.7,3,3,2,1,1,4.1,0,1,1,Negotiation,0,0,0,11,6,2-6h,Low (1-2),50-100L,2,5,1,4,10,Warm,73.6,High,93,0.6034,2
+L0269,Property Portal,Portal_Premium_Listing,Gurugram,Commercial,0,228.0,4,3,1,0,3,22.1,3,0,0,Lost,0,0,0,11,7,6-24h,Medium (3-5),200L+,0,4,3,4,11,Warm,40.5,Medium,801,0.3523,5
+L0270,Property Portal,Portal_Basic_Listing,Lucknow,Apartment,4,88.4,3,0,2,0,2,5.5,11,1,1,New / Uncontacted,0,0,0,5,4,2-6h,Low (1-2),50-100L,1,2,1,2,5,Cold,44.9,Medium,640,0.2322,8
+L0271,Property Portal,Portal_Basic_Listing,Bengaluru,Commercial,0,125.6,4,2,0,0,3,16.9,14,0,0,Nurturing,0,0,0,8,5,6-24h,Medium (3-5),100-200L,0,1,3,3,7,Cool,35.8,Low,987,0.1531,10
+L0272,Property Portal,Portal_Basic_Listing,Lucknow,Builder Floor,3,93.4,5,1,1,0,7,13.0,4,0,1,Nurturing,0,0,0,8,9,6-24h,High (6+),50-100L,0,3,5,3,11,Warm,44.5,Medium,656,0.2758,7
+L0273,Property Portal,Portal_Basic_Listing,Gurugram,Villa,5,199.9,2,0,0,0,1,9.2,16,1,0,Lost,0,0,0,2,1,6-24h,Low (1-2),100-200L,1,1,1,1,3,Cold,37.2,Low,937,0.1832,9
+L0274,Instagram,IG_Reels_Showcase,Bengaluru,Villa,3,122.6,1,1,2,0,1,6.7,3,0,1,Lost,0,0,0,5,4,6-24h,Low (1-2),100-200L,0,4,1,2,7,Cool,34.8,Low,1023,0.2106,9
+L0275,Website,Web_Chatbot,Ghaziabad,Villa,3,159.7,2,0,1,0,3,1.1,3,1,1,Booked,1,0,0,3,4,0-2h,Medium (3-5),100-200L,1,4,3,1,8,Cool,47.5,Medium,562,0.4724,3
+L0276,Google Ads,GAds_Search_Generic,Jaipur,Plot,0,37.3,1,1,0,0,4,7.9,11,1,1,Lost,0,0,0,3,5,6-24h,Medium (3-5),<50L,1,2,4,1,7,Cool,45.0,Medium,634,0.2991,6
+L0277,Google Ads,GAds_Display_Remarketing,Hyderabad,Builder Floor,2,97.7,2,3,0,0,1,8.3,11,0,1,Nurturing,0,0,0,8,4,6-24h,Low (1-2),50-100L,0,2,1,3,6,Cool,35.9,Low,981,0.2885,7
+L0278,Instagram,IG_Influencer_Tour,Gurugram,Builder Floor,3,265.5,4,1,4,0,2,7.7,19,0,0,Lost,0,0,0,10,7,6-24h,Low (1-2),200L+,0,1,1,4,6,Cool,38.2,Low,896,0.2962,6
+L0279,Referral,Ref_Broker_Network,Gurugram,Apartment,2,61.6,3,3,1,0,3,36.5,28,1,0,Booked,1,0,0,10,7,24h+,Medium (3-5),50-100L,1,1,3,4,8,Cool,38.6,Low,876,0.3919,4
+L0280,Referral,Ref_Existing_Customer,Noida,Apartment,2,94.3,2,0,1,0,3,8.9,3,0,0,Lost,0,0,0,3,4,6-24h,Medium (3-5),50-100L,0,4,3,1,8,Cool,35.1,Low,1011,0.3438,6
+L0281,Property Portal,Portal_Premium_Listing,Ghaziabad,Villa,4,108.0,4,2,0,0,2,10.8,3,0,0,Lost,0,0,0,8,4,6-24h,Low (1-2),100-200L,0,4,1,3,8,Cool,38.8,Low,869,0.2074,9
+L0282,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,3,144.3,6,4,2,1,2,9.9,2,1,1,Booked,1,0,0,16,8,6-24h,Low (1-2),100-200L,2,4,1,5,10,Warm,78.9,High,38,0.8157,1
+L0283,Property Portal,Portal_Featured_Project,Pune,Apartment,1,95.7,7,0,2,0,4,7.8,2,0,1,New / Uncontacted,0,0,0,9,6,6-24h,Medium (3-5),50-100L,0,4,4,4,12,Hot,44.5,Medium,657,0.2581,7
+L0284,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,1,119.9,2,0,0,0,4,6.4,24,0,1,Lost,0,0,0,2,4,6-24h,Medium (3-5),100-200L,0,1,4,1,6,Cool,31.1,Low,1131,0.1476,10
+L0285,Instagram,IG_Lead_Form,Pune,Apartment,3,62.0,1,1,3,0,7,5.7,2,0,0,Lost,0,0,0,6,11,2-6h,High (6+),50-100L,0,4,5,2,11,Warm,44.9,Medium,641,0.3004,6
+L0286,Google Ads,GAds_Search_Generic,Gurugram,Villa,3,192.8,1,0,1,1,5,4.6,3,0,0,Booked,1,0,0,2,6,2-6h,Medium (3-5),100-200L,1,4,5,1,10,Warm,58.5,High,323,0.3885,5
+L0287,Property Portal,Portal_Premium_Listing,Ghaziabad,Villa,3,211.7,2,0,1,0,3,10.4,2,0,1,Nurturing,0,0,0,3,4,6-24h,Medium (3-5),200L+,0,4,3,1,8,Cool,34.8,Low,1024,0.2069,9
+L0288,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,118.5,8,1,0,0,1,6.3,10,0,1,New / Uncontacted,0,0,0,10,2,6-24h,Low (1-2),100-200L,0,2,1,4,7,Cool,39.2,Low,853,0.2319,8
+L0289,Instagram,IG_Lead_Form,Pune,Apartment,2,102.0,10,3,7,0,4,7.7,10,1,1,Booked,1,0,0,23,14,6-24h,Medium (3-5),100-200L,1,2,4,5,11,Warm,69.4,High,152,0.5841,2
+L0290,Property Portal,Portal_Basic_Listing,Lucknow,Apartment,3,43.8,1,1,1,0,2,3.0,11,1,0,Nurturing,0,0,0,4,4,2-6h,Low (1-2),<50L,1,2,1,1,4,Cold,44.4,Medium,660,0.2212,8
+L0291,Referral,Ref_Broker_Network,Ghaziabad,Apartment,2,71.8,1,1,3,0,6,8.9,1,0,1,Nurturing,0,0,0,6,10,6-24h,High (6+),50-100L,0,5,5,2,12,Hot,44.2,Medium,673,0.3335,6
+L0292,Property Portal,Portal_Featured_Project,Bengaluru,Villa,3,386.1,2,0,1,0,1,21.0,9,1,1,Lost,0,0,0,3,2,6-24h,Low (1-2),200L+,1,2,1,1,4,Cold,36.5,Low,958,0.2265,8
+L0293,Walk-in,Walkin_Site_Hoarding,Jaipur,Builder Floor,2,78.8,2,0,0,0,5,4.9,8,1,1,Lost,0,0,0,2,5,2-6h,Medium (3-5),50-100L,1,2,5,1,8,Cool,47.2,Medium,574,0.5163,3
+L0294,Property Portal,Portal_Featured_Project,Gurugram,Builder Floor,2,221.8,1,0,1,0,5,36.5,4,0,1,Lost,0,0,0,2,6,24h+,Medium (3-5),200L+,0,3,5,1,9,Warm,28.3,Low,1170,0.26,7
+L0295,Referral,Ref_Broker_Network,Hyderabad,Builder Floor,2,88.0,1,4,2,0,4,6.9,18,0,0,Lost,0,0,0,11,10,6-24h,Medium (3-5),50-100L,0,1,4,5,10,Warm,43.2,Medium,720,0.3512,5
+L0296,Referral,Ref_Existing_Customer,Ghaziabad,Commercial,0,100.5,8,2,1,0,2,4.6,18,1,0,Lost,0,0,0,13,5,2-6h,Low (1-2),100-200L,1,1,1,5,7,Cool,53.0,Medium,416,0.5093,3
+L0297,Walk-in,Walkin_Sales_Office,Noida,Villa,3,245.9,0,3,2,0,4,5.9,18,1,1,Booked,1,0,0,8,9,2-6h,Medium (3-5),200L+,1,1,4,3,8,Cool,49.9,Medium,490,0.4459,4
+L0298,Referral,Ref_Existing_Customer,Lucknow,Builder Floor,4,87.3,6,5,4,1,5,2.7,3,0,1,Booked,1,0,0,20,14,2-6h,Medium (3-5),50-100L,1,4,5,5,14,Hot,80.7,High,29,0.6451,1
+L0299,Website,Web_Organic,Noida,Builder Floor,4,79.9,4,1,3,1,2,0.9,15,1,1,Booked,1,0,0,9,6,0-2h,Low (1-2),50-100L,2,1,1,4,6,Cool,70.1,High,139,0.5152,3
+L0300,Instagram,IG_Reels_Showcase,Gurugram,Apartment,2,79.1,3,1,3,1,4,8.4,7,0,0,Nurturing,0,0,0,8,8,6-24h,Medium (3-5),50-100L,1,2,4,3,9,Warm,61.9,High,265,0.4497,4
+L0301,Website,Web_Chatbot,Bengaluru,Commercial,0,220.5,5,4,2,1,2,17.2,4,1,0,Booked,1,0,0,15,8,6-24h,Low (1-2),200L+,2,3,1,5,9,Warm,75.0,High,76,0.6683,1
+L0302,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,125.2,4,0,1,0,6,7.3,0,0,0,Lost,0,0,0,5,7,6-24h,High (6+),100-200L,0,5,5,2,12,Hot,43.7,Medium,695,0.2717,7
+L0303,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,3,165.5,3,2,2,0,4,8.9,3,1,0,Nurturing,0,0,0,9,8,6-24h,Medium (3-5),100-200L,1,4,4,4,12,Hot,53.9,Medium,397,0.4263,4
+L0304,Instagram,IG_Influencer_Tour,Hyderabad,Commercial,0,270.7,2,1,5,0,4,4.1,9,1,0,Lost,0,0,0,9,10,2-6h,Medium (3-5),200L+,1,2,4,4,10,Warm,53.9,Medium,398,0.3226,6
+L0305,Referral,Ref_Existing_Customer,Pune,Villa,4,217.0,2,1,0,0,3,17.4,5,0,1,New / Uncontacted,0,0,0,4,4,6-24h,Medium (3-5),200L+,0,3,3,1,7,Cool,33.1,Low,1074,0.2136,9
+L0306,Google Ads,GAds_Search_Brand,Pune,Apartment,2,77.3,4,2,1,1,3,5.7,3,1,1,Booked,1,0,0,9,6,2-6h,Medium (3-5),50-100L,2,4,3,4,11,Warm,73.3,High,100,0.5917,2
+L0307,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,138.4,1,3,0,0,7,8.7,2,1,1,Nurturing,0,0,0,7,10,6-24h,High (6+),100-200L,1,4,5,3,12,Hot,55.2,High,377,0.4111,4
+L0308,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,2,115.5,2,2,0,0,1,1.6,9,1,0,Lost,0,0,0,6,3,0-2h,Low (1-2),100-200L,1,2,1,2,5,Cold,46.1,Medium,611,0.2803,7
+L0309,Property Portal,Portal_Basic_Listing,Ghaziabad,Builder Floor,2,57.3,3,0,2,0,5,4.6,7,0,1,Lost,0,0,0,5,7,2-6h,Medium (3-5),50-100L,0,2,5,2,9,Warm,41.1,Medium,783,0.1689,10
+L0310,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,57.5,3,0,2,0,3,9.6,12,0,0,New / Uncontacted,0,0,0,5,5,6-24h,Medium (3-5),50-100L,0,1,3,2,6,Cool,35.0,Low,1014,0.1338,10
+L0311,Google Ads,GAds_Search_Brand,Jaipur,Commercial,0,114.0,3,1,1,0,5,11.2,11,0,0,New / Uncontacted,0,0,0,6,7,6-24h,Medium (3-5),100-200L,0,2,5,2,9,Warm,39.3,Low,850,0.128,10
+L0312,Google Ads,GAds_Search_Brand,Jaipur,Commercial,0,90.2,3,0,4,0,2,13.1,4,0,0,Lost,0,0,0,7,6,6-24h,Low (1-2),50-100L,0,3,1,3,7,Cool,36.6,Low,955,0.2031,9
+L0313,Property Portal,Portal_Basic_Listing,Gurugram,Builder Floor,4,131.8,1,1,3,0,1,2.7,8,1,0,Lost,0,0,0,6,5,2-6h,Low (1-2),100-200L,1,2,1,2,5,Cold,46.0,Medium,613,0.2651,7
+L0314,Google Ads,GAds_Search_Generic,Pune,Builder Floor,4,159.0,4,0,0,0,2,2.6,1,0,0,New / Uncontacted,0,0,0,4,2,2-6h,Low (1-2),100-200L,0,5,1,1,7,Cool,37.1,Low,940,0.1875,9
+L0315,Google Ads,GAds_Search_Generic,Noida,Apartment,2,107.6,2,1,0,0,1,12.8,10,0,0,Nurturing,0,0,0,4,2,6-24h,Low (1-2),100-200L,0,2,1,1,4,Cold,30.0,Low,1147,0.1507,10
+L0316,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,88.2,3,1,0,0,2,4.1,2,0,0,Nurturing,0,0,1,5,3,2-6h,Low (1-2),50-100L,0,4,1,2,7,Cool,37.6,Low,919,0.2476,8
+L0317,Google Ads,GAds_Search_Generic,Gurugram,Villa,3,128.2,2,2,3,0,5,11.1,2,0,1,Lost,0,0,0,9,10,6-24h,Medium (3-5),100-200L,0,4,5,4,13,Hot,45.2,Medium,627,0.3113,6
+L0318,Website,Web_Chatbot,Noida,Apartment,2,90.2,4,0,1,1,3,1.5,5,1,0,Negotiation,0,0,0,5,4,0-2h,Medium (3-5),50-100L,2,3,3,2,8,Cool,69.3,High,153,0.575,2
+L0319,Google Ads,GAds_Search_Generic,Noida,Apartment,3,105.2,3,2,4,0,5,4.2,9,0,0,Booked,1,0,0,11,11,2-6h,Medium (3-5),100-200L,0,2,5,5,12,Hot,48.0,Medium,546,0.3899,5
+L0320,Walk-in,Walkin_Sales_Office,Gurugram,Apartment,1,61.5,0,3,1,0,1,4.8,3,1,0,Nurturing,0,0,0,7,5,2-6h,Low (1-2),50-100L,1,4,1,3,8,Cool,47.8,Medium,554,0.4977,3
+L0321,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,3,83.5,3,2,1,0,3,6.7,7,1,0,Nurturing,0,0,0,8,6,6-24h,Medium (3-5),50-100L,1,2,3,3,8,Cool,50.8,Medium,467,0.575,2
+L0322,Google Ads,GAds_Display_Remarketing,Noida,Apartment,4,61.5,3,0,1,1,1,2.3,3,0,1,Negotiation,0,0,0,4,2,2-6h,Low (1-2),50-100L,1,4,1,1,6,Cool,55.0,High,381,0.3324,6
+L0323,Google Ads,GAds_Search_Brand,Gurugram,Villa,4,253.9,4,0,2,0,5,1.2,9,0,0,Lost,0,0,0,6,7,0-2h,Medium (3-5),200L+,0,2,5,2,9,Warm,42.9,Medium,727,0.3745,5
+L0324,Instagram,IG_Lead_Form,Gurugram,Plot,0,136.1,2,0,3,0,4,5.2,5,1,1,Lost,0,0,0,5,7,2-6h,Medium (3-5),100-200L,1,3,4,2,9,Warm,49.8,Medium,493,0.4344,4
+L0325,Referral,Ref_Broker_Network,Ghaziabad,Builder Floor,3,163.9,5,3,2,0,4,7.3,0,0,0,Nurturing,0,0,0,13,9,6-24h,Medium (3-5),100-200L,0,5,4,5,14,Hot,50.0,Medium,487,0.5701,2
+L0326,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,35.2,2,1,0,0,2,12.2,3,0,0,Nurturing,0,0,0,4,3,6-24h,Low (1-2),<50L,0,4,2,1,7,Cool,33.6,Low,1055,0.1609,10
+L0327,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,3,76.7,5,3,4,1,2,3.3,15,1,0,Booked,1,0,0,15,9,2-6h,Low (1-2),50-100L,2,1,2,5,8,Cool,76.6,High,60,0.7073,1
+L0328,Instagram,IG_Reels_Showcase,Ghaziabad,Plot,0,56.8,1,0,1,0,4,20.1,20,0,1,New / Uncontacted,0,0,0,2,5,6-24h,Medium (3-5),50-100L,0,1,4,1,6,Cool,27.8,Low,1175,0.0996,10
+L0329,Instagram,IG_Lead_Form,Noida,Builder Floor,3,119.7,0,1,3,0,3,9.5,6,0,0,Nurturing,0,0,0,5,7,6-24h,Medium (3-5),100-200L,0,3,3,2,8,Cool,36.5,Low,959,0.1919,9
+L0330,Google Ads,GAds_Search_Generic,Noida,Apartment,2,94.9,7,1,3,0,4,18.7,2,0,1,Lost,0,0,0,12,8,6-24h,Medium (3-5),50-100L,0,4,4,5,13,Hot,44.7,Medium,645,0.3714,5
+L0331,Website,Web_Chatbot,Gurugram,Commercial,0,186.8,3,2,1,0,4,4.3,9,0,1,Lost,0,0,0,8,7,2-6h,Medium (3-5),100-200L,0,2,4,3,9,Warm,42.7,Medium,735,0.2126,9
+L0332,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,3,176.0,4,5,2,1,5,1.0,6,1,1,Booked,1,0,0,16,12,0-2h,Medium (3-5),100-200L,2,3,5,5,13,Hot,85.7,High,13,0.7403,1
+L0333,Website,Web_Chatbot,Hyderabad,Apartment,1,132.4,5,0,1,0,5,8.2,13,0,0,Nurturing,0,0,0,6,6,6-24h,Medium (3-5),100-200L,0,1,5,2,8,Cool,39.7,Low,835,0.1549,10
+L0334,Referral,Ref_Existing_Customer,Hyderabad,Apartment,3,62.1,3,5,2,1,3,4.5,1,0,1,Lost,0,0,0,15,10,2-6h,Medium (3-5),50-100L,1,5,3,5,13,Hot,71.3,High,121,0.7133,1
+L0335,Property Portal,Portal_Featured_Project,Lucknow,Apartment,2,79.3,0,1,3,0,2,12.2,8,1,1,Nurturing,0,0,0,5,6,6-24h,Low (1-2),50-100L,1,2,2,2,6,Cool,43.5,Medium,702,0.3133,6
+L0336,Instagram,IG_Reels_Showcase,Jaipur,Apartment,2,82.0,1,1,0,0,3,2.3,21,1,0,Lost,0,0,0,3,4,2-6h,Medium (3-5),50-100L,1,1,3,1,5,Cold,42.6,Medium,737,0.2369,8
+L0337,Property Portal,Portal_Featured_Project,Ghaziabad,Builder Floor,3,90.2,2,1,0,0,2,5.0,5,0,0,Lost,0,0,0,4,3,2-6h,Low (1-2),50-100L,0,3,2,1,6,Cool,35.3,Low,1003,0.2105,9
+L0338,Website,Web_Organic,Bengaluru,Plot,0,106.2,6,2,1,0,3,13.0,2,0,0,Booked,1,0,0,11,6,6-24h,Medium (3-5),100-200L,0,4,3,5,12,Hot,43.6,Medium,697,0.2894,7
+L0339,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,4,104.1,3,1,0,1,1,8.2,17,0,0,Lost,0,0,0,5,2,6-24h,Low (1-2),100-200L,1,1,1,2,4,Cold,50.9,Medium,464,0.2387,8
+L0340,Walk-in,Walkin_Sales_Office,Bengaluru,Builder Floor,2,132.5,4,4,2,0,2,4.0,2,1,1,Nurturing,0,0,0,14,8,2-6h,Low (1-2),100-200L,1,4,2,5,11,Warm,58.4,High,324,0.5763,2
+L0341,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,2,93.9,2,0,2,1,4,23.3,2,1,0,Lost,0,0,0,4,6,6-24h,Medium (3-5),50-100L,2,4,4,1,9,Warm,63.7,High,246,0.474,3
+L0342,Walk-in,Walkin_Sales_Office,Lucknow,Plot,0,21.7,0,2,1,1,4,2.0,8,1,1,Booked,1,0,0,5,7,0-2h,Medium (3-5),<50L,2,2,4,2,8,Cool,70.0,High,140,0.6546,1
+L0343,Referral,Ref_Broker_Network,Bengaluru,Apartment,2,91.8,4,0,1,0,7,17.9,6,0,0,Booked,1,0,1,5,8,6-24h,High (6+),50-100L,0,3,5,2,10,Warm,38.9,Low,865,0.329,6
+L0344,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,3,77.2,4,2,2,0,1,13.7,2,0,1,Nurturing,0,0,0,10,5,6-24h,Low (1-2),50-100L,0,4,1,4,9,Warm,38.9,Low,866,0.3222,6
+L0345,Website,Web_Organic,Gurugram,Builder Floor,4,87.8,1,0,2,0,2,5.0,3,1,0,Lost,0,0,0,3,4,2-6h,Low (1-2),50-100L,1,4,2,1,7,Cool,44.6,Medium,649,0.435,4
+L0346,Website,Web_Brochure_Download,Hyderabad,Villa,3,356.8,3,4,3,0,4,3.8,7,0,0,New / Uncontacted,0,0,0,14,11,2-6h,Medium (3-5),200L+,0,2,4,5,11,Warm,50.5,Medium,481,0.4653,3
+L0347,Walk-in,Walkin_Sales_Office,Noida,Plot,0,72.2,0,1,4,0,4,11.8,20,0,0,Nurturing,0,0,0,6,9,6-24h,Medium (3-5),50-100L,0,1,4,2,7,Cool,35.2,Low,1004,0.2754,7
+L0348,Property Portal,Portal_Basic_Listing,Hyderabad,Builder Floor,4,112.8,3,0,1,1,1,8.8,3,0,1,Booked,1,0,0,4,2,6-24h,Low (1-2),100-200L,1,4,1,1,6,Cool,53.0,Medium,417,0.1906,9
+L0349,Instagram,IG_Lead_Form,Bengaluru,Plot,0,58.7,7,0,0,0,2,3.7,1,0,0,Nurturing,0,0,0,7,2,2-6h,Low (1-2),50-100L,0,5,2,3,10,Warm,40.3,Medium,812,0.2423,8
+L0350,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,91.5,5,1,0,0,2,5.6,2,0,1,New / Uncontacted,0,0,0,7,3,2-6h,Low (1-2),50-100L,0,4,2,3,9,Warm,39.5,Low,842,0.2732,7
+L0351,Instagram,IG_Reels_Showcase,Pune,Apartment,3,122.0,4,1,2,0,2,4.8,4,0,0,New / Uncontacted,0,0,0,8,5,2-6h,Low (1-2),100-200L,0,3,2,3,8,Cool,40.4,Medium,807,0.2226,8
+L0352,Property Portal,Portal_Premium_Listing,Noida,Apartment,1,61.8,2,0,2,0,1,4.8,3,0,1,New / Uncontacted,0,0,0,4,3,2-6h,Low (1-2),50-100L,0,4,1,1,6,Cool,34.2,Low,1041,0.2114,9
+L0353,Instagram,IG_Lead_Form,Bengaluru,Apartment,2,97.3,2,1,2,0,3,5.5,8,1,1,Lost,0,0,0,6,6,2-6h,Medium (3-5),50-100L,1,2,3,2,7,Cool,48.5,Medium,531,0.3589,5
+L0354,Instagram,IG_Lead_Form,Bengaluru,Apartment,3,132.1,2,0,2,1,1,1.0,4,0,0,Lost,0,0,0,4,3,0-2h,Low (1-2),100-200L,1,3,1,1,5,Cold,55.2,High,378,0.3279,6
+L0355,Google Ads,GAds_Display_Remarketing,Pune,Builder Floor,3,55.5,3,1,1,1,2,5.5,2,0,0,Negotiation,0,0,0,6,4,2-6h,Low (1-2),50-100L,1,4,2,2,8,Cool,58.3,High,328,0.3353,6
+L0356,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,2,95.6,1,0,1,0,2,4.2,20,0,0,Nurturing,0,0,0,2,3,2-6h,Low (1-2),50-100L,0,1,2,1,4,Cold,29.4,Low,1156,0.0762,10
+L0357,Website,Web_Chatbot,Noida,Builder Floor,4,89.9,1,1,1,0,3,1.5,2,1,0,Booked,1,0,0,4,5,0-2h,Medium (3-5),50-100L,1,4,3,1,8,Cool,48.8,Medium,523,0.4055,4
+L0358,Website,Web_Brochure_Download,Gurugram,Builder Floor,4,126.9,5,1,1,0,8,4.7,3,1,1,Booked,1,0,0,8,10,2-6h,High (6+),100-200L,1,4,5,3,12,Hot,57.4,High,339,0.4835,3
+L0359,Google Ads,GAds_Search_Generic,Lucknow,Villa,4,120.8,1,1,1,0,3,4.4,2,0,0,Nurturing,0,0,0,4,5,2-6h,Medium (3-5),100-200L,0,4,3,1,8,Cool,37.9,Low,907,0.195,9
+L0360,Instagram,IG_Lead_Form,Noida,Villa,4,207.8,2,2,1,0,2,25.7,2,0,1,Nurturing,0,0,0,7,5,24h+,Low (1-2),200L+,0,4,2,3,9,Warm,33.2,Low,1070,0.2317,8
+L0361,Walk-in,Walkin_Sales_Office,Lucknow,Apartment,3,117.6,2,4,2,0,2,3.5,2,1,0,Lost,0,0,0,12,8,2-6h,Low (1-2),100-200L,1,4,2,5,11,Warm,56.1,High,366,0.5858,2
+L0362,Property Portal,Portal_Featured_Project,Gurugram,Apartment,2,93.7,5,1,3,0,2,11.5,0,0,1,Lost,0,0,0,10,6,6-24h,Low (1-2),50-100L,0,5,2,4,11,Warm,41.7,Medium,766,0.3351,6
+L0363,Property Portal,Portal_Featured_Project,Ghaziabad,Builder Floor,4,89.4,6,0,6,0,2,13.2,1,0,1,Nurturing,0,0,0,12,8,6-24h,Low (1-2),50-100L,0,5,2,5,12,Hot,43.4,Medium,710,0.3238,6
+L0364,Property Portal,Portal_Premium_Listing,Lucknow,Builder Floor,2,152.8,4,3,3,1,2,3.1,2,1,0,Booked,1,0,0,13,8,2-6h,Low (1-2),100-200L,2,4,2,5,11,Warm,77.5,High,53,0.7756,1
+L0365,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,3,80.4,9,6,3,1,2,4.3,1,1,0,Booked,1,0,0,24,11,2-6h,Low (1-2),50-100L,2,5,2,5,12,Hot,90.5,High,2,0.8391,1
+L0366,Google Ads,GAds_Search_Generic,Gurugram,Apartment,2,198.2,1,0,1,0,3,5.8,4,0,0,Booked,1,1,0,2,4,2-6h,Medium (3-5),100-200L,0,3,3,1,7,Cool,34.6,Low,1031,0.2125,9
+L0367,Website,Web_Brochure_Download,Hyderabad,Villa,3,216.4,3,0,1,0,4,7.9,17,0,0,Nurturing,0,0,0,4,5,6-24h,Medium (3-5),200L+,0,1,4,1,6,Cool,34.8,Low,1025,0.1557,10
+L0368,Website,Web_Chatbot,Lucknow,Villa,4,268.7,3,0,1,0,3,11.0,1,0,1,Nurturing,0,0,0,4,4,6-24h,Medium (3-5),200L+,0,5,3,1,9,Warm,36.1,Low,974,0.1935,9
+L0369,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,82.9,1,1,0,0,4,5.2,2,0,1,Nurturing,0,0,0,3,5,2-6h,Medium (3-5),50-100L,0,4,4,1,9,Warm,38.2,Low,897,0.2247,8
+L0370,Referral,Ref_Broker_Network,Lucknow,Apartment,3,66.8,3,7,3,0,5,7.6,25,1,1,Booked,1,0,0,20,15,6-24h,Medium (3-5),50-100L,1,1,5,5,11,Warm,63.7,High,247,0.5426,2
+L0371,Website,Web_Brochure_Download,Lucknow,Plot,0,43.0,4,2,2,1,3,4.0,7,0,0,Lost,0,0,0,10,7,2-6h,Medium (3-5),<50L,1,2,3,4,9,Warm,64.0,High,235,0.472,3
+L0372,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,4,84.4,2,0,2,0,2,1.8,19,0,1,Lost,0,0,0,4,4,0-2h,Low (1-2),50-100L,0,1,2,1,4,Cold,32.8,Low,1087,0.1865,9
+L0373,Google Ads,GAds_Search_Brand,Lucknow,Plot,0,45.2,4,2,2,1,3,5.1,1,0,0,Lost,0,0,0,10,7,2-6h,Medium (3-5),<50L,1,5,3,4,12,Hot,65.2,High,211,0.4535,3
+L0374,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,112.9,2,1,0,0,3,2.4,0,0,1,Lost,0,0,0,4,4,2-6h,Medium (3-5),100-200L,0,5,3,1,9,Warm,39.0,Low,860,0.3271,6
+L0375,Property Portal,Portal_Featured_Project,Ghaziabad,Builder Floor,2,80.4,6,1,1,0,3,5.7,13,1,1,Nurturing,0,0,0,9,5,2-6h,Medium (3-5),50-100L,1,1,3,4,8,Cool,50.8,Medium,468,0.3848,5
+L0376,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,2,53.7,0,0,0,0,1,4.5,0,1,0,Nurturing,0,0,0,0,1,2-6h,Low (1-2),50-100L,1,5,1,1,7,Cool,40.3,Medium,813,0.302,6
+L0377,Walk-in,Walkin_Site_Hoarding,Lucknow,Apartment,2,55.0,0,1,2,0,1,13.1,17,0,1,New / Uncontacted,0,0,0,4,4,6-24h,Low (1-2),50-100L,0,1,1,1,3,Cold,28.1,Low,1174,0.2084,9
+L0378,Google Ads,GAds_Display_Remarketing,Bengaluru,Commercial,0,220.8,2,0,0,0,7,5.5,0,1,1,Booked,1,0,0,2,7,2-6h,High (6+),200L+,1,5,5,1,11,Warm,50.7,Medium,474,0.3744,5
+L0379,Google Ads,GAds_Search_Generic,Gurugram,Apartment,2,161.2,0,0,0,0,1,3.6,14,0,0,Nurturing,0,0,0,0,1,2-6h,Low (1-2),100-200L,0,1,1,1,3,Cold,27.1,Low,1182,0.2121,9
+L0380,Website,Web_Organic,Hyderabad,Commercial,0,114.0,5,3,0,0,5,4.5,8,0,0,Lost,0,0,0,11,8,2-6h,Medium (3-5),100-200L,0,2,5,5,12,Hot,48.1,Medium,543,0.3807,5
+L0381,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,3,77.2,1,1,4,0,3,9.5,14,1,1,Nurturing,0,0,0,7,8,6-24h,Medium (3-5),50-100L,1,1,3,3,7,Cool,46.9,Medium,580,0.3201,6
+L0382,Walk-in,Walkin_Site_Hoarding,Hyderabad,Plot,0,75.4,4,0,2,0,2,13.5,1,0,1,Lost,0,0,0,6,4,6-24h,Low (1-2),50-100L,0,5,2,2,9,Warm,36.1,Low,975,0.2482,8
+L0383,Website,Web_Chatbot,Bengaluru,Commercial,0,266.3,4,1,2,1,1,3.0,1,0,1,Lost,0,0,0,8,4,2-6h,Low (1-2),200L+,1,5,1,3,9,Warm,60.1,High,290,0.416,4
+L0384,Google Ads,GAds_Display_Remarketing,Noida,Builder Floor,3,156.1,2,1,1,0,4,2.7,2,0,0,Nurturing,0,0,0,5,6,2-6h,Medium (3-5),100-200L,0,4,4,2,10,Warm,41.3,Medium,775,0.2547,7
+L0385,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,1,38.7,2,1,2,0,1,23.1,4,1,1,Booked,1,0,0,6,4,6-24h,Low (1-2),<50L,1,3,1,2,6,Cool,40.7,Medium,796,0.1765,10
+L0386,Walk-in,Walkin_Sales_Office,Noida,Villa,4,180.5,1,1,1,1,2,5.5,0,1,0,Nurturing,0,0,0,4,4,2-6h,Low (1-2),100-200L,2,5,2,1,8,Cool,66.4,High,195,0.4856,3
+L0387,Website,Web_Organic,Bengaluru,Builder Floor,3,89.2,2,2,3,0,5,7.6,9,1,0,Lost,0,0,0,9,10,6-24h,Medium (3-5),50-100L,1,2,5,4,11,Warm,54.5,Medium,384,0.4889,3
+L0388,Walk-in,Walkin_Sales_Office,Jaipur,Commercial,0,87.4,1,0,1,0,2,3.3,9,1,0,Nurturing,0,0,0,2,3,2-6h,Low (1-2),50-100L,1,2,2,1,5,Cold,42.4,Medium,747,0.4198,4
+L0389,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,2,184.1,6,0,1,1,1,6.5,4,0,0,Nurturing,0,0,0,7,2,6-24h,Low (1-2),100-200L,1,3,1,3,7,Cool,57.0,High,349,0.4392,4
+L0390,Referral,Ref_Broker_Network,Hyderabad,Apartment,2,54.7,2,1,4,0,5,15.4,3,1,0,Lost,0,0,0,8,10,6-24h,Medium (3-5),50-100L,1,4,5,3,12,Hot,52.4,Medium,430,0.3528,5
+L0391,Instagram,IG_Influencer_Tour,Noida,Apartment,2,46.8,7,0,2,1,3,6.0,3,1,0,Booked,1,0,0,9,5,2-6h,Medium (3-5),<50L,2,4,3,4,11,Warm,73.2,High,102,0.5807,2
+L0392,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,107.8,6,7,2,0,2,10.4,4,0,1,Nurturing,0,0,0,22,11,6-24h,Low (1-2),100-200L,0,3,2,5,10,Warm,55.5,High,372,0.4952,3
+L0393,Instagram,IG_Influencer_Tour,Pune,Commercial,0,152.6,0,2,4,0,1,7.2,0,1,1,Lost,0,0,0,8,7,6-24h,Low (1-2),100-200L,1,5,1,3,9,Warm,49.0,Medium,516,0.3787,5
+L0394,Website,Web_Brochure_Download,Noida,Apartment,2,102.5,3,0,0,0,3,3.0,13,0,0,Nurturing,0,0,0,3,3,2-6h,Medium (3-5),100-200L,0,1,3,1,5,Cold,34.4,Low,1035,0.1511,10
+L0395,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,167.8,3,0,1,1,2,3.7,3,0,1,Nurturing,0,0,0,4,3,2-6h,Low (1-2),100-200L,1,4,2,1,7,Cool,56.2,High,362,0.3651,5
+L0396,Google Ads,GAds_Display_Remarketing,Bengaluru,Commercial,0,235.4,3,1,3,0,4,2.5,20,0,1,Nurturing,0,0,0,8,8,2-6h,Medium (3-5),200L+,0,1,4,3,8,Cool,40.5,Medium,802,0.2934,7
+L0397,Referral,Ref_Broker_Network,Noida,Apartment,2,44.5,1,0,2,0,1,9.2,0,0,1,Booked,1,0,0,3,3,6-24h,Low (1-2),<50L,0,5,1,1,7,Cool,32.4,Low,1098,0.2332,8
+L0398,Google Ads,GAds_Search_Generic,Jaipur,Apartment,3,90.9,6,0,1,0,4,11.6,6,0,1,Nurturing,0,0,0,7,5,6-24h,Medium (3-5),50-100L,0,3,4,3,10,Warm,40.0,Medium,820,0.1905,9
+L0399,Google Ads,GAds_Display_Remarketing,Gurugram,Villa,4,225.9,6,2,2,1,1,5.5,7,0,1,Booked,1,0,0,12,5,2-6h,Low (1-2),200L+,1,2,1,5,8,Cool,62.6,High,259,0.435,4
+L0400,Google Ads,GAds_Search_Generic,Pune,Villa,5,267.4,2,0,0,1,3,5.1,1,1,0,Booked,1,0,0,2,3,2-6h,Medium (3-5),200L+,2,5,3,1,9,Warm,65.6,High,206,0.3906,5
+L0401,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,51.9,5,1,4,0,5,2.7,24,1,0,Booked,1,0,0,11,10,2-6h,Medium (3-5),50-100L,1,1,5,5,11,Warm,54.7,Medium,383,0.509,3
+L0402,Walk-in,Walkin_Sales_Office,Hyderabad,Plot,0,66.1,2,2,2,0,4,7.5,14,0,1,Lost,0,0,0,8,8,6-24h,Medium (3-5),50-100L,0,1,4,3,8,Cool,40.4,Medium,808,0.244,8
+L0403,Website,Web_Chatbot,Hyderabad,Builder Floor,2,123.8,4,1,0,0,1,1.9,7,1,0,Lost,0,0,0,6,2,0-2h,Low (1-2),100-200L,1,2,1,2,5,Cold,46.5,Medium,596,0.2719,7
+L0404,Property Portal,Portal_Premium_Listing,Gurugram,Commercial,0,251.8,1,3,3,0,2,3.4,26,0,1,Nurturing,0,0,0,10,8,2-6h,Low (1-2),200L+,0,1,2,4,7,Cool,37.8,Low,910,0.2932,7
+L0405,Walk-in,Walkin_Sales_Office,Ghaziabad,Plot,0,26.8,1,3,1,0,3,12.8,7,1,0,Booked,1,0,0,8,7,6-24h,Medium (3-5),<50L,1,2,3,3,8,Cool,48.8,Medium,524,0.4334,4
+L0406,Referral,Ref_Broker_Network,Jaipur,Plot,0,44.5,4,1,1,0,5,4.9,11,1,0,Lost,0,0,0,7,7,2-6h,Medium (3-5),<50L,1,2,5,3,10,Warm,52.4,Medium,431,0.3993,4
+L0407,Google Ads,GAds_Search_Brand,Pune,Builder Floor,3,74.7,3,0,0,0,3,5.8,2,0,0,Lost,0,1,0,3,3,2-6h,Medium (3-5),50-100L,0,4,3,1,8,Cool,36.3,Low,967,0.2505,8
+L0408,Referral,Ref_Existing_Customer,Lucknow,Apartment,2,71.6,0,2,0,1,2,6.1,1,0,0,Nurturing,0,0,0,4,4,6-24h,Low (1-2),50-100L,1,5,2,1,8,Cool,56.0,High,367,0.4697,3
+L0409,Property Portal,Portal_Basic_Listing,Noida,Builder Floor,2,137.2,3,1,1,0,1,20.0,27,1,0,Lost,0,0,0,6,3,6-24h,Low (1-2),100-200L,1,1,1,2,4,Cold,35.9,Low,982,0.2013,9
+L0410,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,129.5,0,4,2,0,5,9.0,4,1,1,Nurturing,0,0,0,10,11,6-24h,Medium (3-5),100-200L,1,3,5,4,12,Hot,56.5,High,357,0.6294,1
+L0411,Website,Web_Brochure_Download,Hyderabad,Villa,3,179.1,1,0,3,0,3,3.4,9,0,1,Nurturing,0,0,0,4,6,2-6h,Medium (3-5),100-200L,0,2,3,2,7,Cool,36.5,Low,960,0.2239,8
+L0412,Instagram,IG_Reels_Showcase,Lucknow,Apartment,1,83.0,3,1,1,0,2,3.4,1,0,0,Nurturing,0,0,0,6,4,2-6h,Low (1-2),50-100L,0,5,2,2,9,Warm,39.2,Low,854,0.1598,10
+L0413,Property Portal,Portal_Premium_Listing,Bengaluru,Builder Floor,3,198.9,3,2,3,1,4,3.4,2,1,0,Booked,1,0,0,10,9,2-6h,Medium (3-5),100-200L,2,4,4,4,12,Hot,77.1,High,56,0.6814,1
+L0414,Referral,Ref_Broker_Network,Lucknow,Apartment,3,33.8,5,2,2,1,3,6.9,8,1,0,Booked,1,1,0,11,7,6-24h,Medium (3-5),<50L,2,2,3,5,10,Warm,74.0,High,88,0.6692,1
+L0415,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,3,111.5,3,1,0,0,4,5.7,6,0,0,New / Uncontacted,0,0,0,5,5,2-6h,Medium (3-5),100-200L,0,3,4,2,9,Warm,39.4,Low,846,0.15,10
+L0416,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,115.4,4,1,1,0,4,5.5,1,1,1,Nurturing,0,0,0,7,6,2-6h,Medium (3-5),100-200L,1,5,4,3,12,Hot,53.1,Medium,414,0.3969,4
+L0417,Property Portal,Portal_Basic_Listing,Noida,Villa,4,180.9,4,1,2,1,3,4.7,4,1,0,Negotiation,0,0,0,8,6,2-6h,Medium (3-5),100-200L,2,3,3,3,9,Warm,72.1,High,113,0.5484,2
+L0418,Website,Web_Chatbot,Hyderabad,Plot,0,43.2,2,0,0,1,2,6.8,10,0,0,Nurturing,0,0,0,2,2,6-24h,Low (1-2),<50L,1,2,2,1,5,Cold,51.1,Medium,463,0.2176,8
+L0419,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,3,125.2,0,1,4,0,4,3.3,6,1,1,Nurturing,0,0,0,6,9,2-6h,Medium (3-5),100-200L,1,3,4,3,10,Warm,51.3,Medium,458,0.4295,4
+L0420,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Plot,0,30.7,1,1,0,0,2,19.1,5,0,0,Nurturing,0,0,0,3,3,6-24h,Low (1-2),<50L,0,3,2,1,6,Cool,29.7,Low,1151,0.1823,9
+L0421,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,43.9,3,1,2,1,4,2.9,13,1,0,Booked,1,0,0,7,7,2-6h,Medium (3-5),<50L,2,1,4,3,8,Cool,70.9,High,126,0.5203,3
+L0422,Property Portal,Portal_Basic_Listing,Lucknow,Apartment,3,59.2,5,2,2,0,2,6.0,0,0,0,Nurturing,0,0,0,11,6,2-6h,Low (1-2),50-100L,0,5,2,5,12,Hot,44.6,Medium,650,0.2887,7
+L0423,Property Portal,Portal_Premium_Listing,Lucknow,Villa,3,185.0,0,1,2,1,3,1.4,11,0,0,Booked,1,0,0,4,6,0-2h,Medium (3-5),100-200L,1,2,3,2,7,Cool,56.6,High,355,0.3457,5
+L0424,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,84.3,4,3,2,0,5,5.2,2,1,1,Nurturing,0,0,0,12,10,2-6h,Medium (3-5),50-100L,1,4,5,5,14,Hot,60.6,High,285,0.5559,2
+L0425,Instagram,IG_Lead_Form,Hyderabad,Apartment,3,70.8,2,2,5,1,3,2.2,4,0,0,Negotiation,0,0,0,11,10,2-6h,Medium (3-5),50-100L,1,3,3,5,11,Warm,66.5,High,192,0.528,2
+L0426,Referral,Ref_Broker_Network,Unknown,Builder Floor,3,137.7,5,0,2,0,2,2.9,30,0,1,Booked,1,0,0,7,4,2-6h,Low (1-2),100-200L,0,1,2,3,6,Cool,33.3,Low,1064,0.2404,8
+L0427,Property Portal,Portal_Featured_Project,Pune,Apartment,3,122.7,3,3,1,0,2,36.5,1,0,0,Nurturing,0,0,0,10,6,24h+,Low (1-2),100-200L,0,5,2,4,11,Warm,33.7,Low,1051,0.2306,8
+L0428,Referral,Ref_Broker_Network,Noida,Plot,0,134.7,2,3,4,0,3,8.6,33,1,1,Booked,1,0,0,12,10,6-24h,Medium (3-5),100-200L,1,1,3,5,9,Warm,48.5,Medium,532,0.5601,2
+L0429,Property Portal,Portal_Featured_Project,Noida,Commercial,0,77.9,6,1,1,1,2,14.7,3,0,0,Negotiation,0,0,0,9,4,6-24h,Low (1-2),50-100L,1,4,2,4,10,Warm,58.8,High,319,0.3618,5
+L0430,Referral,Ref_Existing_Customer,Pune,Plot,0,70.6,2,0,0,1,2,13.0,1,0,0,Nurturing,0,0,0,2,2,6-24h,Low (1-2),50-100L,1,5,2,1,8,Cool,51.4,Medium,455,0.2805,7
+L0431,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Builder Floor,3,55.2,2,1,2,0,2,14.8,2,0,1,Lost,0,0,0,6,5,6-24h,Low (1-2),50-100L,0,4,2,3,9,Warm,35.4,Low,996,0.2131,9
+L0432,Website,Web_Chatbot,Pune,Builder Floor,3,156.1,2,0,0,0,3,7.1,5,0,1,Lost,0,0,0,2,3,6-24h,Medium (3-5),100-200L,0,3,3,1,7,Cool,33.9,Low,1048,0.2165,9
+L0433,Website,Web_Organic,Noida,Commercial,0,95.0,2,2,3,0,1,21.3,0,1,0,Nurturing,0,0,0,9,6,6-24h,Low (1-2),50-100L,1,5,1,4,10,Warm,45.8,Medium,618,0.3964,4
+L0434,Referral,Ref_Broker_Network,Hyderabad,Apartment,1,71.1,6,1,1,0,2,12.4,10,0,1,Lost,0,0,0,9,4,6-24h,Low (1-2),50-100L,0,2,2,4,8,Cool,37.8,Low,911,0.262,7
+L0435,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,3,79.3,0,1,0,1,4,6.7,7,1,0,Booked,1,0,0,2,5,6-24h,Medium (3-5),50-100L,2,2,4,1,7,Cool,65.2,High,212,0.5662,2
+L0436,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,4,120.2,5,1,3,0,3,7.0,3,1,1,Lost,0,0,0,10,7,6-24h,Medium (3-5),100-200L,1,4,3,4,11,Warm,54.1,Medium,393,0.5195,3
+L0437,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,92.4,8,2,1,0,4,4.5,0,0,1,Lost,0,0,0,13,7,2-6h,Medium (3-5),50-100L,0,5,4,5,14,Hot,50.9,Medium,465,0.3692,5
+L0438,Instagram,IG_Influencer_Tour,Ghaziabad,Apartment,2,75.5,4,1,1,1,3,5.2,5,1,1,Booked,1,0,0,7,5,2-6h,Medium (3-5),50-100L,2,3,3,3,9,Warm,70.5,High,133,0.5837,2
+L0439,Website,Web_Organic,Ghaziabad,Apartment,1,63.6,4,3,0,0,4,5.0,1,0,1,Nurturing,0,0,0,10,7,2-6h,Medium (3-5),50-100L,0,5,4,4,13,Hot,46.9,Medium,581,0.3769,5
+L0440,Instagram,IG_Influencer_Tour,Jaipur,Builder Floor,2,47.7,5,1,2,0,2,8.6,13,1,1,Lost,0,0,0,9,5,6-24h,Low (1-2),<50L,1,1,2,4,7,Cool,48.2,Medium,541,0.3923,4
+L0441,Referral,Ref_Existing_Customer,Gurugram,Apartment,4,135.5,0,1,2,0,2,27.8,13,0,0,Nurturing,0,0,0,4,5,24h+,Low (1-2),100-200L,0,1,2,2,5,Cold,26.2,Low,1187,0.2181,8
+L0442,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,81.0,2,0,1,0,4,3.0,21,0,0,Nurturing,0,0,0,3,5,2-6h,Medium (3-5),50-100L,0,1,4,1,6,Cool,34.1,Low,1042,0.1587,10
+L0443,Website,Web_Chatbot,Ghaziabad,Apartment,2,95.7,2,0,1,0,1,17.4,0,0,0,Nurturing,0,0,0,3,2,6-24h,Low (1-2),50-100L,0,5,1,1,7,Cool,29.8,Low,1148,0.2185,8
+L0444,Property Portal,Portal_Featured_Project,Gurugram,Apartment,2,82.0,4,1,1,0,3,4.4,5,0,1,Booked,1,0,0,7,5,2-6h,Medium (3-5),50-100L,0,3,3,3,9,Warm,40.8,Medium,793,0.212,9
+L0445,Property Portal,Portal_Featured_Project,Ghaziabad,Plot,0,26.7,3,0,1,0,5,20.2,17,0,1,Nurturing,0,0,0,4,6,6-24h,Medium (3-5),<50L,0,1,5,2,8,Cool,32.6,Low,1094,0.1509,10
+L0446,Website,Web_Brochure_Download,Gurugram,Apartment,4,103.8,3,2,0,0,1,4.5,12,0,1,Lost,0,0,0,7,3,2-6h,Low (1-2),100-200L,0,1,1,3,5,Cold,35.7,Low,990,0.2243,8
+L0447,Walk-in,Walkin_Site_Hoarding,Gurugram,Villa,3,386.1,2,0,0,0,3,10.6,5,0,0,New / Uncontacted,0,0,0,2,3,6-24h,Medium (3-5),200L+,0,3,3,1,7,Cool,32.8,Low,1088,0.3116,6
+L0448,Instagram,IG_Lead_Form,Pune,Villa,4,219.0,2,0,0,1,2,8.0,1,0,1,Negotiation,0,0,0,2,2,6-24h,Low (1-2),200L+,1,5,2,1,8,Cool,53.0,Medium,418,0.3334,6
+L0449,Property Portal,Portal_Premium_Listing,Ghaziabad,Apartment,2,59.4,4,2,0,0,6,1.2,2,1,1,Booked,1,0,0,8,8,0-2h,High (6+),50-100L,1,4,5,3,12,Hot,58.7,High,321,0.5262,2
+L0450,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,34.5,3,2,1,0,5,27.2,8,1,0,Lost,0,0,0,8,8,24h+,Medium (3-5),<50L,1,2,5,3,10,Warm,47.4,Medium,566,0.4199,4
+L0451,Property Portal,Portal_Premium_Listing,Jaipur,Villa,3,266.4,1,0,2,0,2,3.5,11,0,1,Lost,0,0,0,3,4,2-6h,Low (1-2),200L+,0,2,2,1,5,Cold,33.1,Low,1075,0.1761,10
+L0452,Referral,Ref_Existing_Customer,Bengaluru,Builder Floor,3,86.1,3,0,0,0,5,8.4,4,0,0,Booked,1,0,0,3,5,6-24h,Medium (3-5),50-100L,0,3,5,1,9,Warm,38.3,Low,894,0.2827,7
+L0453,Website,Web_Organic,Ghaziabad,Apartment,1,49.5,3,0,2,0,7,2.3,7,0,0,Nurturing,0,0,0,5,9,2-6h,High (6+),<50L,0,2,5,2,9,Warm,43.5,Medium,703,0.2805,7
+L0454,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,3,73.2,4,2,0,0,3,1.5,13,0,0,New / Uncontacted,0,0,0,8,5,0-2h,Medium (3-5),50-100L,0,1,3,3,7,Cool,40.9,Medium,788,0.212,9
+L0455,Property Portal,Portal_Basic_Listing,Hyderabad,Commercial,0,75.2,1,0,2,0,4,5.6,2,0,1,Nurturing,0,0,0,3,6,2-6h,Medium (3-5),50-100L,0,4,4,1,9,Warm,38.0,Low,903,0.1526,10
+L0456,Property Portal,Portal_Premium_Listing,Jaipur,Plot,0,68.7,1,2,3,1,1,3.9,1,0,0,Negotiation,0,0,0,8,6,2-6h,Low (1-2),50-100L,1,5,1,3,9,Warm,59.8,High,296,0.3988,4
+L0457,Walk-in,Walkin_Site_Hoarding,Hyderabad,Commercial,0,179.2,3,4,1,0,7,1.8,6,0,1,Booked,1,0,0,12,12,0-2h,High (6+),100-200L,0,3,5,5,13,Hot,52.3,Medium,435,0.4388,4
+L0458,Google Ads,GAds_Display_Remarketing,Unknown,Commercial,0,213.7,4,0,0,0,3,9.2,2,0,1,Booked,1,0,0,4,3,6-24h,Medium (3-5),200L+,0,4,3,2,9,Warm,36.4,Low,964,0.2113,9
+L0459,Website,Web_Chatbot,Noida,Apartment,2,100.3,10,1,5,0,4,1.1,1,1,1,Booked,1,0,0,17,10,0-2h,Medium (3-5),100-200L,1,5,4,5,14,Hot,66.5,High,193,0.6627,1
+L0460,Instagram,IG_Lead_Form,Lucknow,Plot,0,41.6,2,4,3,1,5,3.6,1,1,1,Negotiation,0,0,0,13,12,2-6h,Medium (3-5),<50L,2,5,5,5,15,Hot,82.6,High,22,0.7185,1
+L0461,Instagram,IG_Reels_Showcase,Pune,Apartment,3,59.5,1,0,1,0,1,10.7,13,0,0,Nurturing,0,0,0,2,2,6-24h,Low (1-2),50-100L,0,1,1,1,3,Cold,27.5,Low,1179,0.0889,10
+L0462,Property Portal,Portal_Basic_Listing,Hyderabad,Plot,0,62.8,4,1,0,1,2,0.8,4,1,0,Lost,0,0,0,6,3,0-2h,Low (1-2),50-100L,2,3,2,3,8,Cool,69.3,High,154,0.4354,4
+L0463,Walk-in,Walkin_Site_Hoarding,Lucknow,Apartment,3,42.6,1,1,2,0,2,4.7,25,0,0,Lost,0,0,0,5,5,2-6h,Low (1-2),<50L,0,1,2,2,5,Cold,31.6,Low,1119,0.2395,8
+L0464,Google Ads,GAds_Search_Generic,Noida,Apartment,3,97.8,2,1,0,0,1,9.3,1,0,1,Lost,0,0,0,4,2,6-24h,Low (1-2),50-100L,0,5,1,2,8,Cool,33.3,Low,1065,0.2657,7
+L0465,Instagram,IG_Reels_Showcase,Jaipur,Villa,3,191.0,2,1,2,0,3,2.8,6,1,1,Booked,1,0,0,6,6,2-6h,Medium (3-5),100-200L,1,3,3,3,9,Warm,49.8,Medium,494,0.3018,6
+L0466,Website,Web_Organic,Noida,Plot,0,101.4,5,1,3,0,2,7.4,4,1,1,Booked,1,0,0,10,6,6-24h,Low (1-2),100-200L,1,3,2,4,9,Warm,52.0,Medium,442,0.5136,3
+L0467,Instagram,IG_Reels_Showcase,Bengaluru,Builder Floor,3,140.7,3,1,2,0,6,8.7,8,1,0,Lost,0,0,0,7,9,6-24h,High (6+),100-200L,1,2,5,3,10,Warm,53.7,Medium,404,0.4172,4
+L0468,Walk-in,Walkin_Sales_Office,Lucknow,Apartment,4,82.9,1,0,0,0,2,3.3,3,0,1,Lost,0,0,0,1,2,2-6h,Low (1-2),50-100L,0,4,2,1,7,Cool,32.8,Low,1089,0.2473,8
+L0469,Property Portal,Portal_Basic_Listing,Pune,Apartment,2,77.7,2,1,1,1,2,6.2,9,0,1,Booked,1,0,0,5,4,6-24h,Low (1-2),50-100L,1,2,2,2,6,Cool,55.1,High,379,0.3531,5
+L0470,Instagram,IG_Reels_Showcase,Bengaluru,Commercial,0,132.0,7,3,2,1,3,10.2,1,0,1,Booked,1,0,0,15,8,6-24h,Medium (3-5),100-200L,1,5,3,5,13,Hot,69.6,High,149,0.6202,1
+L0471,Google Ads,GAds_Search_Brand,Pune,Apartment,2,101.8,3,0,2,0,4,4.0,2,0,0,Nurturing,0,0,0,5,6,2-6h,Medium (3-5),100-200L,0,4,4,2,10,Warm,40.9,Medium,789,0.2763,7
+L0472,Google Ads,GAds_Display_Remarketing,Pune,Apartment,3,75.3,4,0,3,0,3,7.7,12,1,1,Nurturing,0,0,0,7,6,6-24h,Medium (3-5),50-100L,1,1,3,3,7,Cool,48.0,Medium,547,0.3683,5
+L0473,Property Portal,Portal_Basic_Listing,Bengaluru,Builder Floor,2,135.7,6,2,3,1,4,9.2,2,1,1,Lost,0,0,0,13,9,6-24h,Medium (3-5),100-200L,2,4,4,5,13,Hot,78.9,High,39,0.7853,1
+L0474,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,3,67.3,1,2,1,0,2,3.5,4,0,0,Nurturing,0,0,0,6,5,2-6h,Low (1-2),50-100L,0,3,2,3,8,Cool,38.4,Low,889,0.3251,6
+L0475,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,3,90.7,1,0,1,1,2,9.0,1,0,0,Negotiation,0,0,0,2,3,6-24h,Low (1-2),50-100L,1,5,2,1,8,Cool,52.7,Medium,423,0.343,6
+L0476,Google Ads,GAds_Search_Generic,Noida,Apartment,1,103.0,4,2,2,0,2,2.8,6,0,0,Booked,1,0,0,10,6,2-6h,Low (1-2),100-200L,0,3,2,4,9,Warm,42.9,Medium,728,0.2632,7
+L0477,Google Ads,GAds_Search_Generic,Jaipur,Plot,0,60.0,1,2,1,0,4,4.6,1,1,0,Lost,0,0,0,6,7,2-6h,Medium (3-5),50-100L,1,5,4,3,12,Hot,52.2,Medium,437,0.4036,4
+L0478,Instagram,IG_Influencer_Tour,Gurugram,Commercial,0,119.0,5,3,2,1,7,5.5,5,0,0,Booked,1,0,0,13,12,2-6h,High (6+),100-200L,1,3,5,5,13,Hot,72.6,High,109,0.5946,2
+L0479,Instagram,IG_Influencer_Tour,Bengaluru,Commercial,0,197.3,3,1,2,0,1,0.8,4,1,0,Lost,0,0,0,7,4,0-2h,Low (1-2),100-200L,1,3,1,3,7,Cool,48.8,Medium,525,0.3532,5
+L0480,Google Ads,GAds_Display_Remarketing,Pune,Builder Floor,3,90.7,1,2,1,1,1,5.7,2,0,0,Booked,1,0,0,6,4,2-6h,Low (1-2),50-100L,1,4,1,3,8,Cool,56.6,High,356,0.372,5
+L0481,Google Ads,GAds_Search_Brand,Lucknow,Apartment,3,60.3,1,0,0,0,4,12.0,13,0,0,Nurturing,0,0,0,1,4,6-24h,Medium (3-5),50-100L,0,1,4,1,6,Cool,30.9,Low,1135,0.1217,10
+L0482,Property Portal,Portal_Premium_Listing,Gurugram,Villa,3,386.1,2,0,0,0,2,7.9,2,0,1,New / Uncontacted,0,0,0,2,2,6-24h,Low (1-2),200L+,0,4,2,1,7,Cool,32.8,Low,1090,0.2142,9
+L0483,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,62.0,1,0,3,0,3,4.2,3,0,0,Nurturing,0,0,0,4,6,2-6h,Medium (3-5),50-100L,0,4,3,2,9,Warm,37.7,Low,915,0.1491,10
+L0484,Google Ads,GAds_Search_Brand,Pune,Builder Floor,4,144.3,2,1,2,0,2,3.8,20,0,0,Lost,0,0,0,6,5,2-6h,Low (1-2),100-200L,0,1,2,3,6,Cool,34.3,Low,1039,0.1154,10
+L0485,Property Portal,Portal_Featured_Project,Gurugram,Villa,3,386.1,4,2,3,0,3,8.1,6,0,0,Nurturing,0,0,0,11,8,6-24h,Medium (3-5),200L+,0,3,3,5,11,Warm,44.2,Medium,674,0.3555,5
+L0486,Google Ads,GAds_Search_Brand,Noida,Villa,3,154.8,1,2,0,1,4,6.1,10,0,0,Booked,1,0,0,5,6,6-24h,Medium (3-5),100-200L,1,2,4,2,8,Cool,58.3,High,329,0.3014,6
+L0487,Google Ads,GAds_Display_Remarketing,Hyderabad,Villa,4,153.0,5,1,2,0,5,6.4,3,1,0,Nurturing,0,0,0,9,8,6-24h,Medium (3-5),100-200L,1,4,5,4,13,Hot,56.4,High,360,0.3336,6
+L0488,Property Portal,Portal_Premium_Listing,Bengaluru,Villa,3,181.7,6,0,1,1,2,5.2,14,1,0,Lost,0,0,0,7,3,2-6h,Low (1-2),100-200L,2,1,2,3,6,Cool,66.6,High,188,0.5087,3
+L0489,Instagram,IG_Reels_Showcase,Gurugram,Apartment,3,96.1,6,1,0,0,3,4.5,19,0,1,Nurturing,0,0,0,8,4,2-6h,Medium (3-5),50-100L,0,1,3,3,7,Cool,38.4,Low,890,0.2149,9
+L0490,Instagram,IG_Reels_Showcase,Gurugram,Builder Floor,2,58.3,2,2,1,0,5,12.7,4,0,0,Nurturing,0,0,0,7,8,6-24h,Medium (3-5),50-100L,0,3,5,3,11,Warm,41.8,Medium,762,0.2014,9
+L0491,Website,Web_Organic,Hyderabad,Builder Floor,3,106.0,1,0,0,1,1,5.1,2,0,0,Lost,0,0,0,1,1,2-6h,Low (1-2),100-200L,1,4,1,1,6,Cool,50.8,Medium,469,0.2456,8
+L0492,Instagram,IG_Lead_Form,Pune,Apartment,1,71.3,3,2,4,0,5,13.3,2,1,0,Booked,1,0,0,11,11,6-24h,Medium (3-5),50-100L,1,4,5,5,14,Hot,56.9,High,350,0.459,3
+L0493,Instagram,IG_Lead_Form,Pune,Plot,0,83.2,5,0,1,0,2,19.6,6,1,1,Booked,1,0,0,6,3,6-24h,Low (1-2),50-100L,1,3,2,3,8,Cool,42.9,Medium,729,0.3115,6
+L0494,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,3,150.5,5,2,0,0,3,18.2,4,0,1,New / Uncontacted,0,0,0,9,5,6-24h,Medium (3-5),100-200L,0,3,3,4,10,Warm,39.1,Low,858,0.283,7
+L0495,Website,Web_Organic,Gurugram,Apartment,3,85.1,2,2,2,0,3,5.6,1,0,1,Lost,0,0,0,8,7,2-6h,Medium (3-5),50-100L,0,5,3,3,11,Warm,42.6,Medium,738,0.275,7
+L0496,Instagram,IG_Lead_Form,Noida,Plot,0,74.4,4,1,2,0,4,36.5,7,1,1,Nurturing,0,0,0,8,7,24h+,Medium (3-5),50-100L,1,2,4,3,9,Warm,43.1,Medium,722,0.4314,4
+L0497,Google Ads,GAds_Search_Generic,Pune,Villa,4,266.6,2,1,2,1,4,7.3,4,1,1,Booked,1,0,0,6,7,6-24h,Medium (3-5),200L+,2,3,4,3,10,Warm,70.6,High,132,0.5089,3
+L0498,Instagram,IG_Lead_Form,Noida,Villa,5,151.3,5,4,3,1,3,5.7,13,1,1,Negotiation,0,0,0,16,10,2-6h,Medium (3-5),100-200L,2,1,3,5,9,Warm,79.2,High,33,0.6764,1
+L0499,Google Ads,GAds_Display_Remarketing,Noida,Apartment,3,69.4,3,2,1,0,2,7.2,4,0,1,Lost,0,0,0,8,5,6-24h,Low (1-2),50-100L,0,3,2,3,8,Cool,39.7,Low,836,0.3161,6
+L0500,Instagram,IG_Reels_Showcase,Pune,Plot,0,29.0,5,0,3,0,6,1.6,5,1,0,Nurturing,0,0,0,8,9,0-2h,High (6+),<50L,1,3,5,3,11,Warm,57.8,High,336,0.5388,2
+L0501,Website,Web_Brochure_Download,Hyderabad,Apartment,3,61.4,2,1,1,0,3,23.5,11,0,1,Lost,0,0,0,5,5,6-24h,Medium (3-5),50-100L,0,2,3,2,7,Cool,30.9,Low,1136,0.1619,10
+L0502,Referral,Ref_Broker_Network,Bengaluru,Builder Floor,3,95.2,10,3,2,1,3,2.5,9,1,1,Lost,0,0,0,18,8,2-6h,Medium (3-5),50-100L,2,2,3,5,10,Warm,83.6,High,18,0.7837,1
+L0503,Walk-in,Walkin_Site_Hoarding,Lucknow,Apartment,4,61.6,0,1,2,0,4,16.1,18,0,0,Lost,0,0,0,4,7,6-24h,Medium (3-5),50-100L,0,1,4,2,7,Cool,31.9,Low,1111,0.2635,7
+L0504,Instagram,IG_Lead_Form,Lucknow,Villa,4,103.4,2,2,3,0,4,15.2,2,1,1,New / Uncontacted,0,0,0,9,9,6-24h,Medium (3-5),100-200L,1,4,4,4,12,Hot,52.2,Medium,438,0.3614,5
+L0505,Instagram,IG_Lead_Form,Lucknow,Villa,5,120.3,3,1,1,0,1,11.0,20,1,0,New / Uncontacted,0,0,0,6,3,6-24h,Low (1-2),100-200L,1,1,1,3,5,Cold,40.4,Medium,809,0.1719,10
+L0506,Website,Web_Chatbot,Ghaziabad,Builder Floor,2,52.6,2,0,2,0,2,3.8,8,0,0,Lost,0,0,0,4,4,2-6h,Low (1-2),50-100L,0,2,2,2,6,Cool,34.9,Low,1017,0.1955,9
+L0507,Google Ads,GAds_Search_Generic,Jaipur,Builder Floor,3,80.7,0,1,2,1,6,3.7,4,0,1,Nurturing,0,0,0,4,9,2-6h,High (6+),50-100L,1,3,5,2,10,Warm,62.6,High,260,0.3797,5
+L0508,Referral,Ref_Broker_Network,Lucknow,Plot,0,51.1,4,5,3,1,1,0.5,5,0,0,Booked,1,0,0,17,9,0-2h,Low (1-2),50-100L,1,3,1,5,9,Warm,70.7,High,129,0.7089,1
+L0509,Google Ads,GAds_Search_Brand,Jaipur,Villa,4,165.8,2,2,3,0,4,4.1,1,0,1,New / Uncontacted,0,0,0,9,9,2-6h,Medium (3-5),100-200L,0,5,4,4,13,Hot,45.9,Medium,616,0.2718,7
+L0510,Property Portal,Portal_Featured_Project,Hyderabad,Apartment,2,90.4,3,0,1,0,3,12.6,5,1,1,Nurturing,0,0,0,4,4,6-24h,Medium (3-5),50-100L,1,3,3,2,8,Cool,44.6,Medium,651,0.2542,7
+L0511,Property Portal,Portal_Premium_Listing,Hyderabad,Commercial,0,84.0,1,1,2,0,3,4.7,5,0,0,Lost,0,0,0,5,6,2-6h,Medium (3-5),50-100L,0,3,3,2,8,Cool,38.3,Low,895,0.1323,10
+L0512,Referral,Ref_Existing_Customer,Noida,Villa,3,159.4,0,2,2,0,3,4.6,1,0,1,Lost,0,0,0,6,7,2-6h,Medium (3-5),100-200L,0,5,3,3,11,Warm,40.5,Medium,803,0.3886,5
+L0513,Property Portal,Portal_Featured_Project,Ghaziabad,Commercial,0,88.4,2,2,0,0,2,6.1,6,0,0,Lost,0,0,0,6,4,6-24h,Low (1-2),50-100L,0,3,2,3,8,Cool,37.1,Low,941,0.1562,10
+L0514,Google Ads,GAds_Search_Brand,Gurugram,Commercial,0,145.9,1,1,2,1,3,21.1,4,0,0,Lost,0,0,0,5,6,6-24h,Medium (3-5),100-200L,1,3,3,2,8,Cool,53.4,Medium,410,0.3334,6
+L0515,Google Ads,GAds_Search_Generic,Ghaziabad,Commercial,0,104.7,8,0,0,0,2,6.4,1,0,1,Nurturing,0,0,0,8,2,6-24h,Low (1-2),100-200L,0,5,2,3,10,Warm,40.7,Medium,797,0.2407,8
+L0516,Property Portal,Portal_Featured_Project,Gurugram,Villa,5,386.1,2,2,0,1,4,24.9,1,1,1,Negotiation,0,0,0,6,6,24h+,Medium (3-5),200L+,2,5,4,3,12,Hot,65.8,High,202,0.4806,3
+L0517,Google Ads,GAds_Search_Generic,Gurugram,Builder Floor,3,176.7,1,2,1,0,1,5.8,2,1,0,Nurturing,0,1,0,6,4,2-6h,Low (1-2),100-200L,1,4,1,3,8,Cool,46.6,Medium,590,0.297,6
+L0518,Website,Web_Chatbot,Bengaluru,Apartment,2,69.0,6,1,1,0,3,7.2,0,0,1,Lost,0,0,0,9,5,6-24h,Medium (3-5),50-100L,0,5,3,4,12,Hot,43.6,Medium,698,0.3196,6
+L0519,Property Portal,Portal_Basic_Listing,Lucknow,Builder Floor,3,96.4,6,0,3,1,2,2.9,4,1,0,Booked,1,0,0,9,5,2-6h,Low (1-2),50-100L,2,3,2,4,9,Warm,72.2,High,112,0.6245,1
+L0520,Referral,Ref_Existing_Customer,Hyderabad,Plot,0,82.6,2,2,2,0,2,23.8,1,0,0,Nurturing,0,0,0,8,6,6-24h,Low (1-2),50-100L,0,5,2,3,10,Warm,35.2,Low,1005,0.3019,6
+L0521,Referral,Ref_Existing_Customer,Noida,Builder Floor,3,78.8,2,0,0,0,6,8.0,1,1,0,Booked,1,0,0,2,6,6-24h,High (6+),50-100L,1,5,5,1,11,Warm,49.6,Medium,502,0.437,4
+L0522,Google Ads,GAds_Display_Remarketing,Noida,Plot,0,81.4,2,1,0,0,1,36.5,2,0,1,Nurturing,0,0,0,4,2,24h+,Low (1-2),50-100L,0,4,1,2,7,Cool,24.6,Low,1192,0.1955,9
+L0523,Property Portal,Portal_Premium_Listing,Ghaziabad,Apartment,3,60.3,6,0,1,0,1,3.8,12,0,1,Nurturing,0,0,0,7,2,2-6h,Low (1-2),50-100L,0,1,1,3,5,Cold,35.9,Low,983,0.1619,10
+L0524,Instagram,IG_Lead_Form,Noida,Apartment,4,50.4,3,0,1,0,3,36.3,25,1,0,Lost,0,0,0,4,4,24h+,Medium (3-5),50-100L,1,1,3,2,6,Cool,32.2,Low,1103,0.2111,9
+L0525,Property Portal,Portal_Featured_Project,Gurugram,Builder Floor,4,156.0,4,3,2,0,3,5.0,3,1,0,Lost,0,0,0,12,8,2-6h,Medium (3-5),100-200L,1,4,3,5,12,Hot,57.1,High,346,0.5232,2
+L0526,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,3,97.1,2,2,0,0,3,12.4,6,0,0,Lost,0,0,0,6,5,6-24h,Medium (3-5),50-100L,0,3,3,3,9,Warm,36.8,Low,950,0.1868,9
+L0527,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,3,97.0,2,2,3,0,2,1.4,7,1,0,Lost,0,0,0,9,7,0-2h,Low (1-2),50-100L,1,2,2,4,8,Cool,51.9,Medium,446,0.4809,3
+L0528,Walk-in,Walkin_Sales_Office,Gurugram,Apartment,2,103.6,1,0,2,0,3,12.2,25,0,1,Nurturing,0,0,0,3,5,6-24h,Medium (3-5),100-200L,0,1,3,1,5,Cold,28.5,Low,1168,0.2502,8
+L0529,Website,Web_Organic,Jaipur,Plot,0,34.2,3,3,3,0,1,2.0,4,1,1,Nurturing,0,0,0,12,7,0-2h,Low (1-2),<50L,1,3,1,5,9,Warm,54.4,Medium,387,0.5202,3
+L0530,Google Ads,GAds_Search_Generic,Lucknow,Builder Floor,4,94.1,4,3,6,1,1,7.6,3,1,0,Lost,0,0,0,16,10,6-24h,Low (1-2),50-100L,2,4,1,5,10,Warm,77.7,High,52,0.6938,1
+L0531,Website,Web_Organic,Jaipur,Apartment,2,59.1,2,1,2,0,4,1.9,3,0,0,Nurturing,0,0,0,6,7,0-2h,Medium (3-5),50-100L,0,4,4,3,11,Warm,42.5,Medium,740,0.2448,8
+L0532,Website,Web_Chatbot,Ghaziabad,Apartment,2,67.6,2,2,1,0,4,7.8,10,0,0,Nurturing,0,0,0,7,7,6-24h,Medium (3-5),50-100L,0,2,4,3,9,Warm,40.1,Medium,818,0.1598,10
+L0533,Google Ads,GAds_Search_Brand,Bengaluru,Builder Floor,4,139.9,4,3,3,1,3,12.4,11,1,0,Nurturing,0,0,0,13,9,6-24h,Medium (3-5),100-200L,2,2,3,5,10,Warm,74.0,High,89,0.6564,1
+L0534,Instagram,IG_Lead_Form,Noida,Apartment,3,55.1,3,0,3,0,3,7.9,18,0,0,Nurturing,0,0,0,6,6,6-24h,Medium (3-5),50-100L,0,1,3,3,7,Cool,35.2,Low,1006,0.163,10
+L0535,Property Portal,Portal_Basic_Listing,Lucknow,Villa,3,105.3,1,4,2,1,2,1.4,7,0,0,Booked,1,0,0,11,8,0-2h,Low (1-2),100-200L,1,2,2,5,9,Warm,64.3,High,228,0.5321,2
+L0536,Property Portal,Portal_Premium_Listing,Pune,Plot,0,29.2,1,0,4,1,3,1.0,4,1,0,Negotiation,0,0,0,5,7,0-2h,Medium (3-5),<50L,2,3,3,2,8,Cool,69.7,High,144,0.6098,2
+L0537,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,3,118.8,1,0,0,0,2,10.4,11,1,0,Nurturing,0,0,0,1,2,6-24h,Low (1-2),100-200L,1,2,2,1,5,Cold,38.5,Low,884,0.2076,9
+L0538,Property Portal,Portal_Basic_Listing,Ghaziabad,Builder Floor,3,52.8,1,0,2,0,5,5.7,9,1,0,Lost,0,1,0,3,7,2-6h,Medium (3-5),50-100L,1,2,5,1,8,Cool,47.9,Medium,551,0.2962,6
+L0539,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,2,62.8,1,0,1,0,4,3.9,1,1,0,Nurturing,0,0,0,2,5,2-6h,Medium (3-5),50-100L,1,5,4,1,10,Warm,47.6,Medium,558,0.4093,4
+L0540,Referral,Ref_Existing_Customer,Noida,Apartment,2,93.9,6,3,4,0,4,22.2,22,0,0,Lost,0,0,0,16,11,6-24h,Medium (3-5),50-100L,0,1,4,5,10,Warm,43.4,Medium,711,0.5359,2
+L0541,Walk-in,Walkin_Site_Hoarding,Gurugram,Plot,0,95.1,1,1,2,0,3,7.3,3,0,0,Nurturing,0,0,0,5,6,6-24h,Medium (3-5),50-100L,0,4,3,2,9,Warm,38.0,Low,904,0.3042,6
+L0542,Instagram,IG_Influencer_Tour,Noida,Builder Floor,2,68.6,3,1,2,1,1,0.9,3,1,0,Booked,1,0,0,7,4,0-2h,Low (1-2),50-100L,2,4,1,3,8,Cool,69.0,High,160,0.4786,3
+L0543,Referral,Ref_Broker_Network,Pune,Plot,0,61.8,2,1,2,0,2,1.5,4,1,0,New / Uncontacted,0,0,0,6,5,0-2h,Low (1-2),50-100L,1,3,2,3,8,Cool,49.1,Medium,514,0.413,4
+L0544,Walk-in,Walkin_Sales_Office,Gurugram,Apartment,3,188.4,0,1,0,0,7,10.2,9,0,0,Lost,0,0,0,2,8,6-24h,High (6+),100-200L,0,2,5,1,8,Cool,37.0,Low,943,0.3514,5
+L0545,Property Portal,Portal_Basic_Listing,Pune,Apartment,2,157.2,5,0,1,0,2,7.2,2,1,0,Lost,0,0,0,6,3,6-24h,Low (1-2),100-200L,1,4,2,3,9,Warm,47.8,Medium,555,0.2703,7
+L0546,Google Ads,GAds_Search_Brand,Noida,Builder Floor,3,147.6,1,0,1,0,1,16.6,1,1,1,Lost,0,0,0,2,2,6-24h,Low (1-2),100-200L,1,5,1,1,7,Cool,38.6,Low,877,0.2264,8
+L0547,Google Ads,GAds_Search_Generic,Bengaluru,Builder Floor,2,139.0,5,1,1,1,4,2.3,3,1,0,Negotiation,0,0,0,8,6,2-6h,Medium (3-5),100-200L,2,4,4,3,11,Warm,74.8,High,80,0.6749,1
+L0548,Property Portal,Portal_Featured_Project,Bengaluru,Commercial,0,109.7,3,0,2,0,3,7.2,15,0,0,Lost,0,0,0,5,5,6-24h,Medium (3-5),100-200L,0,1,3,2,6,Cool,35.0,Low,1015,0.1009,10
+L0549,Website,Web_Brochure_Download,Noida,Apartment,4,106.1,5,2,3,0,1,5.1,1,0,0,Nurturing,0,0,0,12,6,2-6h,Low (1-2),100-200L,0,5,1,5,11,Warm,44.2,Medium,675,0.4375,4
+L0550,Google Ads,GAds_Search_Generic,Noida,Plot,0,57.2,2,1,1,0,3,5.5,3,0,0,Lost,0,0,0,5,5,2-6h,Medium (3-5),50-100L,0,4,3,2,9,Warm,38.5,Low,885,0.1618,10
+L0551,Google Ads,GAds_Search_Brand,Noida,Plot,0,73.6,3,1,1,0,1,5.4,2,0,0,Lost,0,0,0,6,3,2-6h,Low (1-2),50-100L,0,4,1,3,8,Cool,36.7,Low,952,0.1672,10
+L0552,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,3,99.0,1,2,1,1,3,3.9,5,1,0,Booked,1,0,0,6,6,2-6h,Medium (3-5),50-100L,2,3,3,3,9,Warm,69.7,High,145,0.6106,2
+L0553,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,4,98.8,2,0,1,0,4,7.0,19,0,0,Lost,0,0,0,3,5,6-24h,Medium (3-5),50-100L,0,1,4,1,6,Cool,33.3,Low,1066,0.1442,10
+L0554,Referral,Ref_Existing_Customer,Jaipur,Builder Floor,2,80.5,1,4,2,1,6,6.8,3,0,0,Booked,1,0,0,11,12,6-24h,High (6+),50-100L,1,4,5,5,14,Hot,70.3,High,135,0.5718,2
+L0555,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,3,65.4,4,1,1,1,2,8.2,4,0,0,Negotiation,0,0,0,7,4,6-24h,Low (1-2),50-100L,1,3,2,3,8,Cool,58.2,High,330,0.2915,7
+L0556,Property Portal,Portal_Basic_Listing,Bengaluru,Plot,0,85.0,1,1,4,1,4,21.3,4,0,0,Lost,0,0,0,7,9,6-24h,Medium (3-5),50-100L,1,3,4,3,10,Warm,57.4,High,340,0.296,6
+L0557,Google Ads,GAds_Search_Brand,Lucknow,Builder Floor,4,62.1,3,2,3,1,1,1.5,2,1,1,Negotiation,0,0,0,10,6,0-2h,Low (1-2),50-100L,2,4,1,4,9,Warm,72.7,High,108,0.5704,2
+L0558,Google Ads,GAds_Search_Generic,Lucknow,Commercial,0,60.0,3,5,5,1,5,1.0,6,0,1,Nurturing,0,0,0,18,15,0-2h,Medium (3-5),50-100L,1,3,5,5,13,Hot,78.1,High,47,0.7154,1
+L0559,Instagram,IG_Lead_Form,Hyderabad,Villa,3,381.4,4,3,2,1,2,10.9,3,1,0,Negotiation,0,0,0,12,7,6-24h,Low (1-2),200L+,2,4,2,5,11,Warm,73.6,High,94,0.6421,1
+L0560,Google Ads,GAds_Search_Generic,Noida,Builder Floor,2,249.7,3,3,2,1,5,3.1,4,0,0,Booked,1,0,0,11,10,2-6h,Medium (3-5),200L+,1,3,5,5,13,Hot,69.6,High,150,0.6204,1
+L0561,Property Portal,Portal_Basic_Listing,Bengaluru,Villa,3,273.7,1,2,1,0,5,4.8,17,1,1,Lost,0,0,0,6,8,2-6h,Medium (3-5),200L+,1,1,5,3,9,Warm,49.8,Medium,495,0.2841,7
+L0562,Property Portal,Portal_Featured_Project,Noida,Builder Floor,2,65.7,6,4,4,1,3,2.6,27,1,0,Booked,1,0,0,18,11,2-6h,Medium (3-5),50-100L,2,1,3,5,9,Warm,79.0,High,36,0.7104,1
+L0563,Referral,Ref_Broker_Network,Lucknow,Commercial,0,73.2,3,3,1,0,3,3.9,23,0,0,Nurturing,0,0,0,10,7,2-6h,Medium (3-5),50-100L,0,1,3,4,8,Cool,40.0,Medium,821,0.316,6
+L0564,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,2,107.6,7,1,1,1,2,2.2,2,0,1,Booked,1,0,0,10,4,2-6h,Low (1-2),100-200L,1,4,2,4,10,Warm,64.1,High,231,0.4282,4
+L0565,Instagram,IG_Influencer_Tour,Pune,Commercial,0,220.7,7,2,3,1,4,2.4,4,1,0,Lost,0,0,0,14,9,2-6h,Medium (3-5),200L+,2,3,4,5,12,Hot,81.7,High,24,0.7715,1
+L0566,Website,Web_Brochure_Download,Pune,Plot,0,41.4,4,0,0,0,5,10.2,2,1,1,Nurturing,0,0,0,4,5,6-24h,Medium (3-5),<50L,1,4,5,2,11,Warm,49.4,Medium,504,0.3121,6
+L0567,Website,Web_Organic,Gurugram,Plot,0,73.7,4,3,1,1,2,5.5,2,1,1,Nurturing,0,1,0,11,6,2-6h,Low (1-2),50-100L,2,4,2,5,11,Warm,74.3,High,83,0.7349,1
+L0568,Property Portal,Portal_Premium_Listing,Lucknow,Builder Floor,3,81.4,2,0,0,0,3,12.7,20,0,0,Lost,0,0,0,2,3,6-24h,Medium (3-5),50-100L,0,1,3,1,5,Cold,28.4,Low,1169,0.12,10
+L0569,Google Ads,GAds_Display_Remarketing,Ghaziabad,Plot,0,63.3,1,2,2,0,3,3.5,12,1,0,New / Uncontacted,0,0,0,7,7,2-6h,Medium (3-5),50-100L,1,1,3,3,7,Cool,49.3,Medium,511,0.3715,5
+L0570,Instagram,IG_Lead_Form,Jaipur,Apartment,2,53.2,3,4,5,1,6,7.4,3,1,1,Booked,1,0,0,16,15,6-24h,High (6+),50-100L,2,4,5,5,14,Hot,86.1,High,11,0.7218,1
+L0571,Google Ads,GAds_Search_Generic,Lucknow,Plot,0,25.5,2,1,3,1,3,4.0,3,0,0,Lost,0,0,0,7,7,2-6h,Medium (3-5),<50L,1,4,3,3,10,Warm,61.4,High,272,0.3816,5
+L0572,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,3,79.2,3,3,0,0,8,1.2,4,0,0,Lost,0,0,0,9,11,0-2h,High (6+),50-100L,0,3,5,4,12,Hot,49.4,Medium,505,0.4741,3
+L0573,Google Ads,GAds_Search_Generic,Gurugram,Apartment,1,155.7,1,1,2,0,6,10.4,9,0,0,Nurturing,0,0,0,5,9,6-24h,High (6+),100-200L,0,2,5,2,9,Warm,40.5,Medium,804,0.1828,9
+L0574,Website,Web_Chatbot,Gurugram,Apartment,2,102.0,6,2,1,0,4,8.5,3,0,1,Nurturing,0,0,0,11,7,6-24h,Medium (3-5),100-200L,0,4,4,5,13,Hot,46.5,Medium,597,0.3984,4
+L0575,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,3,73.5,1,1,3,0,4,4.7,1,0,1,Lost,0,0,0,6,8,2-6h,Medium (3-5),50-100L,0,5,4,3,12,Hot,42.2,Medium,752,0.3344,6
+L0576,Instagram,IG_Lead_Form,Noida,Apartment,2,69.9,4,2,2,0,5,16.0,7,1,0,New / Uncontacted,0,0,0,10,9,6-24h,Medium (3-5),50-100L,1,2,5,4,11,Warm,53.6,Medium,406,0.42,4
+L0577,Referral,Ref_Existing_Customer,Bengaluru,Plot,0,53.2,5,3,1,0,2,4.1,2,0,0,Booked,1,0,0,12,6,2-6h,Low (1-2),50-100L,0,4,2,5,11,Warm,45.9,Medium,617,0.4053,4
+L0578,Instagram,IG_Influencer_Tour,Pune,Apartment,2,123.5,4,1,2,1,2,7.0,6,1,0,Lost,0,0,0,8,5,6-24h,Low (1-2),100-200L,2,3,2,3,8,Cool,69.2,High,156,0.6505,1
+L0579,Referral,Ref_Existing_Customer,Noida,Villa,3,226.8,2,4,0,1,2,18.2,3,0,1,Nurturing,0,0,0,10,6,6-24h,Low (1-2),200L+,1,4,2,4,10,Warm,58.9,High,314,0.5328,2
+L0580,Google Ads,GAds_Search_Generic,Pune,Apartment,1,102.4,0,1,1,0,2,6.2,19,0,0,Lost,0,0,0,3,4,6-24h,Low (1-2),100-200L,0,1,2,1,4,Cold,30.2,Low,1146,0.1409,10
+L0581,Google Ads,GAds_Display_Remarketing,Bengaluru,Plot,0,121.0,2,0,1,0,1,6.7,8,0,0,Lost,0,0,0,3,2,6-24h,Low (1-2),100-200L,0,2,1,1,4,Cold,31.2,Low,1129,0.1747,10
+L0582,Instagram,IG_Reels_Showcase,Gurugram,Plot,0,53.2,5,2,3,0,4,3.8,12,0,1,Nurturing,0,0,0,12,9,2-6h,Medium (3-5),50-100L,0,1,4,5,10,Warm,46.9,Medium,582,0.3934,4
+L0583,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,68.0,2,1,0,0,2,24.2,1,0,1,Booked,1,0,0,4,3,24h+,Low (1-2),50-100L,0,5,2,2,9,Warm,30.3,Low,1144,0.1966,9
+L0584,Google Ads,GAds_Display_Remarketing,Noida,Villa,3,209.3,0,1,0,1,1,10.9,2,1,0,Negotiation,0,0,0,2,2,6-24h,Low (1-2),200L+,2,4,1,1,6,Cool,60.2,High,288,0.3648,5
+L0585,Walk-in,Walkin_Site_Hoarding,Noida,Commercial,0,108.3,0,0,0,0,3,36.5,6,0,0,Nurturing,0,0,0,0,3,24h+,Medium (3-5),100-200L,0,3,3,1,7,Cool,22.1,Low,1200,0.266,7
+L0586,Instagram,IG_Lead_Form,Bengaluru,Plot,0,94.0,1,0,0,0,3,8.8,12,0,1,Lost,0,0,0,1,3,6-24h,Medium (3-5),50-100L,0,2,3,1,6,Cool,30.4,Low,1142,0.1915,9
+L0587,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,2,84.3,6,0,0,0,3,5.1,8,0,1,Lost,0,0,0,6,3,2-6h,Medium (3-5),50-100L,0,2,3,3,8,Cool,38.6,Low,878,0.2258,8
+L0588,Google Ads,GAds_Display_Remarketing,Noida,Builder Floor,4,118.3,2,2,4,0,2,4.4,7,0,0,Booked,1,0,1,10,8,2-6h,Low (1-2),100-200L,0,2,2,4,8,Cool,42.2,Medium,753,0.2999,6
+L0589,Property Portal,Portal_Basic_Listing,Bengaluru,Plot,0,73.2,2,3,0,0,2,5.2,5,1,0,Booked,1,0,0,8,5,2-6h,Low (1-2),50-100L,1,3,2,3,8,Cool,50.1,Medium,485,0.4593,3
+L0590,Property Portal,Portal_Featured_Project,Noida,Apartment,4,87.6,2,3,0,0,4,1.3,10,0,1,New / Uncontacted,0,0,0,8,7,0-2h,Medium (3-5),50-100L,0,2,4,3,9,Warm,43.4,Medium,712,0.3482,5
+L0591,Walk-in,Walkin_Sales_Office,Jaipur,Plot,0,61.0,1,5,2,0,3,3.8,1,1,1,Booked,1,0,0,13,10,2-6h,Medium (3-5),50-100L,1,5,3,5,13,Hot,59.2,High,307,0.5861,2
+L0592,Google Ads,GAds_Search_Generic,Bengaluru,Apartment,2,111.9,3,1,0,0,2,5.0,1,0,1,Lost,0,0,0,5,3,2-6h,Low (1-2),100-200L,0,5,2,2,9,Warm,37.5,Low,925,0.2743,7
+L0593,Google Ads,GAds_Search_Brand,Ghaziabad,Plot,0,54.9,2,1,2,0,1,7.2,9,0,0,Nurturing,0,0,0,6,4,6-24h,Low (1-2),50-100L,0,2,1,3,6,Cool,34.4,Low,1036,0.1436,10
+L0594,Instagram,IG_Influencer_Tour,Noida,Apartment,2,92.3,5,0,6,1,2,17.5,1,0,0,Booked,1,0,0,11,8,6-24h,Low (1-2),50-100L,1,5,2,5,12,Hot,60.8,High,282,0.4067,4
+L0595,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,2,56.2,2,0,0,0,3,6.8,2,1,0,Lost,0,0,0,2,3,6-24h,Medium (3-5),50-100L,1,4,3,1,8,Cool,44.8,Medium,643,0.3341,6
+L0596,Property Portal,Portal_Featured_Project,Hyderabad,Commercial,0,112.1,4,0,0,0,5,1.2,10,0,0,Lost,0,0,0,4,5,0-2h,Medium (3-5),100-200L,0,2,5,2,9,Warm,40.2,Medium,815,0.2443,8
+L0597,Website,Web_Organic,Gurugram,Plot,0,85.2,1,0,0,0,4,4.3,6,0,0,Lost,0,0,0,1,4,2-6h,Medium (3-5),50-100L,0,3,4,1,8,Cool,35.0,Low,1016,0.2712,7
+L0598,Instagram,IG_Lead_Form,Gurugram,Plot,0,68.5,4,5,1,0,2,5.1,9,0,0,Lost,0,0,0,15,8,2-6h,Low (1-2),50-100L,0,2,2,5,9,Warm,47.5,Medium,563,0.4653,3
+L0599,Walk-in,Walkin_Sales_Office,Noida,Commercial,0,238.5,2,1,3,0,2,7.3,5,0,1,Nurturing,0,0,0,7,6,6-24h,Low (1-2),200L+,0,3,2,3,8,Cool,38.2,Low,898,0.2292,8
+L0600,Instagram,IG_Lead_Form,Jaipur,Apartment,3,96.0,8,4,3,0,5,16.9,3,1,1,Lost,0,0,0,19,12,6-24h,Medium (3-5),50-100L,1,4,5,5,14,Hot,65.1,High,215,0.5537,2
+L0601,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,3,74.9,0,1,0,0,5,13.3,1,1,1,Nurturing,0,0,0,2,6,6-24h,Medium (3-5),50-100L,1,5,5,1,11,Warm,46.3,Medium,603,0.3048,6
+L0602,Website,Web_Chatbot,Bengaluru,Apartment,2,111.3,5,2,1,1,3,10.8,1,1,1,Booked,1,0,0,10,6,6-24h,Medium (3-5),100-200L,2,5,3,4,12,Hot,73.4,High,98,0.6257,1
+L0603,Referral,Ref_Broker_Network,Bengaluru,Builder Floor,2,119.8,3,2,1,1,1,4.3,9,1,0,Booked,1,0,0,8,4,2-6h,Low (1-2),100-200L,2,2,1,3,6,Cool,67.7,High,171,0.597,2
+L0604,Website,Web_Chatbot,Hyderabad,Apartment,2,57.9,0,0,2,0,2,16.2,1,1,0,Lost,0,0,0,2,4,6-24h,Low (1-2),50-100L,1,5,2,1,8,Cool,40.4,Medium,810,0.2607,7
+L0605,Walk-in,Walkin_Site_Hoarding,Bengaluru,Commercial,0,144.6,3,4,2,0,5,2.2,2,0,1,Lost,0,0,0,13,11,2-6h,Medium (3-5),100-200L,0,4,5,5,14,Hot,52.7,Medium,424,0.6074,2
+L0606,Website,Web_Brochure_Download,Gurugram,Apartment,3,108.8,0,1,2,0,2,15.7,6,0,0,Lost,0,0,0,4,5,6-24h,Low (1-2),100-200L,0,3,2,2,7,Cool,31.7,Low,1116,0.2422,8
+L0607,Referral,Ref_Broker_Network,Jaipur,Apartment,4,65.0,6,2,5,0,4,3.9,7,1,0,Booked,1,0,0,15,11,2-6h,Medium (3-5),50-100L,1,2,4,5,11,Warm,61.7,High,266,0.6136,2
+L0608,Property Portal,Portal_Featured_Project,Gurugram,Apartment,2,123.8,4,0,0,0,3,2.1,12,1,0,Lost,0,0,0,4,3,2-6h,Medium (3-5),100-200L,1,2,3,2,7,Cool,46.1,Medium,612,0.3411,6
+L0609,Website,Web_Brochure_Download,Ghaziabad,Apartment,3,88.0,3,2,5,0,4,8.8,1,0,1,Lost,0,0,0,12,11,6-24h,Medium (3-5),50-100L,0,5,4,5,14,Hot,48.1,Medium,544,0.3957,4
+L0610,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,2,70.6,3,1,0,0,2,20.6,15,0,0,Lost,0,0,0,5,3,6-24h,Low (1-2),50-100L,0,1,2,2,5,Cold,29.1,Low,1160,0.1503,10
+L0611,Instagram,IG_Lead_Form,Pune,Villa,4,163.0,3,3,2,0,2,4.3,2,0,0,Lost,0,0,0,11,7,2-6h,Low (1-2),100-200L,0,4,2,5,11,Warm,44.7,Medium,646,0.37,5
+L0612,Instagram,IG_Lead_Form,Hyderabad,Apartment,4,149.5,1,0,2,0,3,27.4,31,0,0,Lost,0,0,0,3,5,24h+,Medium (3-5),100-200L,0,1,3,1,5,Cold,22.3,Low,1198,0.1071,10
+L0613,Walk-in,Walkin_Sales_Office,Lucknow,Builder Floor,3,99.5,5,1,3,0,2,1.5,1,0,0,Lost,0,0,0,10,6,0-2h,Low (1-2),50-100L,0,5,2,4,11,Warm,44.6,Medium,652,0.5452,2
+L0614,Walk-in,Walkin_Site_Hoarding,Jaipur,Plot,0,38.4,2,2,1,0,4,6.5,1,0,0,Lost,0,1,0,7,7,6-24h,Medium (3-5),<50L,0,5,4,3,12,Hot,42.8,Medium,732,0.2595,7
+L0615,Google Ads,GAds_Search_Generic,Lucknow,Builder Floor,2,73.2,3,0,4,0,5,6.1,2,0,1,Lost,0,0,0,7,9,6-24h,Medium (3-5),50-100L,0,4,5,3,12,Hot,44.3,Medium,667,0.2884,7
+L0616,Website,Web_Brochure_Download,Unknown,Villa,4,191.0,0,1,1,0,1,4.5,1,0,0,Lost,0,0,0,3,3,2-6h,Low (1-2),100-200L,0,5,1,1,7,Cool,33.6,Low,1056,0.2371,8
+L0617,Website,Web_Brochure_Download,Gurugram,Apartment,2,106.2,2,3,0,0,4,3.4,1,0,1,Lost,0,0,0,8,7,2-6h,Medium (3-5),100-200L,0,5,4,3,12,Hot,45.0,Medium,635,0.3519,5
+L0618,Google Ads,GAds_Search_Brand,Jaipur,Apartment,3,70.8,6,1,4,0,1,7.8,33,0,0,Nurturing,0,0,0,12,6,6-24h,Low (1-2),50-100L,0,1,1,5,7,Cool,35.4,Low,997,0.3546,5
+L0619,Property Portal,Portal_Featured_Project,Noida,Apartment,2,200.3,4,4,0,0,1,4.1,2,0,1,Lost,0,0,0,12,5,2-6h,Low (1-2),200L+,0,4,1,5,10,Warm,44.3,Medium,668,0.4388,4
+L0620,Property Portal,Portal_Basic_Listing,Hyderabad,Commercial,0,153.9,2,1,0,0,3,5.8,1,0,1,New / Uncontacted,0,0,0,4,4,2-6h,Medium (3-5),100-200L,0,5,3,2,10,Warm,37.7,Low,916,0.1841,9
+L0621,Website,Web_Brochure_Download,Noida,Villa,5,249.7,6,3,2,1,2,4.2,1,1,0,Lost,0,0,0,14,7,2-6h,Low (1-2),200L+,2,5,2,5,12,Hot,78.6,High,42,0.7079,1
+L0622,Google Ads,GAds_Search_Brand,Gurugram,Apartment,2,58.2,1,3,3,1,3,2.7,11,0,0,Lost,0,0,0,10,9,2-6h,Medium (3-5),50-100L,1,2,3,4,9,Warm,63.4,High,252,0.5653,2
+L0623,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,2,82.3,0,3,1,0,3,5.1,0,0,0,Booked,1,0,0,7,7,2-6h,Medium (3-5),50-100L,0,5,3,3,11,Warm,41.8,Medium,763,0.4546,3
+L0624,Google Ads,GAds_Search_Brand,Noida,Plot,0,93.0,1,2,2,0,1,2.7,13,0,0,Nurturing,0,0,0,7,5,2-6h,Low (1-2),50-100L,0,1,1,3,5,Cold,36.0,Low,978,0.2296,8
+L0625,Walk-in,Walkin_Sales_Office,Hyderabad,Villa,3,248.7,1,1,2,0,4,3.8,2,0,0,Lost,0,0,0,5,7,2-6h,Medium (3-5),200L+,0,4,4,2,10,Warm,41.0,Medium,785,0.2452,8
+L0626,Google Ads,GAds_Search_Generic,Pune,Builder Floor,2,23.5,2,1,0,0,1,21.0,5,0,0,Lost,0,0,0,4,2,6-24h,Low (1-2),<50L,0,3,1,2,6,Cool,28.7,Low,1166,0.2348,8
+L0627,Website,Web_Organic,Noida,Plot,0,76.6,3,0,1,1,3,26.0,29,0,0,Negotiation,0,0,0,4,4,24h+,Medium (3-5),50-100L,1,1,3,2,6,Cool,44.4,Medium,661,0.185,9
+L0628,Property Portal,Portal_Basic_Listing,Pune,Villa,3,386.1,3,1,0,0,4,19.8,10,0,0,Nurturing,0,0,0,5,5,6-24h,Medium (3-5),200L+,0,2,4,2,8,Cool,34.0,Low,1043,0.1493,10
+L0629,Instagram,IG_Reels_Showcase,Pune,Villa,4,102.9,0,3,2,0,3,8.3,15,1,0,Nurturing,0,0,0,8,8,6-24h,Medium (3-5),100-200L,1,1,3,3,7,Cool,48.3,Medium,538,0.3742,5
+L0630,Referral,Ref_Broker_Network,Bengaluru,Apartment,2,165.9,2,3,3,0,5,3.4,4,1,1,Booked,1,0,0,11,11,2-6h,Medium (3-5),100-200L,1,3,5,5,13,Hot,59.5,High,302,0.576,2
+L0631,Walk-in,Walkin_Site_Hoarding,Bengaluru,Apartment,2,37.0,2,4,0,1,4,3.8,0,1,1,Booked,1,0,0,10,8,2-6h,Medium (3-5),<50L,2,5,4,4,13,Hot,77.5,High,54,0.7319,1
+L0632,Referral,Ref_Existing_Customer,Unknown,Commercial,0,191.6,0,1,0,0,1,18.6,3,0,1,Lost,0,0,0,2,2,6-24h,Low (1-2),100-200L,0,4,1,1,6,Cool,27.5,Low,1180,0.2723,7
+L0633,Property Portal,Portal_Featured_Project,Jaipur,Builder Floor,2,75.8,4,3,3,0,4,0.9,2,0,0,Booked,1,0,0,13,10,0-2h,Medium (3-5),50-100L,0,4,4,5,13,Hot,51.5,Medium,452,0.534,2
+L0634,Google Ads,GAds_Search_Brand,Ghaziabad,Apartment,1,28.0,2,3,2,0,2,4.5,6,0,0,Booked,1,0,0,10,7,2-6h,Low (1-2),<50L,0,3,2,4,9,Warm,42.4,Medium,748,0.3776,5
+L0635,Property Portal,Portal_Premium_Listing,Pune,Builder Floor,4,127.7,4,1,2,0,3,9.9,4,1,1,Booked,1,0,0,8,6,6-24h,Medium (3-5),100-200L,1,3,3,3,9,Warm,50.5,Medium,482,0.2805,7
+L0636,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,4,134.6,3,0,0,0,1,2.7,9,0,1,Lost,0,0,0,3,1,2-6h,Low (1-2),100-200L,0,2,1,1,4,Cold,32.2,Low,1104,0.2072,9
+L0637,Website,Web_Chatbot,Jaipur,Plot,0,50.0,8,2,1,1,2,6.0,2,0,1,Lost,0,0,0,13,5,2-6h,Low (1-2),<50L,1,4,2,5,11,Warm,66.6,High,189,0.517,3
+L0638,Website,Web_Organic,Pune,Apartment,1,105.8,2,3,0,0,5,8.3,5,0,0,Nurturing,0,0,0,8,8,6-24h,Medium (3-5),100-200L,0,3,5,3,11,Warm,44.1,Medium,680,0.3538,5
+L0639,Website,Web_Organic,Lucknow,Plot,0,38.1,6,5,5,1,1,1.2,5,1,1,Lost,0,0,0,21,11,0-2h,Low (1-2),<50L,2,3,1,5,9,Warm,85.2,High,15,0.7411,1
+L0640,Referral,Ref_Existing_Customer,Bengaluru,Builder Floor,3,64.4,0,1,1,0,1,7.8,5,0,0,Nurturing,0,0,0,3,3,6-24h,Low (1-2),50-100L,0,3,1,1,5,Cold,31.6,Low,1120,0.2971,6
+L0641,Website,Web_Brochure_Download,Hyderabad,Apartment,3,114.7,2,1,3,0,4,3.0,3,0,0,New / Uncontacted,0,0,0,7,8,2-6h,Medium (3-5),100-200L,0,4,4,3,11,Warm,43.4,Medium,713,0.2112,9
+L0642,Referral,Ref_Existing_Customer,Noida,Apartment,4,152.2,2,4,0,0,5,8.5,11,0,0,New / Uncontacted,0,0,0,10,9,6-24h,Medium (3-5),100-200L,0,2,5,4,11,Warm,44.9,Medium,642,0.4016,4
+L0643,Property Portal,Portal_Premium_Listing,Gurugram,Plot,0,114.3,1,1,2,1,3,11.1,8,1,0,Booked,1,0,0,5,6,6-24h,Medium (3-5),100-200L,2,2,3,2,7,Cool,65.5,High,208,0.4596,3
+L0644,Property Portal,Portal_Featured_Project,Jaipur,Apartment,2,29.9,1,2,0,0,6,7.0,9,1,0,Lost,0,0,0,5,8,6-24h,High (6+),<50L,1,2,5,2,9,Warm,51.6,Medium,448,0.2952,6
+L0645,Instagram,IG_Reels_Showcase,Lucknow,Apartment,2,35.3,2,0,0,0,5,6.9,8,1,0,Nurturing,0,0,0,2,5,6-24h,Medium (3-5),<50L,1,2,5,1,8,Cool,46.6,Medium,591,0.3506,5
+L0646,Referral,Ref_Broker_Network,Jaipur,Villa,4,107.1,3,0,2,0,4,14.7,1,0,0,Nurturing,0,0,0,5,6,6-24h,Medium (3-5),100-200L,0,5,4,2,11,Warm,37.8,Low,912,0.2304,8
+L0647,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,47.2,1,0,1,0,1,5.0,7,0,0,Nurturing,0,0,0,2,2,2-6h,Low (1-2),<50L,0,2,1,1,4,Cold,30.8,Low,1137,0.2322,8
+L0648,Instagram,IG_Influencer_Tour,Ghaziabad,Apartment,3,64.7,4,5,0,1,5,4.3,3,0,0,Negotiation,0,0,0,14,10,2-6h,Medium (3-5),50-100L,1,4,5,5,14,Hot,73.0,High,104,0.608,2
+L0649,Website,Web_Organic,Jaipur,Apartment,2,68.9,1,4,2,0,2,2.3,4,0,1,Nurturing,0,0,0,11,8,2-6h,Low (1-2),50-100L,0,3,2,5,10,Warm,44.8,Medium,644,0.4205,4
+L0650,Property Portal,Portal_Basic_Listing,Jaipur,Plot,0,26.7,1,0,2,1,3,8.5,11,1,1,Booked,1,0,0,3,5,6-24h,Medium (3-5),<50L,2,2,3,1,6,Cool,63.2,High,253,0.4262,4
+L0651,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,113.2,4,2,3,0,3,10.4,4,1,0,Nurturing,0,0,0,11,8,6-24h,Medium (3-5),100-200L,1,3,3,5,11,Warm,54.0,Medium,395,0.5252,2
+L0652,Referral,Ref_Existing_Customer,Pune,Apartment,3,106.4,0,1,1,0,2,14.3,5,0,0,Lost,0,0,0,3,4,6-24h,Low (1-2),100-200L,0,3,2,1,6,Cool,31.2,Low,1130,0.2375,8
+L0653,Website,Web_Chatbot,Pune,Apartment,3,71.2,8,1,3,0,7,26.2,2,0,0,Nurturing,0,0,0,13,11,24h+,High (6+),50-100L,0,4,5,5,14,Hot,46.9,Medium,583,0.3445,6
+L0654,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,2,91.8,1,1,1,0,3,4.6,15,0,1,Nurturing,0,0,0,4,5,2-6h,Medium (3-5),50-100L,0,1,3,2,6,Cool,34.6,Low,1032,0.1869,9
+L0655,Referral,Ref_Broker_Network,Pune,Apartment,3,43.6,3,0,0,0,3,5.0,22,0,0,Nurturing,0,0,0,3,3,2-6h,Medium (3-5),<50L,0,1,3,1,5,Cold,31.5,Low,1124,0.2352,8
+L0656,Google Ads,GAds_Search_Generic,Jaipur,Apartment,2,53.4,5,2,2,0,2,3.0,8,0,0,Nurturing,0,0,0,11,6,2-6h,Low (1-2),50-100L,0,2,2,5,9,Warm,43.6,Medium,699,0.4156,4
+L0657,Referral,Ref_Broker_Network,Pune,Apartment,2,86.5,1,4,0,0,9,1.0,3,0,0,Lost,0,0,0,9,13,0-2h,High (6+),50-100L,0,4,5,4,13,Hot,49.7,Medium,498,0.4604,3
+L0658,Google Ads,GAds_Search_Brand,Noida,Apartment,3,87.5,2,6,1,1,3,1.6,9,0,0,Nurturing,0,0,0,15,10,0-2h,Medium (3-5),50-100L,1,2,3,5,10,Warm,70.2,High,138,0.6269,1
+L0659,Instagram,IG_Lead_Form,Gurugram,Plot,0,87.9,1,3,1,0,1,9.9,3,1,1,New / Uncontacted,0,0,0,8,5,6-24h,Low (1-2),50-100L,1,4,1,3,8,Cool,47.4,Medium,567,0.445,4
+L0660,Google Ads,GAds_Search_Brand,Jaipur,Apartment,3,65.4,1,0,2,0,5,2.7,16,1,1,Lost,0,0,0,3,7,2-6h,Medium (3-5),50-100L,1,1,5,1,7,Cool,47.1,Medium,576,0.3038,6
+L0661,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,4,88.9,9,2,5,1,3,1.7,7,0,0,Negotiation,0,0,0,18,10,0-2h,Medium (3-5),50-100L,1,2,3,5,10,Warm,74.3,High,84,0.6587,1
+L0662,Referral,Ref_Existing_Customer,Pune,Commercial,0,152.5,4,2,1,0,4,5.4,13,0,1,Nurturing,0,0,0,9,7,2-6h,Medium (3-5),100-200L,0,1,4,4,9,Warm,42.5,Medium,741,0.2274,8
+L0663,Property Portal,Portal_Featured_Project,Noida,Plot,0,85.9,2,1,2,0,4,4.6,2,1,0,Lost,0,0,0,6,7,2-6h,Medium (3-5),50-100L,1,4,4,3,11,Warm,51.9,Medium,447,0.3257,6
+L0664,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,139.3,4,1,2,0,3,10.8,3,1,1,Lost,0,0,0,8,6,6-24h,Medium (3-5),100-200L,1,4,3,3,10,Warm,50.5,Medium,483,0.3931,4
+L0665,Google Ads,GAds_Display_Remarketing,Gurugram,Apartment,2,117.3,2,3,2,1,1,7.3,10,0,0,Nurturing,0,0,0,10,6,6-24h,Low (1-2),100-200L,1,2,1,4,7,Cool,58.9,High,315,0.5669,2
+L0666,Website,Web_Brochure_Download,Pune,Apartment,2,80.8,3,1,3,0,4,3.1,15,1,1,Nurturing,0,0,0,8,8,2-6h,Medium (3-5),50-100L,1,1,4,3,8,Cool,51.6,Medium,449,0.4869,3
+L0667,Referral,Ref_Broker_Network,Bengaluru,Apartment,2,77.7,5,1,3,0,3,18.7,24,0,0,Lost,0,0,0,10,7,6-24h,Medium (3-5),50-100L,0,1,3,4,8,Cool,35.2,Low,1007,0.2973,6
+L0668,Walk-in,Walkin_Site_Hoarding,Jaipur,Apartment,2,72.0,1,4,2,0,2,8.2,4,0,0,Booked,1,0,0,11,8,6-24h,Low (1-2),50-100L,0,3,2,5,10,Warm,43.0,Medium,724,0.4264,4
+L0669,Google Ads,GAds_Search_Brand,Jaipur,Apartment,1,49.4,3,3,1,1,4,2.0,3,0,0,Booked,1,0,0,10,8,0-2h,Medium (3-5),<50L,1,4,4,4,12,Hot,67.3,High,177,0.6191,1
+L0670,Google Ads,GAds_Search_Brand,Ghaziabad,Builder Floor,3,92.4,3,4,2,1,5,5.5,3,1,0,Booked,1,0,0,13,11,2-6h,Medium (3-5),50-100L,2,4,5,5,14,Hot,81.5,High,26,0.7272,1
+L0671,Property Portal,Portal_Featured_Project,Lucknow,Apartment,2,60.6,5,0,1,0,2,3.6,12,0,1,New / Uncontacted,0,0,0,6,3,2-6h,Low (1-2),50-100L,0,2,2,3,7,Cool,36.4,Low,965,0.1796,10
+L0672,Instagram,IG_Lead_Form,Bengaluru,Builder Floor,3,111.0,5,0,2,0,2,3.4,0,0,1,Nurturing,0,0,0,7,4,2-6h,Low (1-2),100-200L,0,5,2,3,10,Warm,40.7,Medium,798,0.3076,6
+L0673,Walk-in,Walkin_Sales_Office,Pune,Apartment,3,76.9,0,3,2,0,3,36.3,1,0,1,Lost,0,0,0,8,8,24h+,Medium (3-5),50-100L,0,5,3,3,11,Warm,33.0,Low,1082,0.4385,4
+L0674,Website,Web_Chatbot,Jaipur,Apartment,2,50.2,2,0,1,0,4,5.5,0,0,0,Lost,0,0,0,3,5,2-6h,Medium (3-5),50-100L,0,5,4,1,10,Warm,38.6,Low,879,0.1889,9
+L0675,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,26.3,5,1,3,0,2,6.3,11,1,0,Booked,1,0,0,10,6,6-24h,Low (1-2),<50L,1,2,2,4,8,Cool,50.6,Medium,477,0.3861,5
+L0676,Google Ads,GAds_Display_Remarketing,Noida,Plot,0,69.2,5,0,1,1,3,7.3,0,0,1,Lost,0,0,0,6,4,6-24h,Medium (3-5),50-100L,1,5,3,3,11,Warm,59.9,High,292,0.3581,5
+L0677,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,89.5,1,0,0,0,3,12.1,1,0,0,Lost,0,0,0,1,3,6-24h,Medium (3-5),50-100L,0,5,3,1,9,Warm,32.2,Low,1105,0.2534,8
+L0678,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,4,179.1,0,0,1,0,1,3.3,10,0,1,Lost,0,0,0,1,2,2-6h,Low (1-2),100-200L,0,2,1,1,4,Cold,29.3,Low,1159,0.2257,8
+L0679,Property Portal,Portal_Premium_Listing,Ghaziabad,Apartment,3,52.9,1,0,1,0,4,6.0,0,0,1,Lost,0,0,0,2,5,2-6h,Medium (3-5),50-100L,0,5,4,1,10,Warm,37.2,Low,938,0.1834,9
+L0680,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,174.7,4,1,0,0,4,10.7,2,0,1,Booked,1,0,0,6,5,6-24h,Medium (3-5),100-200L,0,4,4,3,11,Warm,40.0,Medium,822,0.1857,9
+L0681,Property Portal,Portal_Featured_Project,Lucknow,Villa,3,126.1,0,4,2,0,2,1.5,2,0,0,New / Uncontacted,0,0,0,10,8,0-2h,Low (1-2),100-200L,0,4,2,4,10,Warm,44.4,Medium,662,0.4594,3
+L0682,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,77.3,4,3,1,0,3,14.6,31,0,1,Nurturing,0,0,0,11,7,6-24h,Medium (3-5),50-100L,0,1,3,5,9,Warm,35.9,Low,984,0.2886,7
+L0683,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,58.3,3,1,1,0,2,1.8,2,1,0,Nurturing,0,0,0,6,4,0-2h,Low (1-2),50-100L,1,4,2,3,9,Warm,49.5,Medium,503,0.3644,5
+L0684,Google Ads,GAds_Search_Brand,Ghaziabad,Builder Floor,2,44.0,5,1,1,0,1,4.7,2,0,0,Booked,1,0,0,8,3,2-6h,Low (1-2),<50L,0,4,1,3,8,Cool,39.3,Low,851,0.192,9
+L0685,Instagram,IG_Lead_Form,Bengaluru,Apartment,2,166.7,4,1,4,0,5,1.7,0,0,0,Booked,1,0,0,10,10,0-2h,Medium (3-5),100-200L,0,5,5,4,14,Hot,49.8,Medium,496,0.5075,3
+L0686,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,103.0,3,1,0,0,4,3.3,11,0,1,Nurturing,0,0,0,5,5,2-6h,Medium (3-5),100-200L,0,2,4,2,8,Cool,38.9,Low,867,0.2007,9
+L0687,Google Ads,GAds_Search_Brand,Bengaluru,Apartment,2,120.3,4,0,1,0,5,17.1,13,0,0,Nurturing,0,0,0,5,6,6-24h,Medium (3-5),100-200L,0,1,5,2,8,Cool,35.7,Low,991,0.1941,9
+L0688,Walk-in,Walkin_Sales_Office,Bengaluru,Commercial,0,114.0,1,3,3,1,1,10.8,4,1,0,Booked,1,0,0,10,7,6-24h,Low (1-2),100-200L,2,3,1,4,8,Cool,69.3,High,155,0.6709,1
+L0689,Website,Web_Organic,Noida,Builder Floor,3,197.0,2,0,3,1,3,19.6,4,1,0,Negotiation,0,0,0,5,6,6-24h,Medium (3-5),100-200L,2,3,3,2,8,Cool,63.9,High,242,0.4558,3
+L0690,Instagram,IG_Lead_Form,Pune,Apartment,1,76.3,3,0,3,0,1,2.1,1,1,1,Lost,0,0,0,6,4,2-6h,Low (1-2),50-100L,1,5,1,3,9,Warm,48.0,Medium,548,0.3035,6
+L0691,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,81.9,0,1,2,0,3,3.7,1,0,1,Nurturing,0,0,0,4,6,2-6h,Medium (3-5),50-100L,0,5,3,2,10,Warm,38.4,Low,891,0.1975,9
+L0692,Referral,Ref_Existing_Customer,Ghaziabad,Builder Floor,4,133.5,5,4,2,1,2,6.2,2,1,1,Booked,1,0,0,15,8,6-24h,Low (1-2),100-200L,2,4,2,5,11,Warm,78.9,High,40,0.7461,1
+L0693,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,103.9,0,1,2,0,2,10.9,18,1,1,New / Uncontacted,0,0,0,4,5,6-24h,Low (1-2),100-200L,1,1,2,2,5,Cold,40.2,Medium,816,0.1657,10
+L0694,Google Ads,GAds_Search_Brand,Hyderabad,Builder Floor,3,246.3,2,0,0,0,1,3.9,0,0,0,New / Uncontacted,0,0,0,2,1,2-6h,Low (1-2),200L+,0,5,1,1,7,Cool,32.8,Low,1091,0.2097,9
+L0695,Referral,Ref_Broker_Network,Hyderabad,Villa,4,235.6,5,2,1,1,2,3.7,23,0,1,Nurturing,0,0,0,10,5,2-6h,Low (1-2),200L+,1,1,2,4,7,Cool,58.4,High,325,0.3932,4
+L0696,Instagram,IG_Influencer_Tour,Jaipur,Apartment,2,52.2,3,0,3,0,1,3.3,1,0,0,New / Uncontacted,0,0,0,6,4,2-6h,Low (1-2),50-100L,0,5,1,3,9,Warm,37.6,Low,920,0.1765,10
+L0697,Website,Web_Organic,Jaipur,Apartment,4,48.4,3,3,1,0,2,29.3,33,1,0,Nurturing,0,0,0,10,6,24h+,Low (1-2),<50L,1,1,2,4,7,Cool,37.9,Low,908,0.4338,4
+L0698,Instagram,IG_Reels_Showcase,Gurugram,Apartment,2,55.0,4,1,1,0,1,5.9,1,1,0,Lost,0,0,0,7,3,2-6h,Low (1-2),50-100L,1,5,1,3,9,Warm,48.0,Medium,549,0.359,5
+L0699,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,2,88.4,2,0,2,0,2,8.0,3,0,0,Lost,0,0,0,4,4,6-24h,Low (1-2),50-100L,0,4,2,2,8,Cool,34.9,Low,1018,0.1841,9
+L0700,Google Ads,GAds_Search_Brand,Lucknow,Apartment,4,89.6,5,4,1,1,6,4.6,6,1,1,Nurturing,0,0,0,14,11,2-6h,High (6+),50-100L,2,3,5,5,13,Hot,83.9,High,17,0.7112,1
+L0701,Property Portal,Portal_Featured_Project,Noida,Plot,0,74.6,0,1,0,0,5,17.5,5,0,1,Lost,0,0,0,2,6,6-24h,Medium (3-5),50-100L,0,3,5,1,9,Warm,34.0,Low,1044,0.2342,8
+L0702,Google Ads,GAds_Search_Brand,Pune,Apartment,3,86.9,2,1,2,1,5,2.5,3,0,0,Lost,0,0,0,6,8,2-6h,Medium (3-5),50-100L,1,4,5,3,12,Hot,64.0,High,236,0.4956,3
+L0703,Property Portal,Portal_Premium_Listing,Hyderabad,Builder Floor,3,80.5,2,1,0,0,1,18.8,33,0,0,Lost,0,0,0,4,2,6-24h,Low (1-2),50-100L,0,1,1,2,4,Cold,22.3,Low,1199,0.0982,10
+L0704,Referral,Ref_Existing_Customer,Bengaluru,Villa,3,253.3,0,2,0,0,5,1.8,21,0,0,Booked,1,0,0,4,7,0-2h,Medium (3-5),200L+,0,1,5,2,8,Cool,37.3,Low,931,0.2889,7
+L0705,Google Ads,GAds_Display_Remarketing,Gurugram,Apartment,2,149.7,2,1,2,0,2,19.7,8,0,0,Nurturing,0,0,0,6,5,6-24h,Low (1-2),100-200L,0,2,2,3,7,Cool,32.4,Low,1099,0.1993,9
+L0706,Instagram,IG_Reels_Showcase,Noida,Apartment,3,95.9,3,2,3,0,5,1.5,2,1,0,New / Uncontacted,0,0,0,10,10,0-2h,Medium (3-5),50-100L,1,4,5,4,13,Hot,59.4,High,306,0.5812,2
+L0707,Website,Web_Chatbot,Hyderabad,Apartment,2,95.4,2,1,1,1,5,5.4,7,0,0,Negotiation,0,0,0,5,7,2-6h,Medium (3-5),50-100L,1,2,5,2,9,Warm,60.9,High,281,0.3775,5
+L0708,Website,Web_Brochure_Download,Hyderabad,Villa,3,163.4,2,8,3,1,3,12.3,1,1,1,Booked,1,0,0,21,14,6-24h,Medium (3-5),100-200L,2,5,3,5,13,Hot,86.1,High,12,0.6861,1
+L0709,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,3,81.3,4,2,6,0,4,9.0,3,1,1,Booked,1,0,0,14,12,6-24h,Medium (3-5),50-100L,1,4,4,5,13,Hot,59.9,High,293,0.5467,2
+L0710,Google Ads,GAds_Search_Brand,Pune,Villa,3,69.2,4,2,1,0,4,9.7,7,0,1,Nurturing,0,0,0,9,7,6-24h,Medium (3-5),50-100L,0,2,4,4,10,Warm,42.7,Medium,736,0.2238,8
+L0711,Walk-in,Walkin_Site_Hoarding,Lucknow,Plot,0,50.3,3,5,1,0,1,6.5,5,0,0,New / Uncontacted,0,1,0,14,7,6-24h,Low (1-2),50-100L,0,3,1,5,9,Warm,45.2,Medium,628,0.5808,2
+L0712,Website,Web_Chatbot,Lucknow,Villa,3,354.0,3,2,3,1,5,2.0,3,1,1,Booked,1,0,0,10,10,0-2h,Medium (3-5),200L+,2,4,5,4,13,Hot,79.0,High,37,0.6982,1
+L0713,Referral,Ref_Existing_Customer,Noida,Commercial,0,77.9,3,1,0,0,3,26.4,27,0,1,Nurturing,0,0,0,5,4,24h+,Medium (3-5),50-100L,0,1,3,2,6,Cool,26.0,Low,1190,0.1913,9
+L0714,Referral,Ref_Broker_Network,Noida,Villa,3,182.0,3,4,1,0,4,10.8,2,0,0,Nurturing,0,0,0,12,9,6-24h,Medium (3-5),100-200L,0,4,4,5,13,Hot,47.2,Medium,575,0.4957,3
+L0715,Website,Web_Brochure_Download,Gurugram,Plot,0,76.8,4,3,1,1,2,13.0,7,0,1,Nurturing,0,0,0,11,6,6-24h,Low (1-2),50-100L,1,2,2,5,9,Warm,60.7,High,283,0.5271,2
+L0716,Property Portal,Portal_Featured_Project,Bengaluru,Plot,0,60.8,3,1,2,0,4,7.1,5,0,1,Lost,0,0,0,7,7,6-24h,Medium (3-5),50-100L,0,3,4,3,10,Warm,41.6,Medium,769,0.2,9
+L0717,Instagram,IG_Lead_Form,Noida,Villa,4,284.6,2,2,4,0,3,5.2,4,0,1,Nurturing,0,0,0,10,9,2-6h,Medium (3-5),200L+,0,3,3,4,10,Warm,44.4,Medium,663,0.3841,5
+L0718,Property Portal,Portal_Featured_Project,Gurugram,Plot,0,90.8,2,1,1,1,3,15.4,0,1,1,Nurturing,0,0,0,5,5,6-24h,Medium (3-5),50-100L,2,5,3,2,10,Warm,66.2,High,197,0.4838,3
+L0719,Instagram,IG_Reels_Showcase,Jaipur,Commercial,0,101.3,4,2,1,1,6,5.2,4,1,1,Negotiation,0,0,0,9,9,2-6h,High (6+),100-200L,2,3,5,4,12,Hot,78.2,High,46,0.6865,1
+L0720,Walk-in,Walkin_Site_Hoarding,Gurugram,Builder Floor,3,175.8,0,1,0,0,2,7.5,7,0,1,Lost,0,0,0,2,3,6-24h,Low (1-2),100-200L,0,2,2,1,5,Cold,31.6,Low,1121,0.3268,6
+L0721,Instagram,IG_Lead_Form,Noida,Villa,5,199.2,2,2,1,0,2,2.0,26,1,1,Lost,0,0,0,7,5,0-2h,Low (1-2),100-200L,1,1,2,3,6,Cool,44.6,Medium,653,0.3513,5
+L0722,Google Ads,GAds_Display_Remarketing,Jaipur,Builder Floor,2,231.3,4,3,3,0,2,9.9,6,1,0,Lost,0,0,0,13,8,6-24h,Low (1-2),200L+,1,3,2,5,10,Warm,54.3,Medium,389,0.5144,3
+L0723,Property Portal,Portal_Featured_Project,Ghaziabad,Plot,0,49.3,2,1,0,0,5,8.6,3,1,1,Lost,0,0,0,4,6,6-24h,Medium (3-5),<50L,1,4,5,2,11,Warm,49.7,Medium,499,0.2809,7
+L0724,Walk-in,Walkin_Site_Hoarding,Pune,Apartment,2,92.4,0,0,0,0,3,4.7,9,0,0,New / Uncontacted,0,0,0,0,3,2-6h,Medium (3-5),50-100L,0,2,3,1,6,Cool,31.3,Low,1127,0.3184,6
+L0725,Property Portal,Portal_Featured_Project,Hyderabad,Plot,0,36.3,5,0,4,0,3,21.6,1,0,0,Nurturing,0,0,0,9,7,6-24h,Medium (3-5),<50L,0,5,3,4,12,Hot,38.8,Low,870,0.2369,8
+L0726,Property Portal,Portal_Basic_Listing,Noida,Plot,0,50.0,4,2,2,0,3,7.7,3,1,0,Lost,0,0,0,10,7,6-24h,Medium (3-5),<50L,1,4,3,4,11,Warm,53.8,Medium,401,0.4549,3
+L0727,Property Portal,Portal_Basic_Listing,Hyderabad,Commercial,0,215.2,2,4,0,1,4,9.0,3,0,0,Nurturing,0,0,0,10,8,6-24h,Medium (3-5),200L+,1,4,4,4,12,Hot,65.1,High,216,0.5102,3
+L0728,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,3,56.4,2,0,1,0,4,11.6,6,0,0,Nurturing,0,0,0,3,5,6-24h,Medium (3-5),50-100L,0,3,4,1,8,Cool,35.2,Low,1008,0.1253,10
+L0729,Google Ads,GAds_Search_Generic,Bengaluru,Villa,3,110.0,0,0,1,0,2,14.5,16,1,1,Lost,0,0,0,1,3,6-24h,Low (1-2),100-200L,1,1,2,1,4,Cold,36.0,Low,979,0.1976,9
+L0730,Instagram,IG_Influencer_Tour,Pune,Villa,4,209.4,5,5,1,0,9,6.2,8,1,1,Lost,0,0,0,16,15,6-24h,High (6+),200L+,1,2,5,5,12,Hot,65.3,High,210,0.5211,3
+L0731,Google Ads,GAds_Search_Generic,Pune,Commercial,0,223.0,1,1,2,0,1,5.0,4,0,1,Lost,0,0,0,5,4,2-6h,Low (1-2),200L+,0,3,1,2,6,Cool,35.1,Low,1012,0.1643,10
+L0732,Property Portal,Portal_Featured_Project,Unknown,Commercial,0,140.1,5,2,1,0,5,28.0,7,0,0,Nurturing,0,0,0,10,8,24h+,Medium (3-5),100-200L,0,2,5,4,11,Warm,39.8,Low,832,0.2276,8
+L0733,Property Portal,Portal_Basic_Listing,Pune,Builder Floor,4,97.1,6,2,1,1,3,2.3,1,0,0,Negotiation,0,0,0,11,6,2-6h,Medium (3-5),50-100L,1,5,3,5,13,Hot,67.2,High,180,0.4897,3
+L0734,Google Ads,GAds_Search_Brand,Noida,Builder Floor,3,54.5,1,0,1,0,4,12.2,2,0,1,Lost,0,0,0,2,5,6-24h,Medium (3-5),50-100L,0,4,4,1,9,Warm,34.8,Low,1026,0.1724,10
+L0735,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,2,105.4,2,0,1,0,2,6.7,8,0,1,Booked,1,0,0,3,3,6-24h,Low (1-2),100-200L,0,2,2,1,5,Cold,32.8,Low,1092,0.1555,10
+L0736,Website,Web_Organic,Jaipur,Commercial,0,121.0,6,0,2,0,2,9.9,1,0,0,Nurturing,0,0,0,8,4,6-24h,Low (1-2),100-200L,0,5,2,4,11,Warm,39.6,Low,838,0.1968,9
+L0737,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,4,52.3,2,0,1,0,4,16.9,2,0,0,Nurturing,0,0,0,3,5,6-24h,Medium (3-5),50-100L,0,4,4,1,9,Warm,34.5,Low,1034,0.1864,9
+L0738,Google Ads,GAds_Search_Generic,Ghaziabad,Villa,3,227.6,5,3,0,0,4,4.8,6,0,1,Lost,0,0,0,11,7,2-6h,Medium (3-5),200L+,0,3,4,5,12,Hot,46.9,Medium,584,0.4,4
+L0739,Google Ads,GAds_Search_Generic,Noida,Plot,0,79.1,2,1,2,0,4,12.0,3,1,0,Nurturing,0,0,0,6,7,6-24h,Medium (3-5),50-100L,1,4,4,3,11,Warm,49.4,Medium,506,0.2652,7
+L0740,Google Ads,GAds_Search_Generic,Lucknow,Apartment,4,89.2,3,2,1,0,4,12.3,3,0,0,Lost,0,0,0,8,7,6-24h,Medium (3-5),50-100L,0,4,4,4,12,Hot,41.7,Medium,767,0.2015,9
+L0741,Property Portal,Portal_Featured_Project,Lucknow,Apartment,3,73.6,5,1,2,0,3,4.1,4,0,0,Lost,0,0,0,9,6,2-6h,Medium (3-5),50-100L,0,3,3,4,10,Warm,43.5,Medium,704,0.2567,7
+L0742,Property Portal,Portal_Featured_Project,Lucknow,Apartment,3,75.4,4,2,2,0,2,15.0,3,0,0,Lost,0,0,0,10,6,6-24h,Low (1-2),50-100L,0,4,2,4,10,Warm,39.9,Low,828,0.2049,9
+L0743,Referral,Ref_Existing_Customer,Ghaziabad,Plot,0,56.1,5,3,1,0,3,10.2,1,0,0,Lost,0,0,0,12,7,6-24h,Medium (3-5),50-100L,0,5,3,5,13,Hot,46.0,Medium,614,0.5444,2
+L0744,Property Portal,Portal_Featured_Project,Gurugram,Builder Floor,4,180.2,4,1,0,1,5,3.1,1,0,1,Nurturing,0,0,0,6,6,2-6h,Medium (3-5),100-200L,1,5,5,3,13,Hot,64.3,High,229,0.3918,5
+L0745,Instagram,IG_Influencer_Tour,Jaipur,Apartment,3,31.7,8,3,4,1,5,8.9,8,1,0,Booked,1,0,0,18,12,6-24h,Medium (3-5),<50L,2,2,5,5,12,Hot,85.2,High,16,0.7722,1
+L0746,Google Ads,GAds_Search_Generic,Ghaziabad,Villa,4,90.5,3,0,1,0,2,2.6,17,0,0,Nurturing,0,0,0,4,3,2-6h,Low (1-2),50-100L,0,1,2,2,5,Cold,33.1,Low,1076,0.1656,10
+L0747,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,69.6,5,0,4,1,3,4.1,13,1,0,Lost,0,0,0,9,7,2-6h,Medium (3-5),50-100L,2,1,3,4,8,Cool,71.3,High,122,0.5721,2
+L0748,Google Ads,GAds_Display_Remarketing,Gurugram,Plot,0,73.6,6,2,4,0,4,3.5,1,0,0,New / Uncontacted,0,0,0,14,10,2-6h,Medium (3-5),50-100L,0,5,4,5,14,Hot,52.1,Medium,441,0.467,3
+L0749,Website,Web_Chatbot,Ghaziabad,Apartment,3,73.0,7,3,3,1,2,7.1,10,1,0,Booked,1,0,0,16,8,6-24h,Low (1-2),50-100L,2,2,2,5,9,Warm,77.8,High,50,0.7534,1
+L0750,Referral,Ref_Existing_Customer,Gurugram,Apartment,3,117.6,9,4,2,1,2,2.6,0,0,1,Booked,1,0,0,19,8,2-6h,Low (1-2),100-200L,1,5,2,5,12,Hot,75.3,High,74,0.7229,1
+L0751,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,2,88.7,3,2,1,0,6,8.7,2,0,1,Lost,0,0,0,8,9,6-24h,High (6+),50-100L,0,4,5,4,13,Hot,46.4,Medium,598,0.2538,8
+L0752,Google Ads,GAds_Search_Brand,Lucknow,Builder Floor,3,113.6,5,1,2,0,5,8.1,4,1,0,Lost,0,0,0,9,8,6-24h,Medium (3-5),100-200L,1,3,5,4,12,Hot,55.6,High,371,0.4513,4
+L0753,Property Portal,Portal_Premium_Listing,Pune,Apartment,3,63.6,1,2,0,0,5,4.7,9,0,1,Booked,1,0,0,5,7,2-6h,Medium (3-5),50-100L,0,2,5,2,9,Warm,40.6,Medium,800,0.1573,10
+L0754,Google Ads,GAds_Display_Remarketing,Hyderabad,Villa,3,234.8,8,0,2,0,3,26.2,1,0,0,Nurturing,0,0,0,10,5,24h+,Medium (3-5),200L+,0,5,3,4,12,Hot,38.6,Low,880,0.2776,7
+L0755,Website,Web_Organic,Gurugram,Builder Floor,2,98.9,3,0,0,0,5,3.6,8,0,0,Nurturing,0,0,0,3,5,2-6h,Medium (3-5),50-100L,0,2,5,1,8,Cool,38.8,Low,871,0.2447,8
+L0756,Property Portal,Portal_Basic_Listing,Pune,Apartment,2,80.8,4,4,0,0,3,1.7,9,0,1,New / Uncontacted,0,0,0,12,7,0-2h,Medium (3-5),50-100L,0,2,3,5,10,Warm,46.6,Medium,592,0.4025,4
+L0757,Google Ads,GAds_Display_Remarketing,Noida,Apartment,1,92.3,2,2,1,0,2,14.2,0,0,1,Lost,0,0,0,7,5,6-24h,Low (1-2),50-100L,0,5,2,3,10,Warm,37.3,Low,932,0.2711,7
+L0758,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,1,31.8,2,4,0,1,1,1.1,4,0,0,Booked,1,0,0,10,5,0-2h,Low (1-2),<50L,1,3,1,4,8,Cool,62.3,High,262,0.6012,2
+L0759,Property Portal,Portal_Basic_Listing,Lucknow,Commercial,0,223.2,0,0,1,0,4,35.7,14,0,1,Lost,0,0,0,1,5,24h+,Medium (3-5),200L+,0,1,4,1,6,Cool,23.2,Low,1196,0.1173,10
+L0760,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,100.6,6,3,4,1,4,4.2,1,0,1,Booked,1,0,0,16,11,2-6h,Medium (3-5),100-200L,1,5,4,5,14,Hot,74.3,High,85,0.7734,1
+L0761,Website,Web_Organic,Pune,Commercial,0,112.0,1,2,1,0,2,2.0,32,0,1,Nurturing,0,0,0,6,5,0-2h,Low (1-2),100-200L,0,1,2,3,6,Cool,31.9,Low,1112,0.1867,9
+L0762,Property Portal,Portal_Basic_Listing,Pune,Apartment,1,169.3,5,0,1,1,3,2.5,1,0,1,Nurturing,0,0,0,6,4,2-6h,Medium (3-5),100-200L,1,5,3,3,11,Warm,61.2,High,274,0.3886,5
+L0763,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,2,86.3,4,1,0,0,8,1.1,0,1,0,Booked,1,0,0,6,9,0-2h,High (6+),50-100L,1,5,5,3,13,Hot,56.9,High,351,0.5414,2
+L0764,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,3,62.8,10,1,1,1,4,7.6,22,0,0,Negotiation,0,0,0,13,6,6-24h,Medium (3-5),50-100L,1,1,4,5,10,Warm,64.4,High,224,0.4319,4
+L0765,Walk-in,Walkin_Sales_Office,Pune,Apartment,2,72.7,0,6,1,1,5,1.4,1,1,0,Booked,1,0,0,13,12,0-2h,Medium (3-5),50-100L,2,5,5,5,15,Hot,83.2,High,21,0.7428,1
+L0766,Property Portal,Portal_Featured_Project,Ghaziabad,Plot,0,83.3,2,0,0,0,1,12.2,21,0,0,Nurturing,0,0,0,2,1,6-24h,Low (1-2),50-100L,0,1,1,1,3,Cold,25.0,Low,1191,0.1177,10
+L0767,Property Portal,Portal_Basic_Listing,Noida,Builder Floor,4,100.7,8,3,3,1,3,2.6,4,1,1,Booked,1,0,0,17,9,2-6h,Medium (3-5),100-200L,2,3,3,5,11,Warm,83.6,High,19,0.7024,1
+L0768,Property Portal,Portal_Premium_Listing,Noida,Apartment,4,86.9,8,3,4,0,7,3.1,3,0,0,Lost,0,0,0,18,14,2-6h,High (6+),50-100L,0,4,5,5,14,Hot,59.9,High,294,0.5221,2
+L0769,Property Portal,Portal_Basic_Listing,Pune,Villa,4,315.5,4,1,2,0,3,8.6,24,0,0,Nurturing,0,0,0,8,6,6-24h,Medium (3-5),200L+,0,1,3,4,8,Cool,35.9,Low,985,0.185,9
+L0770,Instagram,IG_Lead_Form,Unknown,Villa,5,265.1,3,2,1,0,4,6.9,11,1,0,Nurturing,0,0,0,8,7,6-24h,Medium (3-5),200L+,1,2,4,4,10,Warm,51.4,Medium,456,0.3294,6
+L0771,Property Portal,Portal_Featured_Project,Noida,Commercial,0,129.5,3,0,1,0,2,20.1,11,1,1,Nurturing,0,0,0,4,3,6-24h,Low (1-2),100-200L,1,2,2,2,6,Cool,39.1,Low,859,0.1979,9
+L0772,Instagram,IG_Influencer_Tour,Jaipur,Commercial,0,141.6,4,3,1,1,5,3.9,3,1,1,Booked,1,0,0,11,9,2-6h,Medium (3-5),100-200L,2,4,5,5,14,Hot,79.6,High,32,0.702,1
+L0773,Instagram,IG_Lead_Form,Bengaluru,Villa,5,386.1,6,4,3,1,1,4.1,14,0,1,Lost,0,0,0,17,8,2-6h,Low (1-2),200L+,1,1,1,5,7,Cool,67.3,High,178,0.5444,2
+L0774,Referral,Ref_Existing_Customer,Bengaluru,Plot,0,79.9,3,2,1,0,1,5.8,0,0,1,New / Uncontacted,0,0,0,8,4,2-6h,Low (1-2),50-100L,0,5,1,4,10,Warm,39.5,Low,843,0.3444,6
+L0775,Property Portal,Portal_Basic_Listing,Jaipur,Plot,0,45.8,6,2,4,1,2,5.9,4,1,1,Booked,1,0,0,14,8,2-6h,Low (1-2),<50L,2,3,2,5,10,Warm,77.3,High,55,0.7038,1
+L0776,Referral,Ref_Broker_Network,Pune,Builder Floor,3,116.0,3,2,4,0,3,6.9,3,1,0,Booked,1,1,0,11,9,6-24h,Medium (3-5),100-200L,1,4,3,5,12,Hot,55.3,High,375,0.6375,1
+L0777,Instagram,IG_Lead_Form,Pune,Villa,4,327.5,8,2,1,0,2,2.6,0,1,1,Nurturing,0,0,0,13,5,2-6h,Low (1-2),200L+,1,5,2,5,12,Hot,58.1,High,331,0.3959,4
+L0778,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,2,79.1,2,0,2,0,2,6.4,19,0,1,Lost,0,0,0,4,4,6-24h,Low (1-2),50-100L,0,1,2,2,5,Cold,31.4,Low,1126,0.1417,10
+L0779,Website,Web_Organic,Noida,Villa,4,179.6,4,0,4,0,1,5.1,1,1,0,Lost,0,0,0,8,5,2-6h,Low (1-2),100-200L,1,5,1,4,10,Warm,49.4,Medium,507,0.3612,5
+L0780,Referral,Ref_Existing_Customer,Hyderabad,Commercial,0,84.1,2,0,2,0,3,6.9,4,0,0,Nurturing,0,0,0,4,5,6-24h,Medium (3-5),50-100L,0,3,3,2,8,Cool,36.6,Low,956,0.2603,7
+L0781,Property Portal,Portal_Premium_Listing,Noida,Apartment,2,54.5,1,1,2,0,2,10.1,3,0,1,New / Uncontacted,0,0,0,5,5,6-24h,Low (1-2),50-100L,0,4,2,2,8,Cool,35.4,Low,998,0.1836,9
+L0782,Walk-in,Walkin_Sales_Office,Bengaluru,Plot,0,59.6,1,0,2,0,2,7.5,12,0,1,Nurturing,0,0,0,3,4,6-24h,Low (1-2),50-100L,0,2,2,1,5,Cold,31.6,Low,1122,0.1464,10
+L0783,Google Ads,GAds_Display_Remarketing,Noida,Commercial,0,129.4,3,0,0,0,5,5.0,4,1,0,New / Uncontacted,0,0,0,3,5,2-6h,Medium (3-5),100-200L,1,3,5,1,9,Warm,49.4,Medium,508,0.3431,6
+L0784,Instagram,IG_Reels_Showcase,Gurugram,Apartment,1,195.0,5,1,2,0,3,6.3,2,1,0,Lost,0,0,0,9,6,6-24h,Medium (3-5),100-200L,1,4,3,4,11,Warm,53.3,Medium,413,0.4761,3
+L0785,Walk-in,Walkin_Site_Hoarding,Noida,Builder Floor,2,126.1,0,1,0,0,1,3.8,3,1,0,Lost,0,0,0,2,2,2-6h,Low (1-2),100-200L,1,4,1,1,6,Cool,42.1,Medium,756,0.3919,5
+L0786,Google Ads,GAds_Display_Remarketing,Lucknow,Commercial,0,69.8,5,1,4,1,3,7.9,7,0,1,Nurturing,0,0,0,11,8,6-24h,Medium (3-5),50-100L,1,2,3,5,10,Warm,64.0,High,237,0.5317,2
+L0787,Referral,Ref_Broker_Network,Ghaziabad,Commercial,0,79.1,2,0,0,0,2,5.6,2,1,0,Lost,0,0,0,2,2,2-6h,Low (1-2),50-100L,1,4,2,1,7,Cool,43.5,Medium,705,0.4813,3
+L0788,Google Ads,GAds_Search_Generic,Noida,Apartment,4,133.5,2,3,1,0,3,9.6,15,1,0,Lost,0,0,0,9,7,6-24h,Medium (3-5),100-200L,1,1,3,4,8,Cool,49.0,Medium,517,0.3209,6
+L0789,Website,Web_Organic,Lucknow,Apartment,2,89.0,2,2,0,0,1,8.2,0,0,1,Nurturing,0,0,0,6,3,6-24h,Low (1-2),50-100L,0,5,1,3,9,Warm,36.3,Low,968,0.2281,8
+L0790,Instagram,IG_Influencer_Tour,Ghaziabad,Villa,3,154.5,3,2,1,0,5,19.9,4,1,1,Lost,0,0,0,8,8,6-24h,Medium (3-5),100-200L,1,3,5,4,12,Hot,50.7,Medium,475,0.3267,6
+L0791,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,2,83.5,3,1,2,0,2,8.7,8,0,0,Lost,0,0,0,7,5,6-24h,Low (1-2),50-100L,0,2,2,3,7,Cool,37.0,Low,944,0.251,8
+L0792,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,2,133.4,2,1,1,0,3,6.3,7,0,0,Lost,0,0,0,5,5,6-24h,Medium (3-5),100-200L,0,2,3,2,7,Cool,37.3,Low,933,0.2961,6
+L0793,Google Ads,GAds_Display_Remarketing,Pune,Apartment,3,60.9,3,0,3,0,3,2.9,5,0,1,Lost,0,0,0,6,6,2-6h,Medium (3-5),50-100L,0,3,3,3,9,Warm,40.0,Medium,823,0.2652,7
+L0794,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,94.6,3,2,2,0,5,8.7,2,1,0,Lost,0,0,0,9,9,6-24h,Medium (3-5),50-100L,1,4,5,4,13,Hot,55.9,High,369,0.4259,4
+L0795,Property Portal,Portal_Basic_Listing,Unknown,Builder Floor,3,294.6,3,5,0,0,4,5.2,7,1,0,Booked,1,0,0,13,9,2-6h,Medium (3-5),200L+,1,2,4,5,11,Warm,58.9,High,316,0.4739,3
+L0796,Google Ads,GAds_Search_Brand,Hyderabad,Villa,3,232.1,3,0,0,0,3,2.3,17,0,1,Lost,0,0,0,3,3,2-6h,Medium (3-5),200L+,0,1,3,1,5,Cold,33.6,Low,1057,0.254,8
+L0797,Property Portal,Portal_Premium_Listing,Noida,Villa,3,150.9,0,1,1,0,2,5.0,10,1,1,New / Uncontacted,0,0,0,3,4,2-6h,Low (1-2),100-200L,1,2,2,1,5,Cold,42.9,Medium,730,0.2418,8
+L0798,Property Portal,Portal_Basic_Listing,Ghaziabad,Plot,0,54.0,3,0,2,0,2,6.2,4,1,1,Nurturing,0,0,0,5,4,6-24h,Low (1-2),50-100L,1,3,2,2,7,Cool,46.4,Medium,599,0.3147,6
+L0799,Website,Web_Chatbot,Hyderabad,Apartment,2,76.3,2,0,0,0,3,4.5,8,0,0,Nurturing,0,0,0,2,3,2-6h,Medium (3-5),50-100L,0,2,3,1,6,Cool,34.0,Low,1045,0.2545,7
+L0800,Website,Web_Organic,Hyderabad,Apartment,3,55.3,3,0,1,1,4,6.8,1,1,1,Lost,0,0,0,4,5,6-24h,Medium (3-5),50-100L,2,5,4,2,11,Warm,69.1,High,158,0.4625,3
+L0801,Website,Web_Chatbot,Lucknow,Apartment,3,76.7,4,2,0,0,1,6.8,6,1,0,Booked,1,0,0,8,3,6-24h,Low (1-2),50-100L,1,3,1,4,8,Cool,47.7,Medium,557,0.3712,5
+L0802,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,127.5,4,1,3,0,7,6.0,0,0,0,Booked,1,0,0,9,11,2-6h,High (6+),100-200L,0,5,5,4,14,Hot,48.9,Medium,520,0.2853,7
+L0803,Referral,Ref_Broker_Network,Lucknow,Apartment,3,53.8,4,1,0,0,3,19.5,3,0,0,Lost,0,0,0,6,4,6-24h,Medium (3-5),50-100L,0,4,3,3,10,Warm,35.4,Low,999,0.2479,8
+L0804,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,2,85.4,5,0,2,0,7,1.8,11,1,0,Booked,1,0,0,7,9,0-2h,High (6+),50-100L,1,2,5,3,10,Warm,55.1,High,380,0.442,4
+L0805,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,58.9,1,1,0,1,2,36.5,5,0,0,Negotiation,0,0,0,3,3,24h+,Low (1-2),50-100L,1,3,2,1,6,Cool,44.3,Medium,669,0.2978,6
+L0806,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,78.3,0,0,0,0,1,8.7,9,0,0,Nurturing,0,0,0,0,1,6-24h,Low (1-2),50-100L,0,2,1,1,4,Cold,26.7,Low,1184,0.1396,10
+L0807,Website,Web_Chatbot,Pune,Villa,4,170.0,0,0,1,0,4,10.4,4,1,1,Booked,1,0,0,1,5,6-24h,Medium (3-5),100-200L,1,3,4,1,8,Cool,43.6,Medium,700,0.2845,7
+L0808,Property Portal,Portal_Basic_Listing,Gurugram,Villa,4,176.9,3,0,0,0,3,6.9,3,0,1,Nurturing,0,0,0,3,3,6-24h,Medium (3-5),100-200L,0,4,3,1,8,Cool,35.7,Low,992,0.2651,7
+L0809,Instagram,IG_Lead_Form,Pune,Commercial,0,267.6,3,1,3,0,2,2.2,17,1,1,Lost,0,0,0,8,6,2-6h,Low (1-2),200L+,1,1,2,4,7,Cool,48.0,Medium,550,0.3163,6
+L0810,Walk-in,Walkin_Sales_Office,Ghaziabad,Plot,0,55.0,0,3,0,0,3,3.0,20,0,0,Nurturing,0,0,0,6,6,2-6h,Medium (3-5),50-100L,0,1,3,3,7,Cool,36.3,Low,969,0.3423,6
+L0811,Property Portal,Portal_Basic_Listing,Hyderabad,Builder Floor,4,139.3,3,1,1,0,2,4.4,3,1,1,Nurturing,0,0,0,6,4,2-6h,Low (1-2),100-200L,1,4,2,3,9,Warm,48.4,Medium,536,0.3127,6
+L0812,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,2,132.8,5,0,1,0,4,5.7,2,1,1,Lost,0,1,0,6,5,2-6h,Medium (3-5),100-200L,1,4,4,3,11,Warm,51.6,Medium,450,0.4561,3
+L0813,Walk-in,Walkin_Sales_Office,Lucknow,Builder Floor,2,99.5,2,1,2,0,2,1.9,2,0,1,Booked,1,0,0,6,5,0-2h,Low (1-2),50-100L,0,4,2,3,9,Warm,39.4,Low,847,0.2526,8
+L0814,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,2,84.4,1,0,2,0,4,3.6,6,0,0,Nurturing,0,0,0,3,6,2-6h,Medium (3-5),50-100L,0,3,4,1,8,Cool,37.7,Low,917,0.2952,7
+L0815,Property Portal,Portal_Featured_Project,Gurugram,Apartment,3,115.5,6,5,4,0,3,4.7,7,1,1,Booked,1,0,0,20,12,2-6h,Medium (3-5),100-200L,1,2,3,5,10,Warm,65.8,High,203,0.6302,1
+L0816,Referral,Ref_Existing_Customer,Lucknow,Apartment,3,54.6,1,2,3,1,7,7.8,9,0,1,Lost,0,0,0,8,12,6-24h,High (6+),50-100L,1,2,5,4,11,Warm,64.9,High,220,0.4297,4
+L0817,Referral,Ref_Existing_Customer,Gurugram,Apartment,3,122.4,2,0,1,1,4,10.5,3,0,0,Booked,1,0,0,3,5,6-24h,Medium (3-5),100-200L,1,4,4,1,9,Warm,56.2,High,363,0.3946,4
+L0818,Instagram,IG_Lead_Form,Bengaluru,Apartment,3,109.9,1,0,0,0,2,2.7,0,0,0,Nurturing,0,0,0,1,2,2-6h,Low (1-2),100-200L,0,5,2,1,8,Cool,33.7,Low,1052,0.21,9
+L0819,Instagram,IG_Influencer_Tour,Bengaluru,Villa,3,253.3,1,1,1,0,3,1.6,2,1,0,Lost,0,0,1,4,5,0-2h,Medium (3-5),200L+,1,4,3,2,9,Warm,48.8,Medium,526,0.4736,3
+L0820,Property Portal,Portal_Featured_Project,Hyderabad,Plot,0,41.4,10,4,1,1,7,6.8,7,1,0,Booked,1,0,0,19,12,6-24h,High (6+),<50L,2,2,5,5,12,Hot,88.9,High,3,0.6997,1
+L0821,Property Portal,Portal_Basic_Listing,Bengaluru,Plot,0,75.3,4,2,1,0,5,21.9,8,0,0,Nurturing,0,0,0,9,8,6-24h,Medium (3-5),50-100L,0,2,5,4,11,Warm,40.3,Medium,814,0.2426,8
+L0822,Instagram,IG_Reels_Showcase,Hyderabad,Villa,4,201.1,5,2,5,0,2,3.8,11,1,1,Nurturing,0,0,0,14,9,2-6h,Low (1-2),200L+,1,2,2,5,9,Warm,56.2,High,364,0.4103,4
+L0823,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,3,68.6,4,0,1,0,7,2.4,25,1,1,Booked,1,0,0,5,8,2-6h,High (6+),50-100L,1,1,5,2,8,Cool,49.0,Medium,518,0.3711,5
+L0824,Website,Web_Chatbot,Hyderabad,Apartment,2,107.5,10,1,2,0,5,2.9,1,1,0,Lost,0,0,0,14,8,2-6h,Medium (3-5),100-200L,1,5,5,5,15,Hot,64.0,High,238,0.502,3
+L0825,Referral,Ref_Broker_Network,Jaipur,Villa,4,201.9,8,5,1,1,4,6.0,3,1,1,Booked,1,0,0,19,10,2-6h,Medium (3-5),200L+,2,4,4,5,13,Hot,86.8,High,6,0.6859,1
+L0826,Property Portal,Portal_Basic_Listing,Lucknow,Builder Floor,2,184.1,3,1,1,0,4,4.7,8,0,0,New / Uncontacted,0,0,0,6,6,2-6h,Medium (3-5),100-200L,0,2,4,3,9,Warm,40.4,Medium,811,0.251,8
+L0827,Instagram,IG_Lead_Form,Jaipur,Apartment,2,52.3,3,1,2,0,6,19.7,11,0,0,Lost,0,0,0,7,9,6-24h,High (6+),50-100L,0,2,5,3,10,Warm,39.5,Low,844,0.1764,10
+L0828,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,3,52.8,7,1,1,0,3,11.1,6,1,1,New / Uncontacted,0,0,0,10,5,6-24h,Medium (3-5),50-100L,1,3,3,4,10,Warm,52.0,Medium,443,0.44,4
+L0829,Referral,Ref_Broker_Network,Gurugram,Commercial,0,113.9,3,1,1,1,3,7.3,13,1,0,Negotiation,0,0,0,6,5,6-24h,Medium (3-5),100-200L,2,1,3,3,7,Cool,66.7,High,185,0.5513,2
+L0830,Property Portal,Portal_Basic_Listing,Gurugram,Villa,5,271.1,4,2,3,1,5,0.8,1,1,1,Booked,1,0,0,11,10,0-2h,Medium (3-5),200L+,2,5,5,5,15,Hot,81.0,High,28,0.6703,1
+L0831,Instagram,IG_Influencer_Tour,Noida,Builder Floor,3,112.2,2,3,2,0,5,3.4,1,1,1,New / Uncontacted,0,0,0,10,10,2-6h,Medium (3-5),100-200L,1,5,5,4,14,Hot,59.0,High,312,0.5339,2
+L0832,Instagram,IG_Reels_Showcase,Lucknow,Villa,3,108.4,2,2,0,0,2,4.3,2,1,1,Booked,1,0,0,6,4,2-6h,Low (1-2),100-200L,1,4,2,3,9,Warm,48.7,Medium,529,0.2603,7
+L0833,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,3,84.7,4,2,1,0,3,3.7,14,0,0,Nurturing,0,0,0,9,6,2-6h,Medium (3-5),50-100L,0,1,3,4,8,Cool,41.1,Medium,784,0.1463,10
+L0834,Website,Web_Organic,Pune,Builder Floor,3,54.7,4,0,1,1,1,9.5,3,1,0,Nurturing,0,0,0,5,2,6-24h,Low (1-2),50-100L,2,4,1,2,7,Cool,64.0,High,239,0.412,4
+L0835,Website,Web_Brochure_Download,Jaipur,Apartment,2,83.0,3,1,3,1,3,6.2,3,1,1,Booked,1,0,0,8,7,6-24h,Medium (3-5),50-100L,2,4,3,4,11,Warm,71.9,High,115,0.6286,1
+L0836,Instagram,IG_Lead_Form,Lucknow,Apartment,3,45.8,2,0,3,0,2,1.9,33,0,0,Lost,0,0,0,5,5,0-2h,Low (1-2),<50L,0,1,2,2,5,Cold,30.5,Low,1139,0.2376,8
+L0837,Website,Web_Brochure_Download,Lucknow,Villa,3,142.3,7,3,2,1,5,8.7,9,0,1,Negotiation,0,0,0,15,10,6-24h,Medium (3-5),100-200L,1,2,5,5,12,Hot,71.4,High,119,0.6225,1
+L0838,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,1,63.7,2,2,0,0,2,8.4,2,0,1,Nurturing,0,0,0,6,4,6-24h,Low (1-2),50-100L,0,4,2,3,9,Warm,37.4,Low,928,0.3399,6
+L0839,Google Ads,GAds_Display_Remarketing,Bengaluru,Plot,0,58.3,2,0,0,0,2,7.7,1,0,0,Nurturing,0,0,0,2,2,6-24h,Low (1-2),50-100L,0,5,2,1,8,Cool,33.1,Low,1077,0.2116,9
+L0840,Instagram,IG_Reels_Showcase,Gurugram,Apartment,2,95.2,6,2,3,0,3,8.2,3,1,0,Booked,1,0,0,13,8,6-24h,Medium (3-5),50-100L,1,4,3,5,12,Hot,57.3,High,343,0.5457,2
+L0841,Property Portal,Portal_Premium_Listing,Pune,Villa,3,206.2,3,0,2,0,3,5.6,27,1,0,Booked,1,0,0,5,5,2-6h,Medium (3-5),200L+,1,1,3,2,6,Cool,42.5,Medium,742,0.2593,7
+L0842,Website,Web_Organic,Bengaluru,Villa,5,276.8,10,1,3,1,2,9.9,1,1,0,Booked,1,0,0,15,6,6-24h,Low (1-2),200L+,2,5,2,5,12,Hot,78.0,High,48,0.6097,2
+L0843,Instagram,IG_Influencer_Tour,Jaipur,Villa,4,238.3,5,1,0,0,1,6.0,3,1,1,Nurturing,0,0,0,7,2,2-6h,Low (1-2),200L+,1,4,1,3,8,Cool,47.4,Medium,568,0.3125,6
+L0844,Google Ads,GAds_Search_Generic,Bengaluru,Builder Floor,2,159.6,2,2,2,1,4,19.4,4,0,0,Nurturing,0,0,0,8,8,6-24h,Medium (3-5),100-200L,1,3,4,4,11,Warm,59.2,High,308,0.4692,3
+L0845,Property Portal,Portal_Basic_Listing,Gurugram,Commercial,0,235.3,5,3,1,0,4,2.5,7,0,1,Lost,0,0,0,12,8,2-6h,Medium (3-5),200L+,0,2,4,5,11,Warm,48.5,Medium,533,0.383,5
+L0846,Referral,Ref_Broker_Network,Hyderabad,Builder Floor,3,189.1,2,3,1,1,4,15.8,6,0,0,Booked,1,0,0,9,8,6-24h,Medium (3-5),100-200L,1,3,4,4,11,Warm,61.0,High,278,0.4348,4
+L0847,Google Ads,GAds_Display_Remarketing,Pune,Villa,3,252.7,3,1,0,0,6,2.7,20,0,1,Lost,0,0,0,5,7,2-6h,High (6+),200L+,0,1,5,2,8,Cool,40.2,Medium,817,0.3085,6
+L0848,Website,Web_Organic,Bengaluru,Villa,3,231.0,4,0,0,0,5,35.9,1,0,1,Nurturing,0,0,0,4,5,24h+,Medium (3-5),200L+,0,5,5,2,12,Hot,31.7,Low,1117,0.3324,6
+L0849,Property Portal,Portal_Premium_Listing,Pune,Apartment,2,122.8,4,4,2,0,2,2.5,21,1,0,Nurturing,0,0,0,14,8,2-6h,Low (1-2),100-200L,1,1,2,5,8,Cool,54.1,Medium,394,0.426,4
+L0850,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,3,141.9,2,5,1,0,3,9.0,1,0,1,Booked,1,0,0,13,9,6-24h,Medium (3-5),100-200L,0,5,3,5,13,Hot,47.5,Medium,564,0.4517,3
+L0851,Property Portal,Portal_Featured_Project,Unknown,Apartment,2,112.9,5,4,4,1,4,3.9,3,0,0,Nurturing,0,0,0,17,12,2-6h,Medium (3-5),100-200L,1,4,4,5,13,Hot,75.1,High,75,0.7575,1
+L0852,Property Portal,Portal_Basic_Listing,Lucknow,Apartment,3,36.1,9,1,2,1,2,6.5,1,1,0,Booked,1,0,0,13,5,6-24h,Low (1-2),<50L,2,5,2,5,12,Hot,76.6,High,61,0.6845,1
+L0853,Referral,Ref_Existing_Customer,Bengaluru,Apartment,2,72.6,1,8,2,0,4,4.6,6,0,0,Nurturing,0,0,0,19,14,2-6h,Medium (3-5),50-100L,0,3,4,5,12,Hot,56.5,High,358,0.612,2
+L0854,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,3,88.6,1,0,1,0,2,3.9,2,0,0,Lost,0,0,0,2,3,2-6h,Low (1-2),50-100L,0,4,2,1,7,Cool,34.0,Low,1046,0.2902,7
+L0855,Property Portal,Portal_Premium_Listing,Lucknow,Builder Floor,4,99.8,7,2,3,1,3,0.3,4,0,0,Lost,0,0,0,14,8,0-2h,Medium (3-5),50-100L,1,3,3,5,11,Warm,70.7,High,130,0.638,1
+L0856,Google Ads,GAds_Search_Brand,Unknown,Apartment,2,89.3,2,0,1,0,2,36.5,7,0,0,Lost,0,0,0,3,3,24h+,Low (1-2),50-100L,0,2,2,1,5,Cold,23.8,Low,1195,0.2253,8
+L0857,Website,Web_Organic,Ghaziabad,Plot,0,69.6,4,3,2,1,6,4.4,2,0,1,Lost,0,0,0,12,11,2-6h,High (6+),50-100L,1,4,5,5,14,Hot,72.5,High,110,0.5509,2
+L0858,Referral,Ref_Existing_Customer,Jaipur,Apartment,1,95.1,3,3,1,0,1,0.6,7,0,0,Nurturing,0,0,0,10,5,0-2h,Low (1-2),50-100L,0,2,1,4,7,Cool,41.7,Medium,768,0.4446,4
+L0859,Google Ads,GAds_Search_Generic,Noida,Villa,5,301.3,6,1,2,0,4,5.9,2,0,0,Nurturing,0,0,0,10,7,2-6h,Medium (3-5),200L+,0,4,4,4,12,Hot,46.3,Medium,604,0.3277,6
+L0860,Instagram,IG_Lead_Form,Gurugram,Apartment,2,160.1,3,1,1,0,3,12.4,3,0,0,New / Uncontacted,0,0,0,6,5,6-24h,Medium (3-5),100-200L,0,4,3,3,10,Warm,37.6,Low,921,0.235,8
+L0861,Website,Web_Brochure_Download,Bengaluru,Builder Floor,3,85.9,2,2,2,0,2,2.9,8,1,0,Booked,1,0,0,8,6,2-6h,Low (1-2),50-100L,1,2,2,4,8,Cool,50.0,Medium,488,0.5188,3
+L0862,Website,Web_Brochure_Download,Ghaziabad,Apartment,1,75.5,1,6,2,0,6,3.6,1,1,1,Lost,0,0,0,15,14,2-6h,High (6+),50-100L,1,5,5,5,15,Hot,66.6,High,190,0.6137,2
+L0863,Website,Web_Chatbot,Ghaziabad,Villa,3,123.7,8,0,0,0,2,4.0,1,0,0,Nurturing,0,0,0,8,2,2-6h,Low (1-2),100-200L,0,5,2,4,11,Warm,41.4,Medium,772,0.2627,7
+L0864,Instagram,IG_Influencer_Tour,Gurugram,Apartment,3,59.0,1,2,2,1,3,6.2,6,0,1,Nurturing,0,1,0,7,7,6-24h,Medium (3-5),50-100L,1,3,3,3,9,Warm,60.0,High,291,0.4701,3
+L0865,Property Portal,Portal_Featured_Project,Lucknow,Commercial,0,86.8,2,0,1,0,5,5.1,1,1,0,Lost,0,0,0,3,6,2-6h,Medium (3-5),50-100L,1,5,5,1,11,Warm,50.1,Medium,486,0.4296,4
+L0866,Referral,Ref_Broker_Network,Bengaluru,Apartment,4,155.0,0,0,0,1,1,33.2,11,0,0,Negotiation,0,0,0,0,1,24h+,Low (1-2),100-200L,1,2,1,1,4,Cold,38.5,Low,886,0.3313,6
+L0867,Referral,Ref_Broker_Network,Hyderabad,Builder Floor,2,133.9,2,1,0,0,4,15.2,5,1,0,New / Uncontacted,0,0,0,4,5,6-24h,Medium (3-5),100-200L,1,3,4,2,9,Warm,45.5,Medium,622,0.3279,6
+L0868,Website,Web_Chatbot,Noida,Apartment,3,167.2,2,2,0,0,2,4.5,17,0,1,Lost,0,0,0,6,4,2-6h,Low (1-2),100-200L,0,1,2,3,6,Cool,34.9,Low,1019,0.2153,9
+L0869,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,153.2,1,1,2,0,2,1.6,20,0,1,Nurturing,0,0,0,5,5,0-2h,Low (1-2),100-200L,0,1,2,2,5,Cold,33.8,Low,1050,0.2575,7
+L0870,Property Portal,Portal_Basic_Listing,Lucknow,Builder Floor,2,179.0,4,1,2,0,2,3.9,5,0,1,Lost,0,0,0,8,5,2-6h,Low (1-2),100-200L,0,3,2,4,9,Warm,40.5,Medium,805,0.3095,6
+L0871,Website,Web_Organic,Pune,Apartment,2,91.8,5,0,1,0,4,10.0,8,1,1,Lost,0,0,0,6,5,6-24h,Medium (3-5),50-100L,1,2,4,3,9,Warm,48.8,Medium,527,0.3996,4
+L0872,Property Portal,Portal_Featured_Project,Lucknow,Apartment,2,60.5,3,4,1,1,3,6.2,31,1,1,Lost,0,0,0,12,8,6-24h,Medium (3-5),50-100L,2,1,3,5,9,Warm,69.7,High,146,0.5972,2
+L0873,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Apartment,2,40.7,4,2,4,1,2,7.4,1,0,0,Booked,1,0,0,12,8,6-24h,Low (1-2),<50L,1,5,2,5,12,Hot,65.2,High,213,0.5998,2
+L0874,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,88.5,3,0,0,0,2,21.2,2,0,1,Lost,0,0,0,3,2,6-24h,Low (1-2),50-100L,0,4,2,1,7,Cool,29.8,Low,1149,0.2447,8
+L0875,Website,Web_Organic,Jaipur,Commercial,0,80.5,1,3,1,1,2,7.9,7,1,0,Booked,1,0,0,8,6,6-24h,Low (1-2),50-100L,2,2,2,4,8,Cool,68.7,High,164,0.6303,1
+L0876,Referral,Ref_Broker_Network,Lucknow,Apartment,2,47.8,2,1,3,0,3,5.2,2,1,1,Booked,1,0,0,7,7,2-6h,Medium (3-5),<50L,1,4,3,3,10,Warm,51.3,Medium,459,0.4395,4
+L0877,Google Ads,GAds_Search_Brand,Lucknow,Apartment,2,94.0,3,0,4,0,2,11.4,3,1,1,Nurturing,0,0,0,7,6,6-24h,Low (1-2),50-100L,1,4,2,3,9,Warm,47.4,Medium,569,0.2861,7
+L0878,Google Ads,GAds_Search_Brand,Bengaluru,Commercial,0,234.0,2,1,0,1,4,33.0,15,1,0,Booked,1,0,0,4,5,24h+,Medium (3-5),200L+,2,1,4,2,7,Cool,57.4,High,341,0.3406,6
+L0879,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,3,144.9,4,0,4,1,5,1.3,10,1,1,Booked,1,0,0,8,9,0-2h,Medium (3-5),100-200L,2,2,5,4,11,Warm,75.0,High,77,0.6299,1
+L0880,Instagram,IG_Influencer_Tour,Ghaziabad,Apartment,3,56.2,2,2,6,1,3,6.8,4,0,0,Lost,0,0,0,12,11,6-24h,Medium (3-5),50-100L,1,3,3,5,11,Warm,66.3,High,196,0.5096,3
+L0881,Google Ads,GAds_Search_Brand,Bengaluru,Villa,4,229.9,3,1,0,0,3,26.9,5,1,0,Nurturing,0,0,0,5,4,24h+,Medium (3-5),200L+,1,3,3,2,8,Cool,41.3,Medium,776,0.3758,5
+L0882,Instagram,IG_Influencer_Tour,Bengaluru,Commercial,0,152.8,1,3,2,1,2,1.9,10,1,0,Negotiation,0,0,0,9,7,0-2h,Low (1-2),100-200L,2,2,2,4,8,Cool,71.0,High,125,0.6385,1
+L0883,Walk-in,Walkin_Site_Hoarding,Noida,Villa,4,260.4,3,6,1,1,1,10.8,3,0,0,Booked,1,0,0,16,8,6-24h,Low (1-2),200L+,1,4,1,5,10,Warm,66.7,High,186,0.6064,2
+L0884,Google Ads,GAds_Search_Brand,Jaipur,Builder Floor,2,130.9,3,1,1,0,5,15.2,4,1,0,Nurturing,0,0,0,6,7,6-24h,Medium (3-5),100-200L,1,3,5,3,11,Warm,49.8,Medium,497,0.2468,8
+L0885,Property Portal,Portal_Featured_Project,Gurugram,Commercial,0,191.1,1,0,1,0,3,2.2,5,0,0,Lost,0,0,0,2,4,2-6h,Medium (3-5),100-200L,0,3,3,1,7,Cool,35.5,Low,994,0.1931,9
+L0886,Google Ads,GAds_Search_Generic,Pune,Apartment,3,172.2,4,2,2,0,2,12.4,17,0,1,Lost,0,0,0,10,6,6-24h,Low (1-2),100-200L,0,1,2,4,7,Cool,37.2,Low,939,0.2287,8
+L0887,Google Ads,GAds_Search_Brand,Gurugram,Commercial,0,191.1,3,5,1,0,2,3.9,2,1,0,Lost,0,0,1,14,8,2-6h,Low (1-2),100-200L,1,4,2,5,11,Warm,58.4,High,326,0.5054,3
+L0888,Property Portal,Portal_Premium_Listing,Pune,Plot,0,58.3,3,3,1,0,3,5.8,15,0,0,Lost,0,0,0,10,7,2-6h,Medium (3-5),50-100L,0,1,3,4,8,Cool,41.4,Medium,773,0.2684,7
+L0889,Property Portal,Portal_Premium_Listing,Gurugram,Commercial,0,224.5,1,0,0,0,4,6.0,14,0,1,Lost,0,0,0,1,4,2-6h,Medium (3-5),200L+,0,1,4,1,6,Cool,32.5,Low,1095,0.1027,10
+L0890,Website,Web_Organic,Jaipur,Apartment,2,109.0,1,0,1,0,2,26.1,6,0,0,Nurturing,0,0,0,2,3,24h+,Low (1-2),100-200L,0,3,2,1,6,Cool,26.1,Low,1189,0.2347,8
+L0891,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,181.1,6,2,1,1,3,4.5,5,1,0,Nurturing,0,0,0,11,6,2-6h,Medium (3-5),100-200L,2,3,3,5,11,Warm,75.5,High,71,0.7161,1
+L0892,Walk-in,Walkin_Sales_Office,Ghaziabad,Villa,3,231.8,1,1,1,0,2,4.7,25,0,1,Lost,0,0,0,4,4,2-6h,Low (1-2),200L+,0,1,2,2,5,Cold,30.4,Low,1143,0.1963,9
+L0893,Property Portal,Portal_Premium_Listing,Bengaluru,Builder Floor,3,124.6,4,1,2,0,1,3.9,1,0,1,Lost,0,0,0,8,4,2-6h,Low (1-2),100-200L,0,5,1,4,10,Warm,39.8,Low,833,0.277,7
+L0894,Property Portal,Portal_Premium_Listing,Hyderabad,Builder Floor,3,105.7,5,5,1,1,2,3.4,3,0,0,Negotiation,0,0,0,16,8,2-6h,Low (1-2),100-200L,1,4,2,5,11,Warm,70.7,High,131,0.6809,1
+L0895,Website,Web_Organic,Bengaluru,Commercial,0,190.8,1,1,1,0,2,3.5,13,1,1,New / Uncontacted,0,0,0,4,4,2-6h,Low (1-2),100-200L,1,1,2,2,5,Cold,43.8,Medium,693,0.236,8
+L0896,Referral,Ref_Broker_Network,Noida,Villa,3,355.7,0,2,3,1,3,4.2,10,0,1,Booked,1,0,0,7,8,2-6h,Medium (3-5),200L+,1,2,3,3,8,Cool,59.6,High,300,0.52,3
+L0897,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,3,113.5,2,0,2,0,3,5.7,4,1,0,Nurturing,0,1,0,4,5,2-6h,Medium (3-5),100-200L,1,3,3,2,8,Cool,47.0,Medium,579,0.4626,3
+L0898,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,96.7,4,2,3,1,2,7.5,0,1,0,Booked,1,0,0,11,7,6-24h,Low (1-2),50-100L,2,5,2,5,12,Hot,74.2,High,86,0.7153,1
+L0899,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,2,64.9,1,3,2,0,3,11.5,16,0,0,Nurturing,0,0,0,9,8,6-24h,Medium (3-5),50-100L,0,1,3,4,8,Cool,38.2,Low,899,0.2641,7
+L0900,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,3,86.9,2,2,0,0,5,10.1,21,1,1,Nurturing,0,0,0,6,7,6-24h,Medium (3-5),50-100L,1,1,5,3,9,Warm,47.1,Medium,577,0.2993,6
+L0901,Google Ads,GAds_Search_Generic,Pune,Apartment,2,81.5,2,2,0,1,3,5.8,3,1,1,Lost,0,1,0,6,5,2-6h,Medium (3-5),50-100L,2,4,3,3,10,Warm,69.6,High,151,0.6052,2
+L0902,Property Portal,Portal_Premium_Listing,Jaipur,Plot,0,46.1,2,4,4,0,4,2.1,2,0,0,New / Uncontacted,0,0,0,14,12,2-6h,Medium (3-5),<50L,0,4,4,5,13,Hot,52.3,Medium,436,0.6045,2
+L0903,Property Portal,Portal_Featured_Project,Ghaziabad,Villa,5,279.2,1,1,2,1,1,8.0,3,0,1,Lost,0,0,0,5,4,6-24h,Low (1-2),200L+,1,4,1,2,7,Cool,54.4,Medium,388,0.3566,5
+L0904,Google Ads,GAds_Search_Brand,Bengaluru,Builder Floor,2,113.6,1,1,2,1,3,5.7,5,0,0,Nurturing,0,0,0,5,6,2-6h,Medium (3-5),100-200L,1,3,3,2,8,Cool,58.0,High,334,0.4811,3
+L0905,Walk-in,Walkin_Sales_Office,Pune,Apartment,2,87.9,1,0,0,1,3,5.1,2,1,0,Booked,1,0,0,1,3,2-6h,Medium (3-5),50-100L,2,4,3,1,8,Cool,64.1,High,232,0.523,2
+L0906,Instagram,IG_Reels_Showcase,Lucknow,Villa,4,106.4,2,0,3,1,2,6.8,4,1,1,Lost,0,0,0,5,5,6-24h,Low (1-2),100-200L,2,3,2,2,7,Cool,66.2,High,198,0.4809,3
+L0907,Google Ads,GAds_Search_Brand,Hyderabad,Plot,0,84.8,5,2,5,1,3,7.9,1,1,0,Booked,1,0,0,14,10,6-24h,Medium (3-5),50-100L,2,5,3,5,13,Hot,79.1,High,35,0.6595,1
+L0908,Property Portal,Portal_Premium_Listing,Gurugram,Plot,0,124.2,3,1,3,0,3,6.5,0,1,0,Nurturing,0,0,0,8,7,6-24h,Medium (3-5),100-200L,1,5,3,4,12,Hot,52.6,Medium,426,0.5147,3
+L0909,Property Portal,Portal_Premium_Listing,Gurugram,Builder Floor,2,234.8,6,1,0,0,4,6.7,3,0,0,Nurturing,0,0,0,8,5,6-24h,Medium (3-5),200L+,0,4,4,4,12,Hot,43.4,Medium,714,0.2994,6
+L0910,Google Ads,GAds_Display_Remarketing,Pune,Plot,0,67.9,7,1,2,1,2,2.5,1,1,0,Booked,1,0,0,11,5,2-6h,Low (1-2),50-100L,2,5,2,5,12,Hot,75.5,High,72,0.6386,1
+L0911,Website,Web_Brochure_Download,Hyderabad,Builder Floor,3,139.4,4,1,2,1,4,2.7,2,1,1,Negotiation,0,0,0,8,7,2-6h,Medium (3-5),100-200L,2,4,4,4,12,Hot,74.9,High,78,0.6058,2
+L0912,Referral,Ref_Existing_Customer,Gurugram,Builder Floor,3,126.0,1,1,1,1,3,11.3,14,0,0,Nurturing,0,0,0,4,5,6-24h,Medium (3-5),100-200L,1,1,3,2,6,Cool,52.8,Medium,422,0.3463,5
+L0913,Referral,Ref_Broker_Network,Gurugram,Plot,0,92.6,1,0,2,0,2,6.2,5,1,0,Booked,1,0,0,3,4,6-24h,Low (1-2),50-100L,1,3,2,1,6,Cool,43.7,Medium,696,0.3606,5
+L0914,Walk-in,Walkin_Sales_Office,Noida,Apartment,2,92.1,1,1,1,1,3,2.1,12,1,0,Booked,1,0,0,4,5,2-6h,Medium (3-5),50-100L,2,2,3,2,7,Cool,66.1,High,199,0.5116,3
+L0915,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,3,99.5,1,3,1,1,4,14.5,1,1,1,Booked,1,0,0,8,8,6-24h,Medium (3-5),50-100L,2,5,4,4,13,Hot,71.5,High,117,0.6774,1
+L0916,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,4,110.2,2,2,2,0,1,3.8,20,0,0,Nurturing,0,0,0,8,5,2-6h,Low (1-2),100-200L,0,1,1,4,6,Cool,35.1,Low,1013,0.2656,7
+L0917,Property Portal,Portal_Featured_Project,Lucknow,Builder Floor,3,89.0,2,4,2,1,4,6.8,18,0,0,Nurturing,0,0,0,12,10,6-24h,Medium (3-5),50-100L,1,1,4,5,10,Warm,64.4,High,225,0.3777,5
+L0918,Property Portal,Portal_Featured_Project,Hyderabad,Builder Floor,3,102.8,5,0,0,0,3,12.6,5,0,1,Nurturing,0,0,0,5,3,6-24h,Medium (3-5),100-200L,0,3,3,2,8,Cool,35.8,Low,988,0.2463,8
+L0919,Google Ads,GAds_Search_Brand,Noida,Villa,3,181.9,1,1,1,0,5,5.2,0,1,1,Nurturing,0,0,0,4,7,2-6h,Medium (3-5),100-200L,1,5,5,2,12,Hot,51.5,Medium,453,0.3361,6
+L0920,Instagram,IG_Reels_Showcase,Jaipur,Apartment,2,109.1,3,4,5,1,4,0.8,8,0,1,Nurturing,0,0,0,16,13,0-2h,Medium (3-5),100-200L,1,2,4,5,11,Warm,73.6,High,95,0.6795,1
+L0921,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,3,154.9,1,1,0,0,4,12.4,4,0,0,Nurturing,0,0,0,3,5,6-24h,Medium (3-5),100-200L,0,3,4,1,8,Cool,35.4,Low,1000,0.1641,10
+L0922,Referral,Ref_Existing_Customer,Bengaluru,Plot,0,46.9,3,2,1,0,4,15.9,2,1,1,Lost,0,0,0,8,7,6-24h,Medium (3-5),<50L,1,4,4,4,12,Hot,50.8,Medium,470,0.44,4
+L0923,Instagram,IG_Influencer_Tour,Ghaziabad,Apartment,3,41.0,1,2,2,0,5,11.4,23,0,0,Nurturing,0,0,0,7,9,6-24h,Medium (3-5),<50L,0,1,5,3,9,Warm,37.4,Low,929,0.2003,9
+L0924,Instagram,IG_Lead_Form,Lucknow,Commercial,0,68.7,2,3,3,0,2,1.0,0,0,1,Booked,1,0,0,11,8,0-2h,Low (1-2),50-100L,0,5,2,5,12,Hot,46.2,Medium,608,0.4103,4
+L0925,Property Portal,Portal_Featured_Project,Noida,Apartment,3,79.6,1,0,0,0,5,36.3,7,0,1,Lost,0,0,0,1,5,24h+,Medium (3-5),50-100L,0,2,5,1,8,Cool,26.4,Low,1185,0.2549,7
+L0926,Property Portal,Portal_Basic_Listing,Bengaluru,Builder Floor,4,169.0,1,0,1,0,2,2.5,8,0,1,Nurturing,0,0,0,2,3,2-6h,Low (1-2),100-200L,0,2,2,1,5,Cold,33.0,Low,1083,0.2386,8
+L0927,Property Portal,Portal_Premium_Listing,Bengaluru,Builder Floor,2,151.9,1,0,2,0,7,3.1,3,0,1,Lost,0,0,0,3,9,2-6h,High (6+),100-200L,0,4,5,1,10,Warm,41.9,Medium,760,0.3074,6
+L0928,Referral,Ref_Existing_Customer,Noida,Plot,0,64.3,2,1,1,0,3,12.8,3,1,1,Nurturing,0,0,0,5,5,6-24h,Medium (3-5),50-100L,1,4,3,2,9,Warm,46.2,Medium,609,0.3484,5
+L0929,Instagram,IG_Lead_Form,Ghaziabad,Apartment,3,76.7,6,1,2,0,5,8.6,0,0,1,Lost,0,0,0,10,8,6-24h,Medium (3-5),50-100L,0,5,5,4,14,Hot,47.6,Medium,559,0.2652,7
+L0930,Website,Web_Chatbot,Hyderabad,Commercial,0,113.0,4,2,3,0,3,6.2,2,1,0,Booked,1,0,0,11,8,6-24h,Medium (3-5),100-200L,1,4,3,5,12,Hot,55.8,High,370,0.4615,3
+L0931,Google Ads,GAds_Search_Generic,Noida,Builder Floor,2,95.9,2,1,1,0,1,4.0,1,0,0,Nurturing,0,0,0,5,3,2-6h,Low (1-2),50-100L,0,5,1,2,8,Cool,36.2,Low,971,0.2475,8
+L0932,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,2,132.1,0,2,1,0,4,19.3,1,0,0,Lost,0,0,0,5,7,6-24h,Medium (3-5),100-200L,0,5,4,2,11,Warm,36.4,Low,966,0.2795,7
+L0933,Google Ads,GAds_Search_Brand,Jaipur,Builder Floor,3,43.7,3,0,0,0,1,6.3,1,1,1,New / Uncontacted,0,0,0,3,1,6-24h,Low (1-2),<50L,1,5,1,1,7,Cool,43.1,Medium,723,0.2495,8
+L0934,Website,Web_Chatbot,Ghaziabad,Apartment,2,42.5,6,4,3,1,4,0.9,1,0,1,Booked,1,0,0,17,11,0-2h,Medium (3-5),<50L,1,5,4,5,14,Hot,76.5,High,63,0.7447,1
+L0935,Website,Web_Organic,Gurugram,Builder Floor,4,89.8,2,1,2,0,1,19.5,2,0,1,Lost,0,0,0,6,4,6-24h,Low (1-2),50-100L,0,4,1,3,8,Cool,32.3,Low,1100,0.1713,10
+L0936,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,2,78.4,3,0,1,0,6,8.2,3,1,0,Booked,1,0,0,4,7,6-24h,High (6+),50-100L,1,4,5,2,11,Warm,51.5,Medium,454,0.3229,6
+L0937,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,3,114.4,7,7,3,1,6,6.4,1,0,0,Booked,1,0,0,24,16,6-24h,High (6+),100-200L,1,5,5,5,15,Hot,86.6,High,7,0.7957,1
+L0938,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,178.3,1,2,1,0,2,8.5,9,0,0,Nurturing,0,0,0,6,5,6-24h,Low (1-2),100-200L,0,2,2,3,7,Cool,35.6,Low,993,0.1282,10
+L0939,Referral,Ref_Broker_Network,Pune,Builder Floor,3,57.4,3,2,1,1,3,36.5,4,0,0,Lost,0,0,0,8,6,24h+,Medium (3-5),50-100L,1,3,3,4,10,Warm,52.2,Medium,439,0.3596,5
+L0940,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,4,35.7,2,4,2,0,5,3.8,3,0,1,Nurturing,0,0,0,12,11,2-6h,Medium (3-5),<50L,0,4,5,5,14,Hot,50.8,Medium,471,0.3709,5
+L0941,Property Portal,Portal_Featured_Project,Noida,Apartment,2,104.1,0,2,2,0,2,7.6,16,1,1,Lost,0,0,0,6,6,6-24h,Low (1-2),100-200L,1,1,2,3,6,Cool,44.2,Medium,676,0.2479,8
+L0942,Referral,Ref_Existing_Customer,Bengaluru,Apartment,2,36.9,9,1,2,0,5,8.5,1,1,0,Booked,1,0,0,13,8,6-24h,Medium (3-5),<50L,1,5,5,5,15,Hot,61.0,High,279,0.5513,2
+L0943,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,2,161.2,2,1,1,1,3,5.0,2,0,1,Booked,1,0,0,5,5,2-6h,Medium (3-5),100-200L,1,4,3,2,9,Warm,58.9,High,317,0.4796,3
+L0944,Google Ads,GAds_Search_Generic,Bengaluru,Builder Floor,2,65.2,3,2,1,0,1,12.7,0,0,1,Nurturing,0,0,0,8,4,6-24h,Low (1-2),50-100L,0,5,1,4,10,Warm,37.3,Low,934,0.2568,7
+L0945,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,85.6,2,1,6,1,2,0.4,1,0,1,Lost,0,0,0,10,9,0-2h,Low (1-2),50-100L,1,5,2,4,11,Warm,65.0,High,217,0.5211,3
+L0946,Property Portal,Portal_Basic_Listing,Bengaluru,Plot,0,52.4,5,1,1,1,1,4.9,1,0,0,Lost,0,0,0,8,3,2-6h,Low (1-2),50-100L,1,5,1,4,10,Warm,59.5,High,303,0.338,6
+L0947,Website,Web_Brochure_Download,Gurugram,Apartment,2,151.6,4,2,2,0,3,4.3,19,0,0,Lost,0,0,0,10,7,2-6h,Medium (3-5),100-200L,0,1,3,4,8,Cool,40.9,Medium,790,0.26,7
+L0948,Referral,Ref_Existing_Customer,Gurugram,Apartment,2,322.7,1,2,0,0,4,4.8,6,1,1,Nurturing,0,0,0,5,6,2-6h,Medium (3-5),200L+,1,3,4,2,9,Warm,49.7,Medium,500,0.4627,3
+L0949,Referral,Ref_Existing_Customer,Lucknow,Plot,0,19.9,0,1,2,0,1,3.3,2,0,1,Lost,0,0,0,4,4,2-6h,Low (1-2),<50L,0,4,1,2,7,Cool,34.9,Low,1020,0.2219,8
+L0950,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,105.2,6,1,2,0,1,10.6,3,0,0,New / Uncontacted,0,0,0,10,4,6-24h,Low (1-2),100-200L,0,4,1,4,9,Warm,39.6,Low,839,0.2474,8
+L0951,Instagram,IG_Reels_Showcase,Gurugram,Apartment,2,55.8,2,2,3,0,6,3.0,0,1,1,Lost,0,0,0,9,11,2-6h,High (6+),50-100L,1,5,5,4,14,Hot,59.9,High,295,0.534,2
+L0952,Property Portal,Portal_Basic_Listing,Pune,Commercial,0,160.2,1,1,1,0,6,6.8,17,0,1,Nurturing,0,0,0,4,8,6-24h,High (6+),100-200L,0,1,5,2,8,Cool,38.4,Low,892,0.154,10
+L0953,Property Portal,Portal_Premium_Listing,Bengaluru,Commercial,0,145.1,1,3,2,0,5,3.7,11,0,0,Lost,0,0,0,9,10,2-6h,Medium (3-5),100-200L,0,2,5,4,11,Warm,45.2,Medium,629,0.2697,7
+L0954,Property Portal,Portal_Basic_Listing,Noida,Villa,4,207.2,6,3,2,1,4,7.2,8,0,1,Lost,0,0,0,14,9,6-24h,Medium (3-5),200L+,1,2,4,5,11,Warm,69.2,High,157,0.5632,2
+L0955,Walk-in,Walkin_Site_Hoarding,Hyderabad,Apartment,2,65.4,2,0,0,0,3,17.9,0,0,1,Booked,1,0,0,2,3,6-24h,Medium (3-5),50-100L,0,5,3,1,9,Warm,31.8,Low,1114,0.3109,6
+L0956,Referral,Ref_Existing_Customer,Bengaluru,Builder Floor,3,162.3,2,4,2,1,3,6.6,3,0,0,Negotiation,0,0,0,12,9,6-24h,Medium (3-5),100-200L,1,4,3,5,12,Hot,66.6,High,191,0.6357,1
+L0957,Website,Web_Organic,Bengaluru,Commercial,0,94.0,1,4,3,1,2,11.4,8,0,0,Negotiation,0,0,0,12,9,6-24h,Low (1-2),50-100L,1,2,2,5,9,Warm,62.2,High,263,0.5962,2
+L0958,Instagram,IG_Influencer_Tour,Pune,Commercial,0,213.1,0,1,0,0,3,9.2,9,0,0,Nurturing,0,0,0,2,4,6-24h,Medium (3-5),200L+,0,2,3,1,6,Cool,32.3,Low,1101,0.1316,10
+L0959,Google Ads,GAds_Search_Brand,Pune,Apartment,3,74.7,5,0,1,0,2,4.1,1,0,1,Nurturing,0,0,0,6,3,2-6h,Low (1-2),50-100L,0,5,2,3,10,Warm,39.0,Low,861,0.227,8
+L0960,Instagram,IG_Lead_Form,Jaipur,Apartment,3,36.7,2,2,2,0,1,5.1,2,0,1,Lost,0,0,0,8,5,2-6h,Low (1-2),<50L,0,4,1,4,9,Warm,39.2,Low,855,0.2447,8
+L0961,Instagram,IG_Influencer_Tour,Pune,Apartment,2,150.7,5,1,2,0,2,5.3,0,0,0,New / Uncontacted,0,0,0,9,5,2-6h,Low (1-2),100-200L,0,5,2,4,11,Warm,42.5,Medium,743,0.2432,8
+L0962,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,3,87.9,0,0,1,0,4,8.7,33,0,1,Nurturing,0,0,0,1,5,6-24h,Medium (3-5),50-100L,0,1,4,1,6,Cool,26.9,Low,1183,0.1825,9
+L0963,Property Portal,Portal_Premium_Listing,Noida,Villa,3,386.0,0,2,3,0,4,6.5,12,1,1,New / Uncontacted,0,0,0,7,9,6-24h,Medium (3-5),200L+,1,2,4,3,9,Warm,50.0,Medium,489,0.4359,4
+L0964,Property Portal,Portal_Basic_Listing,Ghaziabad,Apartment,2,97.8,3,0,3,1,1,2.6,17,0,1,Booked,1,0,0,6,4,2-6h,Low (1-2),50-100L,1,1,1,3,5,Cold,53.8,Medium,402,0.2582,7
+L0965,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,62.4,2,1,1,1,8,4.3,1,0,1,Negotiation,0,0,0,5,10,2-6h,High (6+),50-100L,1,5,5,2,12,Hot,64.4,High,226,0.4241,4
+L0966,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,3,87.4,5,1,3,0,1,1.7,15,1,0,Lost,0,0,0,10,5,0-2h,Low (1-2),50-100L,1,1,1,4,6,Cool,49.4,Medium,509,0.3538,5
+L0967,Walk-in,Walkin_Site_Hoarding,Lucknow,Builder Floor,2,79.3,1,1,1,0,4,7.3,9,1,1,Nurturing,0,0,0,4,6,6-24h,Medium (3-5),50-100L,1,2,4,2,8,Cool,46.9,Medium,585,0.4663,3
+L0968,Property Portal,Portal_Premium_Listing,Pune,Apartment,3,147.2,5,1,1,1,5,3.8,16,0,0,Negotiation,0,0,0,8,7,2-6h,Medium (3-5),100-200L,1,1,5,4,10,Warm,62.7,High,257,0.364,5
+L0969,Instagram,IG_Lead_Form,Bengaluru,Apartment,1,113.6,3,3,1,1,4,26.4,3,1,1,Booked,1,0,0,10,8,24h+,Medium (3-5),100-200L,2,4,4,4,12,Hot,69.7,High,147,0.6363,1
+L0970,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,3,95.7,2,0,1,1,2,18.0,14,1,0,Lost,0,0,0,3,3,6-24h,Low (1-2),50-100L,2,1,2,1,4,Cold,57.8,High,337,0.3884,5
+L0971,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,123.1,0,1,1,0,2,2.9,11,0,0,Lost,0,0,0,3,4,2-6h,Low (1-2),100-200L,0,2,2,1,5,Cold,33.3,Low,1067,0.173,10
+L0972,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,4,95.8,1,2,0,0,2,8.0,17,1,1,Nurturing,0,0,0,5,4,6-24h,Low (1-2),50-100L,1,1,2,2,5,Cold,42.6,Medium,739,0.1982,9
+L0973,Property Portal,Portal_Premium_Listing,Hyderabad,Builder Floor,3,180.0,7,1,4,1,4,4.9,6,1,0,Booked,1,0,0,13,9,2-6h,Medium (3-5),100-200L,2,3,4,5,12,Hot,79.2,High,34,0.6546,1
+L0974,Walk-in,Walkin_Site_Hoarding,Noida,Apartment,3,82.6,0,5,1,1,5,3.5,6,0,0,Lost,0,0,0,11,11,2-6h,Medium (3-5),50-100L,1,3,5,5,13,Hot,68.9,High,161,0.6563,1
+L0975,Google Ads,GAds_Display_Remarketing,Bengaluru,Apartment,3,84.9,2,2,2,0,3,4.7,6,1,1,Lost,0,0,0,8,7,2-6h,Medium (3-5),50-100L,1,3,3,4,10,Warm,51.6,Medium,451,0.4574,3
+L0976,Instagram,IG_Lead_Form,Ghaziabad,Apartment,3,52.3,3,1,1,0,4,4.6,5,0,0,Nurturing,0,0,0,6,6,2-6h,Medium (3-5),50-100L,0,3,4,3,10,Warm,41.2,Medium,779,0.2221,8
+L0977,Google Ads,GAds_Search_Generic,Pune,Apartment,3,71.1,2,0,1,0,4,23.0,9,1,0,New / Uncontacted,0,0,0,3,5,6-24h,Medium (3-5),50-100L,1,2,4,1,7,Cool,40.8,Medium,794,0.2393,8
+L0978,Google Ads,GAds_Search_Generic,Jaipur,Apartment,3,36.7,4,0,2,1,2,4.2,2,0,0,Nurturing,0,0,0,6,4,2-6h,Low (1-2),<50L,1,4,2,3,9,Warm,58.7,High,322,0.3422,6
+L0979,Instagram,IG_Influencer_Tour,Gurugram,Builder Floor,2,102.3,2,1,2,0,4,8.3,11,0,1,New / Uncontacted,0,0,0,6,7,6-24h,Medium (3-5),100-200L,0,2,4,3,9,Warm,38.5,Low,887,0.2096,9
+L0980,Property Portal,Portal_Featured_Project,Noida,Villa,4,334.5,4,1,1,0,6,0.7,3,0,1,Booked,1,0,0,7,8,0-2h,High (6+),200L+,0,4,5,3,12,Hot,47.4,Medium,570,0.3772,5
+L0981,Walk-in,Walkin_Site_Hoarding,Noida,Apartment,2,76.7,0,0,2,1,3,12.9,24,0,1,Lost,0,0,0,2,5,6-24h,Medium (3-5),50-100L,1,1,4,1,6,Cool,47.4,Medium,571,0.3386,6
+L0982,Referral,Ref_Broker_Network,Noida,Apartment,4,105.6,6,1,3,1,4,14.5,15,0,1,Lost,0,0,0,11,8,6-24h,Medium (3-5),100-200L,1,1,4,5,10,Warm,61.6,High,267,0.4324,4
+L0983,Website,Web_Chatbot,Pune,Builder Floor,2,45.9,2,0,2,0,8,2.5,2,0,1,Lost,0,0,0,4,10,2-6h,High (6+),<50L,0,4,5,2,11,Warm,43.5,Medium,706,0.287,7
+L0984,Google Ads,GAds_Display_Remarketing,Ghaziabad,Apartment,2,77.8,8,0,2,0,5,3.4,6,0,0,Lost,0,0,0,10,7,2-6h,Medium (3-5),50-100L,0,3,5,4,12,Hot,47.8,Medium,556,0.2913,7
+L0985,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,99.2,1,2,1,0,3,10.1,1,1,1,Nurturing,0,0,0,6,6,6-24h,Medium (3-5),50-100L,1,5,4,3,12,Hot,48.8,Medium,528,0.3271,6
+L0986,Walk-in,Walkin_Sales_Office,Pune,Apartment,2,72.9,2,3,4,0,3,5.1,5,0,1,Booked,1,0,0,12,10,2-6h,Medium (3-5),50-100L,0,3,4,5,12,Hot,46.6,Medium,593,0.5043,3
+L0987,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,91.9,2,0,1,0,1,10.9,1,0,1,Lost,0,0,0,3,2,6-24h,Low (1-2),50-100L,0,5,1,1,7,Cool,31.6,Low,1123,0.1983,9
+L0988,Property Portal,Portal_Basic_Listing,Jaipur,Builder Floor,3,63.9,4,0,2,0,1,5.5,1,0,1,Lost,0,0,0,6,3,2-6h,Low (1-2),50-100L,0,5,1,3,9,Warm,36.9,Low,945,0.2042,9
+L0989,Google Ads,GAds_Search_Brand,Hyderabad,Commercial,0,68.5,2,1,1,0,3,30.4,21,1,0,Nurturing,0,0,0,5,5,24h+,Medium (3-5),50-100L,1,1,4,2,7,Cool,36.2,Low,972,0.2728,7
+L0990,Website,Web_Chatbot,Ghaziabad,Commercial,0,140.9,3,1,1,0,1,4.6,3,0,0,Nurturing,0,0,0,6,3,2-6h,Low (1-2),100-200L,0,4,1,3,8,Cool,36.7,Low,953,0.1662,10
+L0991,Instagram,IG_Reels_Showcase,Bengaluru,Commercial,0,169.8,3,0,1,1,2,36.5,2,1,1,Nurturing,0,0,0,4,3,24h+,Low (1-2),100-200L,2,4,2,2,8,Cool,56.2,High,365,0.4316,4
+L0992,Website,Web_Brochure_Download,Noida,Apartment,2,88.4,2,0,1,0,4,20.6,13,0,1,Nurturing,0,0,1,3,5,6-24h,Medium (3-5),50-100L,0,1,4,1,6,Cool,30.6,Low,1138,0.1341,10
+L0993,Website,Web_Chatbot,Pune,Apartment,2,61.5,2,0,2,0,1,13.9,1,0,1,New / Uncontacted,0,0,0,4,3,6-24h,Low (1-2),50-100L,0,5,1,2,8,Cool,31.9,Low,1113,0.2126,9
+L0994,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,2,53.8,3,1,0,1,4,1.9,4,1,0,Negotiation,0,0,0,5,5,0-2h,Medium (3-5),50-100L,2,3,4,2,9,Warm,71.1,High,124,0.5207,3
+L0995,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,2,105.4,0,1,0,0,2,14.3,6,0,1,Booked,1,0,0,2,3,6-24h,Low (1-2),100-200L,0,3,2,1,6,Cool,29.8,Low,1150,0.2606,7
+L0996,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,2,62.8,4,3,2,0,1,5.8,1,0,1,New / Uncontacted,0,1,1,12,6,2-6h,Low (1-2),50-100L,0,5,1,5,11,Warm,44.0,Medium,686,0.3893,5
+L0997,Instagram,IG_Lead_Form,Pune,Apartment,1,92.6,1,0,1,0,3,1.4,13,0,1,New / Uncontacted,0,0,0,2,4,0-2h,Medium (3-5),50-100L,0,1,4,1,6,Cool,33.7,Low,1053,0.2053,9
+L0998,Property Portal,Portal_Basic_Listing,Ghaziabad,Apartment,2,39.3,3,3,3,1,2,1.6,10,0,1,Booked,1,0,0,12,8,0-2h,Low (1-2),<50L,1,2,2,5,9,Warm,64.7,High,223,0.5513,2
+L0999,Walk-in,Walkin_Sales_Office,Pune,Apartment,2,93.3,3,1,2,1,4,6.5,4,1,1,Booked,1,0,0,7,7,6-24h,Medium (3-5),50-100L,2,3,4,3,10,Warm,72.0,High,114,0.6253,1
+L1000,Google Ads,GAds_Display_Remarketing,Bengaluru,Apartment,1,95.7,5,1,4,0,5,4.5,8,1,0,Booked,1,0,0,11,10,2-6h,Medium (3-5),50-100L,1,2,5,5,12,Hot,58.1,High,332,0.5646,2
+L1001,Property Portal,Portal_Basic_Listing,Hyderabad,Villa,4,292.3,2,0,3,0,4,3.5,15,0,1,New / Uncontacted,0,0,0,5,7,2-6h,Medium (3-5),200L+,0,1,5,2,8,Cool,37.8,Low,913,0.2153,9
+L1002,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,3,74.2,6,3,3,1,4,14.0,10,0,1,Booked,1,0,0,15,10,6-24h,Medium (3-5),50-100L,1,2,5,5,12,Hot,67.8,High,170,0.5332,2
+L1003,Property Portal,Portal_Premium_Listing,Noida,Plot,0,21.3,3,3,0,1,5,3.4,10,1,1,Booked,1,0,0,9,8,2-6h,Medium (3-5),<50L,2,2,5,4,11,Warm,75.6,High,70,0.5934,2
+L1004,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,1,72.6,2,0,2,0,3,5.1,3,0,1,Lost,0,0,0,4,5,2-6h,Medium (3-5),50-100L,0,4,4,2,10,Warm,37.5,Low,926,0.2258,8
+L1005,Instagram,IG_Lead_Form,Noida,Builder Floor,3,73.6,6,3,6,0,4,2.6,4,1,0,Nurturing,0,0,0,18,13,2-6h,Medium (3-5),50-100L,1,3,5,5,13,Hot,66.5,High,194,0.7331,1
+L1006,Google Ads,GAds_Search_Generic,Gurugram,Apartment,3,63.8,5,0,5,1,1,7.5,4,0,0,Lost,0,0,0,10,6,6-24h,Low (1-2),50-100L,1,3,1,4,8,Cool,60.3,High,287,0.4294,4
+L1007,Walk-in,Walkin_Sales_Office,Ghaziabad,Builder Floor,3,75.6,0,0,0,0,3,1.8,2,1,0,Booked,1,0,0,0,3,0-2h,Medium (3-5),50-100L,1,4,4,1,9,Warm,43.9,Medium,691,0.4464,4
+L1008,Google Ads,GAds_Search_Generic,Pune,Apartment,2,99.6,6,2,1,0,5,4.0,5,0,0,Lost,0,0,0,11,8,2-6h,Medium (3-5),50-100L,0,3,5,5,13,Hot,49.0,Medium,519,0.3876,5
+L1009,Website,Web_Brochure_Download,Gurugram,Apartment,2,59.1,4,0,1,1,3,1.6,4,0,0,Nurturing,0,0,0,5,4,0-2h,Medium (3-5),50-100L,1,3,4,2,9,Warm,59.5,High,304,0.4001,4
+L1010,Google Ads,GAds_Search_Generic,Noida,Builder Floor,2,133.7,1,0,0,0,5,6.2,6,0,0,Lost,0,0,0,1,5,6-24h,Medium (3-5),100-200L,0,3,5,1,9,Warm,36.1,Low,976,0.2238,8
+L1011,Instagram,IG_Reels_Showcase,Noida,Apartment,3,107.8,4,1,2,0,2,10.2,2,0,0,Nurturing,0,0,0,8,5,6-24h,Low (1-2),100-200L,0,4,2,4,10,Warm,39.2,Low,856,0.1822,9
+L1012,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,4,99.1,5,1,0,0,2,12.0,17,0,0,Nurturing,0,0,0,7,3,6-24h,Low (1-2),50-100L,0,1,2,3,6,Cool,33.7,Low,1054,0.1515,10
+L1013,Google Ads,GAds_Search_Brand,Pune,Commercial,0,101.9,2,0,1,0,2,4.3,21,0,0,Lost,0,0,0,3,3,2-6h,Low (1-2),100-200L,0,1,2,1,4,Cold,30.3,Low,1145,0.1008,10
+L1014,Walk-in,Walkin_Sales_Office,Noida,Apartment,4,58.6,1,1,1,0,2,13.3,18,0,0,New / Uncontacted,0,0,0,4,4,6-24h,Low (1-2),50-100L,0,1,2,2,5,Cold,29.5,Low,1155,0.1786,10
+L1015,Google Ads,GAds_Search_Generic,Noida,Builder Floor,2,149.6,1,0,0,0,3,7.6,1,0,1,Nurturing,0,0,0,1,3,6-24h,Medium (3-5),100-200L,0,5,4,1,10,Warm,33.6,Low,1058,0.2718,7
+L1016,Property Portal,Portal_Featured_Project,Jaipur,Builder Floor,3,44.8,6,1,2,0,2,19.6,9,0,0,Nurturing,0,0,0,10,5,6-24h,Low (1-2),<50L,0,2,2,4,8,Cool,36.9,Low,946,0.2552,7
+L1017,Website,Web_Brochure_Download,Gurugram,Apartment,2,106.3,2,0,3,0,1,5.5,1,1,1,Lost,0,1,1,5,4,2-6h,Low (1-2),100-200L,1,5,1,2,8,Cool,45.7,Medium,621,0.3647,5
+L1018,Referral,Ref_Broker_Network,Jaipur,Apartment,2,56.6,2,0,0,0,4,0.7,1,0,0,New / Uncontacted,0,0,0,2,4,0-2h,Medium (3-5),50-100L,0,5,5,1,11,Warm,38.6,Low,881,0.3772,5
+L1019,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,2,58.0,3,1,0,0,3,10.4,11,1,0,Lost,0,0,0,5,4,6-24h,Medium (3-5),50-100L,1,2,4,2,8,Cool,45.0,Medium,636,0.2556,7
+L1020,Google Ads,GAds_Search_Brand,Hyderabad,Villa,4,118.8,1,2,3,1,1,4.2,1,0,0,Negotiation,0,0,0,8,6,2-6h,Low (1-2),100-200L,1,5,1,4,10,Warm,59.7,High,298,0.4498,4
+L1021,Referral,Ref_Broker_Network,Gurugram,Apartment,2,106.3,6,2,0,0,2,4.2,2,1,0,Booked,1,0,1,10,4,2-6h,Low (1-2),100-200L,1,4,2,4,10,Warm,53.5,Medium,407,0.5274,2
+L1022,Website,Web_Chatbot,Pune,Apartment,4,106.9,3,0,2,0,3,8.2,1,0,0,Lost,0,0,0,5,5,6-24h,Medium (3-5),100-200L,0,5,4,2,11,Warm,38.2,Low,900,0.1651,10
+L1023,Walk-in,Walkin_Site_Hoarding,Noida,Apartment,2,51.7,0,2,1,0,1,2.3,19,0,0,Booked,1,0,0,5,4,2-6h,Low (1-2),50-100L,0,1,1,2,4,Cold,32.2,Low,1106,0.2129,9
+L1024,Instagram,IG_Lead_Form,Hyderabad,Commercial,0,171.5,3,1,2,1,5,6.2,3,0,1,Lost,0,0,0,7,8,6-24h,Medium (3-5),100-200L,1,4,5,3,12,Hot,64.0,High,240,0.4426,4
+L1025,Instagram,IG_Lead_Form,Hyderabad,Plot,0,68.1,3,0,4,0,3,12.6,24,0,1,Lost,0,0,0,7,7,6-24h,Medium (3-5),50-100L,0,1,4,3,8,Cool,33.5,Low,1061,0.1314,10
+L1026,Google Ads,GAds_Display_Remarketing,Pune,Commercial,0,110.2,9,0,2,0,3,7.0,6,1,1,Nurturing,0,0,0,11,5,6-24h,Medium (3-5),100-200L,1,3,4,5,12,Hot,54.5,Medium,385,0.4948,3
+L1027,Walk-in,Walkin_Sales_Office,Lucknow,Villa,3,194.2,1,1,1,0,4,6.5,8,0,1,New / Uncontacted,0,1,0,4,6,6-24h,Medium (3-5),100-200L,0,2,5,2,9,Warm,37.4,Low,930,0.345,5
+L1028,Google Ads,GAds_Display_Remarketing,Gurugram,Villa,5,116.6,2,1,2,0,3,10.5,8,1,1,Nurturing,0,0,0,6,6,6-24h,Medium (3-5),100-200L,1,2,4,3,9,Warm,46.9,Medium,586,0.2805,7
+L1029,Website,Web_Chatbot,Bengaluru,Builder Floor,3,139.4,3,1,2,0,2,2.9,3,0,0,Nurturing,0,0,0,7,5,2-6h,Low (1-2),100-200L,0,4,2,3,9,Warm,40.1,Medium,819,0.2697,7
+L1030,Google Ads,GAds_Search_Brand,Pune,Commercial,0,243.2,6,2,1,0,6,2.8,17,1,0,Lost,0,0,0,11,9,2-6h,High (6+),200L+,1,1,5,5,11,Warm,58.1,High,333,0.4245,4
+L1031,Instagram,IG_Reels_Showcase,Gurugram,Builder Floor,3,220.2,2,2,2,0,2,7.1,7,0,1,New / Uncontacted,0,0,0,8,6,6-24h,Low (1-2),200L+,0,2,2,4,8,Cool,39.0,Low,862,0.2699,7
+L1032,Website,Web_Chatbot,Lucknow,Apartment,3,68.8,2,1,1,0,2,9.0,7,0,0,Lost,0,0,0,5,4,6-24h,Low (1-2),50-100L,0,2,2,2,6,Cool,34.8,Low,1027,0.1953,9
+L1033,Instagram,IG_Reels_Showcase,Lucknow,Villa,3,129.6,2,0,0,0,3,4.2,1,0,1,New / Uncontacted,0,0,0,2,3,2-6h,Medium (3-5),100-200L,0,5,4,1,10,Warm,35.8,Low,989,0.1912,9
+L1034,Referral,Ref_Existing_Customer,Bengaluru,Builder Floor,2,98.9,4,5,4,1,3,12.0,24,0,0,Negotiation,0,0,0,18,12,6-24h,Medium (3-5),50-100L,1,1,4,5,10,Warm,66.8,High,182,0.5849,2
+L1035,Google Ads,GAds_Search_Brand,Unknown,Apartment,2,77.6,1,2,1,1,2,5.0,2,1,0,Lost,0,0,0,6,5,2-6h,Low (1-2),50-100L,2,4,2,3,9,Warm,68.5,High,165,0.6066,2
+L1036,Instagram,IG_Lead_Form,Pune,Apartment,2,104.3,0,0,0,0,3,6.3,1,0,0,Lost,0,0,0,0,3,6-24h,Medium (3-5),100-200L,0,5,4,1,10,Warm,32.8,Low,1093,0.2228,8
+L1037,Google Ads,GAds_Search_Brand,Pune,Apartment,3,65.0,3,3,1,0,2,4.7,4,1,1,Nurturing,0,0,0,10,6,2-6h,Low (1-2),50-100L,1,3,2,4,9,Warm,52.9,Medium,420,0.4668,3
+L1038,Google Ads,GAds_Search_Generic,Gurugram,Plot,0,100.4,4,0,3,0,3,11.6,10,0,1,New / Uncontacted,0,0,0,7,6,6-24h,Medium (3-5),100-200L,0,2,4,3,9,Warm,37.3,Low,935,0.2756,7
+L1039,Google Ads,GAds_Display_Remarketing,Ghaziabad,Apartment,2,134.5,5,0,0,1,2,5.5,1,1,1,Nurturing,0,0,0,5,2,2-6h,Low (1-2),100-200L,2,5,2,2,9,Warm,67.4,High,176,0.4598,3
+L1040,Property Portal,Portal_Basic_Listing,Noida,Plot,0,59.2,2,2,1,0,6,1.8,18,0,0,New / Uncontacted,0,0,0,7,9,0-2h,High (6+),50-100L,0,1,5,3,9,Warm,43.3,Medium,717,0.2617,7
+L1041,Property Portal,Portal_Basic_Listing,Bengaluru,Apartment,3,60.9,3,2,2,0,6,12.9,6,1,0,New / Uncontacted,0,0,0,9,10,6-24h,High (6+),50-100L,1,3,5,4,12,Hot,55.3,High,376,0.439,4
+L1042,Website,Web_Organic,Lucknow,Villa,4,89.9,1,2,0,0,1,11.9,31,0,0,Lost,0,0,0,5,3,6-24h,Low (1-2),50-100L,0,1,1,2,4,Cold,26.2,Low,1188,0.1588,10
+L1043,Instagram,IG_Lead_Form,Lucknow,Apartment,2,78.7,4,0,1,0,3,13.7,1,0,0,Nurturing,0,0,0,5,4,6-24h,Medium (3-5),50-100L,0,5,4,2,11,Warm,36.5,Low,961,0.1814,9
+L1044,Website,Web_Organic,Gurugram,Commercial,0,164.5,5,1,3,0,4,3.9,9,0,1,Nurturing,0,0,0,10,8,2-6h,Medium (3-5),100-200L,0,2,5,4,11,Warm,45.2,Medium,630,0.3842,5
+L1045,Property Portal,Portal_Basic_Listing,Gurugram,Builder Floor,2,180.8,5,1,1,0,2,1.9,4,0,0,Lost,0,0,0,8,4,0-2h,Low (1-2),100-200L,0,3,2,4,9,Warm,41.3,Medium,777,0.3065,6
+L1046,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,2,49.8,1,3,2,0,4,0.9,19,0,0,Nurturing,0,0,0,9,9,0-2h,Medium (3-5),<50L,0,1,5,4,10,Warm,42.4,Medium,749,0.391,5
+L1047,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,3,140.4,6,6,6,1,5,2.2,4,0,1,Booked,1,0,0,24,17,2-6h,Medium (3-5),100-200L,1,3,5,5,13,Hot,85.4,High,14,0.7048,1
+L1048,Website,Web_Brochure_Download,Noida,Apartment,3,78.1,1,2,0,0,2,10.3,6,1,0,Lost,0,0,0,5,4,6-24h,Low (1-2),50-100L,1,3,2,2,7,Cool,44.6,Medium,654,0.3012,6
+L1049,Referral,Ref_Broker_Network,Bengaluru,Apartment,3,75.5,0,0,1,0,4,21.6,7,0,1,Nurturing,0,0,0,1,5,6-24h,Medium (3-5),50-100L,0,2,5,1,8,Cool,29.4,Low,1157,0.3243,6
+L1050,Property Portal,Portal_Featured_Project,Ghaziabad,Villa,4,133.0,1,0,1,0,3,8.6,10,1,1,Nurturing,0,0,0,2,4,6-24h,Medium (3-5),100-200L,1,2,4,1,7,Cool,42.2,Medium,754,0.2898,7
+L1051,Website,Web_Brochure_Download,Ghaziabad,Commercial,0,67.1,2,0,1,0,1,3.3,11,1,1,Nurturing,0,0,0,3,2,2-6h,Low (1-2),50-100L,1,2,1,1,4,Cold,41.5,Medium,770,0.2428,8
+L1052,Property Portal,Portal_Premium_Listing,Lucknow,Villa,3,288.9,4,3,1,1,5,3.3,7,0,0,Nurturing,0,0,0,11,9,2-6h,Medium (3-5),200L+,1,2,5,5,12,Hot,68.8,High,162,0.4885,3
+L1053,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,3,119.4,6,1,0,0,3,17.4,2,1,0,Booked,1,0,0,8,4,6-24h,Medium (3-5),100-200L,1,4,4,4,12,Hot,48.7,Medium,530,0.3736,5
+L1054,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,2,64.9,2,1,0,0,3,2.3,11,1,1,Nurturing,0,0,1,4,4,2-6h,Medium (3-5),50-100L,1,2,4,2,8,Cool,46.3,Medium,605,0.3166,6
+L1055,Google Ads,GAds_Display_Remarketing,Bengaluru,Plot,0,59.3,4,3,3,1,2,21.2,2,1,0,Booked,1,0,0,13,8,6-24h,Low (1-2),50-100L,2,4,2,5,11,Warm,71.8,High,116,0.6481,1
+L1056,Website,Web_Chatbot,Hyderabad,Plot,0,45.7,1,0,1,0,4,32.2,18,0,0,Lost,0,0,0,2,5,24h+,Medium (3-5),<50L,0,1,5,1,7,Cool,24.5,Low,1193,0.1356,10
+L1057,Walk-in,Walkin_Site_Hoarding,Pune,Apartment,3,79.5,5,3,1,1,7,23.4,5,0,0,Negotiation,0,0,0,12,11,6-24h,High (6+),50-100L,1,3,5,5,13,Hot,65.8,High,204,0.6116,2
+L1058,Property Portal,Portal_Premium_Listing,Lucknow,Commercial,0,141.1,3,0,1,0,4,10.6,1,1,0,Lost,0,0,0,4,5,6-24h,Medium (3-5),100-200L,1,5,5,2,12,Hot,47.9,Medium,552,0.3115,6
+L1059,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,2,81.3,2,2,4,1,5,4.5,14,0,0,Nurturing,0,0,0,10,11,2-6h,Medium (3-5),50-100L,1,1,5,4,10,Warm,65.4,High,209,0.4333,4
+L1060,Website,Web_Brochure_Download,Lucknow,Plot,0,32.4,3,3,2,0,4,5.9,10,0,1,Nurturing,0,0,0,11,9,2-6h,Medium (3-5),<50L,0,2,5,5,12,Hot,45.5,Medium,623,0.3331,6
+L1061,Walk-in,Walkin_Sales_Office,Lucknow,Commercial,0,101.4,2,7,0,1,1,9.4,1,0,0,Booked,1,0,0,16,8,6-24h,Low (1-2),100-200L,1,5,1,5,11,Warm,67.7,High,172,0.7065,1
+L1062,Instagram,IG_Influencer_Tour,Jaipur,Villa,3,171.5,0,1,1,1,3,4.0,5,1,1,Nurturing,0,0,0,3,5,2-6h,Medium (3-5),100-200L,2,3,4,1,8,Cool,66.1,High,200,0.5752,2
+L1063,Property Portal,Portal_Basic_Listing,Ghaziabad,Apartment,3,113.3,2,3,2,1,5,2.2,7,1,1,Lost,0,0,0,10,10,2-6h,Medium (3-5),100-200L,2,2,5,4,11,Warm,77.9,High,49,0.7648,1
+L1064,Instagram,IG_Reels_Showcase,Noida,Builder Floor,3,118.3,6,0,2,0,2,4.3,16,0,1,Lost,0,0,0,8,4,2-6h,Low (1-2),100-200L,0,1,2,4,7,Cool,37.6,Low,922,0.2244,8
+L1065,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,75.2,1,1,1,0,2,3.7,14,1,0,Nurturing,0,0,0,4,4,2-6h,Low (1-2),50-100L,1,1,2,2,5,Cold,43.5,Medium,707,0.1828,9
+L1066,Walk-in,Walkin_Site_Hoarding,Noida,Plot,0,77.8,1,1,1,0,1,13.9,33,0,0,Lost,0,0,0,4,3,6-24h,Low (1-2),50-100L,0,1,1,2,4,Cold,23.9,Low,1194,0.1515,10
+L1067,Google Ads,GAds_Search_Generic,Lucknow,Apartment,2,40.1,3,4,3,0,5,2.3,2,1,1,Lost,0,0,0,14,12,2-6h,Medium (3-5),<50L,1,4,5,5,14,Hot,63.9,High,243,0.5759,2
+L1068,Website,Web_Organic,Jaipur,Villa,5,102.8,4,3,0,0,5,5.8,16,0,0,Lost,0,0,0,10,8,2-6h,Medium (3-5),100-200L,0,1,5,4,10,Warm,44.5,Medium,658,0.278,7
+L1069,Property Portal,Portal_Featured_Project,Hyderabad,Commercial,0,122.4,3,3,2,1,5,11.4,2,0,1,Nurturing,0,0,1,11,10,6-24h,Medium (3-5),100-200L,1,4,5,5,14,Hot,67.5,High,175,0.5451,2
+L1070,Google Ads,GAds_Display_Remarketing,Noida,Apartment,3,51.8,8,4,2,0,4,14.1,3,0,0,Nurturing,0,0,0,18,10,6-24h,Medium (3-5),50-100L,0,4,5,5,14,Hot,53.1,Medium,415,0.4642,3
+L1071,Referral,Ref_Existing_Customer,Pune,Apartment,3,113.9,6,3,0,1,3,10.2,4,0,1,Nurturing,0,0,0,12,6,6-24h,Medium (3-5),100-200L,1,3,4,5,12,Hot,65.2,High,214,0.5848,2
+L1072,Instagram,IG_Influencer_Tour,Lucknow,Villa,4,159.4,4,2,3,0,4,7.3,1,1,0,Nurturing,0,0,0,11,9,6-24h,Medium (3-5),100-200L,1,5,5,5,15,Hot,57.3,High,344,0.5178,3
+L1073,Google Ads,GAds_Display_Remarketing,Noida,Apartment,3,84.8,5,0,1,0,1,3.4,5,0,0,Nurturing,0,0,0,6,2,2-6h,Low (1-2),50-100L,0,3,1,3,7,Cool,36.6,Low,957,0.2409,8
+L1074,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,3,42.4,0,2,5,0,3,15.8,13,0,1,Booked,1,0,0,9,10,6-24h,Medium (3-5),<50L,0,1,4,4,9,Warm,37.6,Low,923,0.3046,6
+L1075,Referral,Ref_Existing_Customer,Noida,Apartment,2,169.4,10,3,0,1,5,9.6,4,0,0,Booked,1,0,0,16,8,6-24h,Medium (3-5),100-200L,1,3,5,5,13,Hot,73.5,High,96,0.7192,1
+L1076,Google Ads,GAds_Search_Brand,Gurugram,Apartment,2,76.8,2,1,1,0,5,1.4,10,0,0,Lost,0,0,0,5,7,0-2h,Medium (3-5),50-100L,0,2,5,2,9,Warm,41.4,Medium,774,0.3335,6
+L1077,Instagram,IG_Lead_Form,Gurugram,Villa,4,386.1,3,1,1,0,2,29.6,14,0,0,New / Uncontacted,0,0,0,6,4,24h+,Low (1-2),200L+,0,1,2,3,6,Cool,27.8,Low,1176,0.172,10
+L1078,Google Ads,GAds_Search_Generic,Ghaziabad,Builder Floor,2,48.6,6,4,6,1,2,2.6,2,0,0,Booked,1,0,0,20,12,2-6h,Low (1-2),<50L,1,4,2,5,11,Warm,76.0,High,66,0.7391,1
+L1079,Instagram,IG_Lead_Form,Jaipur,Apartment,1,45.2,2,0,1,0,2,12.2,13,1,0,Nurturing,0,0,0,3,3,6-24h,Low (1-2),<50L,1,1,2,1,4,Cold,39.9,Low,829,0.1929,9
+L1080,Google Ads,GAds_Display_Remarketing,Noida,Apartment,3,38.2,2,1,5,0,2,7.1,16,1,1,Nurturing,0,0,0,9,8,6-24h,Low (1-2),<50L,1,1,2,4,7,Cool,47.9,Medium,553,0.3658,5
+L1081,Property Portal,Portal_Basic_Listing,Noida,Apartment,1,93.6,3,3,3,0,2,4.2,16,1,1,Nurturing,0,0,0,12,8,2-6h,Low (1-2),50-100L,1,1,2,5,8,Cool,52.4,Medium,432,0.5167,3
+L1082,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,56.1,1,1,0,0,1,5.0,2,0,0,Lost,0,0,0,3,2,2-6h,Low (1-2),50-100L,0,4,1,1,6,Cool,33.2,Low,1071,0.2187,8
+L1083,Walk-in,Walkin_Site_Hoarding,Jaipur,Villa,4,98.9,1,1,0,0,3,4.0,21,0,0,Nurturing,0,0,0,3,4,2-6h,Medium (3-5),50-100L,0,1,4,1,6,Cool,32.1,Low,1107,0.1146,10
+L1084,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,2,39.4,3,3,3,1,4,8.0,18,0,0,Lost,0,0,0,12,10,6-24h,Medium (3-5),<50L,1,1,5,5,11,Warm,64.1,High,233,0.603,2
+L1085,Walk-in,Walkin_Sales_Office,Jaipur,Builder Floor,4,99.8,0,4,2,0,4,5.3,8,0,0,New / Uncontacted,0,0,0,10,10,2-6h,Medium (3-5),50-100L,0,2,5,4,11,Warm,45.0,Medium,637,0.5132,3
+L1086,Website,Web_Organic,Gurugram,Commercial,0,215.5,5,3,1,0,8,1.4,5,1,0,Nurturing,0,0,0,12,12,0-2h,High (6+),200L+,1,3,5,5,13,Hot,62.7,High,258,0.5711,2
+L1087,Website,Web_Brochure_Download,Noida,Builder Floor,2,197.0,1,1,1,1,1,3.1,2,1,1,Lost,0,0,0,4,3,2-6h,Low (1-2),100-200L,2,4,1,2,7,Cool,65.0,High,218,0.417,4
+L1088,Website,Web_Chatbot,Hyderabad,Builder Floor,4,89.7,2,1,2,1,2,1.6,8,1,1,Nurturing,0,0,0,6,5,0-2h,Low (1-2),50-100L,2,2,2,3,7,Cool,68.0,High,168,0.4681,3
+L1089,Google Ads,GAds_Search_Generic,Noida,Apartment,3,89.1,7,2,2,0,4,2.5,7,1,1,Nurturing,0,0,0,13,8,2-6h,Medium (3-5),50-100L,1,2,5,5,12,Hot,59.7,High,299,0.5351,2
+L1090,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,52.5,0,0,1,1,4,10.9,4,0,1,Lost,0,0,0,1,5,6-24h,Medium (3-5),50-100L,1,3,5,1,9,Warm,53.5,Medium,408,0.3662,5
+L1091,Property Portal,Portal_Premium_Listing,Noida,Apartment,2,73.4,4,2,0,1,5,3.6,12,1,0,Booked,1,0,0,8,7,2-6h,Medium (3-5),50-100L,2,2,5,4,11,Warm,73.8,High,91,0.5759,2
+L1092,Instagram,IG_Lead_Form,Hyderabad,Plot,0,55.0,2,1,1,0,3,11.9,5,0,0,Lost,0,0,0,5,5,6-24h,Medium (3-5),50-100L,0,3,4,2,9,Warm,36.0,Low,980,0.1362,10
+L1093,Google Ads,GAds_Search_Generic,Pune,Plot,0,74.4,1,1,1,0,4,6.8,6,0,1,New / Uncontacted,0,0,0,4,6,6-24h,Medium (3-5),50-100L,0,3,5,2,10,Warm,37.8,Low,914,0.2185,8
+L1094,Property Portal,Portal_Basic_Listing,Pune,Apartment,2,123.1,4,1,1,0,5,4.4,6,0,0,Lost,0,0,0,7,7,2-6h,Medium (3-5),100-200L,0,3,5,3,11,Warm,43.8,Medium,694,0.2413,8
+L1095,Instagram,IG_Influencer_Tour,Hyderabad,Apartment,2,127.3,1,1,0,0,3,6.4,3,1,1,Lost,0,0,0,3,4,6-24h,Medium (3-5),100-200L,1,4,4,1,9,Warm,45.8,Medium,619,0.3268,6
+L1096,Google Ads,GAds_Search_Generic,Noida,Apartment,2,61.4,1,2,2,0,4,19.5,15,0,0,Lost,0,0,0,7,8,6-24h,Medium (3-5),50-100L,0,1,5,3,9,Warm,35.2,Low,1009,0.1623,10
+L1097,Property Portal,Portal_Premium_Listing,Hyderabad,Builder Floor,4,161.7,4,1,0,0,4,2.0,1,1,0,Nurturing,0,0,0,6,5,0-2h,Medium (3-5),100-200L,1,5,5,3,13,Hot,53.0,Medium,419,0.4026,4
+L1098,Referral,Ref_Existing_Customer,Gurugram,Villa,3,248.1,2,1,0,0,5,22.2,4,1,1,Nurturing,0,0,0,4,6,6-24h,Medium (3-5),200L+,1,3,5,2,10,Warm,45.2,Medium,631,0.4161,4
+L1099,Referral,Ref_Existing_Customer,Pune,Villa,4,184.8,5,1,0,0,3,12.4,4,0,0,Nurturing,0,0,0,7,4,6-24h,Medium (3-5),100-200L,0,3,4,3,10,Warm,38.5,Low,888,0.2582,7
+L1100,Property Portal,Portal_Featured_Project,Lucknow,Commercial,0,74.9,3,2,1,1,4,6.8,20,0,1,Negotiation,0,0,0,8,7,6-24h,Medium (3-5),50-100L,1,1,5,4,10,Warm,59.2,High,309,0.2861,7
+L1101,Property Portal,Portal_Premium_Listing,Ghaziabad,Apartment,2,52.4,3,1,0,0,3,5.7,18,0,1,Lost,0,1,0,5,4,2-6h,Medium (3-5),50-100L,0,1,4,2,7,Cool,34.7,Low,1029,0.1634,10
+L1102,Google Ads,GAds_Search_Generic,Hyderabad,Villa,5,386.1,2,0,3,0,3,4.8,0,0,0,Lost,0,0,0,5,6,2-6h,Medium (3-5),200L+,0,5,4,2,11,Warm,39.5,Low,845,0.2121,9
+L1103,Website,Web_Organic,Noida,Builder Floor,2,116.4,2,2,1,1,2,7.6,2,1,0,Booked,1,0,0,7,5,6-24h,Low (1-2),100-200L,2,4,2,3,9,Warm,68.8,High,163,0.5515,2
+L1104,Referral,Ref_Existing_Customer,Hyderabad,Apartment,2,95.7,2,1,2,0,2,4.3,19,0,0,Lost,0,0,0,6,5,2-6h,Low (1-2),50-100L,0,1,2,3,6,Cool,34.4,Low,1037,0.1967,9
+L1105,Property Portal,Portal_Premium_Listing,Ghaziabad,Commercial,0,93.1,4,1,3,0,2,12.0,2,1,0,Lost,0,0,0,9,6,6-24h,Low (1-2),50-100L,1,4,2,4,10,Warm,49.9,Medium,491,0.3341,6
+L1106,Website,Web_Chatbot,Pune,Apartment,3,203.0,0,0,0,0,3,5.4,1,0,0,Lost,0,0,0,0,3,2-6h,Medium (3-5),200L+,0,5,4,1,10,Warm,33.1,Low,1078,0.2808,7
+L1107,Property Portal,Portal_Basic_Listing,Hyderabad,Villa,3,341.1,3,2,0,1,2,6.9,2,0,0,Nurturing,0,0,0,7,4,6-24h,Low (1-2),200L+,1,4,2,3,9,Warm,59.1,High,310,0.3528,5
+L1108,Google Ads,GAds_Display_Remarketing,Noida,Villa,4,153.8,3,1,1,0,1,11.1,17,1,1,Nurturing,0,0,0,6,3,6-24h,Low (1-2),100-200L,1,1,1,3,5,Cold,41.2,Medium,780,0.1208,10
+L1109,Walk-in,Walkin_Sales_Office,Hyderabad,Commercial,0,130.8,3,2,0,0,3,17.2,2,0,1,Lost,0,0,0,7,5,6-24h,Medium (3-5),100-200L,0,4,4,3,11,Warm,37.5,Low,927,0.3148,6
+L1110,Property Portal,Portal_Featured_Project,Jaipur,Builder Floor,2,70.5,3,3,6,0,3,2.1,4,1,0,Booked,1,0,0,15,12,2-6h,Medium (3-5),50-100L,1,3,4,5,12,Hot,61.3,High,273,0.6164,1
+L1111,Property Portal,Portal_Basic_Listing,Pune,Apartment,3,90.8,3,1,0,0,4,10.9,1,0,0,New / Uncontacted,0,0,0,5,5,6-24h,Medium (3-5),50-100L,0,5,5,2,12,Hot,39.0,Low,863,0.1974,9
+L1112,Google Ads,GAds_Search_Generic,Noida,Plot,0,47.3,1,0,1,1,2,2.6,4,1,1,Negotiation,0,0,0,2,3,2-6h,Low (1-2),<50L,2,3,2,1,6,Cool,63.9,High,244,0.4299,4
+L1113,Instagram,IG_Reels_Showcase,Jaipur,Plot,0,51.3,3,0,2,0,3,1.2,18,0,1,Nurturing,0,0,0,5,5,0-2h,Medium (3-5),50-100L,0,1,4,2,7,Cool,36.1,Low,977,0.2168,9
+L1114,Walk-in,Walkin_Sales_Office,Pune,Builder Floor,3,181.6,3,2,4,0,3,3.3,17,1,1,Booked,1,0,0,11,9,2-6h,Medium (3-5),100-200L,1,1,4,5,10,Warm,52.9,Medium,421,0.4856,3
+L1115,Walk-in,Walkin_Sales_Office,Lucknow,Plot,0,27.8,3,0,0,0,2,15.9,2,0,1,New / Uncontacted,0,0,0,3,2,6-24h,Low (1-2),<50L,0,4,2,1,7,Cool,31.5,Low,1125,0.2572,7
+L1116,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,55.6,1,0,0,1,1,6.2,1,1,0,Negotiation,0,0,0,1,1,6-24h,Low (1-2),50-100L,2,5,1,1,7,Cool,60.7,High,284,0.3734,5
+L1117,Property Portal,Portal_Premium_Listing,Gurugram,Builder Floor,2,112.3,2,1,1,0,1,4.9,5,0,0,Lost,0,0,0,5,3,2-6h,Low (1-2),100-200L,0,3,1,2,6,Cool,34.9,Low,1021,0.1895,9
+L1118,Website,Web_Chatbot,Bengaluru,Plot,0,61.4,2,1,1,0,1,6.7,4,0,0,Nurturing,0,0,0,5,3,6-24h,Low (1-2),50-100L,0,3,1,2,6,Cool,34.6,Low,1033,0.1889,9
+L1119,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,166.0,1,1,0,0,3,11.6,13,0,0,Lost,0,0,0,3,4,6-24h,Medium (3-5),100-200L,0,1,4,1,6,Cool,31.7,Low,1118,0.1302,10
+L1120,Referral,Ref_Broker_Network,Pune,Builder Floor,2,155.1,0,1,1,0,3,13.1,7,1,0,Nurturing,0,0,0,3,5,6-24h,Medium (3-5),100-200L,1,2,4,1,7,Cool,42.8,Medium,733,0.3305,6
+L1121,Website,Web_Chatbot,Hyderabad,Commercial,0,200.4,5,2,5,1,6,1.1,0,1,1,Booked,1,0,0,14,13,0-2h,High (6+),200L+,2,5,5,5,15,Hot,86.5,High,8,0.6272,1
+L1122,Property Portal,Portal_Premium_Listing,Noida,Plot,0,55.2,4,1,2,1,3,4.5,22,0,0,Negotiation,0,0,0,8,6,2-6h,Medium (3-5),50-100L,1,1,4,4,9,Warm,57.7,High,338,0.3278,6
+L1123,Referral,Ref_Broker_Network,Noida,Plot,0,54.7,1,6,1,1,2,4.8,2,0,0,Booked,1,0,0,14,9,2-6h,Low (1-2),50-100L,1,4,2,5,11,Warm,68.1,High,167,0.5701,2
+L1124,Property Portal,Portal_Premium_Listing,Pune,Apartment,2,51.9,4,2,0,0,3,1.4,1,1,0,Nurturing,0,0,0,8,5,0-2h,Medium (3-5),50-100L,1,5,4,4,13,Hot,53.9,Medium,399,0.4739,3
+L1125,Google Ads,GAds_Search_Brand,Noida,Commercial,0,173.5,2,0,1,1,4,1.7,1,0,0,Lost,0,0,0,3,5,0-2h,Medium (3-5),100-200L,1,5,5,1,11,Warm,59.5,High,305,0.3915,5
+L1126,Instagram,IG_Reels_Showcase,Jaipur,Apartment,2,71.3,3,0,1,0,1,5.0,6,0,0,Nurturing,0,0,0,4,2,2-6h,Low (1-2),50-100L,0,3,1,2,6,Cool,33.4,Low,1063,0.1664,10
+L1127,Instagram,IG_Reels_Showcase,Pune,Builder Floor,4,171.4,5,0,1,0,2,7.8,4,0,1,New / Uncontacted,0,0,0,6,3,6-24h,Low (1-2),100-200L,0,3,2,3,8,Cool,37.1,Low,942,0.2123,9
+L1128,Website,Web_Organic,Jaipur,Builder Floor,3,70.6,6,2,1,1,3,4.5,1,1,1,Booked,1,0,0,11,6,2-6h,Medium (3-5),50-100L,2,5,4,5,14,Hot,76.5,High,64,0.6388,1
+L1129,Instagram,IG_Reels_Showcase,Ghaziabad,Plot,0,44.5,7,1,1,0,2,3.8,14,1,1,Lost,0,0,0,10,4,2-6h,Low (1-2),<50L,1,1,2,4,7,Cool,50.6,Medium,478,0.4632,3
+L1130,Walk-in,Walkin_Sales_Office,Pune,Commercial,0,146.5,1,2,5,0,2,2.0,2,0,1,Lost,0,0,0,10,9,0-2h,Low (1-2),100-200L,0,4,2,4,10,Warm,44.2,Medium,677,0.4644,3
+L1131,Walk-in,Walkin_Sales_Office,Jaipur,Villa,4,196.8,1,1,1,0,3,4.8,1,0,0,Lost,0,0,0,4,5,2-6h,Medium (3-5),100-200L,0,5,4,2,11,Warm,38.0,Low,905,0.2953,6
+L1132,Instagram,IG_Reels_Showcase,Gurugram,Villa,3,150.6,2,4,7,1,2,4.7,8,1,1,Booked,1,0,0,17,13,2-6h,Low (1-2),100-200L,2,2,2,5,9,Warm,80.3,High,30,0.6699,1
+L1133,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,2,77.6,4,0,1,0,1,16.9,5,0,1,New / Uncontacted,0,0,0,5,2,6-24h,Low (1-2),50-100L,0,3,1,2,6,Cool,31.1,Low,1132,0.1905,9
+L1134,Website,Web_Chatbot,Hyderabad,Builder Floor,3,113.2,4,3,2,1,3,0.7,3,1,0,Nurturing,0,0,0,12,8,0-2h,Medium (3-5),100-200L,2,4,4,5,13,Hot,78.4,High,43,0.6765,1
+L1135,Walk-in,Walkin_Sales_Office,Pune,Builder Floor,2,75.4,1,3,2,0,3,6.5,5,0,0,Booked,1,0,0,9,8,6-24h,Medium (3-5),50-100L,0,3,4,4,11,Warm,42.5,Medium,744,0.4308,4
+L1136,Google Ads,GAds_Search_Brand,Lucknow,Apartment,2,28.9,1,1,2,0,1,7.1,0,0,0,Lost,0,0,0,5,4,6-24h,Low (1-2),<50L,0,5,1,2,8,Cool,35.4,Low,1001,0.2359,8
+L1137,Google Ads,GAds_Search_Brand,Ghaziabad,Builder Floor,3,77.0,1,1,1,0,1,10.3,0,0,1,Nurturing,0,0,0,4,3,6-24h,Low (1-2),50-100L,0,5,1,2,8,Cool,33.2,Low,1072,0.1841,9
+L1138,Google Ads,GAds_Search_Brand,Noida,Plot,0,100.4,3,1,0,0,1,20.1,7,0,1,Booked,1,0,0,5,2,6-24h,Low (1-2),100-200L,0,2,1,2,5,Cold,29.6,Low,1153,0.1699,10
+L1139,Property Portal,Portal_Featured_Project,Gurugram,Villa,4,386.1,4,1,0,0,2,4.5,13,0,0,Nurturing,0,0,0,6,3,2-6h,Low (1-2),200L+,0,1,2,3,6,Cool,35.9,Low,986,0.1527,10
+L1140,Website,Web_Chatbot,Noida,Plot,0,68.5,4,1,1,1,1,10.8,0,1,0,Lost,0,0,0,7,3,6-24h,Low (1-2),50-100L,2,5,1,3,9,Warm,66.7,High,187,0.4957,3
+L1141,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,4,178.8,5,1,0,0,1,2.3,2,0,1,New / Uncontacted,0,0,0,7,2,2-6h,Low (1-2),100-200L,0,5,1,3,9,Warm,38.8,Low,872,0.2892,7
+L1142,Website,Web_Brochure_Download,Gurugram,Builder Floor,2,131.0,1,3,1,1,2,6.6,16,0,0,Negotiation,0,0,0,8,6,6-24h,Low (1-2),100-200L,1,1,2,4,7,Cool,56.9,High,352,0.4063,4
+L1143,Referral,Ref_Existing_Customer,Bengaluru,Apartment,2,136.1,2,1,2,1,4,6.9,14,1,0,Lost,0,1,0,6,7,6-24h,Medium (3-5),100-200L,2,1,5,3,9,Warm,68.2,High,166,0.5431,2
+L1144,Referral,Ref_Broker_Network,Noida,Apartment,2,70.4,0,2,2,0,2,9.9,11,0,0,Booked,1,0,0,6,6,6-24h,Low (1-2),50-100L,0,2,2,3,7,Cool,34.7,Low,1030,0.1922,9
+L1145,Google Ads,GAds_Search_Brand,Gurugram,Builder Floor,3,111.1,3,2,2,0,3,2.0,7,1,1,New / Uncontacted,0,0,0,9,7,0-2h,Medium (3-5),100-200L,1,2,4,4,10,Warm,53.4,Medium,411,0.4851,3
+L1146,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,47.3,4,1,1,0,1,9.3,30,0,0,Lost,0,0,0,7,3,6-24h,Low (1-2),<50L,0,1,1,3,5,Cold,29.7,Low,1152,0.1516,10
+L1147,Website,Web_Brochure_Download,Ghaziabad,Apartment,2,31.0,5,4,1,0,6,18.7,1,0,0,Lost,0,0,0,14,11,6-24h,High (6+),<50L,0,5,5,5,15,Hot,50.7,Medium,476,0.4131,4
+L1148,Referral,Ref_Broker_Network,Bengaluru,Villa,4,367.2,3,1,0,1,4,6.9,6,0,1,Nurturing,0,1,0,5,5,6-24h,Medium (3-5),200L+,1,3,5,2,10,Warm,59.0,High,313,0.4217,4
+L1149,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,2,71.9,4,1,3,0,3,5.0,5,0,1,Lost,0,0,0,9,7,2-6h,Medium (3-5),50-100L,0,3,4,4,11,Warm,43.0,Medium,725,0.3276,6
+L1150,Referral,Ref_Broker_Network,Bengaluru,Apartment,1,73.7,6,2,1,1,3,12.2,2,0,1,Nurturing,0,0,0,11,6,6-24h,Medium (3-5),50-100L,1,5,4,5,14,Hot,63.9,High,245,0.5391,2
+L1151,Property Portal,Portal_Featured_Project,Noida,Apartment,4,54.6,0,0,2,0,1,8.0,10,0,1,Lost,0,0,0,2,3,6-24h,Low (1-2),50-100L,0,2,1,1,4,Cold,29.1,Low,1161,0.1656,10
+L1152,Referral,Ref_Broker_Network,Bengaluru,Builder Floor,3,115.0,1,1,2,0,1,17.6,9,1,1,Lost,0,0,0,5,4,6-24h,Low (1-2),100-200L,1,2,1,2,5,Cold,39.9,Low,830,0.2652,7
+L1153,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,152.9,5,0,2,0,4,4.0,1,0,1,New / Uncontacted,0,0,0,7,6,2-6h,Medium (3-5),100-200L,0,5,5,3,13,Hot,43.6,Medium,701,0.2251,8
+L1154,Property Portal,Portal_Basic_Listing,Hyderabad,Builder Floor,3,237.2,0,0,2,0,2,7.1,2,0,0,Lost,0,0,0,2,4,6-24h,Low (1-2),200L+,0,5,2,1,8,Cool,33.0,Low,1084,0.1736,10
+L1155,Instagram,IG_Lead_Form,Jaipur,Builder Floor,4,42.5,7,2,1,0,4,2.6,18,0,0,Booked,1,0,0,12,7,2-6h,Medium (3-5),<50L,0,1,5,5,11,Warm,45.8,Medium,620,0.3001,6
+L1156,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,2,56.3,6,0,2,0,4,7.3,2,0,0,Lost,0,0,0,8,6,6-24h,Medium (3-5),50-100L,0,5,5,4,14,Hot,43.5,Medium,708,0.2232,8
+L1157,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,91.9,1,0,0,0,5,5.7,7,1,0,Lost,0,1,0,1,5,2-6h,Medium (3-5),50-100L,1,2,5,1,8,Cool,46.0,Medium,615,0.3552,5
+L1158,Property Portal,Portal_Featured_Project,Noida,Apartment,2,116.6,2,0,0,1,2,8.4,1,1,1,Negotiation,0,0,0,2,2,6-24h,Low (1-2),100-200L,2,5,2,1,8,Cool,62.9,High,255,0.4051,4
+L1159,Google Ads,GAds_Search_Brand,Gurugram,Apartment,3,116.1,0,0,0,0,1,4.2,5,0,1,Booked,1,0,0,0,1,2-6h,Low (1-2),100-200L,0,3,1,1,5,Cold,29.1,Low,1162,0.1899,9
+L1160,Website,Web_Brochure_Download,Hyderabad,Apartment,2,72.0,2,0,0,0,2,3.8,9,0,0,Lost,0,0,0,2,2,2-6h,Low (1-2),50-100L,0,2,2,1,5,Cold,32.3,Low,1102,0.1937,9
+L1161,Property Portal,Portal_Premium_Listing,Bengaluru,Builder Floor,3,126.7,3,0,0,0,2,9.8,1,0,0,Lost,0,0,0,3,2,6-24h,Low (1-2),100-200L,0,5,2,1,8,Cool,33.6,Low,1059,0.1914,9
+L1162,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,4,76.2,3,0,2,1,5,13.5,1,1,1,Booked,1,0,0,5,7,6-24h,Medium (3-5),50-100L,2,5,5,2,12,Hot,69.9,High,142,0.3657,5
+L1163,Referral,Ref_Existing_Customer,Noida,Plot,0,106.4,2,2,0,0,3,10.0,9,0,0,New / Uncontacted,0,0,0,6,5,6-24h,Medium (3-5),100-200L,0,2,4,3,9,Warm,36.8,Low,951,0.1937,9
+L1164,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,3,72.7,2,3,1,0,6,25.8,11,0,0,Lost,0,0,0,9,10,24h+,High (6+),50-100L,0,2,5,4,11,Warm,40.0,Medium,824,0.2249,8
+L1165,Property Portal,Portal_Basic_Listing,Gurugram,Villa,4,318.6,1,4,2,0,2,10.4,8,1,0,New / Uncontacted,0,0,0,11,8,6-24h,Low (1-2),200L+,1,2,2,5,9,Warm,51.3,Medium,460,0.4071,4
+L1166,Referral,Ref_Existing_Customer,Jaipur,Apartment,3,23.6,6,3,0,0,5,6.9,17,0,0,Nurturing,0,1,0,12,8,6-24h,Medium (3-5),<50L,0,1,5,5,11,Warm,46.3,Medium,606,0.4139,4
+L1167,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,3,62.3,8,4,2,1,3,7.4,4,0,1,Booked,1,0,0,18,9,6-24h,Medium (3-5),50-100L,1,3,4,5,12,Hot,73.3,High,101,0.6592,1
+L1168,Instagram,IG_Reels_Showcase,Gurugram,Apartment,3,217.7,7,0,2,1,6,16.8,7,1,0,Negotiation,0,0,0,9,8,6-24h,High (6+),200L+,2,2,5,4,11,Warm,73.8,High,92,0.5824,2
+L1169,Referral,Ref_Broker_Network,Jaipur,Builder Floor,3,120.9,2,3,2,0,4,13.6,2,0,0,Lost,0,0,0,10,9,6-24h,Medium (3-5),100-200L,0,5,5,4,14,Hot,43.9,Medium,692,0.4487,4
+L1170,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,2,55.0,5,0,2,0,3,2.2,1,0,0,New / Uncontacted,0,0,0,7,5,2-6h,Medium (3-5),50-100L,0,5,4,3,12,Hot,42.5,Medium,745,0.217,9
+L1171,Google Ads,GAds_Display_Remarketing,Lucknow,Commercial,0,86.0,4,0,0,0,2,16.1,15,0,0,Lost,0,0,0,4,2,6-24h,Low (1-2),50-100L,0,1,2,2,5,Cold,29.4,Low,1158,0.1162,10
+L1172,Website,Web_Chatbot,Pune,Villa,3,135.9,1,0,0,0,1,9.2,4,1,0,Lost,0,0,0,1,1,6-24h,Low (1-2),100-200L,1,3,1,1,5,Cold,39.0,Low,864,0.2294,8
+L1173,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,240.3,4,1,2,0,3,5.4,1,1,0,Nurturing,0,0,0,8,6,2-6h,Medium (3-5),200L+,1,5,4,4,13,Hot,52.7,Medium,425,0.3533,5
+L1174,Website,Web_Organic,Hyderabad,Apartment,3,98.0,3,0,1,0,5,1.7,3,0,1,Lost,0,0,0,4,6,0-2h,Medium (3-5),50-100L,0,4,5,2,11,Warm,41.8,Medium,764,0.2464,8
+L1175,Instagram,IG_Influencer_Tour,Lucknow,Plot,0,33.6,2,1,2,0,4,2.3,4,0,0,Lost,0,0,0,6,7,2-6h,Medium (3-5),<50L,0,3,5,3,11,Warm,42.2,Medium,755,0.2446,8
+L1176,Website,Web_Chatbot,Bengaluru,Builder Floor,4,125.0,1,0,0,0,2,7.2,13,0,0,Nurturing,0,0,0,1,2,6-24h,Low (1-2),100-200L,0,1,2,1,4,Cold,29.0,Low,1164,0.1228,10
+L1177,Google Ads,GAds_Search_Generic,Pune,Builder Floor,3,43.9,1,1,0,0,3,2.6,24,0,0,Lost,0,0,0,3,4,2-6h,Medium (3-5),<50L,0,1,4,1,6,Cool,31.8,Low,1115,0.2153,9
+L1178,Google Ads,GAds_Display_Remarketing,Pune,Commercial,0,94.4,3,2,2,0,3,4.9,1,0,0,Lost,0,0,0,9,7,2-6h,Medium (3-5),50-100L,0,5,4,4,13,Hot,44.0,Medium,687,0.2828,7
+L1179,Property Portal,Portal_Basic_Listing,Pune,Villa,3,209.7,1,2,1,0,5,10.8,30,1,0,Nurturing,0,0,0,6,8,6-24h,Medium (3-5),200L+,1,1,5,3,9,Warm,44.6,Medium,655,0.3469,5
+L1180,Property Portal,Portal_Premium_Listing,Bengaluru,Plot,0,96.1,0,1,2,0,3,4.6,29,0,0,Lost,0,0,0,4,6,2-6h,Medium (3-5),50-100L,0,1,4,2,7,Cool,31.1,Low,1133,0.1731,10
+L1181,Website,Web_Chatbot,Pune,Villa,3,104.9,5,2,1,0,5,6.3,3,0,0,Nurturing,0,0,0,10,8,6-24h,Medium (3-5),100-200L,0,4,5,4,13,Hot,47.6,Medium,560,0.2461,8
+L1182,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,91.9,3,1,0,0,3,2.8,13,0,1,Nurturing,0,0,0,5,4,2-6h,Medium (3-5),50-100L,0,1,4,2,7,Cool,36.9,Low,947,0.1466,10
+L1183,Property Portal,Portal_Premium_Listing,Noida,Villa,4,281.9,4,2,2,0,2,5.8,5,0,0,Lost,0,0,0,10,6,2-6h,Low (1-2),200L+,0,3,2,4,9,Warm,42.3,Medium,750,0.2937,7
+L1184,Property Portal,Portal_Premium_Listing,Pune,Builder Floor,2,65.7,3,0,1,0,1,9.4,2,0,1,Lost,0,0,0,4,2,6-24h,Low (1-2),50-100L,0,5,1,2,8,Cool,33.0,Low,1085,0.1638,10
+L1185,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,143.0,4,2,4,0,5,1.6,3,1,1,Booked,1,0,0,12,11,0-2h,Medium (3-5),100-200L,1,4,5,5,14,Hot,61.5,High,270,0.5977,2
+L1186,Referral,Ref_Existing_Customer,Gurugram,Plot,0,78.8,6,0,0,0,2,3.1,1,1,0,Booked,1,0,0,6,2,2-6h,Low (1-2),50-100L,1,5,2,3,10,Warm,49.3,Medium,512,0.4763,3
+L1187,Google Ads,GAds_Search_Generic,Noida,Apartment,3,150.3,1,1,1,0,1,3.1,6,0,0,Lost,0,0,0,4,3,2-6h,Low (1-2),100-200L,0,3,1,2,6,Cool,34.0,Low,1047,0.1686,10
+L1188,Walk-in,Walkin_Site_Hoarding,Jaipur,Apartment,3,55.4,1,2,2,1,1,6.5,6,0,1,Lost,0,1,0,7,5,6-24h,Low (1-2),50-100L,1,3,1,3,7,Cool,56.5,High,359,0.4058,4
+L1189,Property Portal,Portal_Featured_Project,Noida,Apartment,4,77.7,1,1,1,0,2,9.3,0,0,1,Lost,0,0,0,4,4,6-24h,Low (1-2),50-100L,0,5,2,2,9,Warm,35.2,Low,1010,0.1916,9
+L1190,Instagram,IG_Influencer_Tour,Pune,Builder Floor,2,147.4,1,0,3,0,3,5.9,18,1,0,Nurturing,0,0,0,4,6,2-6h,Medium (3-5),100-200L,1,1,4,2,7,Cool,43.5,Medium,709,0.2641,7
+L1191,Google Ads,GAds_Search_Brand,Bengaluru,Apartment,4,61.3,0,1,3,0,5,6.5,5,0,0,Booked,1,0,0,5,9,6-24h,Medium (3-5),50-100L,0,3,5,2,10,Warm,41.0,Medium,786,0.1881,9
+L1192,Google Ads,GAds_Search_Brand,Bengaluru,Villa,4,216.6,6,2,2,0,2,7.1,6,1,1,Lost,0,0,0,12,6,6-24h,Low (1-2),200L+,1,3,2,5,10,Warm,54.0,Medium,396,0.4334,4
+L1193,Referral,Ref_Broker_Network,Gurugram,Builder Floor,3,113.4,2,2,2,0,5,11.0,10,0,1,Nurturing,0,0,0,8,9,6-24h,Medium (3-5),100-200L,0,2,5,4,11,Warm,42.0,Medium,757,0.307,6
+L1194,Walk-in,Walkin_Site_Hoarding,Jaipur,Plot,0,41.9,3,3,0,1,3,4.0,14,0,0,Lost,0,0,0,9,6,2-6h,Medium (3-5),<50L,1,1,4,4,9,Warm,61.0,High,280,0.4494,4
+L1195,Referral,Ref_Existing_Customer,Jaipur,Apartment,1,80.7,2,2,2,0,1,3.1,3,0,0,Lost,0,0,0,8,5,2-6h,Low (1-2),50-100L,0,4,1,4,9,Warm,39.6,Low,840,0.2671,7
+L1196,Property Portal,Portal_Premium_Listing,Lucknow,Builder Floor,3,92.3,2,3,2,1,2,4.6,11,0,1,Lost,0,0,0,10,7,2-6h,Low (1-2),50-100L,1,2,2,4,8,Cool,61.1,High,275,0.5227,2
+L1197,Property Portal,Portal_Featured_Project,Pune,Apartment,3,66.4,1,0,2,0,2,6.2,4,1,0,Lost,0,0,0,3,4,6-24h,Low (1-2),50-100L,1,3,2,1,6,Cool,44.0,Medium,688,0.2528,8
+L1198,Instagram,IG_Lead_Form,Gurugram,Plot,0,80.8,7,0,1,0,2,31.1,10,1,0,Booked,1,0,0,8,3,24h+,Low (1-2),50-100L,1,2,2,4,8,Cool,40.7,Medium,799,0.3686,5
+L1199,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,2,151.6,5,1,1,1,3,4.2,1,0,1,Booked,1,0,0,8,5,2-6h,Medium (3-5),100-200L,1,5,4,4,13,Hot,63.0,High,254,0.3783,5
+L1200,Website,Web_Brochure_Download,Noida,Apartment,2,61.7,4,3,2,1,8,5.1,10,0,0,Nurturing,0,0,0,12,13,2-6h,High (6+),50-100L,1,2,5,5,12,Hot,70.3,High,136,0.4757,3

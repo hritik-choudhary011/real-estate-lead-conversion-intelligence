@@ -1,0 +1,1201 @@
+lead_id,lead_source,campaign_name,city,property_type,preferred_bhk,budget_lakh,website_visits,calls_connected,whatsapp_replies,site_visit_completed,followup_count,response_time_hours,days_since_last_contact,loan_preapproved,discount_interest,lead_status,converted
+L0001,Website,Web_Organic,Pune,Plot,0,49.6,6,1,5,0,7,4.1,1,0,0,Nurturing,0
+L0002,Google Ads,GAds_Search_Generic,Pune,Builder Floor,2,126.9,4,0,1,1,2,2.5,6,0,1,Lost,0
+L0003,Referral,Ref_Broker_Network,Noida,Apartment,3,89.6,7,1,0,1,3,2.7,6,0,0,Lost,0
+L0004,Website,Web_Brochure_Download,Pune,Villa,3,118.6,4,0,1,1,2,10.3,17,0,1,Lost,0
+L0005,Property Portal,Portal_Featured_Project,Pune,Apartment,3,48.4,7,1,3,0,2,3.4,12,1,1,Nurturing,0
+L0006,Walk-in,Walkin_Site_Hoarding,Pune,Plot,0,73.4,1,3,0,0,3,53.7,3,1,0,Lost,0
+L0007,Website,Web_Brochure_Download,Noida,Builder Floor,3,78.6,2,2,2,0,4,7.5,8,1,1,Booked,1
+L0008,Website,Web_Chatbot,Lucknow,Apartment,3,66.7,2,2,2,0,4,2.8,6,0,0,New / Uncontacted,0
+L0009,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,2,83.8,5,0,1,0,3,2.1,7,0,0,Nurturing,0
+L0010,Google Ads,GAds_Search_Brand,Noida,Villa,3,126.9,0,0,2,0,5,6.1,2,1,1,Nurturing,0
+L0011,Google Ads,GAds_Search_Generic,Gurugram,Apartment,2,64.1,4,3,1,0,2,3.4,6,0,1,Lost,0
+L0012,Walk-in,Walkin_Sales_Office,Lucknow,Plot,0,79.1,2,1,2,0,3,16.5,2,1,0,Lost,0
+L0013,Instagram,IG_Influencer_Tour,Bengaluru,Plot,0,80.9,2,1,4,0,4,6.2,1,1,0,Booked,1
+L0014,Referral,Ref_Broker_Network,Gurugram,Villa,3,217.6,4,3,0,0,4,1.3,3,0,0,Booked,1
+L0015,Google Ads,GAds_Search_Generic,Bengaluru,Apartment,3,70.3,1,0,1,0,3,2.7,2,0,1,Lost,0
+L0016,property portal,Portal_Featured_Project,Jaipur,Villa,3,,4,3,2,1,4,4.1,20,1,0,Booked,1
+L0017,Instagram,IG_Lead_Form,Bengaluru,Commercial,0,102.8,6,2,1,1,6,6.8,1,0,0,Lost,0
+L0018,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,2,81.7,5,1,1,0,5,3.1,0,0,1,New / Uncontacted,0
+L0019,Referral,Ref_Existing_Customer,Lucknow,Apartment,2,45.7,10,2,4,0,3,4.7,1,0,1,Nurturing,0
+L0020,Instagram,IG_Lead_Form,Pune,Apartment,3,126.5,1,0,0,0,2,2.2,3,0,0,Lost,0
+L0021,Website,Web_Organic,Hyderabad,Apartment,2,,4,2,2,0,3,6.0,11,1,1,Nurturing,0
+L0022,Google Ads,GAds_Display_Remarketing,Lucknow,Villa,4,99.9,1,0,0,1,3,6.7,2,1,1,Nurturing,0
+L0023,Walk-in,Walkin_Sales_Office,Jaipur,Builder Floor,2,65.5,1,1,1,0,3,19.2,2,1,0,Nurturing,0
+L0024,referral,Ref_Broker_Network,Pune,Builder Floor,4,43.6,2,1,1,0,3,7.9,0,0,1,Lost,0
+L0025,Website,Web_Brochure_Download,Pune,Apartment,3,82.7,3,0,1,0,4,3.1,5,1,0,Lost,0
+L0026,Property Portal,Portal_Featured_Project,Noida,Apartment,2,77.7,5,0,2,1,7,15.8,4,0,0,Lost,0
+L0027,Google Ads,GAds_Search_Brand,Jaipur,Apartment,1,80.1,3,2,4,0,4,6.1,3,0,0,New / Uncontacted,0
+L0028,Property Portal,Portal_Featured_Project,Lucknow,Plot,0,22.7,3,2,0,0,2,11.5,2,0,1,Lost,0
+L0029,Property Portal,Portal_Basic_Listing,Hyderabad,Builder Floor,3,171.2,0,2,1,0,5,3.7,13,0,1,Nurturing,0
+L0030,Website,Web_Organic,Lucknow,Apartment,2,80.0,6,3,3,1,3,5.2,4,0,0,Booked,1
+L0031,Website,Web_Organic,Lucknow,Plot,0,68.2,3,2,2,0,3,3.2,3,0,0,New / Uncontacted,0
+L0032,Walk-in,Walkin_Site_Hoarding,Hyderabad,Apartment,2,88.4,2,0,3,0,4,4.9,0,1,1,Booked,1
+L0033,Google Ads,GAds_Search_Brand,Lucknow,Apartment,3,85.6,3,0,1,0,5,11.9,1,0,1,Lost,0
+L0034,Google Ads,GAds_Search_Brand,Gurugram,Apartment,3,62.7,4,2,1,1,4,4.3,11,1,0,Lost,0
+L0035,Google Ads,GAds_Search_Generic,Gurugram,Commercial,0,,6,2,1,1,1,4.0,6,0,1,Booked,1
+L0036,Property Portal,Portal_Featured_Project,Noida,Villa,3,151.2,2,0,0,0,3,11.1,14,0,0,Lost,0
+L0037,Property Portal,Portal_Featured_Project,Noida,Builder Floor,3,58.6,5,0,2,0,3,4.0,9,0,0,Nurturing,0
+L0038,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,2,40.5,2,1,1,0,2,2.0,2,1,1,Nurturing,0
+L0039,Property Portal,Portal_Basic_Listing,Bengaluru,Apartment,4,97.7,5,2,3,0,1,6.0,27,1,0,Lost,0
+L0040,Website,Web_Organic,Pune,Villa,3,155.1,1,0,1,0,1,5.6,2,1,0,Lost,0
+L0041,Google Ads,GAds_Search_Generic,Noida,Apartment,3,94.1,4,1,1,0,1,6.1,11,0,0,Nurturing,0
+L0042,Referral,Ref_Existing_Customer,Jaipur,Commercial,0,51.0,1,2,1,0,1,6.7,2,1,0,Nurturing,0
+L0043,website,Web_Organic,Noida,Plot,0,28.7,6,1,1,0,3,6.9,7,0,1,Lost,0
+L0044,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,3,145.5,4,4,4,0,2,3.9,7,0,0,Nurturing,0
+L0045,Referral,Ref_Broker_Network,Noida,Villa,3,271.7,4,0,1,0,1,3.0,10,1,1,Lost,0
+L0046,Referral,Ref_Broker_Network,Pune,Commercial,0,95.6,2,0,0,0,2,4.1,40,0,0,Lost,0
+L0047,Google Ads,GAds_Display_Remarketing,,Builder Floor,2,80.7,6,3,1,1,2,6.1,2,1,0,Booked,1
+L0048,Google Ads,GAds_Search_Generic,Pune,Villa,3,295.8,3,1,1,1,3,6.3,0,1,1,Lost,0
+L0049,web site,Web_Chatbot,Lucknow,Commercial,0,111.2,3,1,0,0,3,4.1,3,1,0,Booked,1
+L0050,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,3,102.7,2,1,1,0,7,2.7,3,0,0,Nurturing,0
+L0051,Property Portal,Portal_Basic_Listing,Gurugram,Plot,0,113.0,5,1,3,1,4,7.6,3,0,0,Booked,1
+L0052,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,3,69.7,5,0,0,0,4,,19,1,0,Nurturing,0
+L0053,Website,Web_Organic,Lucknow,Villa,4,145.6,4,1,2,0,2,10.4,19,1,1,Nurturing,0
+L0054,Website,Web_Brochure_Download,Bengaluru,Plot,0,,4,2,2,1,3,9.6,5,1,1,Lost,0
+L0055,Website,Web_Chatbot,Bengaluru,Builder Floor,3,112.3,3,2,0,0,2,6.2,20,0,1,Lost,0
+L0056,Website,Web_Brochure_Download,Hyderabad,Builder Floor,4,99.5,4,1,0,0,3,12.8,6,1,0,Lost,0
+L0057,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,3,136.4,0,1,2,0,3,8.9,16,0,0,Lost,0
+L0058,Instagram,IG_Influencer_Tour,Gurugram,Apartment,3,106.3,1,2,1,0,7,9.5,1,0,0,Nurturing,0
+L0059,Property Portal,Portal_Featured_Project,Gurugram,Apartment,3,72.7,2,0,3,0,1,1.2,15,0,0,Nurturing,0
+L0060,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,2,139.0,5,1,1,0,4,2.4,5,0,0,Lost,0
+L0061,Website,Web_Brochure_Download,Jaipur,Builder Floor,4,54.0,2,1,2,0,3,3.1,37,0,1,Lost,0
+L0062,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,1,83.4,4,2,0,0,2,5.5,2,0,1,Lost,0
+L0063,Instagram,IG_Lead_Form,Hyderabad,Apartment,2,81.2,3,0,1,0,5,6.5,12,0,0,Nurturing,0
+L0064,Website,Web_Brochure_Download,Jaipur,Plot,0,49.9,0,0,1,0,2,9.0,11,0,1,Lost,0
+L0065,Instagram,IG_Lead_Form,Pune,Apartment,3,41.1,3,1,1,0,3,6.8,6,0,0,Nurturing,0
+L0066,Insta,IG_Reels_Showcase,Bengaluru,Apartment,2,133.2,1,1,2,0,2,2.6,2,1,1,Lost,0
+L0067,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,2,,1,2,3,0,3,,11,0,0,Lost,0
+L0068,Google Ads,GAds_Display_Remarketing,Gurugram,Apartment,2,160.9,4,0,1,0,4,26.8,1,1,1,Lost,0
+L0069,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,121.8,1,1,2,0,4,4.1,1,1,0,Booked,1
+L0070,Google Ads,GAds_Search_Brand,Bengaluru,Apartment,3,95.8,2,1,2,0,2,,3,0,0,Lost,0
+L0071,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,1,205.2,2,3,1,1,2,3.0,2,1,1,Negotiation,0
+L0072,Google Ads,GAds_Search_Brand,Lucknow,Commercial,0,87.1,9,5,5,1,5,3.0,1,1,1,Booked,1
+L0073,Referral,Ref_Existing_Customer,Hyderabad,Plot,0,101.8,5,0,1,0,3,4.1,10,1,0,Lost,0
+L0074,Property Portal,Portal_Premium_Listing,Hyderabad,Villa,3,219.0,4,0,1,1,1,1.5,2,0,1,Lost,0
+L0075,Property Portal,Portal_Premium_Listing,Hyderabad,Plot,0,76.3,3,3,3,0,3,1.6,16,0,1,Lost,0
+L0076,Google Ads,GAds_Search_Generic,Bengaluru,Commercial,0,159.9,8,0,5,1,3,9.0,8,1,0,Booked,1
+L0077,Google Ads,GAds_Search_Generic,Gurugram,Apartment,2,141.3,4,3,0,0,4,13.1,2,0,1,Lost,0
+L0078,Website,Web_Organic,Ghaziabad,Builder Floor,4,63.5,1,2,1,0,3,37.0,5,0,1,New / Uncontacted,0
+L0079,Instagram,IG_Reels_Showcase,Jaipur,Builder Floor,2,53.9,3,3,6,0,4,6.2,7,1,1,New / Uncontacted,0
+L0080,Website,Web_Organic,Jaipur,Apartment,4,48.0,5,5,1,1,2,1.4,1,1,0,Nurturing,0
+L0081,Website,Web_Brochure_Download,Lucknow,Apartment,4,62.1,3,0,2,0,4,,27,1,0,Booked,1
+L0082,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,79.8,2,2,1,0,3,2.4,3,0,1,Lost,0
+L0083,Referral,Ref_Existing_Customer,Ghaziabad,Villa,4,196.2,6,3,2,1,5,1.6,1,0,1,Nurturing,0
+L0084,Property Portal,Portal_Premium_Listing,Bengaluru,Plot,0,112.9,0,0,1,0,1,,33,1,0,Nurturing,0
+L0085,Property Portal,Portal_Featured_Project,Ghaziabad,Plot,0,33.2,4,1,0,1,5,6.8,5,1,0,Nurturing,0
+L0086,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,3,49.3,2,2,0,0,1,36.5,0,0,1,Lost,0
+L0087,Website,Web_Organic,NOIDA,Apartment,3,49.9,4,0,1,0,3,5.5,10,0,0,Lost,0
+L0088,Google Ads,GAds_Search_Brand,Gurugram,Apartment,2,213.7,1,4,2,1,4,2.5,1,1,0,Lost,0
+L0089,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,4,137.4,0,2,0,0,4,6.2,1,0,1,Lost,0
+L0090,Instagram,IG_Lead_Form,Lucknow,Commercial,0,113.6,3,1,3,1,3,3.3,1,1,1,Booked,1
+L0091,Property Portal,Portal_Featured_Project,Gurugram,Plot,0,48.2,11,1,2,0,1,3.9,4,1,0,Nurturing,0
+L0092,Website,Web_Organic,Bengaluru,Commercial,0,155.9,6,2,0,0,2,9.1,1,0,1,New / Uncontacted,0
+L0093,Google Ads,GAds_Display_Remarketing,Jaipur,Plot,0,52.6,1,0,0,0,4,3.0,6,1,1,Lost,0
+L0094,Google Ads,GAds_Search_Generic,Noida,Commercial,0,120.8,1,1,0,0,2,10.6,11,0,0,Nurturing,0
+L0095,Google Ads,GAds_Search_Generic,Ghaziabad,Builder Floor,3,117.7,1,1,2,0,1,13.8,4,0,1,Lost,0
+L0096,Instagram,IG_Reels_Showcase,Gurugram,Apartment,3,235.8,4,2,1,0,2,18.2,0,1,1,Booked,1
+L0097,Google Ads,GAds_Display_Remarketing,Pune,Apartment,4,61.9,10,1,0,1,3,6.0,9,1,1,Lost,0
+L0098,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,2,73.4,3,1,1,0,1,15.9,4,1,0,Nurturing,0
+L0099,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,60.7,5,1,2,1,4,,12,0,0,Lost,0
+L0100,Walk-in,Walkin_Site_Hoarding,Noida,Apartment,3,144.7,1,0,1,0,2,5.6,4,0,1,New / Uncontacted,0
+L0101,Referral,Ref_Broker_Network,JAIPUR,Commercial,0,138.3,5,1,1,0,1,18.7,0,1,1,New / Uncontacted,0
+L0102,Website,Web_Organic,Noida,Apartment,2,78.7,1,1,0,0,3,2.6,6,1,0,Lost,0
+L0103,Property Portal,Portal_Basic_Listing,Bengaluru,Commercial,0,158.0,3,2,3,0,4,3.4,14,0,0,Lost,0
+L0104,Walk-in,Walkin_Sales_Office,Noida,Plot,0,45.5,2,5,2,1,4,8.8,10,1,0,Booked,1
+L0105,Website,Web_Organic,Pune,Villa,3,282.7,3,1,0,0,3,7.9,17,0,1,Lost,0
+L0106,Website,Web_Organic,Lucknow,Villa,4,,7,0,0,0,1,5.2,5,0,1,New / Uncontacted,0
+L0107,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,,7,1,1,1,2,3.5,1,1,1,Booked,1
+L0108,Property Portal,Portal_Featured_Project,Noida,Villa,3,245.0,3,1,1,0,2,9.5,3,0,0,Lost,0
+L0109,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,3,91.3,2,3,2,1,3,12.4,0,1,0,Booked,1
+L0110,Referral,Ref_Existing_Customer,Hyderabad,Commercial,0,132.6,6,2,2,0,2,9.3,2,0,1,Nurturing,0
+L0111,Google Ads,GAds_Search_Brand,Noida,Apartment,1,82.8,0,0,4,0,2,5.9,0,1,0,Lost,0
+L0112,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,2,138.7,5,1,1,1,7,12.5,7,1,0,Booked,1
+L0113,Google Ads,GAds_Display_Remarketing,Hyderabad,Villa,4,384.3,5,3,0,1,3,5.1,4,1,0,Booked,1
+L0114,Instagram,IG_Influencer_Tour,Jaipur,Villa,3,176.7,2,1,2,0,4,7.3,2,0,0,Nurturing,0
+L0115,Property Portal,Portal_Premium_Listing,Noida,Apartment,4,109.3,2,2,1,0,2,2.7,12,0,1,Lost,0
+L0116,Referral,Ref_Broker_Network,Gurugram,Villa,3,235.0,1,0,2,0,4,27.5,1,1,0,Booked,1
+L0117,Website,Web_Chatbot,Pune,Apartment,4,67.3,3,1,0,0,6,9.0,11,0,1,Nurturing,0
+L0118,Website,Web_Brochure_Download,Pune,Villa,3,260.2,4,2,3,1,4,0.5,8,1,1,Booked,1
+L0119,Google Ads,GAds_Search_Brand,Jaipur,Apartment,4,63.7,2,1,0,0,3,31.9,5,1,1,Nurturing,0
+L0120,Instagram,IG_Influencer_Tour,Hyderabad,Apartment,3,54.7,2,3,1,1,4,6.4,17,1,0,Booked,1
+L0121,Instagram,IG_Lead_Form,Lucknow,Apartment,1,53.5,5,2,6,1,4,4.3,8,0,1,Lost,0
+L0122,Instagram,IG_Reels_Showcase,Gurugram,Apartment,1,102.0,3,1,0,0,5,4.2,10,1,0,Lost,0
+L0123,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,1,50.2,4,1,3,1,3,8.0,23,1,0,Nurturing,0
+L0124,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,107.1,10,2,2,1,2,1.6,9,0,0,Booked,1
+L0125,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,3,124.2,3,1,2,0,4,3.9,6,0,0,Booked,1
+L0126,Google Ads,GAds_Search_Brand,Noida,Apartment,2,133.4,2,1,0,0,1,4.3,0,1,0,Nurturing,0
+L0127, GOOGLE ADS,GAds_Search_Generic,Ghaziabad,Builder Floor,3,88.5,4,0,1,1,6,3.7,0,0,0,Booked,1
+L0128,Property Portal,Portal_Basic_Listing,Pune,Apartment,3,88.7,7,0,3,0,3,3.7,14,1,0,Booked,1
+L0129,Property Portal,Portal_Premium_Listing,Noida,Villa,4,142.7,4,3,0,0,6,8.3,6,1,0,Booked,1
+L0130,Instagram,IG_Lead_Form,Lucknow,Commercial,0,96.4,3,1,1,0,3,7.2,24,1,0,Nurturing,0
+L0131,Property Portal,Portal_Basic_Listing,Pune,Apartment,3,86.6,4,0,0,1,4,8.7,7,0,1,Lost,0
+L0132,Walk-in,Walkin_Site_Hoarding,Pune,Commercial,0,85.5,1,1,1,0,1,15.3,14,0,0,New / Uncontacted,0
+L0133,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,2,80.7,0,0,0,0,2,8.3,36,0,0,Lost,0
+L0134,Google Ads,GAds_Search_Brand,Bengaluru,Apartment,3,87.1,3,2,1,0,1,4.2,13,1,0,New / Uncontacted,0
+L0135,Instagram,IG_Influencer_Tour,Pune,Villa,5,239.2,4,2,1,1,2,23.1,5,1,1,Negotiation,0
+L0136,Property Portal,Portal_Basic_Listing,Noida,Plot,0,71.1,3,0,4,0,3,17.7,6,0,1,Nurturing,0
+L0137,Walk-in,Walkin_Sales_Office,Lucknow,Plot,0,35.9,4,6,1,1,2,15.9,12,0,0,Booked,1
+L0138,Google Ads,GAds_Search_Generic,Pune,Apartment,2,101.6,5,1,3,0,1,13.6,3,0,0,New / Uncontacted,0
+L0139,Website,Web_Brochure_Download,Gurugram,Plot,0,72.2,1,0,1,0,3,4.4,9,0,1,Booked,1
+L0140,Property Portal,Portal_Featured_Project,Noida,Apartment,1,30.2,3,2,2,0,3,1.1,5,0,0,Lost,0
+L0141,Google Ads,GAds_Search_Brand,Gurugram,Apartment,2,88.6,5,2,0,1,4,1.9,22,0,0,Nurturing,0
+L0142,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,3,87.5,3,0,2,0,3,12.2,4,0,1,Lost,0
+L0143,Walk-in,Walkin_Site_Hoarding,Lucknow,Commercial,0,53.3,0,1,2,0,3,7.1,12,1,0,Booked,1
+L0144,Instagram,IG_Lead_Form,Gurugram,Apartment,2,109.2,6,1,2,0,8,3.2,15,0,1,Lost,0
+L0145,Google Ads,GAds_Display_Remarketing,Bengaluru,Plot,0,124.5,2,2,2,0,3,0.7,8,1,0,Booked,1
+L0146,Property Portal,Portal_Featured_Project,Hyderabad,Villa,5,165.5,4,0,3,0,2,6.3,2,1,1,Nurturing,0
+L0147,Google Ads,GAds_Display_Remarketing,Gurugram,Villa,4,252.2,4,1,4,0,2,2.2,2,1,1,New / Uncontacted,0
+L0148,Instagram,IG_Lead_Form,Hyderabad,Villa,4,136.8,4,2,1,0,2,3.4,1,0,0,New / Uncontacted,0
+L0149,Google Ads,GAds_Search_Generic,Noida,Plot,0,106.9,5,2,3,1,5,10.8,7,0,1,Nurturing,0
+L0150,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,3,87.4,0,0,1,0,3,3.2,7,0,0,New / Uncontacted,0
+L0151,Referral,Ref_Broker_Network,Hyderabad,Apartment,2,91.5,3,3,5,0,3,1.7,4,1,0,Nurturing,0
+L0152,Referral,Ref_Existing_Customer,Noida,Builder Floor,4,167.9,4,1,0,1,3,8.0,10,0,1,Negotiation,0
+L0153,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,1,122.9,4,0,3,1,5,8.2,1,0,0,Lost,0
+L0154,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,3,66.2,7,1,0,0,6,4.6,11,1,1,Nurturing,0
+L0155,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,4,71.8,4,1,3,0,3,15.9,0,1,0,Nurturing,0
+L0156,Website,Web_Organic,Hyderabad,Apartment,3,107.0,5,2,1,0,3,,0,1,0,Nurturing,0
+L0157,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,3,48.2,3,3,0,1,3,1.4,2,0,0,Booked,1
+L0158,Instagram,IG_Influencer_Tour,Noida,Apartment,2,39.3,1,0,1,0,3,2.2,1,1,1,Nurturing,0
+L0159,Website,Web_Organic,Bengaluru,Commercial,0,153.1,6,3,2,1,6,1.2,2,0,0,Negotiation,0
+L0160,Website,Web_Brochure_Download,Pune,Apartment,3,51.4,4,2,2,0,4,5.0,11,1,0,New / Uncontacted,0
+L0161,Property Portal,Portal_Featured_Project,Pune,Commercial,0,243.0,3,0,0,0,3,2.9,26,0,0,Nurturing,0
+L0162,Walk-in,Walkin_Sales_Office,Lucknow,Commercial,0,102.1,2,1,4,0,2,1.9,1,1,0,Nurturing,0
+L0163,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,3,43.7,5,1,1,0,2,9.3,6,0,1,Nurturing,0
+L0164,Property Portal,Portal_Featured_Project,Noida,Villa,4,155.0,0,2,2,0,5,12.6,11,0,1,Nurturing,0
+L0165,Instagram,IG_Lead_Form,Pune,Builder Floor,2,56.4,6,1,3,0,2,9.1,1,1,0,Nurturing,0
+L0166,Google Ads,GAds_Search_Generic,Noida,Villa,3,134.8,0,0,1,0,1,15.5,3,0,1,New / Uncontacted,0
+L0167,Referral,Ref_Broker_Network,Pune,Apartment,3,123.1,1,1,0,1,1,3.6,7,0,0,Negotiation,0
+L0168,Referral,Ref_Broker_Network,Bengaluru,Apartment,1,212.9,7,6,1,1,3,5.0,0,1,1,Booked,1
+L0169,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,77.4,3,1,2,0,2,7.6,4,0,1,Nurturing,0
+L0170,Walk-in,Walkin_Site_Hoarding,Lucknow,Builder Floor,4,73.6,2,5,5,1,4,2.4,1,1,1,Lost,0
+L0171,Google Ads,GAds_Display_Remarketing,Ghaziabad,Commercial,0,87.7,2,0,1,0,1,7.7,4,0,1,Nurturing,0
+L0172,Instagram,IG_Influencer_Tour,Hyderabad,Villa,5,154.5,5,0,1,1,3,2.1,0,0,0,Negotiation,0
+L0173,Property Portal,Portal_Basic_Listing,Pune,Villa,3,425.7,1,2,3,0,3,4.3,4,1,0,New / Uncontacted,0
+L0174,Walk-in,Walkin_Sales_Office,Ghaziabad,Commercial,0,95.5,0,1,4,1,5,7.8,1,1,1,Negotiation,0
+L0175,Property Portal,Portal_Basic_Listing,Gurugram,Villa,5,528.4,3,1,0,0,3,31.2,14,1,1,Nurturing,0
+L0176,Portal,Portal_Premium_Listing,Gurugram,Apartment,1,171.0,5,1,1,1,3,12.7,2,0,1,Booked,1
+L0177,Google Ads,GAds_Search_Brand,Lucknow,Plot,0,23.9,3,0,1,1,5,9.4,1,1,0,Negotiation,0
+L0178,Walk-in,Walkin_Sales_Office,Hyderabad,Apartment,2,71.3,2,0,1,0,3,6.5,5,1,1,Booked,1
+L0179,Referral,Ref_Broker_Network,Pune,Apartment,3,68.2,2,1,2,0,2,6.2,13,0,0,Lost,0
+L0180,Website,Web_Brochure_Download,Gurugram,Builder Floor,2,129.3,2,1,0,0,4,2.4,0,1,0,Booked,1
+L0181,Referral,Ref_Existing_Customer,Bengaluru,Commercial,0,152.7,6,5,3,1,3,2.6,3,1,1,Booked,1
+L0182,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,1,181.9,2,0,1,0,1,4.2,8,0,1,Nurturing,0
+L0183,Instagram,IG_Reels_Showcase,Bengaluru,Builder Floor,2,84.7,2,2,4,0,3,8.4,3,1,1,Lost,0
+L0184,Google ads ,GAds_Search_Generic,Gurugram,Apartment,3,113.8,8,0,4,1,5,7.6,10,0,1,Negotiation,0
+L0185,Website,Web_Brochure_Download,Pune,Apartment,3,107.0,7,3,1,1,2,7.5,6,1,1,Lost,0
+L0186,Website,Web_Brochure_Download,Hyderabad,Apartment,2,90.0,3,0,3,0,7,22.5,42,0,0,New / Uncontacted,0
+L0187,Google Ads,GAds_Search_Generic,Gurugram,Villa,3,261.9,6,2,1,0,2,7.3,4,0,1,Nurturing,0
+L0188,Property Portal,Portal_Premium_Listing,Pune,Plot,0,43.9,4,0,0,1,4,2.5,16,1,1,Lost,0
+L0189,Website,Web_Chatbot,Hyderabad,Apartment,3,93.4,1,2,2,0,3,5.9,2,0,0,Nurturing,0
+L0190,Property Portal,Portal_Featured_Project,Noida,Apartment,2,98.7,4,1,0,0,3,4.8,17,0,0,Nurturing,0
+L0191,WALK-IN,Walkin_Sales_Office,Noida,Apartment,3,92.5,1,1,3,1,3,9.2,2,0,0,Negotiation,0
+L0192,Property Portal,Portal_Featured_Project,Pune,Apartment,4,105.3,2,1,4,0,2,4.5,16,0,0,Nurturing,0
+L0193,Property Portal,Portal_Featured_Project,Ghaziabad,Builder Floor,3,132.4,5,2,1,1,2,3.4,3,0,1,Nurturing,0
+L0194,Referral,Ref_Existing_Customer,Noida,Villa,5,274.8,4,1,3,0,3,11.1,4,1,0,Lost,0
+L0195,Property Portal,Portal_Premium_Listing,Lucknow,Villa,4,147.6,3,0,2,1,3,2.5,3,0,0,Negotiation,0
+L0196,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,3,64.7,2,1,1,0,4,17.8,10,1,0,New / Uncontacted,0
+L0197,Instagram,IG_Lead_Form,Gurugram,Builder Floor,2,107.8,2,0,2,0,5,2.6,6,0,1,Nurturing,0
+L0198,Referral,Ref_Broker_Network,Ghaziabad,Apartment,1,59.0,3,3,1,0,5,6.4,21,0,1,Booked,1
+L0199,Property Portal,Portal_Basic_Listing,Bengaluru,Apartment,3,106.5,10,0,7,0,1,4.3,4,1,0,Booked,1
+L0200, GOOGLE ADS,GAds_Search_Generic,Jaipur,Commercial,0,81.2,2,1,1,0,3,14.8,33,0,1,Lost,0
+L0201,Website,Web_Chatbot,Bengaluru,Plot,0,51.5,3,3,4,1,3,2.0,4,0,0,Booked,1
+L0202,Walk-in,Walkin_Sales_Office,Lucknow,Commercial,0,63.3,0,0,1,0,2,2.5,2,0,1,Nurturing,0
+L0203,Instagram,IG_Influencer_Tour,Hyderabad,Commercial,0,80.8,3,2,2,0,4,11.4,9,0,0,Lost,0
+L0204,Property Portal,Portal_Featured_Project,Pune,Villa,3,190.7,1,2,3,1,4,3.6,3,1,1,Booked,1
+L0205,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,78.9,3,2,0,0,1,6.2,6,0,0,New / Uncontacted,0
+L0206,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,4,63.4,2,2,0,0,2,3.8,5,1,0,Lost,0
+L0207,Property Portal,Portal_Featured_Project,Lucknow,Apartment,3,52.3,2,0,1,0,3,16.5,21,0,0,Lost,0
+L0208,Website,Web_Organic,Noida,Apartment,4,51.7,5,3,0,0,1,9.0,7,1,1,Booked,1
+L0209,Property Portal,Portal_Featured_Project,Noida,Apartment,2,94.2,2,4,3,1,2,4.7,1,0,0,Booked,1
+L0210,Instagram,IG_Influencer_Tour,Pune,Apartment,2,111.8,0,1,1,1,4,2.3,5,0,1,Booked,1
+L0211,Website,Web_Chatbot,Noida,Apartment,3,68.1,2,0,0,0,1,11.5,8,0,1,Booked,1
+L0212,Instagram,IG_Influencer_Tour,Gurugram,Villa,3,216.3,3,1,3,0,4,2.9,6,0,1,Booked,1
+L0213,Property Portal,Portal_Premium_Listing,Noida,Plot,0,73.0,3,1,2,0,1,5.3,15,0,1,Lost,0
+L0214,Referral,Ref_Broker_Network,Lucknow,Builder Floor,3,59.2,3,1,1,1,3,2.6,0,1,0,Booked,1
+L0215,Website,Web_Organic,Lucknow,Apartment,3,45.6,3,3,2,0,2,3.8,0,1,1,Nurturing,0
+L0216,Website,Web_Chatbot,Jaipur,Villa,5,218.9,4,0,1,1,3,14.6,9,1,0,Nurturing,0
+L0217,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,143.1,6,2,5,1,3,4.5,0,1,0,Booked,1
+L0218,Property Portal,Portal_Premium_Listing,Noida,Apartment,2,101.8,3,0,0,1,2,4.3,27,0,0,Negotiation,0
+L0219,Walk-in,Walkin_Site_Hoarding,Pune,Apartment,2,119.3,0,0,2,0,1,6.6,13,0,1,Lost,0
+L0220,Google Ads,GAds_Display_Remarketing,Ghaziabad,Apartment,3,31.9,3,2,2,1,3,5.6,12,0,0,Negotiation,0
+L0221,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,138.5,0,0,1,0,2,12.3,1,0,0,Lost,0
+L0222,Google Ads,GAds_Search_Generic,,Plot,0,69.4,4,2,1,1,5,6.6,9,0,1,Lost,0
+L0223,website,Web_Organic,Noida,Villa,4,282.0,7,1,1,1,4,2.6,4,1,1,Negotiation,0
+L0224,Walk-in,Walkin_Site_Hoarding,Gurugram,Villa,3,288.6,0,4,2,1,6,4.5,4,1,1,Booked,1
+L0225,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,2,61.0,5,3,1,1,5,1.2,11,0,1,Booked,1
+L0226,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Plot,0,42.5,1,1,0,0,3,12.6,9,0,1,Nurturing,0
+L0227,Property Portal,Portal_Basic_Listing,Bengaluru,Villa,4,266.1,9,2,2,1,6,1.8,0,1,1,Nurturing,0
+L0228,Instagram,IG_Reels_Showcase,Ghaziabad,Apartment,2,57.2,2,0,0,0,4,16.4,25,0,0,Lost,0
+L0229,Instagram,IG_Lead_Form,Jaipur,Villa,4,195.1,2,2,1,0,1,1.1,26,0,0,Nurturing,0
+L0230,Property Portal,Portal_Premium_Listing,Jaipur,Builder Floor,2,43.6,3,0,3,1,5,21.8,0,0,1,Lost,0
+L0231,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,68.3,2,3,0,1,4,1.7,9,0,0,Nurturing,0
+L0232,Google ads ,GAds_Display_Remarketing,Jaipur,Apartment,2,122.7,4,5,1,1,3,1.6,6,1,1,Booked,1
+L0233,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Builder Floor,4,64.9,2,1,3,0,2,7.0,1,0,1,Lost,0
+L0234,Instagram,IG_Lead_Form,Lucknow,Apartment,1,55.2,5,1,2,0,3,9.3,8,0,1,Nurturing,0
+L0235,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,60.6,0,3,0,0,3,3.8,2,1,1,Booked,1
+L0236,Referral,Ref_Existing_Customer,Bengaluru,Apartment,2,109.7,5,1,2,1,8,9.3,4,1,0,Booked,1
+L0237,Google Ads,GAds_Search_Generic,Hyderabad,Commercial,0,111.3,2,1,3,0,5,2.6,0,1,1,Lost,0
+L0238,website,Web_Chatbot,Noida,Apartment,2,77.3,3,2,2,1,5,3.1,6,0,0,Booked,1
+L0239,Property Portal,Portal_Premium_Listing,Pune,Apartment,2,116.1,6,2,1,1,3,4.0,12,0,0,Lost,0
+L0240,Property Portal,Portal_Basic_Listing,Bengaluru,Apartment,3,76.3,3,2,0,0,2,3.7,4,0,1,Booked,1
+L0241,Referral,Ref_Existing_Customer,Gurugram,Plot,0,101.5,6,3,1,1,5,0.9,1,1,0,Booked,1
+L0242,website,Web_Brochure_Download,Bengaluru,Builder Floor,4,164.7,2,1,0,0,8,6.0,1,0,0,Lost,0
+L0243,Property Portal,Portal_Premium_Listing,Pune,Commercial,0,199.6,3,2,0,0,2,5.4,1,1,0,Nurturing,0
+L0244,Instagram,IG_Lead_Form,Hyderabad,Apartment,2,94.5,3,3,2,1,3,9.2,4,0,1,Booked,1
+L0245,Instagram,IG_Lead_Form,Hyderabad,Apartment,2,279.8,5,4,3,1,2,1.4,15,1,0,Lost,0
+L0246,Referral,Ref_Existing_Customer,Noida,Builder Floor,3,151.2,3,3,2,0,3,3.6,15,0,1,Nurturing,0
+L0247,Instagram,IG_Lead_Form,Lucknow,Apartment,3,67.2,1,1,3,0,6,17.6,14,1,1,Lost,0
+L0248,Google Ads,GAds_Display_Remarketing,Jaipur,Plot,0,32.4,4,2,2,0,3,5.3,8,1,0,Lost,0
+L0249,Google Ads,GAds_Display_Remarketing,Noida,Plot,0,58.5,3,0,0,0,7,7.6,2,1,1,Nurturing,0
+L0250,Google Ads,GAds_Search_Brand,Ghaziabad,Builder Floor,2,133.0,5,2,0,0,1,8.0,1,0,1,Lost,0
+L0251,Instagram,IG_Influencer_Tour,Hyderabad,Commercial,0,261.9,2,0,2,1,3,9.4,0,1,1,Negotiation,0
+L0252,Referral,Ref_Broker_Network,Noida,Builder Floor,3,175.3,5,3,2,0,2,23.7,8,0,0,Booked,1
+L0253,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,3,79.0,4,0,2,0,3,6.5,16,1,1,Nurturing,0
+L0254,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,3,79.6,2,0,1,1,1,3.2,22,0,1,Negotiation,0
+L0255,Property Portal,Portal_Basic_Listing,Ghaziabad,Apartment,2,75.6,0,1,0,1,4,9.7,18,1,0,Booked,1
+L0256,Website,Web_Brochure_Download,Lucknow,Plot,0,28.5,3,0,3,1,4,3.6,8,1,1,Booked,1
+L0257,Referral,Ref_Existing_Customer,Hyderabad,Apartment,2,53.5,0,1,7,0,1,6.0,6,0,1,Nurturing,0
+L0258,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,2,65.2,4,1,3,1,5,6.4,1,1,0,Lost,0
+L0259,Property Portal,Portal_Basic_Listing,Noida,Builder Floor,3,125.5,3,0,1,0,1,2.3,10,1,0,Lost,0
+L0260,Instagram,IG_Reels_Showcase,Noida,Apartment,2,113.2,3,0,2,0,1,3.1,10,0,0,Lost,0
+L0261,Property Portal,Portal_Featured_Project,Hyderabad,Apartment,3,107.1,0,3,1,0,3,9.4,22,1,1,New / Uncontacted,0
+L0262,Referral,Ref_Broker_Network,Gurugram,Villa,4,303.5,1,3,2,1,1,,12,0,1,Booked,1
+L0263,Google Ads,GAds_Search_Brand,Lucknow,Apartment,3,42.5,4,4,1,0,1,12.8,10,0,0,Lost,0
+L0264,Property Portal,Portal_Featured_Project,Noida,Builder Floor,2,100.7,0,1,1,0,3,3.7,3,1,1,Lost,0
+L0265,Walk-in,Walkin_Sales_Office,Lucknow,Apartment,2,35.4,0,2,3,0,4,2.3,2,1,0,Booked,1
+L0266,Property Portal,Portal_Featured_Project,Hyderabad,Apartment,2,44.6,1,1,3,0,4,26.6,5,1,0,Nurturing,0
+L0267,Google Ads,GAds_Search_Brand,Lucknow,Apartment,3,77.8,8,1,6,0,2,0.9,13,1,0,Nurturing,0
+L0268,Property Portal,Portal_Basic_Listing,Hyderabad,Plot,0,50.7,3,3,2,1,1,4.1,0,1,1,Negotiation,0
+L0269,Property Portal,Portal_Premium_Listing,Gurugram,Commercial,0,228.0,4,3,1,0,3,22.1,3,0,0,Lost,0
+L0270,Property Portal,Portal_Basic_Listing,Lucknow,Apartment,4,88.4,3,0,2,0,2,5.5,11,1,1,New / Uncontacted,0
+L0271,Property Portal,Portal_Basic_Listing,Bengaluru,Commercial,0,125.6,4,2,0,0,3,16.9,14,0,0,Nurturing,0
+L0272,Property Portal,Portal_Basic_Listing,Lucknow,Builder Floor,3,93.4,5,1,1,0,7,13.0,4,0,1,Nurturing,0
+L0273,Property Portal,Portal_Basic_Listing,Gurugram,Villa,5,199.9,2,0,0,0,1,9.2,16,1,0,Lost,0
+L0274,Instagram,IG_Reels_Showcase,Bengaluru,Villa,3,122.6,1,1,2,0,1,6.7,3,0,1,Lost,0
+L0275,Website,Web_Chatbot,Ghaziabad,Villa,3,159.7,2,0,1,0,3,1.1,3,1,1,Booked,1
+L0276,Google Ads,GAds_Search_Generic,Jaipur,Plot,0,37.3,1,1,0,0,4,7.9,11,1,1,Lost,0
+L0277, GOOGLE ADS,GAds_Display_Remarketing,Hyderabad,Builder Floor,2,97.7,2,3,0,0,1,8.3,11,0,1,Nurturing,0
+L0278,Insta,IG_Influencer_Tour,Gurugram,Builder Floor,3,265.5,4,1,4,0,2,7.7,19,0,0,Lost,0
+L0279,Referral,Ref_Broker_Network,Gurugram,Apartment,2,61.6,3,3,1,0,3,45.5,28,1,0,Booked,1
+L0280,Referral,Ref_Existing_Customer,Noida,Apartment,2,94.3,2,0,1,0,3,8.9,3,0,0,Lost,0
+L0281,Portal,Portal_Premium_Listing,Ghaziabad,Villa,4,108.0,4,2,0,0,2,10.8,3,0,0,Lost,0
+L0282,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,3,144.3,6,4,2,1,2,9.9,2,1,1,Booked,1
+L0283,Property Portal,Portal_Featured_Project,Pune,Apartment,1,95.7,7,0,2,0,4,7.8,2,0,1,New / Uncontacted,0
+L0284,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,1,119.9,2,0,0,0,4,6.4,24,0,1,Lost,0
+L0285,Instagram,IG_Lead_Form,Pune,Apartment,3,62.0,1,1,3,0,7,5.7,2,0,0,Lost,0
+L0286,Google Ads,GAds_Search_Generic,Gurugram,Villa,3,192.8,1,0,1,1,5,4.6,3,0,0,Booked,1
+L0287,Property Portal,Portal_Premium_Listing,Ghaziabad,Villa,3,211.7,2,0,1,0,3,10.4,2,0,1,Nurturing,0
+L0288,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,118.5,8,1,0,0,1,6.3,10,0,1,New / Uncontacted,0
+L0289,Instagram,IG_Lead_Form,Pune,Apartment,2,102.0,12,3,7,0,4,7.7,10,1,1,Booked,1
+L0290,Property Portal,Portal_Basic_Listing,Lucknow,Apartment,3,43.8,1,1,1,0,2,3.0,11,1,0,Nurturing,0
+L0291,Referral,Ref_Broker_Network,Ghaziabad,Apartment,2,71.8,1,1,3,0,6,8.9,1,0,1,Nurturing,0
+L0292,Property Portal,Portal_Featured_Project,Bengaluru,villa ,3,547.3,2,0,1,0,1,21.0,9,1,1,Lost,0
+L0293,Walk-in,Walkin_Site_Hoarding,Jaipur,Builder Floor,2,78.8,2,0,0,0,5,4.9,8,1,1,Lost,0
+L0294,Property Portal,Portal_Featured_Project,Gurugram,Builder Floor,2,221.8,1,0,1,0,5,42.9,4,0,1,Lost,0
+L0295,Referral,Ref_Broker_Network,Hyderabad,Builder Floor,2,88.0,1,4,2,0,4,6.9,18,0,0,Lost,0
+L0296,Referral,Ref_Existing_Customer,Ghaziabad,Commercial,0,100.5,8,2,1,0,2,4.6,18,1,0,Lost,0
+L0297,Walk-in,Walkin_Sales_Office,Noida,Villa,3,245.9,0,3,2,0,4,5.9,18,1,1,Booked,1
+L0298,Referral,Ref_Existing_Customer,Lucknow,Builder Floor,4,87.3,6,5,4,1,5,2.7,3,0,1,Booked,1
+L0299,Website,Web_Organic,Noida,Builder Floor,4,79.9,4,1,3,1,2,0.9,15,1,1,Booked,1
+L0300,Instagram,IG_Reels_Showcase,Gurugram,Apartment,2,79.1,3,1,3,1,4,8.4,7,0,0,Nurturing,0
+L0301,Website,Web_Chatbot,Bengaluru,Commercial,0,220.5,5,4,2,1,2,17.2,4,1,0,Booked,1
+L0302,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,125.2,4,0,1,0,6,7.3,0,0,0,Lost,0
+L0303,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,3,165.5,3,2,2,0,4,8.9,3,1,0,Nurturing,0
+L0304,Instagram,IG_Influencer_Tour,Hyderabad,Commercial,0,270.7,2,1,5,0,4,4.1,9,1,0,Lost,0
+L0305,Referral,Ref_Existing_Customer,Pune,Villa,4,217.0,2,1,0,0,3,17.4,5,0,1,New / Uncontacted,0
+L0306,Google Ads,GAds_Search_Brand,Pune,Apartment,2,77.3,4,2,1,1,3,5.7,3,1,1,Booked,1
+L0307,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,138.4,1,3,0,0,7,8.7,2,1,1,Nurturing,0
+L0308,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,2,115.5,2,2,0,0,1,1.6,9,1,0,Lost,0
+L0309,Property Portal,Portal_Basic_Listing,Ghaziabad,Builder Floor,2,57.3,3,0,2,0,5,4.6,7,0,1,Lost,0
+L0310,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,57.5,3,0,2,0,3,9.6,12,0,0,New / Uncontacted,0
+L0311,Google Ads,GAds_Search_Brand,Jaipur,Commercial,0,114.0,3,1,1,0,5,11.2,11,0,0,New / Uncontacted,0
+L0312,Google Ads,GAds_Search_Brand,Jaipur,Commercial,0,90.2,3,0,4,0,2,13.1,4,0,0,Lost,0
+L0313,Property Portal,Portal_Basic_Listing,Gurugram,Builder Floor,4,131.8,1,1,3,0,1,2.7,8,1,0,Lost,0
+L0314,Google Ads,GAds_Search_Generic,Pune,Builder Floor,4,159.0,4,0,0,0,2,2.6,1,0,0,New / Uncontacted,0
+L0315,Google Ads,GAds_Search_Generic,Noida,Apartment,2,107.6,2,1,0,0,1,12.8,10,0,0,Nurturing,0
+L0316,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,,3,1,0,0,2,4.1,2,0,0,Nurturing,0
+L0317,Google Ads,GAds_Search_Generic,Gurugram,Villa,3,128.2,2,2,3,0,5,11.1,2,0,1,Lost,0
+L0318,web site,Web_Chatbot,Noida,Apartment,2,90.2,4,0,1,1,3,1.5,5,1,0,Negotiation,0
+L0319,Google Ads,GAds_Search_Generic,Noida,Apartment,3,105.2,3,2,4,0,5,4.2,9,0,0,Booked,1
+L0320,Walk-in,Walkin_Sales_Office,Gurugram,Apartment,1,61.5,0,3,1,0,1,4.8,3,1,0,Nurturing,0
+L0321,Walk-in,Walkin_Site_Hoarding,Gurgaon,Apartment,3,83.5,3,2,1,0,3,6.7,7,1,0,Nurturing,0
+L0322,Google Ads,GAds_Display_Remarketing,Noida,Apartment,4,61.5,3,0,1,1,1,2.3,3,0,1,Negotiation,0
+L0323,Google Ads,GAds_Search_Brand,Gurugram,Villa,4,253.9,4,0,2,0,5,1.2,9,0,0,Lost,0
+L0324,Instagram,IG_Lead_Form,Gurugram,Plot,0,136.1,2,0,3,0,4,5.2,5,1,1,Lost,0
+L0325,Referral,Ref_Broker_Network,Ghaziabad,Builder Floor,3,163.9,5,3,2,0,4,7.3,0,0,0,Nurturing,0
+L0326,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,35.2,2,1,0,0,2,12.2,3,0,0,Nurturing,0
+L0327,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,3,76.7,5,3,4,1,2,3.3,15,1,0,Booked,1
+L0328,Instagram,IG_Reels_Showcase,Ghaziabad,Plot,0,56.8,1,0,1,0,4,20.1,20,0,1,New / Uncontacted,0
+L0329,Instagram,IG_Lead_Form,Noida,Builder Floor,3,119.7,0,1,3,0,3,9.5,6,0,0,Nurturing,0
+L0330,Google Ads,GAds_Search_Generic,Noida,apartment ,2,94.9,7,1,3,0,4,18.7,2,0,1,Lost,0
+L0331,Website,Web_Chatbot,Gurugram,Commercial,0,186.8,3,2,1,0,4,4.3,9,0,1,Lost,0
+L0332,property portal,Portal_Featured_Project,Bengaluru,Apartment,3,176.0,4,5,2,1,5,1.0,6,1,1,Booked,1
+L0333,Website,Web_Chatbot,Hyderabad,Apartment,1,132.4,5,0,1,0,5,8.2,13,0,0,Nurturing,0
+L0334,Referral,Ref_Existing_Customer,Hyderabad,Apartment,3,62.1,3,5,2,1,3,4.5,1,0,1,Lost,0
+L0335,Property Portal,Portal_Featured_Project,Lucknow,Apartment,2,79.3,0,1,3,0,2,12.2,8,1,1,Nurturing,0
+L0336,Instagram,IG_Reels_Showcase,Jaipur,Apartment,2,82.0,1,1,0,0,3,2.3,21,1,0,Lost,0
+L0337,Property Portal,Portal_Featured_Project,Ghaziabad,Builder Floor,3,90.2,2,1,0,0,2,5.0,5,0,0,Lost,0
+L0338,web site,Web_Organic,Bengaluru,Plot,0,106.2,6,2,1,0,3,13.0,2,0,0,Booked,1
+L0339,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,4,104.1,3,1,0,1,1,8.2,17,0,0,Lost,0
+L0340,Walk-in,Walkin_Sales_Office,Bengaluru,Builder Floor,2,132.5,4,4,2,0,2,4.0,2,1,1,Nurturing,0
+L0341,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,2,93.9,2,0,2,1,4,23.3,2,1,0,Lost,0
+L0342,Walk-in,Walkin_Sales_Office,Lucknow,Plot,0,21.7,0,2,1,1,4,2.0,8,1,1,Booked,1
+L0343,Referral,Ref_Broker_Network,Bengaluru,Apartment,2,,4,0,1,0,7,17.9,6,0,0,Booked,1
+L0344,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,3,77.2,4,2,2,0,1,13.7,2,0,1,Nurturing,0
+L0345,Website,Web_Organic,Gurgaon,Builder Floor,4,87.8,1,0,2,0,2,5.0,3,1,0,Lost,0
+L0346,Website,Web_Brochure_Download,Hyderabad,Villa,3,356.8,3,4,3,0,4,3.8,7,0,0,New / Uncontacted,0
+L0347,Walk-in,Walkin_Sales_Office,Noida,Plot,0,72.2,0,1,4,0,4,11.8,20,0,0,Nurturing,0
+L0348,Property Portal,Portal_Basic_Listing,Hyderabad,Builder Floor,4,112.8,3,0,1,1,1,8.8,3,0,1,Booked,1
+L0349,Insta,IG_Lead_Form,Bengaluru,Plot,0,58.7,7,0,0,0,2,3.7,1,0,0,Nurturing,0
+L0350,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,91.5,5,1,0,0,2,5.6,2,0,1,New / Uncontacted,0
+L0351,Instagram,IG_Reels_Showcase,Pune,Apartment,3,122.0,4,1,2,0,2,4.8,4,0,0,New / Uncontacted,0
+L0352,Property Portal,Portal_Premium_Listing,Noida,Apartment,1,61.8,2,0,2,0,1,4.8,3,0,1,New / Uncontacted,0
+L0353,Instagram,IG_Lead_Form,Bengaluru,Apartment,2,97.3,2,1,2,0,3,5.5,8,1,1,Lost,0
+L0354,Instagram,IG_Lead_Form,Bengaluru,Apartment,3,132.1,2,0,2,1,1,1.0,4,0,0,Lost,0
+L0355,Google Ads,GAds_Display_Remarketing,Pune,Builder Floor,3,55.5,3,1,1,1,2,5.5,2,0,0,Negotiation,0
+L0356,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,2,95.6,1,0,1,0,2,4.2,20,0,0,Nurturing,0
+L0357,web site,Web_Chatbot,Noida,Builder Floor,4,89.9,1,1,1,0,3,1.5,2,1,0,Booked,1
+L0358,Website,Web_Brochure_Download,Gurugram,Builder Floor,4,126.9,5,1,1,0,8,4.7,3,1,1,Booked,1
+L0359,Google Ads,GAds_Search_Generic,Lucknow,Villa,4,120.8,1,1,1,0,3,4.4,2,0,0,Nurturing,0
+L0360,Instagram,IG_Lead_Form,Noida,Villa,4,207.8,2,2,1,0,2,25.7,2,0,1,Nurturing,0
+L0361,Walk-in,Walkin_Sales_Office,Lucknow,Apartment,3,117.6,2,4,2,0,2,3.5,2,1,0,Lost,0
+L0362,Property Portal,Portal_Featured_Project,Gurugram,Apartment,2,93.7,5,1,3,0,2,11.5,0,0,1,Lost,0
+L0363,Property Portal,Portal_Featured_Project,Ghaziabad,Builder Floor,4,89.4,6,0,6,0,2,13.2,1,0,1,Nurturing,0
+L0364,Property Portal,Portal_Premium_Listing,Lucknow,Builder Floor,2,152.8,4,3,3,1,2,3.1,2,1,0,Booked,1
+L0365,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,3,80.4,9,6,3,1,2,4.3,1,1,0,Booked,1
+L0366,Google Ads,GAds_Search_Generic,Gurugram,Apartment,2,198.2,1,0,1,0,3,,4,0,0,Booked,1
+L0367,Website,Web_Brochure_Download,Hyderabad,Villa,3,216.4,3,0,1,0,4,7.9,17,0,0,Nurturing,0
+L0368,Website,Web_Chatbot,Lucknow,Villa,4,268.7,3,0,1,0,3,11.0,1,0,1,Nurturing,0
+L0369,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,82.9,1,1,0,0,4,5.2,2,0,1,Nurturing,0
+L0370,Referral,Ref_Broker_Network,Lucknow,Apartment,3,66.8,3,7,3,0,5,7.6,25,1,1,Booked,1
+L0371,Website,Web_Brochure_Download,Lucknow,Plot,0,43.0,4,2,2,1,3,4.0,7,0,0,Lost,0
+L0372,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,4,84.4,2,0,2,0,2,1.8,19,0,1,Lost,0
+L0373,Google Ads,GAds_Search_Brand,Lucknow,Plot,0,45.2,4,2,2,1,3,5.1,1,0,0,Lost,0
+L0374,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,112.9,2,1,0,0,3,2.4,0,0,1,Lost,0
+L0375,Property Portal,Portal_Featured_Project,Ghaziabad,Builder Floor,2,80.4,6,1,1,0,3,5.7,13,1,1,Nurturing,0
+L0376,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,2,53.7,0,0,0,0,1,4.5,0,1,0,Nurturing,0
+L0377,Walk-in,Walkin_Site_Hoarding,Lucknow,Apartment,2,55.0,0,1,2,0,1,13.1,17,0,1,New / Uncontacted,0
+L0378,Google Ads,GAds_Display_Remarketing,Bengaluru,Commercial,0,220.8,2,0,0,0,7,5.5,0,1,1,Booked,1
+L0379,Google Ads,GAds_Search_Generic,Gurugram,Apartment,2,161.2,0,0,0,0,1,3.6,14,0,0,Nurturing,0
+L0380,Website,Web_Organic,Hyderabad,Commercial,0,114.0,5,3,0,0,5,4.5,8,0,0,Lost,0
+L0381,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,3,77.2,1,1,4,0,3,9.5,14,1,1,Nurturing,0
+L0382,Walk-in,Walkin_Site_Hoarding,Hyderabad,Plot,0,75.4,4,0,2,0,2,13.5,1,0,1,Lost,0
+L0383,Website,Web_Chatbot,Bengaluru,Commercial,0,266.3,4,1,2,1,1,3.0,1,0,1,Lost,0
+L0384,Google Ads,GAds_Display_Remarketing,Noida,Builder Floor,3,156.1,2,1,1,0,4,2.7,2,0,0,Nurturing,0
+L0385,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,1,38.7,2,1,2,0,1,23.1,4,1,1,Booked,1
+L0386,WALK-IN,Walkin_Sales_Office,Noida,Villa,4,180.5,1,1,1,1,2,5.5,0,1,0,Nurturing,0
+L0387,Website,Web_Organic,Bengaluru,Builder Floor,3,89.2,2,2,3,0,5,7.6,9,1,0,Lost,0
+L0388,Walk-in,Walkin_Sales_Office,Jaipur,Commercial,0,87.4,1,0,1,0,2,3.3,9,1,0,Nurturing,0
+L0389,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,2,184.1,6,0,1,1,1,6.5,4,0,0,Nurturing,0
+L0390,Referral,Ref_Broker_Network,Hyderabad,Apartment,2,54.7,2,1,4,0,5,15.4,3,1,0,Lost,0
+L0391,Instagram,IG_Influencer_Tour,Noida,Apartment,2,46.8,7,0,2,1,3,6.0,3,1,0,Booked,1
+L0392,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,107.8,6,7,2,0,2,10.4,4,0,1,Nurturing,0
+L0393,Instagram,IG_Influencer_Tour,Pune,Commercial,0,152.6,0,2,4,0,1,7.2,0,1,1,Lost,0
+L0394,Website,Web_Brochure_Download,Noida,Apartment,2,102.5,3,0,0,0,3,3.0,13,0,0,Nurturing,0
+L0395,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,167.8,3,0,1,1,2,3.7,3,0,1,Nurturing,0
+L0396,Google Ads,GAds_Display_Remarketing,Bengaluru,Commercial,0,235.4,3,1,3,0,4,2.5,20,0,1,Nurturing,0
+L0397,Referral,Ref_Broker_Network,Noida,Apartment,2,44.5,1,0,2,0,1,9.2,0,0,1,Booked,1
+L0398,Google Ads,GAds_Search_Generic,Jaipur,Apartment,3,90.9,6,0,1,0,4,11.6,6,0,1,Nurturing,0
+L0399,Google Ads,GAds_Display_Remarketing,Gurugram,Villa,4,225.9,6,2,2,1,1,5.5,7,0,1,Booked,1
+L0400,Google Ads,GAds_Search_Generic,Pune,Villa,5,267.4,2,0,0,1,3,5.1,1,1,0,Booked,1
+L0401,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,51.9,5,1,4,0,5,2.7,24,1,0,Booked,1
+L0402,Walk-in,Walkin_Sales_Office,Hyderabad,Plot,0,66.1,2,2,2,0,4,7.5,14,0,1,Lost,0
+L0403,Website,Web_Chatbot,Hyderabad,Builder Floor,2,123.8,4,1,0,0,1,1.9,7,1,0,Lost,0
+L0404,Property Portal,Portal_Premium_Listing,Gurugram,Commercial,0,251.8,1,3,3,0,2,3.4,26,0,1,Nurturing,0
+L0405,Walk-in,Walkin_Sales_Office,Ghaziabad,Plot,0,26.8,1,3,1,0,3,12.8,7,1,0,Booked,1
+L0406,Referal,Ref_Broker_Network,JAIPUR,Plot,0,44.5,4,1,1,0,5,4.9,11,1,0,Lost,0
+L0407,Google Ads,GAds_Search_Brand,Pune,Builder Floor,3,74.7,3,0,0,0,3,,2,0,0,Lost,0
+L0408,Referral,Ref_Existing_Customer,Lucknow,Apartment,2,71.6,0,2,0,1,2,6.1,1,0,0,Nurturing,0
+L0409,Property Portal,Portal_Basic_Listing,Noida,Builder Floor,2,137.2,3,1,1,0,1,20.0,27,1,0,Lost,0
+L0410,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,129.5,0,4,2,0,5,9.0,4,1,1,Nurturing,0
+L0411,Website,Web_Brochure_Download,Hyderabad,Villa,3,179.1,1,0,3,0,3,3.4,9,0,1,Nurturing,0
+L0412,Instagram,IG_Reels_Showcase,Lucknow,Apartment,1,83.0,3,1,1,0,2,3.4,1,0,0,Nurturing,0
+L0413,Property Portal,Portal_Premium_Listing,Bengaluru,Builder Floor,3,198.9,3,2,3,1,4,3.4,2,1,0,Booked,1
+L0414,Referral,Ref_Broker_Network,Lucknow,Apartment,3,33.8,5,2,2,1,3,,8,1,0,Booked,1
+L0415,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,3,111.5,3,1,0,0,4,5.7,6,0,0,New / Uncontacted,0
+L0416,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,115.4,4,1,1,0,4,5.5,1,1,1,Nurturing,0
+L0417,Property Portal,Portal_Basic_Listing,Noida,Villa,4,180.9,4,1,2,1,3,4.7,4,1,0,Negotiation,0
+L0418,Website,Web_Chatbot,Hyderabad,Plot,0,43.2,2,0,0,1,2,6.8,10,0,0,Nurturing,0
+L0419,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,3,125.2,0,1,4,0,4,3.3,6,1,1,Nurturing,0
+L0420,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Plot,0,30.7,1,1,0,0,2,19.1,5,0,0,Nurturing,0
+L0421,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,43.9,3,1,2,1,4,2.9,13,1,0,Booked,1
+L0422,Property Portal,Portal_Basic_Listing,Lucknow,Apartment,3,59.2,5,2,2,0,2,6.0,0,0,0,Nurturing,0
+L0423,Property Portal,Portal_Premium_Listing,Lucknow,Villa,3,185.0,0,1,2,1,3,1.4,11,0,0,Booked,1
+L0424,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,84.3,4,3,2,0,5,5.2,2,1,1,Nurturing,0
+L0425,Instagram,IG_Lead_Form,Hyderabad,Apartment,3,70.8,2,2,5,1,3,2.2,4,0,0,Negotiation,0
+L0426,Referral,Ref_Broker_Network,,Builder Floor,3,137.7,5,0,2,0,2,2.9,30,0,1,Booked,1
+L0427,Property Portal,Portal_Featured_Project,Pune,Apartment,3,122.7,3,3,1,0,2,47.6,1,0,0,Nurturing,0
+L0428,Referral,Ref_Broker_Network,Noida,Plot,0,134.7,2,3,4,0,3,8.6,44,1,1,Booked,1
+L0429,Property Portal,Portal_Featured_Project,Noida,Commercial,0,77.9,6,1,1,1,2,14.7,3,0,0,Negotiation,0
+L0430,Referral,Ref_Existing_Customer,Pune,Plot,0,70.6,2,0,0,1,2,13.0,1,0,0,Nurturing,0
+L0431,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Builder Floor,3,55.2,2,1,2,0,2,14.8,2,0,1,Lost,0
+L0432,Website,Web_Chatbot,Pune,Builder Floor,3,156.1,2,0,0,0,3,7.1,5,0,1,Lost,0
+L0433,Website,Web_Organic,Noida,Commercial,0,95.0,2,2,3,0,1,21.3,0,1,0,Nurturing,0
+L0434,Referral,Ref_Broker_Network,Hyderabad,Apartment,1,71.1,6,1,1,0,2,12.4,10,0,1,Lost,0
+L0435,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,3,79.3,0,1,0,1,4,6.7,7,1,0,Booked,1
+L0436,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,4,120.2,5,1,3,0,3,7.0,3,1,1,Lost,0
+L0437,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,92.4,8,2,1,0,4,4.5,0,0,1,Lost,0
+L0438,Instagram,IG_Influencer_Tour,Ghaziabad,Apartment,2,75.5,4,1,1,1,3,5.2,5,1,1,Booked,1
+L0439,Website,Web_Organic,Ghaziabad,Apartment,1,63.6,4,3,0,0,4,5.0,1,0,1,Nurturing,0
+L0440,Instagram,IG_Influencer_Tour,Jaipur,Builder Floor,2,47.7,5,1,2,0,2,8.6,13,1,1,Lost,0
+L0441,Referral,Ref_Existing_Customer,Gurugram,Apartment,4,135.5,0,1,2,0,2,27.8,13,0,0,Nurturing,0
+L0442,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,81.0,2,0,1,0,4,3.0,21,0,0,Nurturing,0
+L0443,Website,Web_Chatbot,Ghaziabad,Apartment,2,95.7,2,0,1,0,1,17.4,0,0,0,Nurturing,0
+L0444,Property Portal,Portal_Featured_Project,Gurugram,Apartment,2,82.0,4,1,1,0,3,4.4,5,0,1,Booked,1
+L0445,Property Portal,Portal_Featured_Project,Ghaziabad,Plot,0,26.7,3,0,1,0,5,20.2,17,0,1,Nurturing,0
+L0446,Website,Web_Brochure_Download,Gurugram,Apartment,4,103.8,3,2,0,0,1,4.5,12,0,1,Lost,0
+L0447,Walk-in,Walkin_Site_Hoarding,Gurugram,Villa,3,396.6,2,0,0,0,3,10.6,5,0,0,New / Uncontacted,0
+L0448,Instagram,IG_Lead_Form,Pune,Villa,4,219.0,2,0,0,1,2,8.0,1,0,1,Negotiation,0
+L0449,Property Portal,Portal_Premium_Listing,Ghaziabad,Apartment,2,59.4,4,2,0,0,6,1.2,2,1,1,Booked,1
+L0450,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,34.5,3,2,1,0,5,27.2,8,1,0,Lost,0
+L0451,Property Portal,Portal_Premium_Listing,Jaipur,Villa,3,266.4,1,0,2,0,2,3.5,11,0,1,Lost,0
+L0452,Referral,Ref_Existing_Customer,Bengaluru,Builder Floor,3,86.1,3,0,0,0,5,8.4,4,0,0,Booked,1
+L0453,Website,Web_Organic,Ghaziabad,Apartment,1,49.5,3,0,2,0,7,2.3,7,0,0,Nurturing,0
+L0454,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,3,73.2,4,2,0,0,3,1.5,13,0,0,New / Uncontacted,0
+L0455,Property Portal,Portal_Basic_Listing,Hyderabad,commercial ,0,75.2,1,0,2,0,4,5.6,2,0,1,Nurturing,0
+L0456,Property Portal,Portal_Premium_Listing,Jaipur,Plot,0,68.7,1,2,3,1,1,3.9,1,0,0,Negotiation,0
+L0457,Walk-in,Walkin_Site_Hoarding,Hyderabad,Commercial,0,179.2,3,4,1,0,7,1.8,6,0,1,Booked,1
+L0458,Google Ads,GAds_Display_Remarketing,,Commercial,0,213.7,4,0,0,0,3,9.2,2,0,1,Booked,1
+L0459,Website,Web_Chatbot,Noida,Apartment,2,100.3,10,1,5,0,4,1.1,1,1,1,Booked,1
+L0460,Instagram,IG_Lead_Form,Lucknow,Plot,0,41.6,2,4,3,1,5,3.6,1,1,1,Negotiation,0
+L0461,Instagram,IG_Reels_Showcase,Pune,Apartment,3,59.5,1,0,1,0,1,10.7,13,0,0,Nurturing,0
+L0462,Property Portal,Portal_Basic_Listing,Hyderabad,Plot,0,62.8,4,1,0,1,2,0.8,4,1,0,Lost,0
+L0463,Walk-in,Walkin_Site_Hoarding,Lucknow,Apartment,3,42.6,1,1,2,0,2,4.7,25,0,0,Lost,0
+L0464,Google ads ,GAds_Search_Generic,Noida,Apartment,3,97.8,2,1,0,0,1,9.3,1,0,1,Lost,0
+L0465,Instagram,IG_Reels_Showcase,Jaipur,Villa,3,191.0,2,1,2,0,3,2.8,6,1,1,Booked,1
+L0466,Website,Web_Organic,Noida,Plot,0,101.4,5,1,3,0,2,7.4,4,1,1,Booked,1
+L0467,Instagram,IG_Reels_Showcase,Bengaluru,Builder Floor,3,140.7,3,1,2,0,6,8.7,8,1,0,Lost,0
+L0468,Walk-in,Walkin_Sales_Office,Lucknow,Apartment,4,82.9,1,0,0,0,2,3.3,3,0,1,Lost,0
+L0469,Property Portal,Portal_Basic_Listing,Pune,Apartment,2,77.7,2,1,1,1,2,6.2,9,0,1,Booked,1
+L0470,Instagram,IG_Reels_Showcase,Bengaluru,Commercial,0,132.0,7,3,2,1,3,10.2,1,0,1,Booked,1
+L0471,Google Ads,GAds_Search_Brand,Pune,Apartment,2,101.8,3,0,2,0,4,4.0,2,0,0,Nurturing,0
+L0472,Google Ads,GAds_Display_Remarketing,Pune,Apartment,3,75.3,4,0,3,0,3,7.7,12,1,1,Nurturing,0
+L0473,Property Portal,Portal_Basic_Listing,Bengaluru,Builder Floor,2,135.7,6,2,3,1,4,9.2,2,1,1,Lost,0
+L0474,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,3,67.3,1,2,1,0,2,3.5,4,0,0,Nurturing,0
+L0475,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,3,90.7,1,0,1,1,2,9.0,1,0,0,Negotiation,0
+L0476,Google Ads,GAds_Search_Generic,Noida,Apartment,1,103.0,4,2,2,0,2,2.8,6,0,0,Booked,1
+L0477,Google Ads,GAds_Search_Generic,Jaipur,Plot,0,60.0,1,2,1,0,4,4.6,1,1,0,Lost,0
+L0478,Instagram,IG_Influencer_Tour,Gurugram,Commercial,0,119.0,5,3,2,1,7,5.5,5,0,0,Booked,1
+L0479,Instagram,IG_Influencer_Tour,Bengaluru,Commercial,0,197.3,3,1,2,0,1,0.8,4,1,0,Lost,0
+L0480,Google Ads,GAds_Display_Remarketing,Pune,Builder Floor,3,90.7,1,2,1,1,1,5.7,2,0,0,Booked,1
+L0481,Google Ads,GAds_Search_Brand,Lucknow,Apartment,3,60.3,1,0,0,0,4,12.0,13,0,0,Nurturing,0
+L0482,Property Portal,Portal_Premium_Listing,Gurugram,Villa,3,413.8,2,0,0,0,2,7.9,2,0,1,New / Uncontacted,0
+L0483,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,62.0,1,0,3,0,3,4.2,3,0,0,Nurturing,0
+L0484,Google Ads,GAds_Search_Brand,Pune,Builder Floor,4,144.3,2,1,2,0,2,3.8,20,0,0,Lost,0
+L0485,Property Portal,Portal_Featured_Project,Gurugram,Villa,3,491.5,4,2,3,0,3,8.1,6,0,0,Nurturing,0
+L0486,Google Ads,GAds_Search_Brand,Noida,Villa,3,154.8,1,2,0,1,4,6.1,10,0,0,Booked,1
+L0487,Google Ads,GAds_Display_Remarketing,Hyderabad,Villa,4,153.0,5,1,2,0,5,6.4,3,1,0,Nurturing,0
+L0488,Property Portal,Portal_Premium_Listing,Bengaluru,Villa,3,181.7,6,0,1,1,2,5.2,14,1,0,Lost,0
+L0489,Instagram,IG_Reels_Showcase,Gurugram,Apartment,3,96.1,6,1,0,0,3,4.5,19,0,1,Nurturing,0
+L0490,Instagram,IG_Reels_Showcase,Gurugram,Builder Floor,2,58.3,2,2,1,0,5,12.7,4,0,0,Nurturing,0
+L0491,Website,Web_Organic,Hyderabad,Builder Floor,3,106.0,1,0,0,1,1,5.1,2,0,0,Lost,0
+L0492,Instagram,IG_Lead_Form,Pune,Apartment,1,71.3,3,2,4,0,5,13.3,2,1,0,Booked,1
+L0493,Instagram,IG_Lead_Form,Pune,Plot,0,83.2,5,0,1,0,2,19.6,6,1,1,Booked,1
+L0494,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,3,150.5,5,2,0,0,3,18.2,4,0,1,New / Uncontacted,0
+L0495,Website,Web_Organic,Gurugram,Apartment,3,85.1,2,2,2,0,3,5.6,1,0,1,Lost,0
+L0496,Instagram,IG_Lead_Form,Noida,Plot,0,74.4,4,1,2,0,4,51.7,7,1,1,Nurturing,0
+L0497,Google Ads,GAds_Search_Generic,Pune,Villa,4,266.6,2,1,2,1,4,7.3,4,1,1,Booked,1
+L0498,Instagram,IG_Lead_Form,Noida,Villa,5,151.3,5,4,3,1,3,5.7,13,1,1,Negotiation,0
+L0499,Google Ads,GAds_Display_Remarketing,Noida,Apartment,3,69.4,3,2,1,0,2,7.2,4,0,1,Lost,0
+L0500,Instagram,IG_Reels_Showcase,Pune,Plot,0,29.0,5,0,3,0,6,1.6,5,1,0,Nurturing,0
+L0501,Website,Web_Brochure_Download,Hyderabad,Apartment,3,61.4,2,1,1,0,3,23.5,11,0,1,Lost,0
+L0502,Referral,Ref_Broker_Network,Bengaluru,Builder Floor,3,95.2,10,3,2,1,3,2.5,9,1,1,Lost,0
+L0503,Walk-in,Walkin_Site_Hoarding,Lucknow,Apartment,4,61.6,0,1,2,0,4,16.1,18,0,0,Lost,0
+L0504,Instagram,IG_Lead_Form,LUCKNOW,Villa,4,103.4,2,2,3,0,4,15.2,2,1,1,New / Uncontacted,0
+L0505,Instagram,IG_Lead_Form,Lucknow,Villa,5,120.3,3,1,1,0,1,11.0,20,1,0,New / Uncontacted,0
+L0506,Website,Web_Chatbot,Ghaziabad,Builder Floor,2,52.6,2,0,2,0,2,3.8,8,0,0,Lost,0
+L0507,Google Ads,GAds_Search_Generic,Jaipur,Builder Floor,3,80.7,0,1,2,1,6,3.7,4,0,1,Nurturing,0
+L0508,Referral,Ref_Broker_Network,Lucknow,Plot,0,51.1,4,5,3,1,1,0.5,5,0,0,Booked,1
+L0509,Google Ads,GAds_Search_Brand,Jaipur,Villa,4,165.8,2,2,3,0,4,4.1,1,0,1,New / Uncontacted,0
+L0510,Property Portal,Portal_Featured_Project,Hyderabad,Apartment,2,90.4,3,0,1,0,3,12.6,5,1,1,Nurturing,0
+L0511,Property Portal,Portal_Premium_Listing,Hyderabad,Commercial,0,84.0,1,1,2,0,3,4.7,5,0,0,Lost,0
+L0512,Referral,Ref_Existing_Customer,Noida,Villa,3,159.4,0,2,2,0,3,4.6,1,0,1,Lost,0
+L0513,Property Portal,Portal_Featured_Project,Ghaziabad,Commercial,0,88.4,2,2,0,0,2,6.1,6,0,0,Lost,0
+L0514,Google Ads,GAds_Search_Brand,Gurugram,Commercial,0,145.9,1,1,2,1,3,21.1,4,0,0,Lost,0
+L0515,Google Ads,GAds_Search_Generic,Ghaziabad,Commercial,0,104.7,8,0,0,0,2,6.4,1,0,1,Nurturing,0
+L0516,Property Portal,Portal_Featured_Project,Gurugram,Villa,5,415.0,2,2,0,1,4,24.9,1,1,1,Negotiation,0
+L0517,Google Ads,GAds_Search_Generic,Gurugram,Builder Floor,3,176.7,1,2,1,0,1,,2,1,0,Nurturing,0
+L0518,Website,Web_Chatbot,Bengaluru,Apartment,2,69.0,6,1,1,0,3,7.2,0,0,1,Lost,0
+L0519,Property Portal,Portal_Basic_Listing,Lucknow,Builder Floor,3,96.4,6,0,3,1,2,2.9,4,1,0,Booked,1
+L0520,Referral,Ref_Existing_Customer,Hyderabad,Plot,0,82.6,2,2,2,0,2,23.8,1,0,0,Nurturing,0
+L0521,Referral,Ref_Existing_Customer,Noida,Builder Floor,3,78.8,2,0,0,0,6,8.0,1,1,0,Booked,1
+L0522,Google Ads,GAds_Display_Remarketing,Noida,Plot,0,81.4,2,1,0,0,1,46.7,2,0,1,Nurturing,0
+L0523,Property Portal,Portal_Premium_Listing,Ghaziabad,Apartment,3,60.3,6,0,1,0,1,3.8,12,0,1,Nurturing,0
+L0524,Instagram,IG_Lead_Form,Noida,Apartment,4,50.4,3,0,1,0,3,36.3,25,1,0,Lost,0
+L0525,Property Portal,Portal_Featured_Project,Gurugram,Builder Floor,4,156.0,4,3,2,0,3,5.0,3,1,0,Lost,0
+L0526,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,3,97.1,2,2,0,0,3,12.4,6,0,0,Lost,0
+L0527,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,3,97.0,2,2,3,0,2,1.4,7,1,0,Lost,0
+L0528,Walk-in,Walkin_Sales_Office,Gurugram,Apartment,2,103.6,1,0,2,0,3,12.2,25,0,1,Nurturing,0
+L0529,Website,Web_Organic,Jaipur,Plot,0,34.2,3,3,3,0,1,2.0,4,1,1,Nurturing,0
+L0530,Google Ads,GAds_Search_Generic,Lucknow,Builder Floor,4,94.1,4,3,6,1,1,7.6,3,1,0,Lost,0
+L0531,Website,Web_Organic,Jaipur,Apartment,2,59.1,2,1,2,0,4,1.9,3,0,0,Nurturing,0
+L0532,Website,Web_Chatbot,Ghaziabad,Apartment,2,67.6,2,2,1,0,4,7.8,10,0,0,Nurturing,0
+L0533,Google Ads,GAds_Search_Brand,Bengaluru,Builder Floor,4,139.9,4,3,3,1,3,12.4,11,1,0,Nurturing,0
+L0534,Instagram,IG_Lead_Form,Noida,Apartment,3,55.1,3,0,3,0,3,7.9,18,0,0,Nurturing,0
+L0535,Property Portal,Portal_Basic_Listing,Lucknow,Villa,3,105.3,1,4,2,1,2,1.4,7,0,0,Booked,1
+L0536,Property Portal,Portal_Premium_Listing,Pune,Plot,0,29.2,1,0,4,1,3,1.0,4,1,0,Negotiation,0
+L0537,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,3,118.8,1,0,0,0,2,10.4,11,1,0,Nurturing,0
+L0538,Property Portal,Portal_Basic_Listing,Ghaziabad,Builder Floor,3,52.8,1,0,2,0,5,,9,1,0,Lost,0
+L0539,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,2,62.8,1,0,1,0,4,3.9,1,1,0,Nurturing,0
+L0540,Referral,Ref_Existing_Customer,Noida,Apartment,2,93.9,6,3,4,0,4,22.2,22,0,0,Lost,0
+L0541,Walk-in,Walkin_Site_Hoarding,Gurugram,Plot,0,95.1,1,1,2,0,3,7.3,3,0,0,Nurturing,0
+L0542,instagram,IG_Influencer_Tour,Noida,Builder Floor,2,68.6,3,1,2,1,1,0.9,3,1,0,Booked,1
+L0543,Referral,Ref_Broker_Network,Pune,Plot,0,61.8,2,1,2,0,2,1.5,4,1,0,New / Uncontacted,0
+L0544,Walk-in,Walkin_Sales_Office,Gurugram,Apartment,3,188.4,0,1,0,0,7,10.2,9,0,0,Lost,0
+L0545,Property Portal,Portal_Basic_Listing,Pune,Apartment,2,157.2,5,0,1,0,2,7.2,2,1,0,Lost,0
+L0546,Google Ads,GAds_Search_Brand,Noida,Builder Floor,3,147.6,1,0,1,0,1,16.6,1,1,1,Lost,0
+L0547,Google Ads,GAds_Search_Generic,Bengaluru,Builder Floor,2,139.0,5,1,1,1,4,2.3,3,1,0,Negotiation,0
+L0548,Property Portal,Portal_Featured_Project,Bengaluru,Commercial,0,109.7,3,0,2,0,3,7.2,15,0,0,Lost,0
+L0549,Website,Web_Brochure_Download,Noida,Apartment,4,106.1,5,2,3,0,1,5.1,1,0,0,Nurturing,0
+L0550,Google Ads,GAds_Search_Generic,Noida,Plot,0,57.2,2,1,1,0,3,5.5,3,0,0,Lost,0
+L0551,Google Ads,GAds_Search_Brand,Noida,Plot,0,73.6,3,1,1,0,1,5.4,2,0,0,Lost,0
+L0552,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,3,99.0,1,2,1,1,3,3.9,5,1,0,Booked,1
+L0553,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,4,98.8,2,0,1,0,4,7.0,19,0,0,Lost,0
+L0554,Referral,Ref_Existing_Customer,Jaipur,Builder Floor,2,80.5,1,4,2,1,6,6.8,3,0,0,Booked,1
+L0555,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,3,65.4,4,1,1,1,2,8.2,4,0,0,Negotiation,0
+L0556,Property Portal,Portal_Basic_Listing,Bengaluru,Plot,0,85.0,1,1,4,1,4,21.3,4,0,0,Lost,0
+L0557,Google Ads,GAds_Search_Brand,Lucknow,Builder Floor,4,62.1,3,2,3,1,1,1.5,2,1,1,Negotiation,0
+L0558,Google Ads,GAds_Search_Generic,Lucknow,Commercial,0,60.0,3,5,5,1,5,1.0,6,0,1,Nurturing,0
+L0559,Instagram,IG_Lead_Form,Hyderabad,Villa,3,381.4,4,3,2,1,2,10.9,3,1,0,Negotiation,0
+L0560,Google Ads,GAds_Search_Generic,Noida,Builder Floor,2,249.7,3,3,2,1,5,3.1,4,0,0,Booked,1
+L0561,Property Portal,Portal_Basic_Listing,Bengaluru,Villa,3,273.7,1,2,1,0,5,4.8,17,1,1,Lost,0
+L0562,Property Portal,Portal_Featured_Project,Noida,Builder Floor,2,65.7,6,4,4,1,3,2.6,27,1,0,Booked,1
+L0563,Referral,Ref_Broker_Network,Lucknow,Commercial,0,73.2,3,3,1,0,3,3.9,23,0,0,Nurturing,0
+L0564,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,2,107.6,7,1,1,1,2,2.2,2,0,1,Booked,1
+L0565,Instagram,IG_Influencer_Tour,Pune,Commercial,0,220.7,7,2,3,1,4,2.4,4,1,0,Lost,0
+L0566,Website,Web_Brochure_Download,Pune,Plot,0,41.4,4,0,0,0,5,10.2,2,1,1,Nurturing,0
+L0567,Website,Web_Organic,Gurugram,Plot,0,73.7,4,3,1,1,2,,2,1,1,Nurturing,0
+L0568,Property Portal,Portal_Premium_Listing,Lucknow,Builder Floor,3,81.4,2,0,0,0,3,12.7,20,0,0,Lost,0
+L0569,Google Ads,GAds_Display_Remarketing,Ghaziabad,Plot,0,63.3,1,2,2,0,3,3.5,12,1,0,New / Uncontacted,0
+L0570,Instagram,IG_Lead_Form,Jaipur,Apartment,2,53.2,3,4,5,1,6,7.4,3,1,1,Booked,1
+L0571,Google Ads,GAds_Search_Generic,Lucknow,Plot,0,25.5,2,1,3,1,3,4.0,3,0,0,Lost,0
+L0572,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,3,79.2,3,3,0,0,8,1.2,4,0,0,Lost,0
+L0573,Google Ads,GAds_Search_Generic,Gurugram,Apartment,1,155.7,1,1,2,0,6,10.4,9,0,0,Nurturing,0
+L0574,Website,Web_Chatbot,Gurugram,Apartment,2,102.0,6,2,1,0,4,8.5,3,0,1,Nurturing,0
+L0575,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,3,73.5,1,1,3,0,4,4.7,1,0,1,Lost,0
+L0576,Instagram,IG_Lead_Form,Noida,Apartment,2,69.9,4,2,2,0,5,16.0,7,1,0,New / Uncontacted,0
+L0577,Referral,Ref_Existing_Customer,Bengaluru,Plot,0,53.2,5,3,1,0,2,4.1,2,0,0,Booked,1
+L0578,Instagram,IG_Influencer_Tour,Pune,Apartment,2,123.5,4,1,2,1,2,7.0,6,1,0,Lost,0
+L0579,Referral,Ref_Existing_Customer,Noida,Villa,3,226.8,2,4,0,1,2,18.2,3,0,1,Nurturing,0
+L0580,Google Ads,GAds_Search_Generic,Pune,Apartment,1,102.4,0,1,1,0,2,6.2,19,0,0,Lost,0
+L0581,Google Ads,GAds_Display_Remarketing,Bengaluru,Plot,0,121.0,2,0,1,0,1,6.7,8,0,0,Lost,0
+L0582,Instagram,IG_Reels_Showcase,Gurugram,Plot,0,53.2,5,2,3,0,4,3.8,12,0,1,Nurturing,0
+L0583,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,68.0,2,1,0,0,2,24.2,1,0,1,Booked,1
+L0584,Google Ads,GAds_Display_Remarketing,Noida,Villa,3,209.3,0,1,0,1,1,10.9,2,1,0,Negotiation,0
+L0585,Walk-in,Walkin_Site_Hoarding,Noida,Commercial,0,108.3,0,0,0,0,3,51.8,6,0,0,Nurturing,0
+L0586,Instagram,IG_Lead_Form,Bengaluru,Plot,0,94.0,1,0,0,0,3,8.8,12,0,1,Lost,0
+L0587,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,2,84.3,6,0,0,0,3,5.1,8,0,1,Lost,0
+L0588,Google Ads,GAds_Display_Remarketing,Noida,Builder Floor,4,,2,2,4,0,2,4.4,7,0,0,Booked,1
+L0589,Property Portal,Portal_Basic_Listing,Bengaluru,Plot,0,73.2,2,3,0,0,2,5.2,5,1,0,Booked,1
+L0590,Property Portal,Portal_Featured_Project,Noida,Apartment,4,87.6,2,3,0,0,4,1.3,10,0,1,New / Uncontacted,0
+L0591,Walk-in,Walkin_Sales_Office,Jaipur,Plot,0,61.0,1,5,2,0,3,3.8,1,1,1,Booked,1
+L0592,Google Ads,GAds_Search_Generic,Bengaluru,Apartment,2,111.9,3,1,0,0,2,5.0,1,0,1,Lost,0
+L0593,Google Ads,GAds_Search_Brand,Ghaziabad,Plot,0,54.9,2,1,2,0,1,7.2,9,0,0,Nurturing,0
+L0594,Instagram,IG_Influencer_Tour,Noida,Apartment,2,92.3,5,0,6,1,2,17.5,1,0,0,Booked,1
+L0595,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,2,56.2,2,0,0,0,3,6.8,2,1,0,Lost,0
+L0596,Property Portal,Portal_Featured_Project,Hyderabad,Commercial,0,112.1,4,0,0,0,5,1.2,10,0,0,Lost,0
+L0597,web site,Web_Organic,Gurugram,Plot,0,85.2,1,0,0,0,4,4.3,6,0,0,Lost,0
+L0598,Instagram,IG_Lead_Form,Gurugram,Plot,0,68.5,4,5,1,0,2,5.1,9,0,0,Lost,0
+L0599,Walk-in,Walkin_Sales_Office,Noida,Commercial,0,238.5,2,1,3,0,2,7.3,5,0,1,Nurturing,0
+L0600,instagram,IG_Lead_Form,Jaipur,Apartment,3,96.0,8,4,3,0,5,16.9,3,1,1,Lost,0
+L0601,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,3,74.9,0,1,0,0,5,13.3,1,1,1,Nurturing,0
+L0602,Website,Web_Chatbot,Bengaluru,Apartment,2,111.3,5,2,1,1,3,10.8,1,1,1,Booked,1
+L0603,Referral,Ref_Broker_Network,Bengaluru,Builder Floor,2,119.8,3,2,1,1,1,4.3,9,1,0,Booked,1
+L0604,Website,Web_Chatbot,Hyderabad,Apartment,2,57.9,0,0,2,0,2,16.2,1,1,0,Lost,0
+L0605,Walk-in,Walkin_Site_Hoarding,Bengaluru,Commercial,0,144.6,3,4,2,0,5,2.2,2,0,1,Lost,0
+L0606,Website,Web_Brochure_Download,Gurugram,Apartment,3,108.8,0,1,2,0,2,15.7,6,0,0,Lost,0
+L0607,Referral,Ref_Broker_Network,Jaipur,Apartment,4,65.0,6,2,5,0,4,3.9,7,1,0,Booked,1
+L0608,Property Portal,Portal_Featured_Project,Gurugram,Apartment,2,123.8,4,0,0,0,3,2.1,12,1,0,Lost,0
+L0609,Website,Web_Brochure_Download,Ghaziabad,Apartment,3,88.0,3,2,5,0,4,8.8,1,0,1,Lost,0
+L0610,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,2,70.6,3,1,0,0,2,20.6,15,0,0,Lost,0
+L0611,Instagram,IG_Lead_Form,Pune,Villa,4,163.0,3,3,2,0,2,4.3,2,0,0,Lost,0
+L0612,Instagram,IG_Lead_Form,Hyderabad,Apartment,4,149.5,1,0,2,0,3,27.4,31,0,0,Lost,0
+L0613,Walk-in,Walkin_Sales_Office,Lucknow,Builder Floor,3,99.5,5,1,3,0,2,1.5,1,0,0,Lost,0
+L0614,WALK-IN,Walkin_Site_Hoarding,Jaipur,Plot,0,38.4,2,2,1,0,4,,1,0,0,Lost,0
+L0615,Google Ads,GAds_Search_Generic,Lucknow,Builder Floor,2,73.2,3,0,4,0,5,6.1,2,0,1,Lost,0
+L0616,Website,Web_Brochure_Download,,Villa,4,191.0,0,1,1,0,1,4.5,1,0,0,Lost,0
+L0617,Website,Web_Brochure_Download,Gurugram,Apartment,2,106.2,2,3,0,0,4,3.4,1,0,1,Lost,0
+L0618,Google Ads,GAds_Search_Brand,Jaipur,Apartment,3,70.8,6,1,4,0,1,7.8,38,0,0,Nurturing,0
+L0619,Property Portal,Portal_Featured_Project,Noida,Apartment,2,200.3,4,4,0,0,1,4.1,2,0,1,Lost,0
+L0620,Property Portal,Portal_Basic_Listing,Hyderabad,Commercial,0,153.9,2,1,0,0,3,5.8,1,0,1,New / Uncontacted,0
+L0621,web site,Web_Brochure_Download,Noida,Villa,5,249.7,6,3,2,1,2,4.2,1,1,0,Lost,0
+L0622,Google Ads,GAds_Search_Brand,Gurugram,Apartment,2,58.2,1,3,3,1,3,2.7,11,0,0,Lost,0
+L0623,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,2,82.3,0,3,1,0,3,5.1,0,0,0,Booked,1
+L0624,Google Ads,GAds_Search_Brand,Noida,Plot,0,93.0,1,2,2,0,1,2.7,13,0,0,Nurturing,0
+L0625,Walk-in,Walkin_Sales_Office,Hyderabad,Villa,3,248.7,1,1,2,0,4,3.8,2,0,0,Lost,0
+L0626,Google Ads,GAds_Search_Generic,Pune,Builder Floor,2,23.5,2,1,0,0,1,21.0,5,0,0,Lost,0
+L0627,Website,Web_Organic,Noida,Plot,0,76.6,3,0,1,1,3,26.0,29,0,0,Negotiation,0
+L0628,Property Portal,Portal_Basic_Listing,Pune,Villa,3,405.1,3,1,0,0,4,19.8,10,0,0,Nurturing,0
+L0629,Insta,IG_Reels_Showcase,Pune,Villa,4,102.9,0,3,2,0,3,8.3,15,1,0,Nurturing,0
+L0630,Referral,Ref_Broker_Network,Bengaluru,Apartment,2,165.9,2,3,3,0,5,3.4,4,1,1,Booked,1
+L0631,Walk-in,Walkin_Site_Hoarding,Bengaluru,Apartment,2,37.0,2,4,0,1,4,3.8,0,1,1,Booked,1
+L0632,Referal,Ref_Existing_Customer,,Commercial,0,191.6,0,1,0,0,1,18.6,3,0,1,Lost,0
+L0633,Property Portal,Portal_Featured_Project,Jaipur,Builder Floor,2,75.8,4,3,3,0,4,0.9,2,0,0,Booked,1
+L0634,Google Ads,GAds_Search_Brand,Ghaziabad,Apartment,1,28.0,2,3,2,0,2,4.5,6,0,0,Booked,1
+L0635,Property Portal,Portal_Premium_Listing,Pune,Builder Floor,4,127.7,4,1,2,0,3,9.9,4,1,1,Booked,1
+L0636,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,4,134.6,3,0,0,0,1,2.7,9,0,1,Lost,0
+L0637,Website,Web_Chatbot,Jaipur,plot ,0,50.0,8,2,1,1,2,6.0,2,0,1,Lost,0
+L0638,Website,Web_Organic,Pune,Apartment,1,105.8,2,3,0,0,5,8.3,5,0,0,Nurturing,0
+L0639,Website,Web_Organic,Lucknow,Plot,0,38.1,6,5,5,1,1,1.2,5,1,1,Lost,0
+L0640,Referral,Ref_Existing_Customer,Bengaluru,Builder Floor,3,64.4,0,1,1,0,1,7.8,5,0,0,Nurturing,0
+L0641,Website,Web_Brochure_Download,Hyderabad,Apartment,3,114.7,2,1,3,0,4,3.0,3,0,0,New / Uncontacted,0
+L0642,Referral,Ref_Existing_Customer,Noida,Apartment,4,152.2,2,4,0,0,5,8.5,11,0,0,New / Uncontacted,0
+L0643,Property Portal,Portal_Premium_Listing,Gurugram,Plot,0,114.3,1,1,2,1,3,11.1,8,1,0,Booked,1
+L0644,Property Portal,Portal_Featured_Project,Jaipur,Apartment,2,29.9,1,2,0,0,6,7.0,9,1,0,Lost,0
+L0645,Instagram,IG_Reels_Showcase,Lucknow,Apartment,2,35.3,2,0,0,0,5,6.9,8,1,0,Nurturing,0
+L0646,Referral,Ref_Broker_Network,Jaipur,Villa,4,107.1,3,0,2,0,4,14.7,1,0,0,Nurturing,0
+L0647,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,47.2,1,0,1,0,1,5.0,7,0,0,Nurturing,0
+L0648,Instagram,IG_Influencer_Tour,Ghaziabad,Apartment,3,64.7,4,5,0,1,5,4.3,3,0,0,Negotiation,0
+L0649,Website,Web_Organic,Jaipur,Apartment,2,68.9,1,4,2,0,2,2.3,4,0,1,Nurturing,0
+L0650,Property Portal,Portal_Basic_Listing,Jaipur,Plot,0,26.7,1,0,2,1,3,8.5,11,1,1,Booked,1
+L0651,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,113.2,4,2,3,0,3,10.4,4,1,0,Nurturing,0
+L0652,Referral,Ref_Existing_Customer,Pune,Apartment,3,106.4,0,1,1,0,2,14.3,5,0,0,Lost,0
+L0653,Website,Web_Chatbot,Pune,Apartment,3,71.2,8,1,3,0,7,26.2,2,0,0,Nurturing,0
+L0654,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,2,91.8,1,1,1,0,3,4.6,15,0,1,Nurturing,0
+L0655,Referral,Ref_Broker_Network,Pune,Apartment,3,43.6,3,0,0,0,3,5.0,22,0,0,Nurturing,0
+L0656,Google Ads,GAds_Search_Generic,Jaipur,Apartment,2,53.4,5,2,2,0,2,3.0,8,0,0,Nurturing,0
+L0657,Referral,Ref_Broker_Network,Pune,Apartment,2,86.5,1,4,0,0,9,1.0,3,0,0,Lost,0
+L0658,Google Ads,GAds_Search_Brand,Noida,Apartment,3,87.5,2,6,1,1,3,1.6,9,0,0,Nurturing,0
+L0659,Instagram,IG_Lead_Form,Gurugram,Plot,0,87.9,1,3,1,0,1,9.9,3,1,1,New / Uncontacted,0
+L0660,Google Ads,GAds_Search_Brand,Jaipur,Apartment,3,65.4,1,0,2,0,5,2.7,16,1,1,Lost,0
+L0661,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,4,88.9,9,2,5,1,3,1.7,7,0,0,Negotiation,0
+L0662,Referral,Ref_Existing_Customer,Pune,Commercial,0,152.5,4,2,1,0,4,5.4,13,0,1,Nurturing,0
+L0663,Property Portal,Portal_Featured_Project,Noida,Plot,0,85.9,2,1,2,0,4,4.6,2,1,0,Lost,0
+L0664,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,139.3,4,1,2,0,3,10.8,3,1,1,Lost,0
+L0665,google ads,GAds_Display_Remarketing,Gurugram,Apartment,2,117.3,2,3,2,1,1,7.3,10,0,0,Nurturing,0
+L0666,Website,Web_Brochure_Download,Pune,Apartment,2,80.8,3,1,3,0,4,3.1,15,1,1,Nurturing,0
+L0667,Referral,Ref_Broker_Network,Bengaluru,Apartment,2,77.7,5,1,3,0,3,18.7,24,0,0,Lost,0
+L0668,Walk-in,Walkin_Site_Hoarding,Jaipur,Apartment,2,72.0,1,4,2,0,2,8.2,4,0,0,Booked,1
+L0669,Google Ads,GAds_Search_Brand,Jaipur,Apartment,1,49.4,3,3,1,1,4,2.0,3,0,0,Booked,1
+L0670,Google Ads,GAds_Search_Brand,Ghaziabad,Builder Floor,3,92.4,3,4,2,1,5,5.5,3,1,0,Booked,1
+L0671,Property Portal,Portal_Featured_Project,Lucknow,Apartment,2,60.6,5,0,1,0,2,3.6,12,0,1,New / Uncontacted,0
+L0672,Instagram,IG_Lead_Form,Bengaluru,Builder Floor,3,111.0,5,0,2,0,2,3.4,0,0,1,Nurturing,0
+L0673,Walk-in,Walkin_Sales_Office,Pune,Apartment,3,76.9,0,3,2,0,3,36.3,1,0,1,Lost,0
+L0674,Website,Web_Chatbot,Jaipur,Apartment,2,50.2,2,0,1,0,4,5.5,0,0,0,Lost,0
+L0675,Instagram,IG_Lead_Form,Ghaziabad,Plot,0,26.3,5,1,3,0,2,6.3,11,1,0,Booked,1
+L0676,Google Ads,GAds_Display_Remarketing,Noida,Plot,0,69.2,5,0,1,1,3,7.3,0,0,1,Lost,0
+L0677,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,89.5,1,0,0,0,3,12.1,1,0,0,Lost,0
+L0678,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,4,179.1,0,0,1,0,1,3.3,10,0,1,Lost,0
+L0679,Property Portal,Portal_Premium_Listing,Ghaziabad,Apartment,3,52.9,1,0,1,0,4,6.0,0,0,1,Lost,0
+L0680,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,174.7,4,1,0,0,4,10.7,2,0,1,Booked,1
+L0681,Property Portal,Portal_Featured_Project,Lucknow,Villa,3,126.1,0,4,2,0,2,1.5,2,0,0,New / Uncontacted,0
+L0682,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,77.3,4,3,1,0,3,14.6,31,0,1,Nurturing,0
+L0683,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,58.3,3,1,1,0,2,1.8,2,1,0,Nurturing,0
+L0684,Google Ads,GAds_Search_Brand,Ghaziabad,Builder Floor,2,44.0,5,1,1,0,1,4.7,2,0,0,Booked,1
+L0685,Instagram,IG_Lead_Form,Bengaluru,Apartment,2,166.7,4,1,4,0,5,1.7,0,0,0,Booked,1
+L0686,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,103.0,3,1,0,0,4,3.3,11,0,1,Nurturing,0
+L0687,Google Ads,GAds_Search_Brand,Bengaluru,Apartment,2,120.3,4,0,1,0,5,17.1,13,0,0,Nurturing,0
+L0688,walk in,Walkin_Sales_Office,Bengaluru,Commercial,0,114.0,1,3,3,1,1,10.8,4,1,0,Booked,1
+L0689,Website,Web_Organic,Noida,Builder Floor,3,197.0,2,0,3,1,3,19.6,4,1,0,Negotiation,0
+L0690,Instagram,IG_Lead_Form,Pune,Apartment,1,76.3,3,0,3,0,1,2.1,1,1,1,Lost,0
+L0691,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,81.9,0,1,2,0,3,3.7,1,0,1,Nurturing,0
+L0692,Referral,Ref_Existing_Customer,Ghaziabad,Builder Floor,4,133.5,5,4,2,1,2,6.2,2,1,1,Booked,1
+L0693,Portal,Portal_Basic_Listing,Noida,Apartment,2,103.9,0,1,2,0,2,10.9,18,1,1,New / Uncontacted,0
+L0694,Google Ads,GAds_Search_Brand,Hyderabad,Builder Floor,3,246.3,2,0,0,0,1,3.9,0,0,0,New / Uncontacted,0
+L0695,Referral,Ref_Broker_Network,Hyderabad,Villa,4,235.6,5,2,1,1,2,3.7,23,0,1,Nurturing,0
+L0696,Instagram,IG_Influencer_Tour,Jaipur,Apartment,2,52.2,3,0,3,0,1,3.3,1,0,0,New / Uncontacted,0
+L0697,Website,Web_Organic,Jaipur,Apartment,4,48.4,3,3,1,0,2,29.3,43,1,0,Nurturing,0
+L0698,Instagram,IG_Reels_Showcase,Gurugram,Apartment,2,55.0,4,1,1,0,1,5.9,1,1,0,Lost,0
+L0699,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,2,88.4,2,0,2,0,2,8.0,3,0,0,Lost,0
+L0700,Google Ads,GAds_Search_Brand,Lucknow,Apartment,4,89.6,5,4,1,1,6,4.6,6,1,1,Nurturing,0
+L0701,Property Portal,Portal_Featured_Project,Noida,Plot,0,74.6,0,1,0,0,5,17.5,5,0,1,Lost,0
+L0702,Google Ads,GAds_Search_Brand,Pune,Apartment,3,86.9,2,1,2,1,5,2.5,3,0,0,Lost,0
+L0703,Property Portal,Portal_Premium_Listing,Hyderabad,Builder Floor,3,80.5,2,1,0,0,1,18.8,57,0,0,Lost,0
+L0704,Referral,Ref_Existing_Customer,Bengaluru,Villa,3,253.3,0,2,0,0,5,1.8,21,0,0,Booked,1
+L0705,Google Ads,GAds_Display_Remarketing,Gurugram,Apartment,2,149.7,2,1,2,0,2,19.7,8,0,0,Nurturing,0
+L0706,Instagram,IG_Reels_Showcase,Noida,Apartment,3,95.9,3,2,3,0,5,1.5,2,1,0,New / Uncontacted,0
+L0707,Website,Web_Chatbot,Hyderabad,Apartment,2,95.4,2,1,1,1,5,5.4,7,0,0,Negotiation,0
+L0708,Website,Web_Brochure_Download,Hyderabad,Villa,3,163.4,2,8,3,1,3,12.3,1,1,1,Booked,1
+L0709,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,3,81.3,4,2,6,0,4,9.0,3,1,1,Booked,1
+L0710,Google Ads,GAds_Search_Brand,Pune,Villa,3,69.2,4,2,1,0,4,9.7,7,0,1,Nurturing,0
+L0711,Walk-in,Walkin_Site_Hoarding,Lucknow,Plot,0,50.3,3,5,1,0,1,,5,0,0,New / Uncontacted,0
+L0712,Website,Web_Chatbot,Lucknow,Villa,3,354.0,3,2,3,1,5,2.0,3,1,1,Booked,1
+L0713,Referral,Ref_Existing_Customer,Noida,Commercial,0,77.9,3,1,0,0,3,26.4,27,0,1,Nurturing,0
+L0714,Referral,Ref_Broker_Network,Noida,villa ,3,182.0,3,4,1,0,4,10.8,2,0,0,Nurturing,0
+L0715,Website,Web_Brochure_Download,Gurugram,Plot,0,76.8,4,3,1,1,2,13.0,7,0,1,Nurturing,0
+L0716,Property Portal,Portal_Featured_Project,Bengaluru,Plot,0,60.8,3,1,2,0,4,7.1,5,0,1,Lost,0
+L0717,Instagram,IG_Lead_Form,Noida,Villa,4,284.6,2,2,4,0,3,5.2,4,0,1,Nurturing,0
+L0718,Property Portal,Portal_Featured_Project,Gurugram,Plot,0,90.8,2,1,1,1,3,15.4,0,1,1,Nurturing,0
+L0719,Instagram,IG_Reels_Showcase,Jaipur,Commercial,0,101.3,4,2,1,1,6,5.2,4,1,1,Negotiation,0
+L0720,Walk-in,Walkin_Site_Hoarding,Gurugram,Builder Floor,3,175.8,0,1,0,0,2,7.5,7,0,1,Lost,0
+L0721,Instagram,IG_Lead_Form,Noida,Villa,5,199.2,2,2,1,0,2,2.0,26,1,1,Lost,0
+L0722,Google Ads,GAds_Display_Remarketing,Jaipur,Builder Floor,2,231.3,4,3,3,0,2,9.9,6,1,0,Lost,0
+L0723,Property Portal,Portal_Featured_Project,Ghaziabad,Plot,0,49.3,2,1,0,0,5,8.6,3,1,1,Lost,0
+L0724,Walk-in,Walkin_Site_Hoarding,Pune,Apartment,2,92.4,0,0,0,0,3,4.7,9,0,0,New / Uncontacted,0
+L0725,Property Portal,Portal_Featured_Project,Hyderabad,Plot,0,36.3,5,0,4,0,3,21.6,1,0,0,Nurturing,0
+L0726,Property Portal,Portal_Basic_Listing,Noida,Plot,0,50.0,4,2,2,0,3,7.7,3,1,0,Lost,0
+L0727,Property Portal,Portal_Basic_Listing,Hyderabad,Commercial,0,215.2,2,4,0,1,4,9.0,3,0,0,Nurturing,0
+L0728,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,3,56.4,2,0,1,0,4,11.6,6,0,0,Nurturing,0
+L0729,Google Ads,GAds_Search_Generic,Bengaluru,Villa,3,110.0,0,0,1,0,2,14.5,16,1,1,Lost,0
+L0730,Instagram,IG_Influencer_Tour,Pune,Villa,4,209.4,5,5,1,0,9,6.2,8,1,1,Lost,0
+L0731,Google Ads,GAds_Search_Generic,Pune,Commercial,0,223.0,1,1,2,0,1,5.0,4,0,1,Lost,0
+L0732,Property Portal,Portal_Featured_Project,,Commercial,0,140.1,5,2,1,0,5,28.0,7,0,0,Nurturing,0
+L0733,Property Portal,Portal_Basic_Listing,Pune,Builder Floor,4,97.1,6,2,1,1,3,2.3,1,0,0,Negotiation,0
+L0734,Google Ads,GAds_Search_Brand,Noida,Builder Floor,3,54.5,1,0,1,0,4,12.2,2,0,1,Lost,0
+L0735,Property Portal,Portal_Basic_Listing,Hyderabad,Apartment,2,105.4,2,0,1,0,2,6.7,8,0,1,Booked,1
+L0736,Website,Web_Organic,Jaipur,Commercial,0,121.0,6,0,2,0,2,9.9,1,0,0,Nurturing,0
+L0737,Property Portal,Portal_Featured_Project,Bengaluru,Apartment,4,52.3,2,0,1,0,4,16.9,2,0,0,Nurturing,0
+L0738,Google Ads,GAds_Search_Generic,Ghaziabad,Villa,3,227.6,5,3,0,0,4,4.8,6,0,1,Lost,0
+L0739,Google Ads,GAds_Search_Generic,Noida,Plot,0,79.1,2,1,2,0,4,12.0,3,1,0,Nurturing,0
+L0740,Google Ads,GAds_Search_Generic,Lucknow,Apartment,4,89.2,3,2,1,0,4,12.3,3,0,0,Lost,0
+L0741,Property Portal,Portal_Featured_Project,Lucknow,Apartment,3,73.6,5,1,2,0,3,4.1,4,0,0,Lost,0
+L0742,Property Portal,Portal_Featured_Project,Lucknow,Apartment,3,75.4,4,2,2,0,2,15.0,3,0,0,Lost,0
+L0743,Referral,Ref_Existing_Customer,Ghaziabad,Plot,0,56.1,5,3,1,0,3,10.2,1,0,0,Lost,0
+L0744,Property Portal,Portal_Featured_Project,Gurugram,Builder Floor,4,180.2,4,1,0,1,5,3.1,1,0,1,Nurturing,0
+L0745,Instagram,IG_Influencer_Tour,Jaipur,Apartment,3,31.7,8,3,4,1,5,8.9,8,1,0,Booked,1
+L0746,Google Ads,GAds_Search_Generic,Ghaziabad,Villa,4,90.5,3,0,1,0,2,2.6,17,0,0,Nurturing,0
+L0747,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,69.6,5,0,4,1,3,4.1,13,1,0,Lost,0
+L0748,Google Ads,GAds_Display_Remarketing,Gurugram,Plot,0,73.6,6,2,4,0,4,3.5,1,0,0,New / Uncontacted,0
+L0749,Website,Web_Chatbot,Ghaziabad,Apartment,3,73.0,7,3,3,1,2,7.1,10,1,0,Booked,1
+L0750,Referral,Ref_Existing_Customer,Gurugram,Apartment,3,117.6,9,4,2,1,2,2.6,0,0,1,Booked,1
+L0751,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,2,88.7,3,2,1,0,6,8.7,2,0,1,Lost,0
+L0752,Google Ads,GAds_Search_Brand,Lucknow,Builder Floor,3,113.6,5,1,2,0,5,8.1,4,1,0,Lost,0
+L0753,Property Portal,Portal_Premium_Listing,Pune,Apartment,3,63.6,1,2,0,0,5,4.7,9,0,1,Booked,1
+L0754,Google Ads,GAds_Display_Remarketing,Hyderabad,Villa,3,234.8,8,0,2,0,3,26.2,1,0,0,Nurturing,0
+L0755,Website,Web_Organic,Gurugram,Builder Floor,2,98.9,3,0,0,0,5,3.6,8,0,0,Nurturing,0
+L0756,Property Portal,Portal_Basic_Listing,Pune,Apartment,2,80.8,4,4,0,0,3,1.7,9,0,1,New / Uncontacted,0
+L0757,Google Ads,GAds_Display_Remarketing,Noida,Apartment,1,92.3,2,2,1,0,2,14.2,0,0,1,Lost,0
+L0758,Walk-in,Walkin_Site_Hoarding,Gurugram,apartment ,1,31.8,2,4,0,1,1,1.1,4,0,0,Booked,1
+L0759,Property Portal,Portal_Basic_Listing,Lucknow,Commercial,0,223.2,0,0,1,0,4,35.7,14,0,1,Lost,0
+L0760,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,100.6,6,3,4,1,4,4.2,1,0,1,Booked,1
+L0761,Website,Web_Organic,Pune,Commercial,0,112.0,1,2,1,0,2,2.0,32,0,1,Nurturing,0
+L0762,Property Portal,Portal_Basic_Listing,Pune,Apartment,1,169.3,5,0,1,1,3,2.5,1,0,1,Nurturing,0
+L0763,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,2,86.3,4,1,0,0,8,1.1,0,1,0,Booked,1
+L0764,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,3,62.8,10,1,1,1,4,7.6,22,0,0,Negotiation,0
+L0765,Walk-in,Walkin_Sales_Office,Pune,Apartment,2,72.7,0,6,1,1,5,1.4,1,1,0,Booked,1
+L0766,Property Portal,Portal_Featured_Project,Ghaziabad,Plot,0,83.3,2,0,0,0,1,12.2,21,0,0,Nurturing,0
+L0767,Property Portal,Portal_Basic_Listing,Noida,Builder Floor,4,100.7,8,3,3,1,3,2.6,4,1,1,Booked,1
+L0768,Property Portal,Portal_Premium_Listing,Noida,Apartment,4,86.9,8,3,4,0,7,3.1,3,0,0,Lost,0
+L0769,Property Portal,Portal_Basic_Listing,Pune,Villa,4,315.5,4,1,2,0,3,8.6,24,0,0,Nurturing,0
+L0770,Instagram,IG_Lead_Form,,Villa,5,265.1,3,2,1,0,4,6.9,11,1,0,Nurturing,0
+L0771,Property Portal,Portal_Featured_Project,Noida,Commercial,0,129.5,3,0,1,0,2,20.1,11,1,1,Nurturing,0
+L0772,Instagram,IG_Influencer_Tour,Jaipur,Commercial,0,141.6,4,3,1,1,5,3.9,3,1,1,Booked,1
+L0773,Instagram,IG_Lead_Form,Bengaluru,Villa,5,568.9,6,4,3,1,1,4.1,14,0,1,Lost,0
+L0774,Referral,Ref_Existing_Customer,Bengaluru,Plot,0,79.9,3,2,1,0,1,5.8,0,0,1,New / Uncontacted,0
+L0775,Property Portal,Portal_Basic_Listing,Jaipur,Plot,0,45.8,6,2,4,1,2,5.9,4,1,1,Booked,1
+L0776,Referral,Ref_Broker_Network,Pune,Builder Floor,3,116.0,3,2,4,0,3,,3,1,0,Booked,1
+L0777,Instagram,IG_Lead_Form,Pune,Villa,4,327.5,8,2,1,0,2,2.6,0,1,1,Nurturing,0
+L0778,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,2,79.1,2,0,2,0,2,6.4,19,0,1,Lost,0
+L0779,Website,Web_Organic,Noida,Villa,4,179.6,4,0,4,0,1,5.1,1,1,0,Lost,0
+L0780,Referral,Ref_Existing_Customer,Hyderabad,Commercial,0,84.1,2,0,2,0,3,6.9,4,0,0,Nurturing,0
+L0781,Property Portal,Portal_Premium_Listing,Noida,Apartment,2,54.5,1,1,2,0,2,10.1,3,0,1,New / Uncontacted,0
+L0782,Walk-in,Walkin_Sales_Office,Bengaluru,Plot,0,59.6,1,0,2,0,2,7.5,12,0,1,Nurturing,0
+L0783,Google Ads,GAds_Display_Remarketing,Noida,Commercial,0,129.4,3,0,0,0,5,5.0,4,1,0,New / Uncontacted,0
+L0784,Instagram,IG_Reels_Showcase,Gurugram,Apartment,1,195.0,5,1,2,0,3,6.3,2,1,0,Lost,0
+L0785,Walk-in,Walkin_Site_Hoarding,Noida,Builder Floor,2,126.1,0,1,0,0,1,3.8,3,1,0,Lost,0
+L0786,Google Ads,GAds_Display_Remarketing,Lucknow,Commercial,0,69.8,5,1,4,1,3,7.9,7,0,1,Nurturing,0
+L0787,Referral,Ref_Broker_Network,Ghaziabad,Commercial,0,79.1,2,0,0,0,2,5.6,2,1,0,Lost,0
+L0788,Google Ads,GAds_Search_Generic,Noida,Apartment,4,133.5,2,3,1,0,3,9.6,15,1,0,Lost,0
+L0789,Website,Web_Organic,Lucknow,Apartment,2,89.0,2,2,0,0,1,8.2,0,0,1,Nurturing,0
+L0790,Instagram,IG_Influencer_Tour,Ghaziabad,Villa,3,154.5,3,2,1,0,5,19.9,4,1,1,Lost,0
+L0791,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,2,83.5,3,1,2,0,2,8.7,8,0,0,Lost,0
+L0792,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,2,133.4,2,1,1,0,3,6.3,7,0,0,Lost,0
+L0793,Google Ads,GAds_Display_Remarketing,Pune,Apartment,3,60.9,3,0,3,0,3,2.9,5,0,1,Lost,0
+L0794,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,94.6,3,2,2,0,5,8.7,2,1,0,Lost,0
+L0795,Property Portal,Portal_Basic_Listing,,Builder Floor,3,294.6,3,5,0,0,4,5.2,7,1,0,Booked,1
+L0796,Google Ads,GAds_Search_Brand,Hyderabad,Villa,3,232.1,3,0,0,0,3,2.3,17,0,1,Lost,0
+L0797,Property Portal,Portal_Premium_Listing,Noida,Villa,3,150.9,0,1,1,0,2,5.0,10,1,1,New / Uncontacted,0
+L0798,Property Portal,Portal_Basic_Listing,Ghaziabad,Plot,0,54.0,3,0,2,0,2,6.2,4,1,1,Nurturing,0
+L0799,Website,Web_Chatbot,Hyderabad,Apartment,2,76.3,2,0,0,0,3,4.5,8,0,0,Nurturing,0
+L0800,Website,Web_Organic,Hyderabad,Apartment,3,55.3,3,0,1,1,4,6.8,1,1,1,Lost,0
+L0801,website,Web_Chatbot,Lucknow,Apartment,3,76.7,4,2,0,0,1,6.8,6,1,0,Booked,1
+L0802,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,127.5,4,1,3,0,7,6.0,0,0,0,Booked,1
+L0803,Referral,Ref_Broker_Network,Lucknow,Apartment,3,53.8,4,1,0,0,3,19.5,3,0,0,Lost,0
+L0804,Instagram,IG_Reels_Showcase,Bengaluru,Apartment,2,85.4,5,0,2,0,7,1.8,11,1,0,Booked,1
+L0805,Property Portal,Portal_Premium_Listing,Noida,Apartment,3,58.9,1,1,0,1,2,45.6,5,0,0,Negotiation,0
+L0806,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,78.3,0,0,0,0,1,8.7,9,0,0,Nurturing,0
+L0807,Website,Web_Chatbot,Pune,Villa,4,170.0,0,0,1,0,4,10.4,4,1,1,Booked,1
+L0808,Property Portal,Portal_Basic_Listing,Gurugram,Villa,4,176.9,3,0,0,0,3,6.9,3,0,1,Nurturing,0
+L0809,Instagram,IG_Lead_Form,Pune,Commercial,0,267.6,3,1,3,0,2,2.2,17,1,1,Lost,0
+L0810,Walk-in,Walkin_Sales_Office,Ghaziabad,Plot,0,55.0,0,3,0,0,3,3.0,20,0,0,Nurturing,0
+L0811,Property Portal,Portal_Basic_Listing,Hyderabad,Builder Floor,4,139.3,3,1,1,0,2,4.4,3,1,1,Nurturing,0
+L0812,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,2,132.8,5,0,1,0,4,,2,1,1,Lost,0
+L0813,Walk-in,Walkin_Sales_Office,Lucknow,Builder Floor,2,99.5,2,1,2,0,2,1.9,2,0,1,Booked,1
+L0814,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,2,84.4,1,0,2,0,4,3.6,6,0,0,Nurturing,0
+L0815,Property Portal,Portal_Featured_Project,Gurugram,Apartment,3,115.5,6,5,4,0,3,4.7,7,1,1,Booked,1
+L0816,Referral,Ref_Existing_Customer,Lucknow,Apartment,3,54.6,1,2,3,1,7,7.8,9,0,1,Lost,0
+L0817,Referral,Ref_Existing_Customer,Gurugram,Apartment,3,122.4,2,0,1,1,4,10.5,3,0,0,Booked,1
+L0818,Instagram,IG_Lead_Form,Bangalore,Apartment,3,109.9,1,0,0,0,2,2.7,0,0,0,Nurturing,0
+L0819,Instagram,IG_Influencer_Tour,Bengaluru,Villa,3,,1,1,1,0,3,1.6,2,1,0,Lost,0
+L0820,Property Portal,Portal_Featured_Project,Hyderabad,Plot,0,41.4,11,4,1,1,7,6.8,7,1,0,Booked,1
+L0821,Property Portal,Portal_Basic_Listing,Bengaluru,Plot,0,75.3,4,2,1,0,5,21.9,8,0,0,Nurturing,0
+L0822,Instagram,IG_Reels_Showcase,Hyderabad,Villa,4,201.1,5,2,5,0,2,3.8,11,1,1,Nurturing,0
+L0823,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,3,68.6,4,0,1,0,7,2.4,25,1,1,Booked,1
+L0824,Website,Web_Chatbot,Hyderabad,Apartment,2,107.5,12,1,2,0,5,2.9,1,1,0,Lost,0
+L0825,Referral,Ref_Broker_Network,Jaipur,Villa,4,201.9,8,5,1,1,4,6.0,3,1,1,Booked,1
+L0826,Property Portal,Portal_Basic_Listing,Lucknow,Builder Floor,2,184.1,3,1,1,0,4,4.7,8,0,0,New / Uncontacted,0
+L0827,Instagram,IG_Lead_Form,Jaipur,Apartment,2,52.3,3,1,2,0,6,19.7,11,0,0,Lost,0
+L0828,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,3,52.8,7,1,1,0,3,11.1,6,1,1,New / Uncontacted,0
+L0829,Referral,Ref_Broker_Network,Gurugram,Commercial,0,113.9,3,1,1,1,3,7.3,13,1,0,Negotiation,0
+L0830,Property Portal,Portal_Basic_Listing,Gurugram,Villa,5,271.1,4,2,3,1,5,0.8,1,1,1,Booked,1
+L0831,Instagram,IG_Influencer_Tour,Noida,Builder Floor,3,112.2,2,3,2,0,5,3.4,1,1,1,New / Uncontacted,0
+L0832,instagram,IG_Reels_Showcase,Lucknow,Villa,3,108.4,2,2,0,0,2,4.3,2,1,1,Booked,1
+L0833,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,3,84.7,4,2,1,0,3,3.7,14,0,0,Nurturing,0
+L0834,Website,Web_Organic,Pune,Builder Floor,3,54.7,4,0,1,1,1,9.5,3,1,0,Nurturing,0
+L0835,Website,Web_Brochure_Download,Jaipur,Apartment,2,83.0,3,1,3,1,3,6.2,3,1,1,Booked,1
+L0836,Instagram,IG_Lead_Form,Lucknow,Apartment,3,45.8,2,0,3,0,2,1.9,46,0,0,Lost,0
+L0837,Website,Web_Brochure_Download,Lucknow,Villa,3,142.3,7,3,2,1,5,8.7,9,0,1,Negotiation,0
+L0838,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,1,63.7,2,2,0,0,2,8.4,2,0,1,Nurturing,0
+L0839,Google Ads,GAds_Display_Remarketing,Bengaluru,Plot,0,58.3,2,0,0,0,2,7.7,1,0,0,Nurturing,0
+L0840,Insta,IG_Reels_Showcase,Gurugram,Apartment,2,95.2,6,2,3,0,3,8.2,3,1,0,Booked,1
+L0841,Property Portal,Portal_Premium_Listing,Pune,Villa,3,206.2,3,0,2,0,3,5.6,27,1,0,Booked,1
+L0842,Website,Web_Organic,Bengaluru,Villa,5,276.8,10,1,3,1,2,9.9,1,1,0,Booked,1
+L0843,Instagram,IG_Influencer_Tour,Jaipur,Villa,4,238.3,5,1,0,0,1,6.0,3,1,1,Nurturing,0
+L0844,Google Ads,GAds_Search_Generic,Bengaluru,Builder Floor,2,159.6,2,2,2,1,4,19.4,4,0,0,Nurturing,0
+L0845,Property Portal,Portal_Basic_Listing,Gurugram,Commercial,0,235.3,5,3,1,0,4,2.5,7,0,1,Lost,0
+L0846,Referral,Ref_Broker_Network,Hyderabad,Builder Floor,3,189.1,2,3,1,1,4,15.8,6,0,0,Booked,1
+L0847,Google Ads,GAds_Display_Remarketing,Pune,Villa,3,252.7,3,1,0,0,6,2.7,20,0,1,Lost,0
+L0848,Website,Web_Organic,Bengaluru,Villa,3,231.0,4,0,0,0,5,35.9,1,0,1,Nurturing,0
+L0849,Property Portal,Portal_Premium_Listing,Pune,Apartment,2,122.8,4,4,2,0,2,2.5,21,1,0,Nurturing,0
+L0850,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,3,141.9,2,5,1,0,3,9.0,1,0,1,Booked,1
+L0851,Property Portal,Portal_Featured_Project,,Apartment,2,112.9,5,4,4,1,4,3.9,3,0,0,Nurturing,0
+L0852,Property Portal,Portal_Basic_Listing,Lucknow,Apartment,3,36.1,9,1,2,1,2,6.5,1,1,0,Booked,1
+L0853,Referral,Ref_Existing_Customer,Bengaluru,Apartment,2,72.6,1,8,2,0,4,4.6,6,0,0,Nurturing,0
+L0854,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,3,88.6,1,0,1,0,2,3.9,2,0,0,Lost,0
+L0855,Property Portal,Portal_Premium_Listing,Lucknow,Builder Floor,4,99.8,7,2,3,1,3,0.3,4,0,0,Lost,0
+L0856,Google Ads,GAds_Search_Brand,,Apartment,2,89.3,2,0,1,0,2,51.5,7,0,0,Lost,0
+L0857,Website,Web_Organic,Ghaziabad,Plot,0,69.6,4,3,2,1,6,4.4,2,0,1,Lost,0
+L0858,Referral,Ref_Existing_Customer,Jaipur,Apartment,1,95.1,3,3,1,0,1,0.6,7,0,0,Nurturing,0
+L0859,Google Ads,GAds_Search_Generic,Noida,Villa,5,301.3,6,1,2,0,4,5.9,2,0,0,Nurturing,0
+L0860,Instagram,IG_Lead_Form,Gurugram,Apartment,2,160.1,3,1,1,0,3,12.4,3,0,0,New / Uncontacted,0
+L0861,Website,Web_Brochure_Download,Bengaluru,Builder Floor,3,85.9,2,2,2,0,2,2.9,8,1,0,Booked,1
+L0862,Website,Web_Brochure_Download,Ghaziabad,Apartment,1,75.5,1,6,2,0,6,3.6,1,1,1,Lost,0
+L0863,Website,Web_Chatbot,Ghaziabad,Villa,3,123.7,8,0,0,0,2,4.0,1,0,0,Nurturing,0
+L0864,Instagram,IG_Influencer_Tour,Gurugram,Apartment,3,59.0,1,2,2,1,3,,6,0,1,Nurturing,0
+L0865,Property Portal,Portal_Featured_Project,Lucknow,Commercial,0,86.8,2,0,1,0,5,5.1,1,1,0,Lost,0
+L0866,Referral,Ref_Broker_Network,Bengaluru,Apartment,4,155.0,0,0,0,1,1,33.2,11,0,0,Negotiation,0
+L0867,Referral,Ref_Broker_Network,Hyderabad,Builder Floor,2,133.9,2,1,0,0,4,15.2,5,1,0,New / Uncontacted,0
+L0868,Website,Web_Chatbot,Noida,Apartment,3,167.2,2,2,0,0,2,4.5,17,0,1,Lost,0
+L0869,Portal,Portal_Premium_Listing,Jaipur,Villa,4,153.2,1,1,2,0,2,1.6,20,0,1,Nurturing,0
+L0870,Property Portal,Portal_Basic_Listing,Lucknow,Builder Floor,2,179.0,4,1,2,0,2,3.9,5,0,1,Lost,0
+L0871,Website,Web_Organic,Pune,Apartment,2,91.8,5,0,1,0,4,10.0,8,1,1,Lost,0
+L0872,Property Portal,Portal_Featured_Project,Lucknow,Apartment,2,60.5,3,4,1,1,3,6.2,31,1,1,Lost,0
+L0873,Walk-in,Walkin_Site_Hoarding,Ghaziabad,Apartment,2,40.7,4,2,4,1,2,7.4,1,0,0,Booked,1
+L0874,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,88.5,3,0,0,0,2,21.2,2,0,1,Lost,0
+L0875,Website,Web_Organic,Jaipur,Commercial,0,80.5,1,3,1,1,2,7.9,7,1,0,Booked,1
+L0876,Referral,Ref_Broker_Network,Lucknow,Apartment,2,47.8,2,1,3,0,3,5.2,2,1,1,Booked,1
+L0877,Google Ads,GAds_Search_Brand,Lucknow,Apartment,2,94.0,3,0,4,0,2,11.4,3,1,1,Nurturing,0
+L0878,Google Ads,GAds_Search_Brand,Bengaluru,Commercial,0,234.0,2,1,0,1,4,33.0,15,1,0,Booked,1
+L0879,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,3,144.9,4,0,4,1,5,1.3,10,1,1,Booked,1
+L0880,Instagram,IG_Influencer_Tour,Ghaziabad,Apartment,3,56.2,2,2,6,1,3,6.8,4,0,0,Lost,0
+L0881,Google Ads,GAds_Search_Brand,Bengaluru,Villa,4,229.9,3,1,0,0,3,26.9,5,1,0,Nurturing,0
+L0882,Instagram,IG_Influencer_Tour,Bengaluru,Commercial,0,152.8,1,3,2,1,2,1.9,10,1,0,Negotiation,0
+L0883,Walk-in,Walkin_Site_Hoarding,Noida,Villa,4,260.4,3,6,1,1,1,10.8,3,0,0,Booked,1
+L0884,Google Ads,GAds_Search_Brand,Jaipur,Builder Floor,2,130.9,3,1,1,0,5,15.2,4,1,0,Nurturing,0
+L0885,Property Portal,Portal_Featured_Project,Gurugram,Commercial,0,191.1,1,0,1,0,3,2.2,5,0,0,Lost,0
+L0886,Google Ads,GAds_Search_Generic,Pune,Apartment,3,172.2,4,2,2,0,2,12.4,17,0,1,Lost,0
+L0887,Google Ads,GAds_Search_Brand,Gurugram,Commercial,0,,3,5,1,0,2,3.9,2,1,0,Lost,0
+L0888,Property Portal,Portal_Premium_Listing,Pune,Plot,0,58.3,3,3,1,0,3,5.8,15,0,0,Lost,0
+L0889,Property Portal,Portal_Premium_Listing,Gurugram,Commercial,0,224.5,1,0,0,0,4,6.0,14,0,1,Lost,0
+L0890,Website,Web_Organic,Jaipur,Apartment,2,109.0,1,0,1,0,2,26.1,6,0,0,Nurturing,0
+L0891,Google Ads,GAds_Search_Generic,Hyderabad,Apartment,2,181.1,6,2,1,1,3,4.5,5,1,0,Nurturing,0
+L0892,Walk-in,Walkin_Sales_Office,Ghaziabad,Villa,3,231.8,1,1,1,0,2,4.7,25,0,1,Lost,0
+L0893,Property Portal,Portal_Premium_Listing,Bengaluru,Builder Floor,3,124.6,4,1,2,0,1,3.9,1,0,1,Lost,0
+L0894,Property Portal,Portal_Premium_Listing,Hyderabad,Builder Floor,3,105.7,5,5,1,1,2,3.4,3,0,0,Negotiation,0
+L0895,Website,Web_Organic,Bengaluru,Commercial,0,190.8,1,1,1,0,2,3.5,13,1,1,New / Uncontacted,0
+L0896,Referral,Ref_Broker_Network,Noida,Villa,3,355.7,0,2,3,1,3,4.2,10,0,1,Booked,1
+L0897,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,3,113.5,2,0,2,0,3,,4,1,0,Nurturing,0
+L0898,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,96.7,4,2,3,1,2,7.5,0,1,0,Booked,1
+L0899,Portal,Portal_Featured_Project,Ghaziabad,Apartment,2,64.9,1,3,2,0,3,11.5,16,0,0,Nurturing,0
+L0900,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,3,86.9,2,2,0,0,5,10.1,21,1,1,Nurturing,0
+L0901,Google Ads,GAds_Search_Generic,Pune,Apartment,2,81.5,2,2,0,1,3,,3,1,1,Lost,0
+L0902,Property Portal,Portal_Premium_Listing,Jaipur,Plot,0,46.1,2,4,4,0,4,2.1,2,0,0,New / Uncontacted,0
+L0903,Property Portal,Portal_Featured_Project,Ghaziabad,Villa,5,279.2,1,1,2,1,1,8.0,3,0,1,Lost,0
+L0904,Google Ads,GAds_Search_Brand,Bengaluru,Builder Floor,2,113.6,1,1,2,1,3,5.7,5,0,0,Nurturing,0
+L0905,Walk-in,Walkin_Sales_Office,Pune,Apartment,2,87.9,1,0,0,1,3,5.1,2,1,0,Booked,1
+L0906,Instagram,IG_Reels_Showcase,Lucknow,Villa,4,106.4,2,0,3,1,2,6.8,4,1,1,Lost,0
+L0907,Google Ads,GAds_Search_Brand,Hyderabad,Plot,0,84.8,5,2,5,1,3,7.9,1,1,0,Booked,1
+L0908,Property Portal,Portal_Premium_Listing,Gurugram,Plot,0,124.2,3,1,3,0,3,6.5,0,1,0,Nurturing,0
+L0909,Property Portal,Portal_Premium_Listing,Gurugram,Builder Floor,2,234.8,6,1,0,0,4,6.7,3,0,0,Nurturing,0
+L0910,Google Ads,GAds_Display_Remarketing,Pune,Plot,0,67.9,7,1,2,1,2,2.5,1,1,0,Booked,1
+L0911,Website,Web_Brochure_Download,Hyderabad,Builder Floor,3,139.4,4,1,2,1,4,2.7,2,1,1,Negotiation,0
+L0912,Referral,Ref_Existing_Customer,Gurugram,Builder Floor,3,126.0,1,1,1,1,3,11.3,14,0,0,Nurturing,0
+L0913,Referral,Ref_Broker_Network,Gurugram,Plot,0,92.6,1,0,2,0,2,6.2,5,1,0,Booked,1
+L0914,Walk-in,Walkin_Sales_Office,Noida,Apartment,2,92.1,1,1,1,1,3,2.1,12,1,0,Booked,1
+L0915,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,3,99.5,1,3,1,1,4,14.5,1,1,1,Booked,1
+L0916,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,4,110.2,2,2,2,0,1,3.8,20,0,0,Nurturing,0
+L0917,Property Portal,Portal_Featured_Project,Lucknow,Builder Floor,3,89.0,2,4,2,1,4,6.8,18,0,0,Nurturing,0
+L0918,Property Portal,Portal_Featured_Project,Hyderabad,Builder Floor,3,102.8,5,0,0,0,3,12.6,5,0,1,Nurturing,0
+L0919,Google Ads,GAds_Search_Brand,Noida,Villa,3,181.9,1,1,1,0,5,5.2,0,1,1,Nurturing,0
+L0920,Instagram,IG_Reels_Showcase,Jaipur,Apartment,2,109.1,3,4,5,1,4,0.8,8,0,1,Nurturing,0
+L0921,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,3,154.9,1,1,0,0,4,12.4,4,0,0,Nurturing,0
+L0922,Referral,Ref_Existing_Customer,Bengaluru,Plot,0,46.9,3,2,1,0,4,15.9,2,1,1,Lost,0
+L0923,Instagram,IG_Influencer_Tour,Ghaziabad,Apartment,3,41.0,1,2,2,0,5,11.4,23,0,0,Nurturing,0
+L0924,Instagram,IG_Lead_Form,Lucknow,Commercial,0,68.7,2,3,3,0,2,1.0,0,0,1,Booked,1
+L0925,Property Portal,Portal_Featured_Project,Noida,Apartment,3,79.6,1,0,0,0,5,36.3,7,0,1,Lost,0
+L0926,Property Portal,Portal_Basic_Listing,Bengaluru,Builder Floor,4,169.0,1,0,1,0,2,2.5,8,0,1,Nurturing,0
+L0927,Property Portal,Portal_Premium_Listing,Bengaluru,Builder Floor,2,151.9,1,0,2,0,7,3.1,3,0,1,Lost,0
+L0928,Referral,Ref_Existing_Customer,Noida,Plot,0,64.3,2,1,1,0,3,12.8,3,1,1,Nurturing,0
+L0929,Instagram,IG_Lead_Form,Ghaziabad,Apartment,3,76.7,6,1,2,0,5,8.6,0,0,1,Lost,0
+L0930,Website,Web_Chatbot,Hyderabad,Commercial,0,113.0,4,2,3,0,3,6.2,2,1,0,Booked,1
+L0931,Google ads ,GAds_Search_Generic,Noida,Builder Floor,2,95.9,2,1,1,0,1,4.0,1,0,0,Nurturing,0
+L0932,Google Ads,GAds_Display_Remarketing,Gurugram,Builder Floor,2,132.1,0,2,1,0,4,19.3,1,0,0,Lost,0
+L0933,Google Ads,GAds_Search_Brand,Jaipur,Builder Floor,3,43.7,3,0,0,0,1,6.3,1,1,1,New / Uncontacted,0
+L0934,Website,Web_Chatbot,Ghaziabad,Apartment,2,42.5,6,4,3,1,4,0.9,1,0,1,Booked,1
+L0935,Website,Web_Organic,Gurugram,Builder Floor,4,89.8,2,1,2,0,1,19.5,2,0,1,Lost,0
+L0936,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,2,78.4,3,0,1,0,6,8.2,3,1,0,Booked,1
+L0937,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,3,114.4,7,7,3,1,6,6.4,1,0,0,Booked,1
+L0938,Property Portal,Portal_Premium_Listing,Jaipur,Villa,4,178.3,1,2,1,0,2,8.5,9,0,0,Nurturing,0
+L0939,Referral,Ref_Broker_Network,Pune,Builder Floor,3,57.4,3,2,1,1,3,57.4,4,0,0,Lost,0
+L0940,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,4,35.7,2,4,2,0,5,3.8,3,0,1,Nurturing,0
+L0941,Property Portal,Portal_Featured_Project,Noida,Apartment,2,104.1,0,2,2,0,2,7.6,16,1,1,Lost,0
+L0942,Referral,Ref_Existing_Customer,Bengaluru,Apartment,2,36.9,9,1,2,0,5,8.5,1,1,0,Booked,1
+L0943,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,2,161.2,2,1,1,1,3,5.0,2,0,1,Booked,1
+L0944,Google Ads,GAds_Search_Generic,Bengaluru,Builder Floor,2,65.2,3,2,1,0,1,12.7,0,0,1,Nurturing,0
+L0945,Google Ads,GAds_Search_Generic,Ghaziabad,Apartment,3,85.6,2,1,6,1,2,0.4,1,0,1,Lost,0
+L0946,Property Portal,Portal_Basic_Listing,Bengaluru,Plot,0,52.4,5,1,1,1,1,4.9,1,0,0,Lost,0
+L0947,Website,Web_Brochure_Download,Gurugram,Apartment,2,151.6,4,2,2,0,3,4.3,19,0,0,Lost,0
+L0948,Referral,Ref_Existing_Customer,Gurugram,Apartment,2,322.7,1,2,0,0,4,4.8,6,1,1,Nurturing,0
+L0949,Referral,Ref_Existing_Customer,Lucknow,Plot,0,19.9,0,1,2,0,1,3.3,2,0,1,Lost,0
+L0950,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,105.2,6,1,2,0,1,10.6,3,0,0,New / Uncontacted,0
+L0951,Instagram,IG_Reels_Showcase,Gurugram,Apartment,2,55.8,2,2,3,0,6,3.0,0,1,1,Lost,0
+L0952,Property Portal,Portal_Basic_Listing,Pune,Commercial,0,160.2,1,1,1,0,6,6.8,17,0,1,Nurturing,0
+L0953,Property Portal,Portal_Premium_Listing,Bengaluru,Commercial,0,145.1,1,3,2,0,5,3.7,11,0,0,Lost,0
+L0954,Property Portal,Portal_Basic_Listing,Noida,Villa,4,207.2,6,3,2,1,4,7.2,8,0,1,Lost,0
+L0955,Walk-in,Walkin_Site_Hoarding,Hyderabad,Apartment,2,65.4,2,0,0,0,3,17.9,0,0,1,Booked,1
+L0956,Referral,Ref_Existing_Customer,Bengaluru,builder floor ,3,162.3,2,4,2,1,3,6.6,3,0,0,Negotiation,0
+L0957,Website,Web_Organic,Bengaluru,Commercial,0,94.0,1,4,3,1,2,11.4,8,0,0,Negotiation,0
+L0958,Instagram,IG_Influencer_Tour,Pune,Commercial,0,213.1,0,1,0,0,3,9.2,9,0,0,Nurturing,0
+L0959,Google Ads,GAds_Search_Brand,Pune,Apartment,3,74.7,5,0,1,0,2,4.1,1,0,1,Nurturing,0
+L0960,Instagram,IG_Lead_Form,Jaipur,Apartment,3,36.7,2,2,2,0,1,5.1,2,0,1,Lost,0
+L0961,Instagram,IG_Influencer_Tour,Pune,Apartment,2,150.7,5,1,2,0,2,5.3,0,0,0,New / Uncontacted,0
+L0962,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,3,87.9,0,0,1,0,4,8.7,33,0,1,Nurturing,0
+L0963,Property Portal,Portal_Premium_Listing,Noida,Villa,3,386.0,0,2,3,0,4,6.5,12,1,1,New / Uncontacted,0
+L0964,Property Portal,Portal_Basic_Listing,Ghaziabad,Apartment,2,97.8,3,0,3,1,1,2.6,17,0,1,Booked,1
+L0965,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,62.4,2,1,1,1,8,4.3,1,0,1,Negotiation,0
+L0966,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,3,87.4,5,1,3,0,1,1.7,15,1,0,Lost,0
+L0967,Walk-in,Walkin_Site_Hoarding,Lucknow,Builder Floor,2,79.3,1,1,1,0,4,7.3,9,1,1,Nurturing,0
+L0968,Property Portal,Portal_Premium_Listing,Pune,Apartment,3,147.2,5,1,1,1,5,3.8,16,0,0,Negotiation,0
+L0969,Instagram,IG_Lead_Form,Bengaluru,Apartment,1,113.6,3,3,1,1,4,26.4,3,1,1,Booked,1
+L0970,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,3,95.7,2,0,1,1,2,18.0,14,1,0,Lost,0
+L0971,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,123.1,0,1,1,0,2,2.9,11,0,0,Lost,0
+L0972,Property Portal,Portal_Premium_Listing,Bengaluru,Apartment,4,95.8,1,2,0,0,2,8.0,17,1,1,Nurturing,0
+L0973,Property Portal,Portal_Premium_Listing,Hyderabad,Builder Floor,3,180.0,7,1,4,1,4,4.9,6,1,0,Booked,1
+L0974,Walk-in,Walkin_Site_Hoarding,Noida,Apartment,3,82.6,0,5,1,1,5,3.5,6,0,0,Lost,0
+L0975,Google Ads,GAds_Display_Remarketing,Bengaluru,Apartment,3,84.9,2,2,2,0,3,4.7,6,1,1,Lost,0
+L0976,Instagram,IG_Lead_Form,Ghaziabad,Apartment,3,52.3,3,1,1,0,4,4.6,5,0,0,Nurturing,0
+L0977,Google Ads,GAds_Search_Generic,Pune,Apartment,3,71.1,2,0,1,0,4,23.0,9,1,0,New / Uncontacted,0
+L0978,Google Ads,GAds_Search_Generic,Jaipur,Apartment,3,36.7,4,0,2,1,2,4.2,2,0,0,Nurturing,0
+L0979,Instagram,IG_Influencer_Tour,Gurugram,Builder Floor,2,102.3,2,1,2,0,4,8.3,11,0,1,New / Uncontacted,0
+L0980,Property Portal,Portal_Featured_Project,Noida,Villa,4,334.5,4,1,1,0,6,0.7,3,0,1,Booked,1
+L0981,Walk-in,Walkin_Site_Hoarding,Noida,Apartment,2,76.7,0,0,2,1,3,12.9,24,0,1,Lost,0
+L0982,Referral,Ref_Broker_Network,Noida,Apartment,4,105.6,6,1,3,1,4,14.5,15,0,1,Lost,0
+L0983,Website,Web_Chatbot,Pune,Builder Floor,2,45.9,2,0,2,0,8,2.5,2,0,1,Lost,0
+L0984,Google Ads,GAds_Display_Remarketing,Ghaziabad,Apartment,2,77.8,8,0,2,0,5,3.4,6,0,0,Lost,0
+L0985,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,99.2,1,2,1,0,3,10.1,1,1,1,Nurturing,0
+L0986,Walk-in,Walkin_Sales_Office,Pune,Apartment,2,72.9,2,3,4,0,3,5.1,5,0,1,Booked,1
+L0987,Google Ads,GAds_Display_Remarketing,Pune,Apartment,2,91.9,2,0,1,0,1,10.9,1,0,1,Lost,0
+L0988,Property Portal,Portal_Basic_Listing,Jaipur,Builder Floor,3,63.9,4,0,2,0,1,5.5,1,0,1,Lost,0
+L0989,Google Ads,GAds_Search_Brand,Hyderabad,Commercial,0,68.5,2,1,1,0,3,30.4,21,1,0,Nurturing,0
+L0990,Website,Web_Chatbot,GHAZIABAD,Commercial,0,140.9,3,1,1,0,1,4.6,3,0,0,Nurturing,0
+L0991,Instagram,IG_Reels_Showcase,Bengaluru,Commercial,0,169.8,3,0,1,1,2,40.1,2,1,1,Nurturing,0
+L0992,Website,Web_Brochure_Download,Noida,Apartment,2,,2,0,1,0,4,20.6,13,0,1,Nurturing,0
+L0993,Website,Web_Chatbot,Pune,Apartment,2,61.5,2,0,2,0,1,13.9,1,0,1,New / Uncontacted,0
+L0994,Property Portal,Portal_Premium_Listing,Hyderabad,Apartment,2,53.8,3,1,0,1,4,1.9,4,1,0,Negotiation,0
+L0995,Walk-in,Walkin_Sales_Office,Bengaluru,Apartment,2,105.4,0,1,0,0,2,14.3,6,0,1,Booked,1
+L0996,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,2,,4,3,2,0,1,,1,0,1,New / Uncontacted,0
+L0997,Instagram,IG_Lead_Form,Pune,Apartment,1,92.6,1,0,1,0,3,1.4,13,0,1,New / Uncontacted,0
+L0998,Property Portal,Portal_Basic_Listing,Ghaziabad,Apartment,2,39.3,3,3,3,1,2,1.6,10,0,1,Booked,1
+L0999,Walk-in,Walkin_Sales_Office,Pune,Apartment,2,93.3,3,1,2,1,4,6.5,4,1,1,Booked,1
+L1000,Google Ads,GAds_Display_Remarketing,Bengaluru,Apartment,1,95.7,5,1,4,0,5,4.5,8,1,0,Booked,1
+L1001,Property Portal,Portal_Basic_Listing,Hyderabad,Villa,4,292.3,2,0,3,0,4,3.5,15,0,1,New / Uncontacted,0
+L1002,Google Ads,GAds_Display_Remarketing,Lucknow,Apartment,3,74.2,6,3,3,1,4,14.0,10,0,1,Booked,1
+L1003,Property Portal,Portal_Premium_Listing,Noida,Plot,0,21.3,3,3,0,1,5,3.4,10,1,1,Booked,1
+L1004,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,1,72.6,2,0,2,0,3,5.1,3,0,1,Lost,0
+L1005,Instagram,IG_Lead_Form,Noida,Builder Floor,3,73.6,6,3,6,0,4,2.6,4,1,0,Nurturing,0
+L1006,Google Ads,GAds_Search_Generic,Gurugram,Apartment,3,63.8,5,0,5,1,1,7.5,4,0,0,Lost,0
+L1007,Walk-in,Walkin_Sales_Office,Ghaziabad,Builder Floor,3,75.6,0,0,0,0,3,1.8,2,1,0,Booked,1
+L1008,Google Ads,GAds_Search_Generic,Pune,Apartment,2,99.6,6,2,1,0,5,4.0,5,0,0,Lost,0
+L1009,Website,Web_Brochure_Download,Gurugram,Apartment,2,59.1,4,0,1,1,3,1.6,4,0,0,Nurturing,0
+L1010,google ads,GAds_Search_Generic,Noida,Builder Floor,2,133.7,1,0,0,0,5,6.2,6,0,0,Lost,0
+L1011,Instagram,IG_Reels_Showcase,Noida,Apartment,3,107.8,4,1,2,0,2,10.2,2,0,0,Nurturing,0
+L1012,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,4,99.1,5,1,0,0,2,12.0,17,0,0,Nurturing,0
+L1013,Google Ads,GAds_Search_Brand,Pune,Commercial,0,101.9,2,0,1,0,2,4.3,21,0,0,Lost,0
+L1014,Walk-in,Walkin_Sales_Office,Noida,Apartment,4,58.6,1,1,1,0,2,13.3,18,0,0,New / Uncontacted,0
+L1015,Google Ads,GAds_Search_Generic,Noida,Builder Floor,2,149.6,1,0,0,0,3,7.6,1,0,1,Nurturing,0
+L1016,Property Portal,Portal_Featured_Project,Jaipur,Builder Floor,3,44.8,6,1,2,0,2,19.6,9,0,0,Nurturing,0
+L1017,Website,Web_Brochure_Download,Gurugram,Apartment,2,,2,0,3,0,1,,1,1,1,Lost,0
+L1018,Referral,Ref_Broker_Network,Jaipur,Apartment,2,56.6,2,0,0,0,4,0.7,1,0,0,New / Uncontacted,0
+L1019,Property Portal,Portal_Premium_Listing,Lucknow,Apartment,2,58.0,3,1,0,0,3,10.4,11,1,0,Lost,0
+L1020,Google Ads,GAds_Search_Brand,Hyderabad,Villa,4,118.8,1,2,3,1,1,4.2,1,0,0,Negotiation,0
+L1021,Referral,Ref_Broker_Network,Gurugram,Apartment,2,,6,2,0,0,2,4.2,2,1,0,Booked,1
+L1022,Website,Web_Chatbot,Pune,Apartment,4,106.9,3,0,2,0,3,8.2,1,0,0,Lost,0
+L1023,Walk-in,Walkin_Site_Hoarding,Noida,Apartment,2,51.7,0,2,1,0,1,2.3,19,0,0,Booked,1
+L1024,Instagram,IG_Lead_Form,Hyderabad,Commercial,0,171.5,3,1,2,1,5,6.2,3,0,1,Lost,0
+L1025,Instagram,IG_Lead_Form,Hyderabad,Plot,0,68.1,3,0,4,0,3,12.6,24,0,1,Lost,0
+L1026,Google Ads,GAds_Display_Remarketing,Pune,Commercial,0,110.2,9,0,2,0,3,7.0,6,1,1,Nurturing,0
+L1027,Walk-in,Walkin_Sales_Office,Lucknow,Villa,3,194.2,1,1,1,0,4,,8,0,1,New / Uncontacted,0
+L1028,Google Ads,GAds_Display_Remarketing,Gurugram,Villa,5,116.6,2,1,2,0,3,10.5,8,1,1,Nurturing,0
+L1029,Website,Web_Chatbot,Bengaluru,Builder Floor,3,139.4,3,1,2,0,2,2.9,3,0,0,Nurturing,0
+L1030,Google Ads,GAds_Search_Brand,Pune,Commercial,0,243.2,6,2,1,0,6,2.8,17,1,0,Lost,0
+L1031,Instagram,IG_Reels_Showcase,Gurugram,Builder Floor,3,220.2,2,2,2,0,2,7.1,7,0,1,New / Uncontacted,0
+L1032,Website,Web_Chatbot,Lucknow,Apartment,3,68.8,2,1,1,0,2,9.0,7,0,0,Lost,0
+L1033,Instagram,IG_Reels_Showcase,Lucknow,Villa,3,129.6,2,0,0,0,3,4.2,1,0,1,New / Uncontacted,0
+L1034,Referral,Ref_Existing_Customer,Bengaluru,Builder Floor,2,98.9,4,5,4,1,3,12.0,24,0,0,Negotiation,0
+L1035,Google Ads,GAds_Search_Brand,,Apartment,2,77.6,1,2,1,1,2,5.0,2,1,0,Lost,0
+L1036,Instagram,IG_Lead_Form,Pune,Apartment,2,104.3,0,0,0,0,3,6.3,1,0,0,Lost,0
+L1037,Google Ads,GAds_Search_Brand,Pune,Apartment,3,65.0,3,3,1,0,2,4.7,4,1,1,Nurturing,0
+L1038,Google Ads,GAds_Search_Generic,Gurugram,Plot,0,100.4,4,0,3,0,3,11.6,10,0,1,New / Uncontacted,0
+L1039,Google Ads,GAds_Display_Remarketing,Ghaziabad,Apartment,2,134.5,5,0,0,1,2,5.5,1,1,1,Nurturing,0
+L1040,Property Portal,Portal_Basic_Listing,Noida,Plot,0,59.2,2,2,1,0,6,1.8,18,0,0,New / Uncontacted,0
+L1041,Property Portal,Portal_Basic_Listing,Bengaluru,Apartment,3,60.9,3,2,2,0,6,12.9,6,1,0,New / Uncontacted,0
+L1042,Website,Web_Organic,Lucknow,Villa,4,89.9,1,2,0,0,1,11.9,31,0,0,Lost,0
+L1043,Instagram,IG_Lead_Form,Lucknow,Apartment,2,78.7,4,0,1,0,3,13.7,1,0,0,Nurturing,0
+L1044,Website,Web_Organic,Gurugram,Commercial,0,164.5,5,1,3,0,4,3.9,9,0,1,Nurturing,0
+L1045,Property Portal,Portal_Basic_Listing,Gurugram,Builder Floor,2,180.8,5,1,1,0,2,1.9,4,0,0,Lost,0
+L1046,Google Ads,GAds_Display_Remarketing,Jaipur,Apartment,2,49.8,1,3,2,0,4,0.9,19,0,0,Nurturing,0
+L1047,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,3,140.4,6,6,6,1,5,2.2,4,0,1,Booked,1
+L1048,Website,Web_Brochure_Download,Noida,Apartment,3,78.1,1,2,0,0,2,10.3,6,1,0,Lost,0
+L1049,Referral,Ref_Broker_Network,Bengaluru,Apartment,3,75.5,0,0,1,0,4,21.6,7,0,1,Nurturing,0
+L1050,Property Portal,Portal_Featured_Project,Ghaziabad,Villa,4,133.0,1,0,1,0,3,8.6,10,1,1,Nurturing,0
+L1051,Website,Web_Brochure_Download,Ghaziabad,Commercial,0,67.1,2,0,1,0,1,3.3,11,1,1,Nurturing,0
+L1052,Property Portal,Portal_Premium_Listing,Lucknow,Villa,3,288.9,4,3,1,1,5,3.3,7,0,0,Nurturing,0
+L1053,Property Portal,Portal_Featured_Project,Bengaluru,Builder Floor,3,119.4,6,1,0,0,3,17.4,2,1,0,Booked,1
+L1054,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,2,,2,1,0,0,3,2.3,11,1,1,Nurturing,0
+L1055,google ads,GAds_Display_Remarketing,Bengaluru,Plot,0,59.3,4,3,3,1,2,21.2,2,1,0,Booked,1
+L1056,Website,Web_Chatbot,Hyderabad,Plot,0,45.7,1,0,1,0,4,32.2,18,0,0,Lost,0
+L1057,Walk-in,Walkin_Site_Hoarding,Pune,Apartment,3,79.5,5,3,1,1,7,23.4,5,0,0,Negotiation,0
+L1058,Portal,Portal_Premium_Listing,Lucknow,Commercial,0,141.1,3,0,1,0,4,10.6,1,1,0,Lost,0
+L1059,Instagram,IG_Influencer_Tour,Bengaluru,Apartment,2,81.3,2,2,4,1,5,4.5,14,0,0,Nurturing,0
+L1060,Website,Web_Brochure_Download,Lucknow,Plot,0,32.4,3,3,2,0,4,5.9,10,0,1,Nurturing,0
+L1061,Walk-in,Walkin_Sales_Office,Lucknow,Commercial,0,101.4,2,7,0,1,1,9.4,1,0,0,Booked,1
+L1062,Instagram,IG_Influencer_Tour,Jaipur,Villa,3,171.5,0,1,1,1,3,4.0,5,1,1,Nurturing,0
+L1063,Property Portal,Portal_Basic_Listing,GHAZIABAD,Apartment,3,113.3,2,3,2,1,5,2.2,7,1,1,Lost,0
+L1064,Instagram,IG_Reels_Showcase,Noida,Builder Floor,3,118.3,6,0,2,0,2,4.3,16,0,1,Lost,0
+L1065,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,75.2,1,1,1,0,2,3.7,14,1,0,Nurturing,0
+L1066,Walk-in,Walkin_Site_Hoarding,Noida,Plot,0,77.8,1,1,1,0,1,13.9,45,0,0,Lost,0
+L1067,Google Ads,GAds_Search_Generic,Lucknow,Apartment,2,40.1,3,4,3,0,5,2.3,2,1,1,Lost,0
+L1068,Website,Web_Organic,Jaipur,Villa,5,102.8,4,3,0,0,5,5.8,16,0,0,Lost,0
+L1069,Property Portal,Portal_Featured_Project,Hyderabad,Commercial,0,,3,3,2,1,5,11.4,2,0,1,Nurturing,0
+L1070,Google Ads,GAds_Display_Remarketing,Noida,Apartment,3,51.8,8,4,2,0,4,14.1,3,0,0,Nurturing,0
+L1071,Referral,Ref_Existing_Customer,Pune,Apartment,3,113.9,6,3,0,1,3,10.2,4,0,1,Nurturing,0
+L1072,Instagram,IG_Influencer_Tour,Lucknow,Villa,4,159.4,4,2,3,0,4,7.3,1,1,0,Nurturing,0
+L1073,Google Ads,GAds_Display_Remarketing,Noida,Apartment,3,84.8,5,0,1,0,1,3.4,5,0,0,Nurturing,0
+L1074,Walk-in,Walkin_Site_Hoarding,Gurugram,Apartment,3,42.4,0,2,5,0,3,15.8,13,0,1,Booked,1
+L1075,Referral,Ref_Existing_Customer,Noida,Apartment,2,169.4,10,3,0,1,5,9.6,4,0,0,Booked,1
+L1076,Google Ads,GAds_Search_Brand,Gurgaon,Apartment,2,76.8,2,1,1,0,5,1.4,10,0,0,Lost,0
+L1077,Instagram,IG_Lead_Form,Gurugram,Villa,4,516.8,3,1,1,0,2,29.6,14,0,0,New / Uncontacted,0
+L1078,Google Ads,GAds_Search_Generic,Ghaziabad,Builder Floor,2,48.6,6,4,6,1,2,2.6,2,0,0,Booked,1
+L1079,Instagram,IG_Lead_Form,Jaipur,Apartment,1,45.2,2,0,1,0,2,12.2,13,1,0,Nurturing,0
+L1080,Google Ads,GAds_Display_Remarketing,Noida,Apartment,3,38.2,2,1,5,0,2,7.1,16,1,1,Nurturing,0
+L1081,Property Portal,Portal_Basic_Listing,Noida,Apartment,1,93.6,3,3,3,0,2,4.2,16,1,1,Nurturing,0
+L1082,Walk-in,Walkin_Sales_Office,Noida,Apartment,3,56.1,1,1,0,0,1,5.0,2,0,0,Lost,0
+L1083,Walk-in,Walkin_Site_Hoarding,Jaipur,villa ,4,98.9,1,1,0,0,3,4.0,21,0,0,Nurturing,0
+L1084,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,2,39.4,3,3,3,1,4,8.0,18,0,0,Lost,0
+L1085,walk in,Walkin_Sales_Office,Jaipur,Builder Floor,4,99.8,0,4,2,0,4,5.3,8,0,0,New / Uncontacted,0
+L1086,Website,Web_Organic,Gurugram,Commercial,0,215.5,5,3,1,0,8,1.4,5,1,0,Nurturing,0
+L1087,Website,Web_Brochure_Download,Noida,Builder Floor,2,197.0,1,1,1,1,1,3.1,2,1,1,Lost,0
+L1088,Website,Web_Chatbot,Hyderabad,Builder Floor,4,89.7,2,1,2,1,2,1.6,8,1,1,Nurturing,0
+L1089,Google Ads,GAds_Search_Generic,Noida,Apartment,3,89.1,7,2,2,0,4,2.5,7,1,1,Nurturing,0
+L1090,Google Ads,GAds_Display_Remarketing,Noida,Apartment,2,52.5,0,0,1,1,4,10.9,4,0,1,Lost,0
+L1091,Property Portal,Portal_Premium_Listing,Noida,Apartment,2,73.4,4,2,0,1,5,3.6,12,1,0,Booked,1
+L1092,Instagram,IG_Lead_Form,Hyderabad,Plot,0,55.0,2,1,1,0,3,11.9,5,0,0,Lost,0
+L1093,Google Ads,GAds_Search_Generic,Pune,Plot,0,74.4,1,1,1,0,4,6.8,6,0,1,New / Uncontacted,0
+L1094,Property Portal,Portal_Basic_Listing,Pune,Apartment,2,123.1,4,1,1,0,5,4.4,6,0,0,Lost,0
+L1095,Instagram,IG_Influencer_Tour,Hyderabad,Apartment,2,127.3,1,1,0,0,3,6.4,3,1,1,Lost,0
+L1096,Google Ads,GAds_Search_Generic,Noida,Apartment,2,61.4,1,2,2,0,4,19.5,15,0,0,Lost,0
+L1097,Property Portal,Portal_Premium_Listing,Hyderabad,Builder Floor,4,161.7,4,1,0,0,4,2.0,1,1,0,Nurturing,0
+L1098,Referral,Ref_Existing_Customer,Gurugram,Villa,3,248.1,2,1,0,0,5,22.2,4,1,1,Nurturing,0
+L1099,Referral,Ref_Existing_Customer,Pune,Villa,4,184.8,5,1,0,0,3,12.4,4,0,0,Nurturing,0
+L1100,Property Portal,Portal_Featured_Project,Lucknow,Commercial,0,74.9,3,2,1,1,4,6.8,20,0,1,Negotiation,0
+L1101,Property Portal,Portal_Premium_Listing,Ghaziabad,Apartment,2,52.4,3,1,0,0,3,,18,0,1,Lost,0
+L1102,Google Ads,GAds_Search_Generic,Hyderabad,Villa,5,397.5,2,0,3,0,3,4.8,0,0,0,Lost,0
+L1103,Website,Web_Organic,Noida,Builder Floor,2,116.4,2,2,1,1,2,7.6,2,1,0,Booked,1
+L1104,Referral,Ref_Existing_Customer,Hyderabad,Apartment,2,95.7,2,1,2,0,2,4.3,19,0,0,Lost,0
+L1105,Property Portal,Portal_Premium_Listing,Ghaziabad,Commercial,0,93.1,4,1,3,0,2,12.0,2,1,0,Lost,0
+L1106,Website,Web_Chatbot,Pune,Apartment,3,203.0,0,0,0,0,3,5.4,1,0,0,Lost,0
+L1107,Property Portal,Portal_Basic_Listing,Hyderabad,Villa,3,341.1,3,2,0,1,2,6.9,2,0,0,Nurturing,0
+L1108,Google Ads,GAds_Display_Remarketing,Noida,Villa,4,153.8,3,1,1,0,1,11.1,17,1,1,Nurturing,0
+L1109,Walk-in,Walkin_Sales_Office,Hyderabad,Commercial,0,130.8,3,2,0,0,3,17.2,2,0,1,Lost,0
+L1110,Property Portal,Portal_Featured_Project,Jaipur,Builder Floor,2,70.5,3,3,6,0,3,2.1,4,1,0,Booked,1
+L1111,Property Portal,Portal_Basic_Listing,Pune,Apartment,3,90.8,3,1,0,0,4,10.9,1,0,0,New / Uncontacted,0
+L1112,Google Ads,GAds_Search_Generic,Noida,Plot,0,47.3,1,0,1,1,2,2.6,4,1,1,Negotiation,0
+L1113,Instagram,IG_Reels_Showcase,Jaipur,Plot,0,51.3,3,0,2,0,3,1.2,18,0,1,Nurturing,0
+L1114,Walk-in,Walkin_Sales_Office,Pune,Builder Floor,3,181.6,3,2,4,0,3,3.3,17,1,1,Booked,1
+L1115,Walk-in,Walkin_Sales_Office,Lucknow,Plot,0,27.8,3,0,0,0,2,15.9,2,0,1,New / Uncontacted,0
+L1116,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,55.6,1,0,0,1,1,6.2,1,1,0,Negotiation,0
+L1117,property portal,Portal_Premium_Listing,Gurugram,Builder Floor,2,112.3,2,1,1,0,1,4.9,5,0,0,Lost,0
+L1118,Website,Web_Chatbot,Bengaluru,Plot,0,61.4,2,1,1,0,1,6.7,4,0,0,Nurturing,0
+L1119,Property Portal,Portal_Basic_Listing,Noida,Apartment,2,166.0,1,1,0,0,3,11.6,13,0,0,Lost,0
+L1120,Referral,Ref_Broker_Network,Pune,Builder Floor,2,155.1,0,1,1,0,3,13.1,7,1,0,Nurturing,0
+L1121,Website,Web_Chatbot,Hyderabad,Commercial,0,200.4,5,2,5,1,6,1.1,0,1,1,Booked,1
+L1122,Property Portal,Portal_Premium_Listing,Noida,Plot,0,55.2,4,1,2,1,3,4.5,22,0,0,Negotiation,0
+L1123,Referral,Ref_Broker_Network,Noida,Plot,0,54.7,1,6,1,1,2,4.8,2,0,0,Booked,1
+L1124,Property Portal,Portal_Premium_Listing,Pune,Apartment,2,51.9,4,2,0,0,3,1.4,1,1,0,Nurturing,0
+L1125,Google Ads,GAds_Search_Brand,Noida,Commercial,0,173.5,2,0,1,1,4,1.7,1,0,0,Lost,0
+L1126,Instagram,IG_Reels_Showcase,Jaipur,Apartment,2,71.3,3,0,1,0,1,5.0,6,0,0,Nurturing,0
+L1127,Instagram,IG_Reels_Showcase,Pune,Builder Floor,4,171.4,5,0,1,0,2,7.8,4,0,1,New / Uncontacted,0
+L1128,Website,Web_Organic,Jaipur,Builder Floor,3,70.6,6,2,1,1,3,4.5,1,1,1,Booked,1
+L1129,Instagram,IG_Reels_Showcase,Ghaziabad,Plot,0,44.5,7,1,1,0,2,3.8,14,1,1,Lost,0
+L1130,Walk-in,Walkin_Sales_Office,Pune,Commercial,0,146.5,1,2,5,0,2,2.0,2,0,1,Lost,0
+L1131,Walk-in,Walkin_Sales_Office,Jaipur,Villa,4,196.8,1,1,1,0,3,4.8,1,0,0,Lost,0
+L1132,Instagram,IG_Reels_Showcase,Gurugram,Villa,3,150.6,2,4,7,1,2,4.7,8,1,1,Booked,1
+L1133,Property Portal,Portal_Premium_Listing,Jaipur,Apartment,2,77.6,4,0,1,0,1,16.9,5,0,1,New / Uncontacted,0
+L1134,Website,Web_Chatbot,Hyderabad,Builder Floor,3,113.2,4,3,2,1,3,0.7,3,1,0,Nurturing,0
+L1135,Walk-in,Walkin_Sales_Office,Pune,Builder Floor,2,75.4,1,3,2,0,3,6.5,5,0,0,Booked,1
+L1136,Google Ads,GAds_Search_Brand,Lucknow,Apartment,2,28.9,1,1,2,0,1,7.1,0,0,0,Lost,0
+L1137,Google ads ,GAds_Search_Brand,Ghaziabad,Builder Floor,3,77.0,1,1,1,0,1,10.3,0,0,1,Nurturing,0
+L1138,Google Ads,GAds_Search_Brand,Noida,Plot,0,100.4,3,1,0,0,1,20.1,7,0,1,Booked,1
+L1139,Property Portal,Portal_Featured_Project,Gurugram,Villa,4,452.9,4,1,0,0,2,4.5,13,0,0,Nurturing,0
+L1140,Website,Web_Chatbot,Noida,Plot,0,68.5,4,1,1,1,1,10.8,0,1,0,Lost,0
+L1141,Google Ads,GAds_Display_Remarketing,Hyderabad,Apartment,4,178.8,5,1,0,0,1,2.3,2,0,1,New / Uncontacted,0
+L1142,Website,Web_Brochure_Download,Gurugram,Builder Floor,2,131.0,1,3,1,1,2,6.6,16,0,0,Negotiation,0
+L1143,Referral,Ref_Existing_Customer,Bengaluru,Apartment,2,136.1,2,1,2,1,4,,14,1,0,Lost,0
+L1144,Referral,Ref_Broker_Network,Noida,Apartment,2,70.4,0,2,2,0,2,9.9,11,0,0,Booked,1
+L1145,Google Ads,GAds_Search_Brand,Gurugram,Builder Floor,3,111.1,3,2,2,0,3,2.0,7,1,1,New / Uncontacted,0
+L1146,Google Ads,GAds_Search_Generic,Lucknow,Apartment,3,47.3,4,1,1,0,1,9.3,30,0,0,Lost,0
+L1147,Website,Web_Brochure_Download,Ghaziabad,Apartment,2,31.0,5,4,1,0,6,18.7,1,0,0,Lost,0
+L1148,Referral,Ref_Broker_Network,Bengaluru,Villa,4,367.2,3,1,0,1,4,,6,0,1,Nurturing,0
+L1149,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,2,71.9,4,1,3,0,3,5.0,5,0,1,Lost,0
+L1150,Referral,Ref_Broker_Network,Bengaluru,Apartment,1,73.7,6,2,1,1,3,12.2,2,0,1,Nurturing,0
+L1151,Property Portal,Portal_Featured_Project,Noida,Apartment,4,54.6,0,0,2,0,1,8.0,10,0,1,Lost,0
+L1152,Referral,Ref_Broker_Network,Bengaluru,Builder Floor,3,115.0,1,1,2,0,1,17.6,9,1,1,Lost,0
+L1153,Property Portal,Portal_Basic_Listing,Noida,Apartment,3,152.9,5,0,2,0,4,4.0,1,0,1,New / Uncontacted,0
+L1154,Property Portal,Portal_Basic_Listing,Hyderabad,Builder Floor,3,237.2,0,0,2,0,2,7.1,2,0,0,Lost,0
+L1155,Instagram,IG_Lead_Form,Jaipur,Builder Floor,4,42.5,7,2,1,0,4,2.6,18,0,0,Booked,1
+L1156,Property Portal,Portal_Featured_Project,Ghaziabad,Apartment,2,56.3,6,0,2,0,4,7.3,2,0,0,Lost,0
+L1157,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,91.9,1,0,0,0,5,,7,1,0,Lost,0
+L1158,Property Portal,Portal_Featured_Project,Noida,Apartment,2,116.6,2,0,0,1,2,8.4,1,1,1,Negotiation,0
+L1159,Google Ads,GAds_Search_Brand,Gurugram,Apartment,3,116.1,0,0,0,0,1,4.2,5,0,1,Booked,1
+L1160,Website,Web_Brochure_Download,Hyderabad,Apartment,2,72.0,2,0,0,0,2,3.8,9,0,0,Lost,0
+L1161,Property Portal,Portal_Premium_Listing,Bengaluru,Builder Floor,3,126.7,3,0,0,0,2,9.8,1,0,0,Lost,0
+L1162,Instagram,IG_Reels_Showcase,Hyderabad,Apartment,4,76.2,3,0,2,1,5,13.5,1,1,1,Booked,1
+L1163,Referral,Ref_Existing_Customer,Noida,Plot,0,106.4,2,2,0,0,3,10.0,9,0,0,New / Uncontacted,0
+L1164,Property Portal,Portal_Basic_Listing,Jaipur,Apartment,3,72.7,2,3,1,0,6,25.8,11,0,0,Lost,0
+L1165,Property Portal,Portal_Basic_Listing,Gurugram,Villa,4,318.6,1,4,2,0,2,10.4,8,1,0,New / Uncontacted,0
+L1166,Referral,Ref_Existing_Customer,Jaipur,Apartment,3,23.6,6,3,0,0,5,,17,0,0,Nurturing,0
+L1167,Referral,Ref_Existing_Customer,Ghaziabad,Apartment,3,62.3,8,4,2,1,3,7.4,4,0,1,Booked,1
+L1168,Instagram,IG_Reels_Showcase,Gurugram,Apartment,3,217.7,7,0,2,1,6,16.8,7,1,0,Negotiation,0
+L1169,Referral,Ref_Broker_Network,Jaipur,Builder Floor,3,120.9,2,3,2,0,4,13.6,2,0,0,Lost,0
+L1170,Property Portal,Portal_Premium_Listing,Gurugram,Apartment,2,55.0,5,0,2,0,3,2.2,1,0,0,New / Uncontacted,0
+L1171,Google Ads,GAds_Display_Remarketing,Lucknow,Commercial,0,86.0,4,0,0,0,2,16.1,15,0,0,Lost,0
+L1172,Website,Web_Chatbot,Pune,Villa,3,135.9,1,0,0,0,1,9.2,4,1,0,Lost,0
+L1173,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,240.3,4,1,2,0,3,5.4,1,1,0,Nurturing,0
+L1174,Website,Web_Organic,Hyderabad,Apartment,3,98.0,3,0,1,0,5,1.7,3,0,1,Lost,0
+L1175,Instagram,IG_Influencer_Tour,Lucknow,Plot,0,33.6,2,1,2,0,4,2.3,4,0,0,Lost,0
+L1176,Website,Web_Chatbot,Bengaluru,Builder Floor,4,125.0,1,0,0,0,2,7.2,13,0,0,Nurturing,0
+L1177,Google Ads,GAds_Search_Generic,Pune,Builder Floor,3,43.9,1,1,0,0,3,2.6,24,0,0,Lost,0
+L1178,Google Ads,GAds_Display_Remarketing,Pune,Commercial,0,94.4,3,2,2,0,3,4.9,1,0,0,Lost,0
+L1179,Property Portal,Portal_Basic_Listing,Pune,Villa,3,209.7,1,2,1,0,5,10.8,30,1,0,Nurturing,0
+L1180,Property Portal,Portal_Premium_Listing,Bengaluru,Plot,0,96.1,0,1,2,0,3,4.6,29,0,0,Lost,0
+L1181,Website,Web_Chatbot,Pune,Villa,3,104.9,5,2,1,0,5,6.3,3,0,0,Nurturing,0
+L1182,Property Portal,Portal_Basic_Listing,Gurugram,Apartment,3,91.9,3,1,0,0,3,2.8,13,0,1,Nurturing,0
+L1183,Property Portal,Portal_Premium_Listing,Noida,Villa,4,281.9,4,2,2,0,2,5.8,5,0,0,Lost,0
+L1184,Property Portal,Portal_Premium_Listing,Pune,Builder Floor,2,65.7,3,0,1,0,1,9.4,2,0,1,Lost,0
+L1185,Property Portal,Portal_Basic_Listing,Noida,Commercial,0,143.0,4,2,4,0,5,1.6,3,1,1,Booked,1
+L1186,Referral,Ref_Existing_Customer,Gurugram,Plot,0,78.8,6,0,0,0,2,3.1,1,1,0,Booked,1
+L1187,Google Ads,GAds_Search_Generic,Noida,Apartment,3,150.3,1,1,1,0,1,3.1,6,0,0,Lost,0
+L1188,walk in,Walkin_Site_Hoarding,Jaipur,Apartment,3,55.4,1,2,2,1,1,,6,0,1,Lost,0
+L1189,Property Portal,Portal_Featured_Project,Noida,Apartment,4,77.7,1,1,1,0,2,9.3,0,0,1,Lost,0
+L1190,Instagram,IG_Influencer_Tour,Pune,Builder Floor,2,147.4,1,0,3,0,3,5.9,18,1,0,Nurturing,0
+L1191,Google Ads,GAds_Search_Brand,Bengaluru,Apartment,4,61.3,0,1,3,0,5,6.5,5,0,0,Booked,1
+L1192,Google Ads,GAds_Search_Brand,Bengaluru,Villa,4,216.6,6,2,2,0,2,7.1,6,1,1,Lost,0
+L1193,Referral,Ref_Broker_Network,Gurugram,Builder Floor,3,113.4,2,2,2,0,5,11.0,10,0,1,Nurturing,0
+L1194,Walk-in,Walkin_Site_Hoarding,Jaipur,Plot,0,41.9,3,3,0,1,3,4.0,14,0,0,Lost,0
+L1195,Referral,Ref_Existing_Customer,Jaipur,Apartment,1,80.7,2,2,2,0,1,3.1,3,0,0,Lost,0
+L1196,Property Portal,Portal_Premium_Listing,Lucknow,Builder Floor,3,92.3,2,3,2,1,2,4.6,11,0,1,Lost,0
+L1197,Property Portal,Portal_Featured_Project,Pune,Apartment,3,66.4,1,0,2,0,2,6.2,4,1,0,Lost,0
+L1198,Instagram,IG_Lead_Form,Gurugram,Plot,0,80.8,7,0,1,0,2,31.1,10,1,0,Booked,1
+L1199,Google Ads,GAds_Search_Brand,Hyderabad,Apartment,2,151.6,5,1,1,1,3,4.2,1,0,1,Booked,1
+L1200,Website,Web_Brochure_Download,Noida,Apartment,2,61.7,4,3,2,1,8,5.1,10,0,0,Nurturing,0

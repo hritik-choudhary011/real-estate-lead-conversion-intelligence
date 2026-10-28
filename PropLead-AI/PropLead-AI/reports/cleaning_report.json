@@ -1,0 +1,52 @@
+{
+  "rows_in": 1200,
+  "missing_before": {
+    "city": 12,
+    "budget_lakh": 18,
+    "response_time_hours": 30
+  },
+  "category_fixes": {
+    "lead_source": 48,
+    "city": 10,
+    "property_type": 8
+  },
+  "exact_duplicates_removed": 0,
+  "duplicate_lead_ids_removed": 0,
+  "validation_issues": {},
+  "missing_after": {},
+  "outliers": {
+    "budget_lakh": {
+      "iqr_upper_fence": 243.76,
+      "n_above_fence": 70,
+      "cap_p99": 386.11,
+      "n_capped": 12
+    },
+    "response_time_hours": {
+      "iqr_upper_fence": 19.2,
+      "n_above_fence": 87,
+      "cap_p99": 36.5,
+      "n_capped": 12
+    },
+    "website_visits": {
+      "iqr_upper_fence": 7.0,
+      "n_above_fence": 41,
+      "cap_p99": 10.0,
+      "n_capped": 4
+    },
+    "days_since_last_contact": {
+      "iqr_upper_fence": 22.0,
+      "n_above_fence": 55,
+      "cap_p99": 33.0,
+      "n_capped": 10
+    }
+  },
+  "rows_out": 1200,
+  "unique_lead_sources": [
+    "Google Ads",
+    "Instagram",
+    "Property Portal",
+    "Referral",
+    "Walk-in",
+    "Website"
+  ]
+}
